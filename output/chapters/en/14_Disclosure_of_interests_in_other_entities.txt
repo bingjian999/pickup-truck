@@ -1,0 +1,2611 @@
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+962 
+ 
+Chapter 14 
+Disclosure of interests 
+in other entities 
+ 
+Contents 
+Overview 
+964 
+1 
+Introduction 
+965 
+2 
+Objective and scope of IFRS 12 
+966 
+2.1 
+Objective 
+966 
+2.1.1 
+Interim Financial Reporting 
+966 
+2.2 
+Scope 
+967 
+2.2.1 
+Definitions 
+967 
+2.2.1.A 
+Interests in other entities 
+967 
+2.2.1.B 
+Structured entities 
+968 
+2.2.1.C 
+Interaction of IFRS 12 and IFRS 5 
+969 
+2.2.2 
+Interests disclosed under IFRS 12 
+970 
+2.2.2.A 
+Subsidiaries 
+970 
+2.2.2.B 
+Joint arrangements 
+970 
+2.2.2.C 
+Associates 
+971 
+2.2.2.D 
+Unconsolidated structured entities 
+971 
+2.2.3 
+Interests not within the scope of IFRS 12 
+971 
+2.2.3.A 
+Employee benefit plans 
+971 
+2.2.3.B 
+Separate financial statements 
+971 
+2.2.3.C 
+Interests in joint arrangements that result in neither joint control nor significant 
+influence and are not interests in structured entities 
+972 
+2.2.3.D 
+Interests in other entities accounted for in accordance with IFRS 9 
+972 
+3 
+Disclosure of significant judgements and assumptions 
+973 
+4 
+Disclosure of interests in subsidiaries 
+975 
+4.1 
+Disclosure about the composition of the group 
+975 
+4.2 
+Disclosure of interests of non-controlling interests 
+977 
+4.3 
+Disclosure of the nature and extent of significant restrictions 
+980 
+4.4 
+Disclosure of the nature of the risks associated with interests in consolidated 
+structured entities 
+981 
+4.4.1 
+Terms of contractual arrangements to provide financial support 
+981 
+4.4.2 
+Financial or other support with no contractual obligation 
+982 
+4.4.3 
+Financial or other support which resulted in consolidation 
+983 
+4.4.4 
+Current intentions to provide financial or other support 
+983 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+963 
+4.5 
+Disclosure of changes in ownership interests in subsidiaries 
+984 
+4.5.1 
+Changes that do not result in loss of control 
+984 
+4.5.2 
+Changes that do result in loss of control 
+985 
+4.6 
+Disclosures required by investment entities 
+985 
+4.6.1 
+Disclosures about the composition of the group 
+985 
+4.6.2 
+Disclosures required when investment entity status changes 
+985 
+4.6.3 
+Disclosures required in respect of significant restrictions, commitments and financial 
+and other support 
+986 
+4.6.4 
+Valuation methodologies and nature of investing activities 
+986 
+5 
+Disclosure of interests in joint arrangements and associates 
+987 
+5.1 
+Disclosure of the nature, extent and financial effects of interests 
+987 
+5.1.1 
+Summarised financial information of individually material joint ventures and 
+associates 
+989 
+5.1.2 
+Financial information of individually immaterial joint ventures and associates 
+992 
+5.2 
+Risks associated with interests in joint ventures and associates 
+993 
+5.2.1 
+Disclosure of commitments relating to joint ventures 
+993 
+5.2.2 
+Disclosure of contingent liabilities relating to joint ventures and associates 
+994 
+6 
+Disclosure of interests in unconsolidated structured entities 
+995 
+6.1 
+Disclosure of the nature and extent of interests 
+995 
+6.1.1 
+Disclosure of the nature, purpose, size, activities and financing 
+995 
+6.1.1.A 
+Nature and purpose 
+995 
+6.1.1.B 
+Size 
+996 
+6.1.1.C 
+Activities 
+996 
+6.1.1.D 
+Financing 
+996 
+6.1.2 
+Disclosures of sponsored structured entities for which no interest is held at the 
+reporting date 
+997 
+6.2 
+Minimum disclosures regarding the nature of risks 
+999 
+6.2.1 
+Disclosures of interests and of the maximum exposure to loss 
+1000 
+6.2.2 
+Disclosures of actual and intended financial and other support 
+1000 
+6.3 
+Additional disclosures regarding the nature of risks 
+1001 
+6.3.1 
+Disclosure of support 
+1002 
+6.3.2 
+Disclosure of losses incurred 
+1002 
+6.3.3 
+Disclosure of the types of income received 
+1002 
+6.3.4 
+Disclosure of the maximum limit, ranking and amounts of potential losses 
+1003 
+6.3.5 
+Disclosure of liquidity arrangements 
+1003 
+6.3.6 
+Disclosure of funding difficulties 
+1004 
+6.3.7 
+Disclosure of the forms of funding 
+1004 
+7 
+Future developments 
+1005 
+Appendix A - Index of Illustrations 
+1006 
+Appendix B - Index of Frequently asked questions 
+1007 
+Appendix C - Defined terms 
+1008 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+964 
+Overview 
+This Chapter discusses the requirements of IFRS 12 Disclosure of Interests in Other Entities. 
+IFRS 12 is a disclosure standard that must be applied by entities that have an interest in subsidiaries, joint 
+arrangements, associates, and unconsolidated structured entities. IFRS 12 does not provide any 
+recognition or measurement guidance. The standard was issued as the disclosure requirements of certain 
+standards overlapped in many areas and it was thought inappropriate that the disclosure requirements for 
+interests in unconsolidated structured entities would be located in a consolidation standard. Therefore, a 
+combined disclosure standard for interests in other entities would make it easier to understand and apply 
+the disclosure requirements for subsidiaries, joint ventures, associates and unconsolidated structured 
+entities. [IFRS 12.BC7]. 
+In order to determine the appropriate recognition and measurement of subsidiaries, joint arrangements and 
+associates, entities should refer to IFRS 10 Consolidated Financial Statements (see Chapter 7 and 
+Chapter 8), IFRS 11 Joint Arrangements (see Chapter 13), IAS 27 Separate Financial Statements (see 
+Chapter 9) and IAS 28 Investments in Associates and Joint Ventures (see Chapter 12) respectively. 
+What you need to know 
+• 
+IFRS 12 requires an entity to disclose information that enables users of its financial statements to 
+evaluate the nature of, and risks associated with, its interests in other entities and the effects of 
+those interests on its financial position, financial performance and cash flows. 
+• 
+An interest in another entity refers to contractual and non-contractual involvement that exposes the 
+entity to variable returns. 
+• 
+IFRS 12 contains disclosure requirements for interests in subsidiaries, joint arrangements and 
+associates, as well as disclosures of interests in unconsolidated structured entities. 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+965 
+1 
+Introduction 
+IFRS 12 is a disclosure standard, issued in May 2011. It includes all of the disclosure requirements 
+related to interests in subsidiaries, joint arrangements, associates and consolidated and unconsolidated 
+structured entities. 
+Differences between IFRS 12 and US GAAP disclosure requirements are not addressed in this chapter. 
+The recognition and measurement of subsidiaries, joint arrangements and associates are dealt with in 
+IFRS 10, IFRS 11, IAS 27 and IAS 28 (see Chapter 7, Chapter 8, Chapter 9, Chapter 12 and 
+Chapter 13 respectively). 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+966 
+2 
+Objective and scope of IFRS 12 
+2.1 
+Objective 
+The stated objective and how to meet the objective of IFRS 12 are as follows: [IFRS 12.1, IFRS 12.2]. 
+Extract from IFRS 12 
+1 
+The objective of this IFRS is to require an entity to disclose information that enables users of 
+its financial statements to evaluate: 
+(a) 
+the nature of, and risks associated with, its interests in other entities; and 
+(b) 
+the effects of those interests on its financial position, financial performance and cash 
+flows. 
+2 
+To meet the objective in paragraph 1, an entity shall disclose: 
+(a) 
+the significant judgements and assumptions it has made in determining: 
+(i) 
+the nature of its interest in another entity or arrangement; 
+(ii) 
+the type of joint arrangement in which it has an interest (paragraphs 7-9); 
+(iii) 
+that it meets the definition of an investment entity if applicable (paragraph 9A); 
+and 
+(b) 
+information about its interests in: 
+(i) 
+subsidiaries (paragraphs 10-19); 
+(ii) 
+joint arrangements and associates (paragraphs 20-23); and 
+(iii) 
+structured entities that are not controlled by the entity (unconsolidated structured 
+entities) (paragraphs 24-31). 
+If the disclosures required by the standard, together with the disclosures required by other IFRS accounting 
+standards, do not meet the objective of IFRS 12, an entity must disclose whatever additional information is 
+necessary to meet that objective. [IFRS 12.3]. This requirement reiterates the notion already stated in IAS 1 
+Presentation of Financial Statements that additional information shall be disclosed when necessary for an 
+understanding of the financial statements. [IAS 1.17(c), IAS 1.31, IAS 1.112(c)].1 
+How we see it 
+IFRS 12 provides no illustrative examples to support any of its disclosure requirements. In addition, 
+several of the terms used in the standard are undefined. Therefore, judgement will be required by 
+entities in interpreting the requirements. 
+2.1.1 
+Interim Financial Reporting 
+IAS 34 Interim Financial Reporting (see Chapter 37) allows an entity to include either a complete set of 
+financial statements in the interim report or, which is predominant practice, a condensed version. 
+[IAS 34.4]. In interim financial statements, entities must provide information about events and transactions 
+in the interim period that are significant to an understanding of the changes in financial position and 
+performance since the last annual reporting period (see Chapter 37 at section 4.1). [IAS 34.15]. In 
+addition, a number of specific disclosures are required to be given in the notes to the interim financial 
+statements or elsewhere in the interim financial report (see Chapter 37 at section 4.2). [IAS 34.16A]. For 
+example, entities becoming or ceasing to be investment entities, as defined in IFRS 10, have to disclose 
+the information required in IFRS 12.9B (see section 4.6.2 below). [IAS 34.16A(k)]. Certain disclosures about 
+the effect of changes in the composition of the entity during the interim period and obtaining or losing 
+control of subsidiaries and long-term investments are also required. [IAS 34.16A(i)]. 
+The disclosures required by IAS 34 apply to both complete and condensed financial statements presented 
+for an interim period. A complete set of financial statements, prepared for an interim period, would include 
+all of the disclosures required by IAS 34 as well as those required by other IFRS accounting standards, 
+including IFRS 12. [IAS 34.7]. 
+ 
+1 
+The same is required according to IAS 8(2027).6C(c), IFRS 18.20 and IFRS 18.113(c), once effective. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+967 
+2.2 
+Scope 
+IFRS 12 applies to any entity that has an interest in any of the following: 
+(a) Subsidiaries 
+(b) Joint arrangements (i.e., joint operations or joint ventures) 
+(c) Associates 
+And 
+(d) Unconsolidated structured entities [IFRS 12.5] 
+Despite the broad title of IFRS 12, there are several interests in other entities to which IFRS 12 does not 
+apply (see section 2.2.3 below). 
+2.2.1 
+Definitions 
+The definitions that are relevant to the application of IFRS 12 and included within Appendix A of the 
+standard are likewise included in Appendix C of this chapter. A list of these terms is produced below, in 
+alphabetical order. 
+• 
+Income from a structured entity 
+• 
+Interest in another entity 
+• 
+Structured entity 
+In addition, Appendix A to IFRS 12 provides a list of terms defined in IAS 27, IAS 28, IFRS 10 and IFRS 11, 
+which are used in IFRS 12 with the meanings specified in those IFRS accounting standards. These 
+definitions are included in Chapter 7, Chapter 8, Chapter 9, Chapter 12 and Chapter 13 respectively. 
+2.2.1.A 
+Interests in other entities 
+An interest in another entity refers to contractual and non-contractual involvement that exposes the reporting 
+entity to variability of returns from the performance of the other entity (i.e., the investee). Consideration of the 
+purpose and design of the other entity may help the reporting entity when assessing whether it has an interest in 
+that entity and, therefore, whether it is required to provide the disclosures in IFRS 12. That assessment must 
+include consideration of the risks that the other entity was designed to create and the risks that the other entity 
+was designed to pass on to the reporting entity and other parties. [IFRS 12.B7]. 
+IFRS 10 defines ‘variability of returns’. As discussed in more detail in Chapter 7 at section 5, IFRS 10 explains 
+that variable returns are returns that are not fixed and have the potential to vary as a result of the performance 
+of an investee. Variable returns can be only positive, only negative or both positive and negative. An investor 
+assesses whether returns from an investee are variable and how variable these returns are, on the basis of the 
+substance of the arrangement and regardless of the legal form of the returns. For example, an investor can hold 
+a bond with fixed interest payments. The fixed interest payments are variable returns for the purpose of IFRS 10 
+because they are subject to default risk and they expose the investor to the credit risk of the issuer of the bond. 
+The amount of variability (i.e., how variable those returns are) depends on the credit risk of the bond. Similarly, 
+fixed performance fees for managing an investee’s assets are variable returns because they expose the investor 
+to the performance risk of the investee. The amount of variability depends on the investee’s ability to generate 
+sufficient income to pay the fee. [IFRS 10.B56]. 
+How we see it 
+The definition of an ‘interest’ in IFRS 12 is much wider than only equity instruments in an entity. As 
+IFRS 12 requires disclosures of interests that a reporting entity holds in other entities, preparers will 
+need to ensure that their reporting systems and processes are sufficient to identify those ‘interests’. 
+IFRS 12 clarifies that a reporting entity is typically exposed to variability of returns from the performance 
+of another entity by holding instruments (such as equity or debt instruments issued by the other entity) or 
+having another involvement that absorbs variability. [IFRS 12.B8]. This is illustrated in Illustration 2-1 below. 
+Illustration 2-1: 
+Variability of returns arising from issue of credit default swap (1) 
+A reporting entity issues a credit default swap to a structured entity. The credit default swap protects the 
+structured entity from the default of interest and principal payments on its loan portfolio. 
+The reporting entity has an involvement in the structured entity that exposes it to variability of returns from 
+the performance of the structured entity because the credit default swap absorbs variability of returns of the 
+structured entity. [IFRS 12.B8]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+968 
+Some instruments are designed to transfer risk from the reporting entity to another entity. Such 
+instruments create variability of returns for the other entity but do not typically expose the reporting entity 
+to variability of returns from the performance of the other entity. [IFRS 12.B9]. This is illustrated in 
+Illustration 2-2 below. 
+Illustration 2-2: 
+Variability of returns arising from issue of credit default swap (2) 
+A reporting entity (Entity Z) enters into a credit default swap with a structured entity. The credit default swap 
+gives the structured entity exposure to Entity Z’s credit risk. The purpose of the arrangement is to give the 
+investors in the structured entity exposure to Entity Z’s credit risk (Entity Z is unrelated to any other party 
+involved in the arrangement). 
+Entity Z does not have any involvement with the structured entity that exposes it to variable returns from the 
+structured entity because the credit default swap transfers variability to the structured entity rather than 
+absorbing variability of returns of the structured entity. 
+Purchased call options and written put options (in each case unless the exercise price is at fair value) would 
+also be interests in other entities, because these instruments typically absorb variability created by assets 
+held in the entity. In contrast, some derivative instruments, such as interest rate swaps, can both create 
+and absorb variability and judgement will need to be exercised in determining whether these derivatives are 
+interests in other entities. 
+How we see it 
+We believe that plain vanilla swaps and other derivatives that both create and absorb variability, based 
+on market rates or indices and which rank senior to the issued notes, do not absorb the risks the entity 
+was designed to pass on, and are not an exposure to variable returns. They are therefore unlikely to be 
+interests in other entities that would require disclosure under IFRS 12. See Chapter 7 at section 5.3.1. 
+An entity does not necessarily have an interest in another entity because of a typical customer-supplier 
+relationship. However, as explained above, IFRS 10 states that fixed performance fees for managing an 
+investee’s assets create variable returns for the investor. The fixed performance fees are ‘variable’ because 
+they expose the investor to the performance risk of the investee. [IFRS 10.B56]. Therefore, investment 
+management fees and other fees based on assets under management are treated as variable interests. 
+2.2.1.B 
+Structured entities 
+Whether an entity is a structured entity or not is important because additional disclosures are required by 
+IFRS 12 for interests in structured entities. These disclosures are discussed in section 4.4 and section 6 below. 
+The IASB’s rationale for including specific disclosures of investments in structured entities is that users 
+requested such disclosures because they believed involvement with these entities posed more risk than 
+involvement with traditional operating entities. The increased risk exposure arises because, for example, the 
+structured entity may have been created to pass risks and returns arising from specified assets to investors, or 
+may have insufficient equity to fund losses on its assets, if they arise. [IFRS 12.BC84]. 
+As defined in Appendix A of IFRS 12 (see Appendix C of this chapter), a structured entity is an entity that has 
+been designed so that voting or similar rights are not the dominant factor in deciding who controls the entity, 
+such as when any voting rights relate to administrative tasks only and the relevant activities are directed by 
+means of contractual arrangements. 
+IFRS 12 states that a structured entity often has some or all of the following features or attributes: 
+(a) Restricted activities 
+(b) A narrow and well-defined objective, such as: 
+(i) To effect a tax-efficient lease 
+(ii) To carry out research and development activities 
+(iii) To provide a source of capital or funding to an entity 
+Or 
+(iv) To provide investment opportunities for investors by passing on risks and rewards associated with 
+the assets of the structured entity to investors 
+(c) Insufficient equity to permit the structured entity to finance its activities without subordinated 
+financial support 
+And 
+(d) Financing in the form of multiple contractually linked instruments to investors that create 
+concentrations of credit or other risks (tranches) [IFRS 12.B22] 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+969 
+Appendix B of IFRS 12 provides the following examples of structured entities: [IFRS 12.B23] 
+Extract from IFRS 12 
+B23 
+Examples of entities that are regarded as structured entities include, but are not limited to: 
+(a) 
+securitisation vehicles. 
+(b) 
+asset-backed financings. 
+(c) 
+some investment funds. 
+The Basis for Conclusions explains that the type of entity the Board envisages being characterised as a 
+structured entity is an entity created to accomplish a narrow and well-defined objective, listing as examples 
+entities established to effect a lease, entities established for research and development activities or entities 
+established for the securitisation of financial assets. [IFRS 12.BC82]. The IFRS 12 definition of a structured 
+entity implies that any entity which is not controlled by voting or similar rights is a structured entity. 
+Conversely, any entity controlled by voting or similar rights cannot be a structured entity. 
+It is not clear what the IASB means by ‘similar’ (to voting) rights in the definition of a structured entity. No 
+illustrative examples are provided. This will therefore require the exercise of judgement by reporting 
+entities; consequently, there may be diversity in practice about what constitutes a ‘similar’ right and 
+therefore, whether an entity is a structured entity. One example of ‘similar’ rights is an investment fund for 
+which investors can vote to remove the manager of the fund without cause as long as a certain proportion 
+of investors demand such a vote. The assessment of whether this right (to remove the fund manager) could 
+be considered substantive, and therefore, whether the investment fund is a structured entity, would depend 
+on the number of investors who would need to collaborate in order to force the vote, as well as other facts 
+and circumstances. See Chapter 7 at section 4.1 and section 4.2 for additional guidance on identifying the 
+significant activities of an entity, the rights to make decisions about those activities, and evaluating 
+whether those rights are substantive. 
+How we see it 
+IFRS 12 does not state whether the ‘features or attributes’ of structured entities discussed above are 
+determinative as to whether an entity is a structured entity or whether the features or attributes 
+should always be subordinate to the definition (i.e., if the entity was controlled by voting or similar 
+rights then the features or attributes would be irrelevant). Our view is that the features and attributes 
+are subordinated to the definition. However, the features or attributes are often present in a 
+structured entity. 
+The IASB considered, but rejected, defining a structured entity in a way similar to a variable interest entity 
+(VIE) in US GAAP. That approach, in the IASB’s opinion, would have introduced complicated guidance solely 
+for disclosure purposes that was not previously in IFRS accounting standards. [IFRS 12.BC83]. US GAAP 
+defines a VIE, in essence, as an entity whose activities are not directed through voting or similar rights, 
+whose total equity is not sufficient to permit the entity to finance its activities without additional 
+subordinated financial support, or whose equity is structured with non-substantive voting rights. The IASB 
+had two reasons for not making the definition of a structured entity dependent on total equity at risk (as in 
+US GAAP). First, including insufficient equity at risk in the definition of a structured entity would require 
+extensive application guidance to help determine the sufficiency of the equity, to which the IASB was 
+opposed. Second, the IASB feared that some traditional operating entities might be caught by this definition 
+when this was not its intention. [IFRS 12.BC83, IFRS 12.BC84, IFRS 12.BC85]. 
+IFRS 12 clarifies that an entity that is controlled by voting rights is not a structured entity simply because, 
+for example, it receives funding from third parties following a restructuring. [IFRS 12.B24]. However, such 
+funding is likely to give the investor a variable interest in the restructured entity that may still be a 
+subsidiary as defined by IFRS 10. 
+2.2.1.C 
+Interaction of IFRS 12 and IFRS 5 
+The requirements in IFRS 12, except as described in IFRS 12.B17, apply to an entity’s interests listed in 
+IFRS 12.5 (see section 2.2 above) that are classified (or included in a disposal group that is classified) as 
+held for sale or discontinued operations in accordance with IFRS 5 Non-current Assets Held for Sale and 
+Discontinued Operations. [IFRS 12.5A]. 
+An entity is not required to disclose summarised financial information, for its interests in a subsidiary, a joint 
+venture or an associate in accordance with IFRS 12.B10-B16 when the entity’s interest in that subsidiary, joint 
+venture or associate (or a portion of its interest in a joint venture or an associate) is classified or included in a 
+disposal group that is classified as held for sale in accordance with IFRS 5. [IFRS 12.B17]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+970 
+2.2.2 
+Interests disclosed under IFRS 12 
+Extract from IFRS 12 
+B4 
+An entity shall present information separately for interests in: 
+(a) 
+subsidiaries; 
+(b) 
+joint ventures; 
+(c) 
+joint operations; 
+(d) 
+associates; and 
+(e) 
+unconsolidated structured entities. 
+[IFRS 12.B4]. 
+A reporting entity has to consider the level of detail necessary to satisfy the disclosure objective (see section 2.1 
+above) and how much emphasis to place on each of the requirements of IFRS 12. Disclosures can be aggregated 
+or disaggregated so that useful information is not obscured by either the inclusion of a large amount of 
+insignificant detail or the aggregation of items that have different characteristics. [IFRS 12.4]. However, a 
+reporting entity must disclose how it has aggregated its interests in similar entities. [IFRS 12.B3]. 
+In determining whether to aggregate information, an entity must consider qualitative and quantitative 
+information about the different risk and return characteristics of each entity it is considering for aggregation and 
+the significance of each entity to itself. The entity must present the disclosures in a manner that clearly explains 
+to users of the financial statements the nature and extent of its interests in those other entities. [IFRS 12.B5]. 
+Examples of aggregation levels within the classes of entities shown above that IFRS 12 considers 
+appropriate are: 
+• 
+Nature of activities (e.g., a research and development entity, a revolving credit card securitisation entity) 
+• 
+Industry classification 
+And 
+• 
+Geography (e.g., country or region) [IFRS 12.B6] 
+This aggregation guidance above implies latitude for entities to exercise their judgement in determining the 
+appropriate level of disclosure. However, summarised financial information is required separately for each 
+material partly-owned subsidiary, each material joint venture and associate whilst minimum disclosures are 
+required for interests in unconsolidated structured entities (see section 6.2 below). 
+2.2.2.A 
+Subsidiaries 
+IFRS 10 defines a subsidiary as “an entity that is controlled by another entity”. [IFRS 10 Appendix A]. IFRS 10 
+provides guidance as to the circumstances in which an entity is controlled by another entity. See Chapter 7 
+at section 3. 
+2.2.2.B 
+Joint arrangements 
+Extract from IFRS 11 
+Appendix A 
+Defined terms 
+joint arrangement 
+An arrangement of which two or more parties have joint control. 
+joint control 
+The contractually agreed sharing of control of an arrangement, which 
+exists only when decisions about the relevant activities require the 
+unanimous consent of the parties sharing control. 
+joint operation 
+A joint arrangement whereby the parties that have joint control of the 
+arrangement have rights to the assets, and obligations for the 
+liabilities, relating to the arrangement. 
+joint venture 
+A joint arrangement whereby the parties that have joint control of the 
+arrangement have rights to the net assets of the arrangement. 
+  
+[IFRS 11 Appendix A]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+971 
+IFRS 11 provides guidance as to the circumstances in which joint control exists and on the characteristics of 
+joint operations and joint ventures. See Chapter 13. 
+Interests in joint arrangements which are not structured entities and where the reporting entity does not 
+have joint control or significant influence over the joint arrangement, are outside the scope of IFRS 12. See 
+section 2.2.3.C below. 
+2.2.2.C 
+Associates 
+IAS 28 defines an associate as “an entity over which the investor has significant influence”. [IAS 28.3]. 
+IAS 28 provides guidance on the circumstances in which significant influence exists. See Chapter 12 at 
+section 2. 
+2.2.2.D 
+Unconsolidated structured entities 
+The term ‘unconsolidated structured entities’ refers to all structured entities which are not consolidated 
+by a reporting entity. Therefore, it includes structured entities that are joint arrangements and 
+associates (unless specially excluded from the scope of the standard - see section 2.2.3 below), 
+structured entities that are subsidiaries of parents that prepare separate but not consolidated financial 
+statements (see section 2.2.3.B below), and structured entities over which the reporting entity does not 
+have significant influence. 
+Where an unconsolidated structured entity is a joint venture or an associate, then the disclosures required 
+for unconsolidated structured entities in section 6 below apply in addition to the disclosures in section 5 
+below for interests in joint ventures and associates. The IASB concluded that an entity should capture most, 
+and in some cases all, of the disclosures required for interests in unconsolidated structured entities by 
+providing the disclosures for interests in joint ventures and associates. Accordingly, the IASB considers that 
+the requirement to make both sets of disclosures where applicable is not expected to result in a significant 
+increase in the amount of information that an entity would be required to provide. [IFRS 12.BC77]. 
+As discussed in section 2.2.1.A above, the definition of a variable interest is widely drawn so that a 
+derivative issued to a structured entity may result in an interest in an unconsolidated structured entity, 
+depending on the purpose and design of the entity. This interest would require disclosures under IFRS 12 
+that would not apply to an identical instrument issued to an entity which is not a structured entity. The 
+disclosures focus on an entity’s exposure to risk from interests in structured entities that the entity rightly 
+does not consolidate because it does not control them. [IFRS 12.BC69]. 
+2.2.3 
+Interests not within the scope of IFRS 12 
+IFRS 12 clarifies that certain interests are not within its scope as discussed in sections 2.2.3.A, 2.2.3.B, 
+2.2.3.C and 2.2.3.D below. 
+2.2.3.A 
+Employee benefit plans 
+Post-employment benefit plans or other long-term employee benefit plans to which IAS 19 Employee 
+Benefits applies are not within the scope of IFRS 12. [IFRS 12.6(a)]. Without this exemption, some employee 
+benefit plans might meet the definition of a structured entity. 
+2.2.3.B 
+Separate financial statements 
+An entity’s separate financial statements to which IAS 27 applies are not within the scope of IFRS 12. The 
+purpose of this exemption is to prevent a parent duplicating IFRS 12 disclosures in both its consolidated 
+and separate financial statements. See Chapter 9 for guidance on separate financial statements. 
+However, an entity that has interests in unconsolidated structured entities and prepares separate financial 
+statements as its only financial statements, is required to make the disclosures in IFRS 12.24-31 in respect of the 
+unconsolidated structured entities (see section 6 below). As discussed in section 2.2.2.D above, unconsolidated 
+structured entities include subsidiaries, joint ventures and associates that are structured entities. 
+In addition, an investment entity that prepares financial statements in which all of its subsidiaries are 
+measured at fair value through profit or loss (i.e., an investment entity which has subsidiaries but does not 
+prepare consolidated financial statements) must make the disclosures relating to investment entities 
+discussed in section 4.6 below. [IFRS 12.6(b)]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+972 
+The financial statements of an entity that does not have an interest in a subsidiary, associate or a joint 
+venturer’s interest in a joint venture are not separate financial statements. [IAS 27.7]. These financial 
+statements are within the scope of IFRS 12. In practice, the only disclosures that apply to these entities are 
+those related to unconsolidated structured entities (see section 6 below). 
+2.2.3.C 
+Interests in joint arrangements that result in neither joint control nor significant 
+influence and are not interests in structured entities 
+An interest held by an entity that participates in, but does not have joint control of, a joint arrangement is 
+outside the scope of IFRS 12 unless that interest results in significant influence in that arrangement or is an 
+interest in a structured entity. [IFRS 12.6(c)]. 
+IFRS 11 states that an arrangement can be a joint arrangement even though not all of the parties have joint 
+control of the arrangement. It distinguishes between parties that have joint control of a joint arrangement 
+(joint operators or joint venturers) and parties that participate in, but do not have joint control of, a joint 
+arrangement. [IFRS 11.11]. 
+Determining whether an interest in a joint arrangement (which is not a structured entity) results in neither 
+joint control nor significant influence will be a matter of judgement based on the facts and circumstances. 
+See Chapter 13 at section 4 for guidance on assessing joint control and Chapter 12 at section 2 for 
+guidance on assessing significant influence. 
+2.2.3.D 
+Interests in other entities accounted for in accordance with IFRS 9 
+An interest in another entity that is accounted for under IFRS 9 Financial Instruments is outside the scope 
+of IFRS 12; such interest is subject to the disclosure requirements in IFRS 7 Financial Instruments: 
+Disclosures (see Chapter 50) and, if measured at fair value, IFRS 13 Fair Value Measurement (see 
+Chapter 15). However, IFRS 12 applies to the following interests: 
+(i) Interests in associates or joint ventures measured at fair value through profit or loss in accordance 
+with IAS 28 
+Or 
+(ii) Interests in unconsolidated structured entities [IFRS 12.6(d)] 
+In addition, IFRS 12 requires specific disclosures for unconsolidated subsidiaries of an investment entity 
+measured at fair value through profit and loss. See section 4.6 below. 
+Interests in unconsolidated structured entities which are not subsidiaries, joint arrangements or associates 
+would normally be accounted for in accordance with IFRS 9. See Chapter 45 for guidance on recognition 
+and initial measurement of financial instruments in accordance with IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+973 
+3 
+Disclosure of significant judgements and assumptions 
+Extract from IFRS 12 
+7 
+An entity shall disclose information about significant judgements and assumptions it has 
+made (and changes to those judgements and assumptions) in determining: 
+(a) 
+that it has control of another entity, ie an investee as described in paragraphs 5 and 6 
+of IFRS 10 Consolidated Financial Statements; 
+(b) 
+that it has joint control of an arrangement or significant influence over another entity; 
+and 
+(c) 
+the type of joint arrangement (ie joint operation or joint venture) when the 
+arrangement has been structured through a separate vehicle. 
+[IFRS 12.7]. 
+The significant judgements and assumptions disclosed in accordance with the requirements above include 
+those made by an entity when changes in facts and circumstances are such that the conclusion about 
+whether it has control, joint control or significant influence changes during the reporting period. [IFRS 12.8]. 
+In order to comply with the requirements above, an entity must disclose, for example, significant 
+judgements and assumptions made in determining that: 
+• 
+It does not control another entity even though it holds more than half of the voting rights of the 
+other entity. 
+• 
+It controls another entity even though it holds less than half of the voting rights of the other entity. 
+• 
+It is an agent or principal as defined by IFRS 10 (see Chapter 7 at section 6). 
+• 
+It does not have significant influence even though it holds 20% or more of the voting rights of 
+another entity. 
+• 
+It has significant influence even though it holds less than 20% of the voting rights of another entity. [IFRS 12.9]. 
+The following extract from BP p.l.c.’s financial statements illustrates disclosure of the significant 
+judgements and assumptions used in determining significant influence with a less than 20% holding of 
+voting rights. 
+Practical example 3-1: 
+BP p.l.c. (2023) 
+United Kingdom 
+bp Annual Report and Form 20-F 2023 [extract] 
+Notes on financial statements [extract] 
+1. Material accounting policy information, significant judgements, estimates and assumptions 
+[extract] 
+Interests in other entities [extract] 
+Interests in associates [extract] 
+ 
+  
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+974 
+The following Illustration shows disclosure of significant judgements and assumptions made by an entity in 
+determining whether a joint arrangement is a joint operation or a joint venture. 
+Illustration 3-1: 
+Illustrative example of disclosure of significant judgements and assumptions 
+made in determining the type of joint arrangement 
+The directors have determined that the Group’s investment in ABC Inc. should be accounted for as a joint 
+operation rather than a joint venture. Although the legal form of ABC Inc. and the contractual terms of the joint 
+arrangement indicate that the arrangement is a joint venture, sales to third parties by ABC Inc. are expected to 
+be uncommon and not material. In addition, the price of the output sold to the venturers is set by all parties at a 
+level that is designed to cover only the costs of production and administrative expenses incurred by ABC Inc. On 
+this basis, the directors consider that, in substance, the arrangement gives the venturers rights to the economic 
+benefits of the assets, and obligations to fund the settlement of the liabilities, relating to the arrangement and 
+not rights to the net assets of the arrangements and therefore is a joint operation. 
+When a parent determines that it is an investment entity in accordance with IFRS 10, the investment entity 
+must disclose information about significant judgements and assumptions it has made in determining that it is 
+an investment entity. If the investment entity does not have one or more of the typical characteristics of an 
+investment entity (as per IFRS 10), it must disclose the reasons for concluding that it is nevertheless an 
+investment entity. [IFRS 12.9A]. The definition of an investment entity is discussed in Chapter 7 at section 10.1. 
+The following extract from 3i Group plc’s financial statements illustrates disclosure of these significant 
+judgements and assumptions. 
+Practical example 3-2: 
+3i Group plc (2024) 
+United Kingdom 
+Annual report and accounts 2024 [extract] 
+Audited financial statements [extract] 
+Material accounting policies [extract] 
+C Critical accounting judgements and estimates [extract] 
+(a) Critical judgements [extract] 
+ 
+  
+IAS 1 requires an entity to disclose the judgements that management has made in the process of applying 
+the entity’s accounting policies and that have the most significant effect on the amounts recognised in the 
+financial statements. [IAS 1.122].2 IFRS 12 adds to those general requirements by specifically requiring an 
+entity to disclose all significant judgements and estimates made in determining the nature of its interest in 
+another entity or arrangement, and in determining the type of joint arrangement in which it has an interest. 
+The IASB’s intention is that disclosure is required for all situations in which an entity exercises significant 
+judgement in assessing the nature of its interest in another entity. [IFRS 12.BC16]. 
+There is no requirement for a reporting entity to disclose significant judgements and assumptions made in 
+determining whether an entity in which it has an interest is a structured entity. Such a judgement or 
+assumption affects disclosure only and not the determination of control, joint control or significant influence. 
+How we see it 
+Where judgements or assumptions made in determining whether an entity in which it has an interest is a 
+structured entity have a significant impact on the volume of disclosures in the financial statements, we 
+believe that it would be useful for a reader of the financial statements for such judgements or 
+assumptions to be disclosed, consistent with the requirements of IAS 1. 
+There is no requirement to disclose quantitative information to help assess the accounting consequences of 
+an entity’s decision to consolidate (or not to consolidate) another entity. IFRS 3 Business Combinations 
+already requires disclosures about the nature and effect of a business combination when an entity obtains 
+control of another entity. Where an entity requires significant judgement to conclude that it does not 
+control another entity, the IASB observed that the entity will often conclude that it has either joint control 
+or significant influence over that other entity. IFRS 12 already requires disclosures of quantitative 
+information about an entity’s interests in joint ventures and associates and information about risk 
+exposures to unconsolidated structured entities. Therefore, based on this, the IASB concluded that there 
+was no need for a separate disclosure requirement. [IFRS 12.BC19]. 
+ 
+2 
+The consequential amendments resulting from IFRS 18, once effective, moves this guidance to IAS 8(2027).27G. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+975 
+4 
+Disclosure of interests in subsidiaries 
+Extract from IFRS 12 
+10 
+An entity shall disclose information that enables users of its consolidated financial 
+statements 
+(a) 
+to understand: 
+(i) 
+the composition of the group; and 
+(ii) 
+the interest that non-controlling interests have in the group’s activities and cash 
+flows (paragraph 12); and 
+(b) 
+to evaluate: 
+(i) 
+the nature and extent of significant restrictions on its ability to access or use 
+assets, and settle liabilities, of the group (paragraph 13); 
+(ii) 
+the nature of, and changes in, the risks associated with its interests in 
+consolidated structured entities (paragraphs 14-17); 
+(iii) 
+the consequences of changes in its ownership interest in a subsidiary that do not 
+result in a loss of control (paragraph 18); and 
+(iv) 
+the consequences of losing control of a subsidiary during the reporting period 
+(paragraph 19). 
+[IFRS 12.10]. 
+4.1 
+Disclosure about the composition of the group 
+IFRS 12 does not elaborate on what is meant by information that enables users ‘to understand’ the 
+composition of the group. Judgement will therefore be required as to the extent of the disclosures made. 
+It may be helpful to users of the financial statements to illustrate the composition of the group via a 
+diagram or group organisation chart. 
+In interpreting the requirement to disclose information that enables users to understand the composition of 
+the group for subsidiaries with immaterial or no non-controlling interests, preparers might wish to refer to 
+the non-financial disclosures required for subsidiaries with non-controlling interests that are material to the 
+reporting entity (see section 4.2 below). Applying these disclosures to other material subsidiaries would 
+mean disclosing: 
+• 
+The names of those entities 
+• 
+The principal place of business (and country of incorporation, if different) of those entities 
+And 
+• 
+The proportion of ownership interest (and the proportion of the voting rights, if different) held in 
+those entities 
+Users of the financial statements might also benefit from a description of the nature of the operations and 
+principal activities of each material subsidiary and an indication of the operating segment(s) to which each 
+material subsidiary has been allocated. A description of the nature of the group’s operations and its 
+principal activities is required by IAS 1. [IAS 1.138(b)].3 
+ 
+3 
+The same is required according to IFRS 18.116(b), once effective. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+976 
+Practical example 4.1 shows UBS Group AG’s disclosure of individually significant subsidiaries. 
+Practical example 4-1: 
+UBS Group AG (2023) 
+Switzerland 
+Annual Report 2023 [extract] 
+Consolidated financial statements [extract] 
+Notes to the UBS Group AG consolidated financial statements [extract] 
+Note 29 Interests in subsidiaries and other entities [extract] 
+a) Interests in subsidiaries [extract] 
+ 
+ 
+… 
+When the financial statements of a subsidiary used in the preparation of the consolidated financial 
+statements are as of a date or for a period that is different from that of the consolidated financial 
+statements, an entity must disclose: 
+• 
+The date of the reporting period of the financial statements of that subsidiary 
+And 
+• 
+The reason for using a different date or period [IFRS 12.11] 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+977 
+4.2 
+Disclosure of interests of non-controlling interests 
+IFRS 12 requires that a reporting entity must disclose, for each of its subsidiaries that have non-controlling 
+interests that are material: 
+(a) The name of the subsidiary 
+(b) The principal place of business (and country of incorporation if different from the principal place of 
+business) of the subsidiary 
+(c) The proportion of ownership interests held by non-controlling interests 
+(d) The proportion of voting rights held by non-controlling interests, if different to the proportion of 
+ownership interests held 
+(e) The profit or loss allocated to the non-controlling interests of the subsidiary during the reporting period 
+(f) Accumulated non-controlling interests of the subsidiary at the end of the reporting period 
+And 
+(g) Summarised financial information about the subsidiary (see below) [IFRS 12.12] 
+The summarised financial information required to be disclosed is as follows: 
+(a) Dividends paid to non-controlling interests 
+And 
+(b) Summarised financial information about the assets, liabilities, profit or loss and cash flows of the 
+subsidiary that enables users to understand the interest that non-controlling interests have in the 
+group’s activities and cash flows. The information might include but is not limited to, for example, 
+current assets, non-current assets, current liabilities, non-current liabilities, revenue, profit or loss and 
+total comprehensive income. [IFRS 12.B10]. 
+The summarised financial information must be presented before inter-company eliminations. [IFRS 12.B11]. 
+The IASB believes that these disclosures will help users when estimating future profit or loss and cash flows 
+by identifying, for example, the assets and liabilities that are held by subsidiaries, the risk exposures of 
+particular group entities (e.g., by identifying which subsidiaries hold debt) and those subsidiaries that 
+generate significant cash flows. [IFRS 12.BC27]. 
+The IASB does not believe the requirement to provide information about subsidiaries with a material non-
+controlling interest is particularly onerous on the grounds that an entity is expected to have the information 
+available in preparing its consolidated financial statements. [IFRS 12.BC29]. However, the IASB believes a 
+requirement to disclose information about subsidiaries with immaterial or no non-controlling interests 
+might prove to be onerous to prepare without any significant benefit for users. [IFRS 12.BC28]. 
+Non-controlling interest is equity in a subsidiary not attributable, directly or indirectly, to a parent. 
+[IFRS 10 Appendix A]. This means that these disclosures do not apply to instruments that might have the 
+legal characteristics of equity, but which are classified as financial liabilities under IFRS accounting 
+standards. This would also apply to instruments that are classified as equity in the separate financial 
+statements of a subsidiary but that are classified as financial liabilities in the consolidated financial 
+statements. Similarly, when a parent has concluded that it already has a present ownership interest in 
+shares held by a non-controlling interest by virtue of call or put options in respect of those shares (see 
+Chapter 8 at section 6), then IFRS 12 disclosures in respect of those shares are not required by the 
+parent because there is no non-controlling interest in the financial statements. 
+IFRS 12 is clear that this information is required only in respect of non-controlling interests that are 
+material to the group. A subsidiary may have a significant non-controlling interest in a lower tier subsidiary, 
+but disclosure is not required if that interest is not material at group level. Similarly, these disclosures do 
+not apply to non-controlling interests that are material in aggregate but not individually. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+978 
+Frequently asked questions 
+Question 4-1: 
+Disclosures for a subsidiary with a material non-controlling interest 
+In January 2015, the IFRS IC discussed a request to clarify the level at which the financial information 
+required by (e) to (g) of IFRS 12.12 should be provided where a subsidiary has non-controlling interests 
+that are material to the group. The issue was whether the information provided should be either: 
+• 
+At the subsidiary (i.e., entity) level based on the separate financial statements of the subsidiary. 
+Or 
+• 
+At a subgroup level for the subgroup of the subsidiary and based on either (i) the amounts of the 
+subgroup included in the consolidated financial statements of the parent or, (ii) the amounts 
+included in the consolidated financial statements of the subgroup. In both (i) and (ii), transactions 
+and balances between the subgroup and other subsidiaries of the reporting entity outside the 
+subgroup would not be eliminated. 
+The IFRS IC noted that the decision on which approach is used to present the disclosures required by (e) 
+to (g) of IFRS 12.12 should reflect the one that best meets the disclosure objective (see IFRS 12.10(a)) 
+in the circumstances. 
+In respect of (e) and (f) of IFRS 12.12, the IFRS IC observed that a reporting entity should apply 
+judgement in determining the level of disaggregation of information about subsidiaries that have a 
+material non-controlling interest. That is, whether: 
+• 
+The entity presents this information about the subgroup of the subsidiary. 
+Or 
+• 
+Whether it is necessary in achieving the disclosure objective to disaggregate the information further 
+to present information about the individual subsidiaries that have a material non-controlling interest 
+within that subgroup. 
+In respect of (g) of IFRS 12.12, the IFRS IC observed that, in order to meet the overall disclosure 
+requirement, information would need to be prepared on a basis that was consistent with the information 
+included in the consolidated financial statements from the perspective of the reporting entity. This would 
+mean, for example, that if the subsidiary was acquired in a business combination, the amounts disclosed 
+should reflect the effects of the acquisition accounting (e.g., goodwill and fair value adjustments). The 
+IFRS IC further observed that in providing the information, an entity would apply judgement in 
+determining whether this information was presented at a subgroup level or whether further 
+disaggregation was necessary about individual subsidiaries that have a material non-controlling interest 
+within that subgroup. However, the IFRS IC noted that the information supplied would include 
+transactions between the subgroup/subsidiary and other members of the reporting entity’s group 
+without elimination, but that transactions within the subgroup would be eliminated. 
+On the basis of the above analysis, the IFRS IC concluded that neither an Interpretation nor an 
+amendment to IFRS 12 was necessary and decided not to add the issue to its agenda.4 
+Robert Bosch Gesellschaft mit beschränkter Haftung’s financial statements illustrate disclosure of 
+summarised financial information in respect of subsidiaries that have material non-controlling interests. 
+ 
+4 
+IFRIC Update, January 2015, p.5-7, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+979 
+Practical example 4-2: 
+Robert Bosch Gesellschaft mit beschränkter Haftung 
+(2022) 
+Germany 
+Annual report 2022 [extract] 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS [extract] 
+Principles and methods [extract] 
+06 Consolidation [extract] 
+Consolidated group [extract] 
+ 
+ 
+… 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+980 
+IFRS 12 does not address disclosure of non-controlling interests in the primary statements. IAS 1 
+requires disclosure of total non-controlling interests within equity in the statement of financial position, 
+profit or loss and total comprehensive income for the period attributable to non-controlling interests and 
+a reconciliation of the opening and closing carrying amount of each component of equity (which would 
+include non-controlling interests) in the statement of changes in equity. [IAS 1.54, IAS 1.81B, IAS 1.106].5 
+4.3 
+Disclosure of the nature and extent of significant restrictions 
+Extract from IFRS 12 
+The nature and extent of significant restrictions 
+13 
+An entity shall disclose: 
+(a) 
+significant restrictions (eg statutory, contractual and regulatory restrictions) on its ability 
+to access or use the assets and settle the liabilities of the group, such as: 
+(i) 
+those that restrict the ability of a parent or its subsidiaries to transfer cash or other 
+assets to (or from) other entities within the group. 
+(ii) 
+guarantees or other requirements that may restrict dividends and other capital 
+distributions being paid, or loans and advances being made or repaid, to (or from) 
+other entities within the group. 
+(b) 
+the nature and extent to which protective rights of non-controlling interests can 
+significantly restrict the entity’s ability to access or use the assets and settle the liabilities 
+of the group (such as when a parent is obliged to settle liabilities of a subsidiary before 
+settling its own liabilities, or approval of non-controlling interests is required either to 
+access the assets or to settle the liabilities of a subsidiary). 
+(c) 
+the carrying amounts in the consolidated financial statements of the assets and liabilities 
+to which those restrictions apply. 
+[IFRS 12.13]. 
+The Basis for Conclusions clarifies that these disclosures are intended to be limited to information about 
+the nature and effect of significant restrictions on an entity’s ability to access and use assets or settle 
+liabilities of the group. They are not intended, in the IASB’s opinion, to require an entity to disclose, for 
+example, a list of all the protective rights held by non-controlling interests that are embedded in law and 
+regulation. [IFRS 12.BC32]. 
+The IASB also considers that the restrictions required to be disclosed by IFRS 12 are those that exist 
+because of legal boundaries within the group. They are not, in the IASB’s opinion, intended to replicate 
+those in other IFRS accounting standards relating to restrictions such as those in IAS 16 Property, Plant 
+and Equipment or IAS 40 Investment Property. [IFRS 12.BC33]. 
+ 
+5 
+The same is required according to IFRS 18.104, IFRS 18.76, IFRS 18.87, IFRS 18.107, once effective. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+981 
+Deutsche Bank Aktiengesellschaft makes the following disclosures about significant restrictions to access or 
+use the group’s assets: 
+Practical example 4-3: 
+Deutsche Bank Aktiengesellschaft (2023) 
+Germany 
+Annual Report 2023 [extract] 
+Consolidated Financial Statements [extract] 
+Additional Notes [extract] 
+37 - Information on Subsidiaries [extract] 
+ 
+ 
+4.4 
+Disclosure of the nature of the risks associated with interests in 
+consolidated structured entities 
+IFRS 12 requires a number of disclosures in respect of financial or other support provided to consolidated 
+structured entities. In short, the standard requires disclosure of certain intra-group transactions that are 
+eliminated on consolidation and details of certain commitments by a group to itself. For groups with a 
+number of structured entities, it is important that consolidation reporting packages capture the necessary 
+information, as these transactions may have already been eliminated on consolidation. 
+The detailed disclosures that are required in respect of interests in consolidated structured entities are 
+discussed in sections 4.4.1, 4.4.2, 4.4.3 and 4.4.4 below. 
+4.4.1 
+Terms of contractual arrangements to provide financial support 
+An entity must disclose the terms of any contractual arrangements that could require the parent or its 
+subsidiaries to provide financial support to a consolidated structured entity, including events or 
+circumstances that expose the reporting entity to a loss (e.g., liquidity arrangements or credit rating 
+triggers associated with obligations to purchase assets of the structured entity or provide financial 
+support). [IFRS 12.14]. The IASB concluded that this disclosure would help users of financial statements to 
+understand an entity’s exposure to risks. [IFRS 12.BC34]. For the same reason, the IASB concluded that an 
+entity must disclose its risk exposure from non-contractual obligations to provide support to both 
+consolidated and unconsolidated structured entities. [IFRS 12.BC35]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+982 
+It is unclear which ‘reporting entity’ the IASB considers has suffered a ‘loss’ in the context of a 
+consolidated structured entity since a group does not suffer a loss as a result of the parent or a 
+subsidiary providing financial support to another subsidiary as that is an intra-group transaction which is 
+eliminated on consolidation.  
+How we see it 
+We believe it is the potential for a ‘loss’ to the equity holders of the parent from these transactions 
+(rather than a ‘loss’ to the group) that the IASB is trying to highlight. Consequently, a reporting entity 
+would need to consider all of the non-controlling interests held in the entities involved in these 
+transactions, as the differing shares held in those entities could affect the overall profit and 
+comprehensive income attributable to non-controlling interests and owners of the parent. 
+ 
+Illustration 4-1: 
+Illustrative example of disclosure of a contractual arrangement that could 
+require parental support to a consolidated structured entity 
+The parent company has given a contractual commitment to its subsidiary, SE Limited, whereby if the assets 
+held as collateral by SE Limited for its issued loan notes fall below a credit rating of ‘AAA’ then the parent will 
+substitute assets of an equivalent fair value with an ‘AAA’ rating. The maximum fair value of assets to be 
+substituted is CU10,000,000. 
+The following extract from HSBC Holdings plc’s financial statements illustrates disclosure of financial 
+support to consolidated structured entities. 
+Practical example 4-4: 
+HSBC Holdings plc (2022) 
+United Kingdom 
+Annual Report and Accounts 2022 [extract] 
+Notes on the financial statements [extract] 
+20 Structured entities [extract] 
+ 
+ 
+ 
+4.4.2 
+Financial or other support with no contractual obligation 
+If, during the reporting period, a parent or any of its subsidiaries has, without having any contractual 
+obligation to do so, provided financial or other support to a consolidated structured entity (e.g., purchasing 
+assets of or instruments issued by the structured entity), the entity must disclose: 
+(a) The type and amount of support provided, including situations in which the parent or its subsidiaries 
+assisted the structured entity in obtaining financial support 
+And 
+(b) The reasons for providing the support [IFRS 12.15] 
+The transactions requiring disclosure are intra-group transactions eliminated on consolidation. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+983 
+‘Support’ is not defined in IFRS accounting standards. A literal reading of ‘purchasing assets of or 
+instruments issued’ is that any transfer of consideration to a structured entity in exchange for an asset is 
+the provision of support requiring disclosure by the standard. The Basis for Conclusions explains that the 
+IASB did not define ‘support’ because a definition would either be so broad that it would be an ineffective 
+definition, or it would invite structuring so as to avoid the disclosure. The IASB believes that support is 
+widely understood as a provision of resources to another entity, either directly or indirectly. In the case of 
+implicit agreements, the support is provided without having the contractual obligation to do so. However, in 
+order to address respondents’ concerns about distinguishing the provision of financial support from any 
+other commercial transaction, the IASB clarified that disclosure is required when an entity has provided 
+non-contractual support to a consolidated or unconsolidated structured entity in which it previously had or 
+currently has an interest. [IFRS 12.BC105, IFRS 12.BC106]. 
+Examples of the type of support that the IASB envisages being disclosed for unconsolidated structured 
+entities (see section 6.3 below) are liquidity arrangements or credit rating triggers associated with 
+obligations to purchase assets of the structured entity or provide financial support.  
+How we see it 
+In our view, these examples imply that the IASB does not intend transactions in the ordinary course of 
+business to be caught by the requirement to disclose support provided to consolidated structured 
+entities. We believe that ‘asset purchases’ mean a ‘forced’ purchase caused by, for example, liquidity or 
+credit rating triggers. 
+Interpreting financial support is therefore likely to involve judgement. One possible interpretation is that 
+‘support’ includes: 
+• 
+An equity investment 
+• 
+A long-term loan 
+• 
+Forgiveness of debt 
+• 
+A transaction carried out on non-market terms resulting in a net outflow of resources from the 
+reporting entity, including any transaction involving the gifting of funds 
+• 
+A transaction not made in the ordinary course of business 
+Or 
+• 
+Implicit or explicit guarantees of a structured entity’s performance 
+IFRS 12 does not explain whether ‘other support’ extends to such non-financial support as the provision of 
+human resources or management services outside of the ordinary course of business. 
+Illustration 4-2: 
+Illustrative example of disclosure of financial or other support provided to a 
+consolidated structured entity 
+During the reporting period the parent provided financial support in the form of assets with a fair value of 
+CU12,000,000 (20X0: CU0) and a credit rating of ‘AAA’ to its subsidiary, SE 2 Limited, in exchange for assets 
+with an equivalent fair value. There was no contractual obligation to exchange these assets. The transaction 
+was initiated because the assets held by SE 2 Limited had a credit rating of less than ‘AA’ and a further ratings 
+downgrade could potentially trigger calls on loan notes issued by SE 2 Limited. The parent did not suffer a loss 
+on the transaction. 
+These disclosures are also required in respect of unconsolidated structured entities. See sections 6.2.2 and 
+6.3 below. 
+4.4.3 
+Financial or other support which resulted in consolidation 
+If, during the reporting period, a parent or any of its subsidiaries has, without having a contractual 
+obligation to do so, provided financial or other support to a previously unconsolidated structured entity and 
+that provision of support resulted in the entity controlling the structured entity, the entity (i.e., the 
+reporting entity) must disclose an explanation of the relevant factors in making that decision. [IFRS 12.16]. 
+The comments in section 4.4.2 above regarding the definition of ‘support’ apply here also. 
+4.4.4 
+Current intentions to provide financial or other support 
+An entity must disclose any current intentions to provide financial or other support to a consolidated 
+structured entity, including intentions to assist the structured entity in obtaining financial support. [IFRS 12.17]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+984 
+IFRS 12 does not define ‘intentions’. The Basis for Conclusions states that it means “the entity has decided” 
+to provide financial support (i.e., it has current intentions to do this). [IFRS 12.BC104].  
+How we see it 
+This implies that a decision to provide support has been approved at an appropriately senior level at the 
+entity. Judgement will be required by entities in interpreting this requirement and defining the meaning of 
+‘intention’ in this context. 
+The wording in the Basis for Conclusions does not require any such ‘intention’ to have been communicated to 
+the structured entity that will receive the support or that a constructive obligation has been established, as 
+defined in IAS 37 Provisions, Contingent Liabilities and Contingent Assets. 
+The comments in section 4.4.2 above in respect of the definition of ‘support’ apply here also. 
+These disclosures are also required in respect of unconsolidated structured entities. See section 6.2.2 below. 
+4.5 
+Disclosure of changes in ownership interests in subsidiaries 
+4.5.1 
+Changes that do not result in loss of control 
+An entity must present a schedule that shows the effects on the equity attributable to owners of the 
+parent of any changes in its ownership interests in a subsidiary that do not result in loss of control. 
+[IFRS 12.18]. This schedule must be presented in addition to the information required by IAS 1 in the 
+statement of changes in equity. 
+IAS 1 requires an entity to present, for each component of equity, a reconciliation between the carrying 
+amount at the beginning and the end of the period, separately disclosing transactions with owners in their 
+capacity as owners, showing separately contributions by and distributions to owners and changes in 
+ownership interests in subsidiaries that do not result in a loss of control. [IAS 1.106(d)].6 
+Despite this existing disclosure requirement, the IASB decided to require that if a parent has equity 
+transactions with non-controlling interests, it must disclose in a separate schedule the effects of those 
+transactions on the equity of the owners of the parent. See Chapter 8 at section 4 for guidance on the 
+accounting for equity transactions with non-controlling interests. 
+The IASB’s rationale for this duplication is that many respondents to a 2005 exposure draft, which proposed 
+amendments to a previous version of IAS 27, requested more prominent disclosure of the effects of 
+transactions with non-controlling interests on the equity of the owners of the parent. [IFRS 12.BC38, IFRS 12.BC39]. 
+IFRS 12 does not prescribe a format for this additional schedule. An example of the type of disclosure 
+required is illustrated below. 
+Illustration 4-3: 
+Illustrative example of disclosure of changes in ownership interest in subsidiary 
+that does not result in loss of control 
+On 5 October 20X1 the Group, which had a 95% ownership interest, disposed of 25% of the ownership 
+interests of Subsidiary Limited. Following the disposal, the Group still controls Subsidiary Limited and retains 
+70% of the ownership interests. 
+The transaction has been accounted for as an equity transaction with non-controlling interests (NCI), resulting 
+in the following: 
+ 
+CU’000 
+Proceeds from sale of 25% ownership interest 
+550 
+Net assets attributable to NCI 
+(500) 
+Increase in equity attributable to parent 
+50 
+Represented by: 
+ 
+Decrease in currency revaluation reserve 
+(250) 
+Decrease in fair value reserve of financial assets at FVOCI 
+(100) 
+Increase in retained earnings 
+400 
+ 
+50 
+ 
+6 
+The same is required according to IFRS 18.107(c), once effective. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+985 
+4.5.2 
+Changes that do result in loss of control 
+Extract from IFRS 12 
+Consequences of losing control of a subsidiary during the reporting period 
+19 
+An entity shall disclose the gain or loss, if any, calculated in accordance with paragraph 25 of 
+IFRS 10, and: 
+(a) 
+the portion of that gain or loss attributable to measuring any investment retained in the 
+former subsidiary at its fair value at the date when control is lost; and 
+(b) 
+the line item(s) in profit or loss in which the gain or loss is recognised (if not presented 
+separately). 
+[IFRS 12.19]. 
+See Chapter 8 at section 3.2 for more guidance on accounting for a loss of control of a subsidiary under 
+IFRS 10. 
+4.6 
+Disclosures required by investment entities 
+An investment entity that prepares financial statements in which all of its subsidiaries are measured at fair 
+value through profit or loss must make the disclosures relating to investment entities discussed below. 
+[IFRS 12.6(b)(ii)]. 
+If an investment entity has a subsidiary that it consolidates because that subsidiary is not an investment 
+entity and its main purpose and activities are providing services related to the investment entity’s 
+investment activities, the disclosure requirements in IFRS 12 apply to the financial statements in which the 
+investment entity consolidates that subsidiary. [IFRS 12.BC61I]. 
+An investment entity that is required by IFRS 10 to apply the exception from consolidation and instead 
+account for its investment in a subsidiary at fair value through profit or loss must disclose that fact. 
+[IFRS 12.19A]. 
+Disclosure requirements regarding significant judgements and assumptions in determining the investment 
+entity status are discussed in section 3 above. 
+4.6.1 
+Disclosures about the composition of the group 
+For each unconsolidated subsidiary, an investment entity must disclose: 
+(a) The subsidiary’s name 
+(b) The principal place of business (and country of incorporation if different from the principal place of 
+business) of the subsidiary 
+And 
+(c) The proportion of ownership interest held by the investment entity and, if different, the proportion of 
+voting rights held [IFRS 12.19B] 
+If an investment entity is the parent of another investment entity, the parent must also provide the 
+disclosures (a) to (c) of IFRS 12.19B above for investments that are controlled by its investment entity 
+subsidiary. The disclosures may be provided by including, in the financial statements of the parent, the 
+financial statements of the subsidiary that contain the information required in IFRS 12.19B. [IFRS 12.19C]. 
+There is no explicit requirement in IFRS 12 to disclose this information in respect of consolidated 
+subsidiaries with no material non-controlling interests (see section 4.1 above). 
+4.6.2 
+Disclosures required when investment entity status changes 
+When an entity becomes, or ceases to be, an investment entity it must disclose: 
+• 
+The change of investment entity status 
+And 
+• 
+The reasons for the change 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+986 
+In addition, an entity that becomes an investment entity must disclose the effect of the change of status on 
+the financial statements for the period presented, including: 
+• 
+The total fair value, as of the date of change of status, of the subsidiaries that cease to be consolidated 
+• 
+The total gain or loss, if any, calculated in accordance with IFRS 10.B101 
+And 
+• 
+The line item(s) in profit or loss in which the gain or loss is recognised (if not presented separately) 
+[IFRS 12.9B] 
+The accounting effect of becoming or ceasing to become an investment entity is discussed in Chapter 7 at 
+section 10.3.1. 
+4.6.3 
+Disclosures required in respect of significant restrictions, commitments and 
+financial and other support 
+Extract from IFRS 12 
+19D 
+An investment entity shall disclose: 
+(a) 
+the nature and extent of any significant restrictions (eg resulting from borrowing 
+arrangements, regulatory requirements or contractual arrangements) on the ability of an 
+unconsolidated subsidiary to transfer funds to the investment entity in the form of cash 
+dividends or to repay loans or advances made to the unconsolidated subsidiary by the 
+investment entity; and 
+(b) 
+any current commitments or intentions to provide financial or other support to an 
+unconsolidated subsidiary, including commitments or intentions to assist the subsidiary in 
+obtaining financial support. 
+19E 
+If, during the reporting period, an investment entity or any of its subsidiaries has, without 
+having a contractual obligation to do so, provided financial or other support to an 
+unconsolidated subsidiary (eg purchasing assets of, or instruments issued by, the subsidiary or 
+assisting the subsidiary in obtaining financial support), the entity shall disclose: 
+(a) 
+the type and amount of support provided to each unconsolidated subsidiary; and 
+(b) 
+the reasons for providing the support. 
+[IFRS 12.19D, IFRS 12.19E]. 
+In addition, an investment entity must disclose the terms of any contractual arrangements that require the 
+entity or its unconsolidated subsidiaries to provide financial support to an unconsolidated, controlled, 
+structured entity, including events and circumstances that could expose the reporting entity to a loss 
+(e.g., liquidity arrangements or credit rating triggers associated with obligations to purchase assets of the 
+structured entity or to provide financial support). [IFRS 12.19F]. 
+During a reporting period an investment entity or any of its unconsolidated subsidiaries may have, without 
+having a contractual obligation to do so, provided financial or other support to an unconsolidated structured 
+entity that the investment entity did not control. In such a situation, if that provision of financial support 
+resulted in the investment entity controlling the structured entity, the investment entity must provide an 
+explanation of the relevant factors considered in reaching the decision to provide that support. [IFRS 12.19G]. 
+These disclosures are similar to those required for consolidated subsidiaries, including consolidated structured 
+entities discussed in sections 4.3, 4.4.1, 4.4.2 and 4.4.4 above - see the comments in these sections. 
+4.6.4 
+Valuation methodologies and nature of investing activities 
+IFRS 12 does not require any disclosure of fair value measurements made by investment entities. This 
+information is already required by IFRS 7 and by IFRS 13 when reporting investments at fair value through 
+profit or loss or other comprehensive income in accordance with IFRS 9. [IFRS 12.BC61C]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+987 
+5 
+Disclosure of interests in joint arrangements and associates 
+Extract from IFRS 12 
+20 
+An entity shall disclose information that enables users of its financial statements to 
+evaluate: 
+(a) 
+the nature, extent and financial effects of its interests in joint arrangements and 
+associates, including the nature and effects of its contractual relationship with the 
+other investors with joint control of, or significant influence over, joint arrangements 
+and associates (paragraphs 21 and 22); and 
+(b) 
+the nature of, and changes in, the risks associated with its interests in joint ventures 
+and associates (paragraph 23). 
+[IFRS 12.20]. 
+These requirements, explained in detail in sections 5.1 and 5.2 below, apply in full to both consolidated 
+financial statements and individual financial statements of entities with joint arrangements and associates. 
+IFRS 12 does not address the presentation of joint ventures and associates in the primary statements. 
+IAS 1 requires separate presentation of investments accounted for using the equity method on the face of 
+the statement of financial position, although it does not require a split of those investments between joint 
+ventures and associates. [IAS 1.54].7 IAS 1 also requires a reporting entity’s post-tax share of the profit or 
+loss of associates and joint ventures accounted for using the equity method to be disclosed on the face of 
+the statement of comprehensive income. [IAS 1.82].8 In addition, IAS 1 specifically requires that entities 
+must present the share of other comprehensive income items of their equity method investees, in 
+aggregate, as single line items within the ’to be reclassified’ and the ‘not to be reclassified’ groups. 
+[IAS 1.82A].9 
+5.1 
+Disclosure of the nature, extent and financial effects of interests 
+An entity must disclose: 
+(a) For each joint arrangement and associate that is material to the reporting entity: 
+(i) The name of the joint arrangement or associate 
+(ii) The nature of the entity’s relationship with the joint arrangement or associate (by, for example, 
+describing the nature of the activities of the joint arrangement or associate and whether they are 
+strategic to the entity’s activities) 
+(iii) The principal place of business (and country of incorporation, if applicable and different from the 
+principal place of business) of the joint arrangement or associate 
+And 
+(iv) The proportion of ownership interest held by the entity and, if different, the proportion of voting 
+rights held (if applicable) 
+(b) For each joint venture (but not a joint operation) and associate that is material to the reporting entity: 
+(i) Whether the investment in the joint venture or associate is measured using the equity method or 
+at fair value 
+(ii) Summarised financial information about the joint venture or associate (see section 5.1.1 below) 
+And 
+(iii) If the joint venture or associate is accounted for using the equity method, the fair value of the 
+investment in the joint venture or associate, if there is a quoted market price for the investment 
+(c) Financial information (see section 5.1.2 below) about the entity’s investments in joint ventures and 
+associates that are not individually material: 
+(i) In aggregate for all individually immaterial joint ventures and, separately 
+(ii) In aggregate for all individually immaterial associates [IFRS 12.21] 
+ 
+7 
+The same is required according to IFRS 18.103, once effective. In addition, IFRS 18.53 and IFRS 18.55(a) require entities to 
+classify income and expenses specified in IFRS 18.54 from investments in associates and joint ventures accounted for applying 
+the equity method in the investing category. 
+8 
+The same is required according to IFRS 18.75, once effective. 
+9 
+The same is required according to IFRS 18.89, once effective. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+988 
+Disclosures (b) and (c) are not required by an investment entity. [IFRS 12.21A]. 
+Frequently asked questions 
+Question 5-1: 
+Disclosure of summarised financial information about material joint ventures or 
+associates 
+In January 2015, the IFRS IC discussed a request to clarify the requirement described above to disclose 
+summary financial information about material joint ventures and associates and its interaction with the 
+aggregation principle of IFRS 12 (see section 2.2.2 above). The issues raised were: 
+• 
+Whether the summary financial information can be disclosed in aggregate for all material joint 
+ventures and associates, or whether such information should be disclosed individually for each 
+material joint venture or associate. 
+And 
+• 
+Whether an investor should be excused from disclosing information related to a listed joint venture 
+or associate if the local regulatory requirements prevented the investor from disclosing such 
+information until the joint venture or associate has released its own financial statements. 
+In respect of the first issue, the IFRS IC noted that it expected the requirement to prepare summarised 
+financial information about a joint venture or an associate in IFRS 12 to lead to the disclosure of 
+summarised information on an individual basis for each joint venture or associate that is material to the 
+reporting entity (i.e., this information should not be presented in aggregate for all material joint ventures 
+or associates). The IFRS IC observed that this reflects the IASB’s intentions as described in the Basis for 
+Conclusions to IFRS 12. 
+In respect of the second issue, the IFRS IC also noted that there is no provision in IFRS 12 that permits 
+non-disclosure of this information (on the grounds of confidentiality or local regulatory requirements) 
+and that outreach performed indicated that there was no significant diversity observed in practice on 
+this issue. 
+Consequently, the IFRS IC determined that neither an Interpretation nor an amendment to a standard 
+was necessary and decided not to add these issues to its agenda.10 
+ 
+Extract from IFRS 12 
+22 
+An entity shall also disclose: 
+(a) 
+the nature and extent of any significant restrictions (eg resulting from borrowing 
+arrangements, regulatory requirements or contractual arrangements between investors 
+with joint control of or significant influence over a joint venture or an associate) on the 
+ability of joint ventures or associates to transfer funds to the entity in the form of cash 
+dividends, or to repay loans or advances made by the entity. 
+(b) 
+when the financial statements of a joint venture or associate used in applying the equity 
+method are as of a date or for a period that is different from that of the entity: 
+(i) 
+the date of the end of the reporting period of the financial statements of that joint 
+venture or associate; and 
+(ii) 
+the reason for using a different date or period. 
+(c) 
+the unrecognised share of losses of a joint venture or associate, both for the reporting 
+period and cumulatively, if the entity has stopped recognising its share of losses of the 
+joint venture or associate when applying the equity method. 
+[IFRS 12.22]. 
+The implication from this wording is that these disclosures in respect of significant restrictions, reporting 
+dates and unrecognised losses are required separately for each material joint venture or associate. 
+ 
+10 
+IFRIC Update, January 2015, p.7, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+989 
+A summary of the disclosures required for individually material and, collectively for immaterial joint 
+ventures and associates is shown in the table below. 
+Topic 
+Material joint 
+ventures and 
+associates 
+Individually 
+immaterial joint 
+ventures and 
+associates 
+Accounting policy 
+√ 
+X 
+Summarised financial information 
+√ 
+√ 
+(in aggregate) 
+Fair value, if quoted market price is available 
+√ 
+X 
+ 
+Restrictions on ability to transfer funds 
+√ 
+√ 
+(in aggregate) 
+Date of financial statements, if different from entity 
+√ 
+√ 
+Unrecognised share of losses 
+√ 
+√ 
+(in aggregate) 
+5.1.1 
+Summarised financial information of individually material joint ventures and 
+associates 
+The summarised financial information specified by IFRS 12.21(b)(ii) (see section 5.1 above) for each 
+material joint venture and associate is as follows: 
+Extract from IFRS 12 
+B12 
+For each joint venture and associate that is material to the reporting entity, an entity shall 
+disclose: 
+(a) 
+dividends received from the joint venture or associate. 
+(b) 
+summarised financial information for the joint venture or associate (see paragraphs B14 
+and B15) including, but not necessarily limited to: 
+(i) 
+current assets. 
+(ii) 
+non-current assets. 
+(iii) 
+current liabilities. 
+(iv) 
+non-current liabilities. 
+(v) 
+revenue. 
+(vi) 
+profit or loss from continuing operations. 
+(vii) 
+post-tax profit or loss from discontinued operations. 
+(viii) other comprehensive income. 
+(ix) 
+total comprehensive income. 
+B13 
+In addition to the summarised financial information required by paragraph B12, an entity shall 
+disclose for each joint venture that is material to the reporting entity the amount of: 
+(a) 
+cash and cash equivalents included in paragraph B12(b)(i). 
+(b) 
+current financial liabilities (excluding trade and other payables and provisions) included in 
+paragraph B12(b)(iii). 
+(c) 
+non-current financial liabilities (excluding trade and other payables and provisions) 
+included in paragraph B12(b)(iv). 
+(d) 
+depreciation and amortisation. 
+(e) 
+interest income. 
+(f) 
+interest expense. 
+(g) 
+income tax expense or income. 
+[IFRS 12.B12, IFRS 12.B13]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+990 
+The summarised financial information presented must be the 100% amounts included in the IFRS financial 
+statements of the joint venture or associate (and not the entity’s share of those amounts). However, if the 
+entity accounts for the joint venture or associate using the equity method: 
+(a) The amounts included in the IFRS financial statements of the joint venture or associate must be adjusted 
+to reflect adjustments made by the entity when using the equity method, such as the fair value 
+adjustments made at the time of acquisition and adjustments for differences in accounting policies. 
+And 
+(b) The entity must provide a reconciliation of the summarised financial information presented to the 
+carrying amount of its interest in the joint venture or associate. [IFRS 12.B14]. 
+IFRS 12 does not specifically require a reporting entity’s share of (a) to (d) of IFRS 12.B16 (see 
+section 5.1.2 below) to be disclosed in total for material joint ventures or associates. 
+Frequently asked questions 
+Question 5-2: 
+Where the investee is a group: On which basis should an entity prepare the required 
+summarised financial information about material joint ventures or associates? 
+In January 2015, the IFRS IC discussed the basis on which an entity should prepare the required 
+summarised financial information for joint ventures and associates. The question raised was whether 
+summarised financial information should be presented for each material joint venture or associate on an 
+individual basis, or whether this information should be disclosed for the subgroup of the joint venture or 
+associate together with its investees. The IFRS IC observed that a reporting entity should present the 
+summarised financial information required about a joint venture or an associate that is material to the 
+reporting entity based on the consolidated financial statements for the joint venture or associate, if it 
+has subsidiaries. If it does not have subsidiaries, the presentation should be based on the financial 
+statements of the joint venture or associate in which its own joint ventures or associates are equity 
+accounted. The IFRS IC noted that these views are consistent with IFRS 12.B14(a), which requires that 
+the amounts included in the financial statements of the joint venture or associate must be adjusted to 
+reflect adjustments made by the reporting entity using the equity method, such as fair value adjustments 
+made at the time of acquisition and adjustments for differences in accounting policies. Consequently, the 
+IFRS IC decided that neither an interpretation nor an amendment to a standard was necessary and 
+decided not to add this issue to its agenda.11 
+The standard does not specify what components are to be included in the reconciliation of the summarised 
+financial information presented to the carrying amount of the entity’s interest in the joint venture or 
+associate. As clarified by the IFRS IC, the amounts included in the IFRS financial statements of the joint 
+venture or associate must be adjusted to reflect fair value and accounting policy adjustments per 
+IFRS 12.B14(a). Therefore, any pre-existing goodwill in the books of the joint venture or associate at the 
+time it became a joint venture or an associate of the reporting entity must be eliminated from the amounts 
+in IFRS 12.B14(a) as a fair value adjustment.  
+How we see it 
+The implications regarding the reporting entity’s goodwill attributable to the joint venture or associate 
+that is included in the carrying amount of the investment are less clear. Such goodwill could be included 
+in the summarized financial information as a fair value adjustment per IFRS 12.B14(a) or in the 
+reconciliation per IFRS 12.B14(b). Care will therefore be needed in adequately explaining how the 
+summarised IFRS financial information reconciles to the carrying amount of the reporting entity’s 
+interest in the joint venture or associate. 
+An entity may present the summarised financial information required on the basis of the joint venture’s or 
+associate’s financial statements if: 
+(a) The entity measures its interest in the joint venture or associate at fair value in accordance with IAS 28. 
+And 
+(b) The joint venture or associate does not prepare IFRS financial statements and preparation on that basis 
+would be impracticable or cause undue cost. In that case, the entity must disclose the basis on which 
+the summarised financial information has been prepared. [IFRS 12.B15]. 
+This implies that the summarised financial information of the joint venture or associate can be prepared on 
+a non-IFRS basis in those circumstances where both conditions (a) and (b) of IFRS 12.B15 are satisfied. 
+ 
+11 
+IFRIC Update, January 2015, p.7, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+991 
+Where a joint venture or an associate measured at fair value in accordance with IAS 28 does prepare IFRS 
+financial statements, or where the preparation of IFRS financial information would not be impracticable or 
+cause undue cost, the summarised financial information disclosed are the unadjusted IFRS numbers of the 
+joint venture or associate (as compared to the adjusted basis used where the equity method is applied). 
+In principle, the IASB concluded that the disclosure requirements for joint ventures and associates will be 
+the same for all entities regardless of whether those entities are venture capital organisations, mutual 
+funds, unit trusts or similar entities which are permitted by IAS 28 to hold investments in joint ventures and 
+associates at fair value. [IFRS 12.BC60]. 
+Nevertheless, the minimum line item disclosures required for material associates are less than those 
+required for material joint ventures on the grounds that, in the IASB’s opinion, an entity is generally more 
+involved with joint ventures than with associates because joint control means that an entity has a veto over 
+decisions relating to the relevant activities of the joint venture. Accordingly, the IASB considers that the 
+different nature of the relationship between a joint venturer and its joint ventures from that between an 
+investor and its associates warrants a different level of detail in the disclosures of summarised financial 
+information. [IFRS 12.BC51]. 
+Summarised financial information is not required for material joint operations since assets and liabilities 
+arising from joint operations are the reporting entity’s own assets and liabilities and consequently are 
+recognised separately in the entity’s financial statements. They are accounted for in accordance with the 
+requirements of applicable IFRS accounting standards and are therefore subject to the disclosure 
+requirements of those standards. [IFRS 12.BC52]. See Chapter 13 at section 6 for guidance on accounting for 
+joint operations. 
+In the below extract, Heidelberg Materials AG discloses summarised financial information for a material 
+joint venture. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+992 
+Practical example 5-1: 
+Heidelberg Materials AG (2023) 
+Germany 
+Annual and Sustainability Report 2023 [extract] 
+Consolidated financial statements [extract] 
+Group Notes [extract] 
+7 Notes to the income statement [extract] 
+7.6 Results from equity accounted investments [extract] 
+ 
+ 
+5.1.2 
+Financial information of individually immaterial joint ventures and associates 
+Extract from IFRS 12 
+B16 
+An entity shall disclose, in aggregate, the carrying amount of its interests in all individually 
+immaterial joint ventures or associates that are accounted for using the equity method. An 
+entity shall also disclose separately the aggregate amount of its share of those joint ventures’ 
+or associates’: 
+(a) 
+profit or loss from continuing operations. 
+(b) 
+post-tax profit or loss from discontinued operations. 
+(c) 
+other comprehensive income. 
+(d) 
+total comprehensive income. 
+An entity provides the disclosures separately for joint ventures and associates. 
+[IFRS 12.B16]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+993 
+In the below extract, Bayer Aktiengesellschaft has provided a summary of aggregated information related 
+to immaterial associates and, separately, immaterial joint ventures: 
+Practical example 5-2: 
+Bayer Aktiengesellschaft (2023) 
+Germany 
+Annual Report 2023 [extract] 
+B/ Consolidated Financial Statements [extract] 
+Notes to the Statements of Financial Position [extract] 
+ 
+ 
+5.2 
+Risks associated with interests in joint ventures and associates 
+An entity must disclose: 
+(a) Commitments that it has relating to its joint ventures separately from the amount of other commitments 
+And 
+(b) Contingent liabilities (as defined in IAS 37) relating to its interests in joint ventures or associates 
+(including its share of contingent liabilities incurred jointly with other investors with joint control of, or 
+significant influence over, the joint ventures and associates) separately from the amount of other 
+contingent liabilities [IFRS 12.23] 
+5.2.1 
+Disclosure of commitments relating to joint ventures 
+IAS 24 Related Party Disclosures already requires aggregate commitments relating to joint ventures to be 
+disclosed separately from other commitments. [IAS 24.18, IAS 24.19]. IFRS 12 clarifies that the commitments 
+required to be disclosed under IAS 24 include an entity’s share of commitments made jointly with other 
+investors with joint control of a joint venture. Commitments are those that may give rise to a future outflow 
+of cash or other resources. [IFRS 12.B18]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+994 
+IFRS 12 provides the following examples of unrecognised commitments that must be disclosed under IAS 24: 
+(a) Unrecognised commitments to contribute funding or resources as a result of, for example: 
+(i) The constitution or acquisition agreements of a joint venture (that, for example, require an entity 
+to contribute funds over a specific period) 
+(ii) Capital intensive projects undertaken by a joint venture 
+(iii) Unconditional purchase obligations, comprising procurement of equipment, inventory or services 
+that an entity is committed to purchasing from, or on behalf of, a joint venture 
+(iv) Unrecognised commitments to provide loans or other financial support to a joint venture 
+(v) Unrecognised commitments to contribute resources to a joint venture, such as assets or services 
+(vi) Other non-cancellable unrecognised commitments relating to a joint venture 
+And 
+(b) Unrecognised commitments to acquire another party’s ownership interest (or a portion of that ownership 
+interest) in a joint venture if a particular event occurs or does not occur in the future [IFRS 12.B19] 
+There is no requirement to disclose these commitments for individual joint ventures. However, IAS 24 
+requires disclosure of information about those transactions and outstanding balances, including 
+commitments, necessary for users to understand the potential effect of the relationship on the financial 
+statements. [IAS 24.18]. This implies that there is to be separate disclosure of different types of significant 
+commitments. IAS 24 does not require the names of any joint ventures to be disclosed. 
+In the below extract, BP p.l.c. has provided information about commitments made to joint ventures 
+and associates: 
+Practical example 5-3: 
+BP p.l.c. (2023) 
+United Kingdom 
+bp Annual Report and Form 20-F 2023 [extract] 
+Notes on financial statements [extract] 
+ 
+ 
+5.2.2 
+Disclosure of contingent liabilities relating to joint ventures and associates 
+IFRS 12 requires disclosure of the same information as required by IAS 37 for contingent liabilities relating 
+to an entity’s interests in joint ventures and associates, separately from an entity’s other contingent 
+liabilities. [IFRS 12.23(b)]. 
+IAS 37 requires, for each class of contingent liability at the end of a reporting period, a brief description of 
+the nature of the contingent liability and, where practicable: 
+(a) An estimate of its financial effect, measured under the requirements of the standard 
+(b) An indication of the uncertainties relating to the amount or timing of any outflow 
+And 
+(c) The possibility of any reimbursement [IAS 37.86] 
+IAS 37 further defines what is intended by ‘class’ and the circumstances in which aggregation of disclosures 
+of contingent liabilities is appropriate. 
+The definition of a contingent liability can be found in Chapter 27 at section 3.2.1 with further detail on 
+contingent liabilities contained in Chapter 27 at section 7.2. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+995 
+6 
+Disclosure of interests in unconsolidated structured entities 
+Extract from IFRS 12 
+24 
+An entity shall disclose information that enables users of its financial statements: 
+(a) 
+to understand the nature and extent of its interests in unconsolidated structured 
+entities (paragraphs 26-28); and 
+(b) 
+to evaluate the nature of, and changes in, the risks associated with its interests in 
+unconsolidated structured entities (paragraphs 29-31). 
+[IFRS 12.24]. 
+These disclosures are not required by an investment entity for an unconsolidated structured entity that it 
+controls and for which it presents the disclosures required in section 4.6 above. [IFRS 12.25A]. 
+Disclosure requirements in respect of risks associated with interests in consolidated structured entities are 
+discussed in section 4.4 above. 
+As discussed in section 2.2.2.D above, these disclosures also apply to interests in joint ventures and 
+associates that are structured entities, in addition to the disclosures required in section 5 above for joint 
+ventures and associates. 
+The information required by IFRS 12.24(b) includes information about an entity’s exposure to risk from 
+involvement that it had with unconsolidated structured entities in previous periods (e.g., sponsoring the 
+structured entity) even if the entity no longer has any contractual involvement with the structured entity at 
+the reporting date. [IFRS 12.25]. 
+Some of the disclosure requirements for unconsolidated structured entities overlap with those of IFRS 7, 
+since many interests in unconsolidated structured entities are financial assets within the scope of IFRS 7. 
+However, IFRS 12 and IFRS 7 require different types of risk disclosure. IFRS 7 requires disclosures about 
+risks associated with financial instruments. IFRS 12 adopts a different perspective and requires an entity to 
+disclose its exposure to risks from its interest in a structured entity. [IFRS 12.BC72]. The IASB therefore 
+considered the disclosure requirements in both standards to complement each other. [IFRS 12.BC74]. 
+6.1 
+Disclosure of the nature and extent of interests 
+6.1.1 
+Disclosure of the nature, purpose, size, activities and financing 
+An entity must disclose qualitative and quantitative information about its interests in unconsolidated 
+structured entities, including, but not limited to, the nature, purpose, size and activities of the structured 
+entity and how the structured entity is financed. [IFRS 12.26]. 
+The IASB concluded that this requirement will provide users with sufficient information about the assets 
+held by structured entities and the funding of those assets without requiring specific disclosures of the 
+assets of unconsolidated structured entities in which the entity has an interest in all circumstances. If 
+relevant to an assessment of its exposure to risk, an entity would be required to provide additional 
+information about the assets and funding of structured entities. [IFRS 12.BC96]. 
+6.1.1.A 
+Nature and purpose 
+Examples of the nature and purpose of a structured entity might include: 
+• 
+To manage balance sheet exposure and risk, including securitisation of assets 
+• 
+To provide investors with a synthetic exposure to debt and equity instruments such as credit linked 
+notes and equity linked notes 
+• 
+To provide investors with a variety of investment opportunities through managed investment strategies 
+And 
+• 
+To obtain and facilitate funding 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+996 
+Quilter plc discloses the nature, purpose and type of interest in unconsolidated structured entities in a 
+narrative format as follows: 
+Practical example 6-1: 
+Quilter plc (2022) 
+United Kingdom 
+Annual Report 2022 [extract] 
+Notes to the consolidated financial statements [extract] 
+21: Structured entities [extract] 
+ 
+ 
+6.1.1.B 
+Size 
+The requirement to disclose the size of a structured entity is often met by providing information about the 
+total value of the assets of the entity. However, the Basis for Conclusions states that IFRS 12 does not 
+require specific disclosure of the reported assets of unconsolidated structured entities in which the entity 
+has an interest. [IFRS 12.BC96]. This suggests that other measures of size would be acceptable, including the 
+principal amount of securities issued by structured entities. 
+6.1.1.C 
+Activities 
+When disclosing the activities of a structured entity, these activities must include the primary activities for 
+which the entity was designed, which are the activities that significantly affect the entity’s returns. See 
+Chapter 7 at sections 3.2 and 4.1 for guidance on purpose and design of an investee and relevant activities, 
+respectively, as described in IFRS 10. 
+For example, the activities that could significantly affect the entity’s returns, include: 
+• 
+Providing a source of long-term capital to an entity or funding to support a reporting entity’s ongoing 
+major or central operations through issuing notes. 
+Or 
+• 
+Providing a supply of goods and services that is consistent with a reporting entity’s ongoing major or 
+central operations which, without the existence of the structured entity, would have to be provided by 
+the reporting entity itself. 
+6.1.1.D 
+Financing 
+This disclosure requirement is not limited to financing provided by the reporting entity to the structured 
+entity and would include financing received by the structured entity from unrelated third parties. It is also 
+not limited to equity financing and includes all forms of financing that allow the structured entity to conduct 
+its business activities. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+997 
+6.1.2 
+Disclosures of sponsored structured entities for which no interest is held at 
+the reporting date 
+If an entity has sponsored an unconsolidated structured entity for which it does not disclose the risk 
+information required by section 6.2 below (e.g., because it does not have an interest in the entity at the 
+reporting date), the entity must disclose: 
+(a) How it has determined which structured entities it has sponsored 
+(b) Income from those structured entities during the reporting period, including a description of the types 
+of income presented 
+And 
+(c) The carrying amount (at the time of transfer) of all assets transferred to those structured entities 
+during the reporting period [IFRS 12.27] 
+The information required by (b) and (c) of IFRS 12.27 must be presented in a tabular format unless some other 
+format is more appropriate and the sponsoring activities must be classified into relevant categories. [IFRS 12.28]. 
+The rationale for this disclosure requirement is that sponsoring a structured entity can create risks for a 
+reporting entity, even though the entity may not retain an interest in the structured entity. The Basis for 
+Conclusions states that “if the structured entity encounters difficulties, it is possible that the sponsor could 
+be challenged on its advice or actions, or might choose to act to protect its reputation.” [IFRS 12.BC87]. 
+IFRS 12 does not define ‘sponsor’. However, an illustrative example in IFRS 10 uses the word ‘sponsor’ in a 
+similar context when it states that “a decision maker (the sponsor) sponsors a multi-seller conduit”. In the 
+IFRS 10 example, the sponsor establishes the terms of the conduit and manages the operations of the 
+conduit for a market-based fee. [IFRS 10.B72 Example 16]. 
+Factors that may indicate that a reporting entity has sponsored a structured entity include: 
+• 
+The reporting entity established and set up the entity. 
+And 
+• 
+The reporting entity was involved in the creation and design of the structured entity. 
+Or 
+• 
+The reporting entity is the majority user of the structured entity. 
+Or 
+• 
+The reporting entity’s name appears in the name of the structured entity or on the products issued by 
+the structured entity. 
+Determining whether the reporting entity is the sponsor of a structured entity will be a matter of individual 
+facts and circumstances and may require judgement to be exercised. 
+Many financial institutions define ‘sponsor’ for the purpose of their IFRS 12 disclosures as illustrated by this 
+disclosure from HSBC Holdings plc’s financial statements. 
+Practical example 6-2: 
+HSBC Holdings plc (2022) 
+United Kingdom 
+Annual Report and Accounts 2022 [extract] 
+Notes on the financial statements [extract] 
+1. Basis of preparation and significant accounting policies [extract] 
+1.2 Summary of significant accounting policies [extract] 
+(a) Consolidation and related policies [extract] 
+ 
+ 
+The information required by (a) and (b) of IFRS 12.27 must be disclosed whether or not any assets were 
+transferred to the structured entity during the reporting period. There is no time limit set for these 
+disclosures so, in theory, they could continue indefinitely after the cessation of any interest in the 
+structured entity. IFRS 12 does not specify whether (c) of IFRS 12.27 refers to assets transferred to the 
+structured entity by the reporting entity or to the total assets transferred to the structured entity 
+irrespective of who the transferor may be. However, the Basis for Conclusions states that the IASB 
+concluded that the asset information disclosed must refer not only to assets transferred by the sponsor but 
+to all assets transferred to the structured entity during the reporting period. [IFRS 12.BC90]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+998 
+Income received from structured entities would not be confined to the income derived from the reporting 
+entity’s ‘interest(s)’ as defined by IFRS 12 but would cover all types of income received and reported by the 
+entity. IFRS 12 states that ‘income from a structured entity’ includes, but is not limited to: 
+• 
+Recurring and non-recurring fees (structuring fees, management fees, placing agent fees, etc.) 
+• 
+Interest 
+• 
+Dividends 
+• 
+Gains or losses on the remeasurement or derecognition of interests in structured entities 
+And 
+• 
+Gains or losses from the transfer of assets or liabilities to the structured entity. [IFRS 12 Appendix A]. 
+There is no requirement for a quantitative split of the fee income by type although it may be useful for 
+users of the financial statements. 
+An illustrative example of the disclosures required by (a) to (c) of IFRS 12.27 is shown below. 
+Illustration 6-1: 
+Illustrative example of disclosures for sponsored structured entities where no 
+interest exists at the reporting date 
+The Group considers itself the sponsor of a number of structured entities. The Group designed and established 
+these entities. In some cases, it also transferred assets to them, in others it markets products associated with 
+the entities in its own name and/or provides guarantees regarding the performance of the entities. 
+For some structured entities, the Group has no interest at the reporting date. However, it has sold assets to 
+those entities during the reporting period in such a way that it has no continuing involvement in those assets 
+and has earned fees for selling those assets and for other transactions carried out for the entities. The table 
+below presents the Group’s income recognised during the reporting period and the carrying amounts (at the 
+time of transfer) of any assets transferred to those structured entities during the reporting period as follows: 
+Income from unconsolidated structured entities in 
+which no interest is held at 31 December 20X3 
+Income 
+Income 
+ 
+20X3 
+20X2 
+ 
+CU’000 
+CU’000 
+Commissions and fees 
+69 
+50 
+Interest income 
+48 
+47 
+Gains and losses on sale of assets 
+66 
+- 
+ 
+183 
+97 
+Split by: 
+ 
+ 
+Mortgage-backed securitisations 
+75 
+41 
+CDOs and CLOs 
+50 
+20 
+Asset-backed commercial paper 
+25 
+30 
+Property, credit-related and other investing 
+33 
+6 
+ 
+183 
+97 
+ 
+Carrying amounts (at the time of transfer) of assets 
+transferred to unconsolidated structured entities in 
+reporting period  
+Transferred 
+in year 
+Transferred 
+in year 
+ 
+20X3 
+20X2 
+ 
+CU’000  
+CU’000  
+Mortgage-backed securitisations 
+3,065 
+- 
+CDOs and CLOs 
+2,536 
+- 
+Asset-backed commercial paper 
+1,325 
+3,000 
+Property, credit-related and other investing 
+178 
+- 
+ 
+7,104 
+3,000 
+  
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+999 
+UBS Group AG makes the following disclosures in respect of sponsored unconsolidated structured entities 
+in which UBS did not have an interest at the year-end. 
+Practical example 6-3: 
+UBS Group AG (2023) 
+Switzerland 
+Annual Report 2023 [extract] 
+Consolidated financial statements [extract] 
+Notes to the UBS Group AG consolidated financial statements [extract] 
+Note 29 Interests in subsidiaries and other entities [extract] 
+c) Unconsolidated structured entities [extract] 
+ 
+… 
+Aviva plc made the following disclosures in respect of investment management fees earned in respect of its 
+asset management business. 
+Practical example 6-4: 
+Aviva plc (2022) 
+United Kingdom 
+Annual Report and Accounts 2022 [extract] 
+Notes to the consolidated financial statements [extract] 
+25 - Interests in structured entities [extract] 
+ 
+ 
+6.2 
+Minimum disclosures regarding the nature of risks 
+The IASB decided that, although it agreed with the concept that an entity is generally allowed to tailor its 
+disclosures to meet the specific information needs of its users, disclosure requirements relating to an 
+entity’s risk from its interests in unconsolidated structured entities must contain a minimum set of 
+requirements that must be applied by all entities. In making this decision, the IASB was convinced by 
+comments from users who pointed out that without any specific disclosure requirements, comparability 
+would be impaired, and an entity might not disclose information that users find important. [IFRS 12.BC94]. 
+These minimum disclosures are discussed in sections 6.2.1 and 6.2.2 below. 
+Depending on the circumstances, an entity might need to provide additional disclosures to meet the 
+disclosure objective to disclose information that allows users of a reporting entity’s financial statements to 
+evaluate the nature of, and changes to, the risks associated with its interests in unconsolidated structured 
+entities. Examples provided by the standard are discussed in section 6.3 below. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1000 
+6.2.1 
+Disclosures of interests and of the maximum exposure to loss  
+Extract from IFRS 12 
+29 
+An entity shall disclose in tabular format, unless another format is more appropriate, a 
+summary of: 
+(a) 
+the carrying amounts of the assets and liabilities recognised in its financial statements 
+relating to its interests in unconsolidated structured entities. 
+(b) 
+the line items in the statement of financial position in which those assets and liabilities 
+are recognised. 
+(c) 
+the amount that best represents the entity’s maximum exposure to loss from its interests 
+in unconsolidated structured entities, including how the maximum exposure to loss is 
+determined. If an entity cannot quantify its maximum exposure to loss from its interests 
+in unconsolidated structured entities it shall disclose that fact and the reasons. 
+(d) 
+a comparison of the carrying amounts of the assets and liabilities of the entity that relate 
+to its interests in unconsolidated structured entities and the entity’s maximum exposure 
+to loss from those entities.  
+[IFRS 12.29]. 
+Disclosure of an entity’s maximum exposure to loss was considered necessary by the IASB as it was 
+concerned that, if only information about expected losses was required, an entity might often identify a 
+positive expected value of returns from its interests in unconsolidated structured entities and, as a 
+consequence, would not disclose any loss exposure. [IFRS 12.BC97]. 
+IFRS 12 does not define maximum exposure to loss. The IASB decided not to provide such a definition of 
+‘loss’ but to leave it to the entity to identify what constitutes a loss in the particular context of that 
+reporting entity. Therefore, the entity has to disclose how it has determined maximum loss exposure. The 
+IASB acknowledged that an entity might not always be able to calculate the maximum exposure to loss, 
+such as when a financial instrument exposes an entity to theoretically unlimited losses. The IASB decided 
+that when this is the case an entity must disclose the reasons why it is not possible to calculate the 
+maximum exposure to loss. [IFRS 12.BC98, IFRS 12.BC99]. 
+How we see it 
+In our view ‘maximum exposure to loss’ refers to the maximum loss that an entity could be required to 
+record in its statement of comprehensive income as a result of its involvement with a structured entity. 
+Further, this maximum possible loss must be disclosed regardless of the probability of such losses 
+actually being incurred. IFRS 12 is silent on whether the maximum exposure is gross or net of collateral 
+or hedging instruments held that would mitigate any loss. Consistent with the equivalent disclosures 
+required by IFRS 7.36, we believe that the maximum exposure to loss should be disclosed gross of any 
+collateral or hedging instruments and that separate disclosure should be made in respect of instruments 
+held that would mitigate the loss on a net basis. 
+The IASB also decided to require an entity to disclose a comparison of the carrying amounts of the assets 
+and liabilities in its statement of financial position and its maximum exposure to loss. This is because the 
+information will provide users with a better understanding of the differences between the maximum loss 
+exposure and the expectation of whether it is likely that an entity will bear all or only some of the losses. 
+The IASB reasoned that this information would help an entity explain why the maximum exposure to loss is 
+unrepresentative of its actual exposure if that is the case. [IFRS 12.BC100]. 
+6.2.2 
+Disclosures of actual and intended financial and other support  
+Extract from IFRS 12 
+30 
+If during the reporting period an entity has, without having a contractual obligation to do so, 
+provided financial or other support to an unconsolidated structured entity in which it previously 
+had or currently has an interest (for example, purchasing assets of or instruments issued by the 
+structured entity), the entity shall disclose: 
+(a) 
+the type and amount of support provided, including situations in which the entity assisted 
+the structured entity in obtaining financial support; and 
+(b) 
+the reasons for providing the support. 
+[IFRS 12.30]. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1001 
+An entity must also disclose any current intentions to provide financial or other support to an 
+unconsolidated structured entity, including intentions to assist the structured entity in obtaining financial 
+support. [IFRS 12.31]. 
+See sections 4.4.2 and 4.4.4 above for discussion of these disclosure requirements. 
+Illustration 4-2 in section 4.4.2 above is an illustrative disclosure of the provision of financial support to a 
+structured entity. 
+6.3 
+Additional disclosures regarding the nature of risks 
+In addition to the requirements in section 6.2 above, IFRS 12 also requires an entity to disclose additional 
+information that is necessary to meet the disclosure objective to disclose information that allows users of a 
+reporting entity’s financial statements to evaluate the nature of, and changes to, the risks associated with 
+its interests in unconsolidated structured entities. 
+IFRS 12 provides the following examples of additional information that, depending on the circumstances, 
+might be relevant to an assessment of the risks to which a reporting entity is exposed where it has an 
+interest in an unconsolidated structured entity: 
+(a) The terms of an arrangement that could require the entity to provide support to an unconsolidated 
+structured entity (e.g., liquidity arrangements or credit rating triggers associated with obligations to 
+purchase assets of the structured entity or provide financial support) including: 
+(i) A description of the events or circumstances that could expose the reporting entity to a loss 
+(ii) Whether there are any terms that would limit the obligation 
+(iii) Whether there are any other parties that provide financial support and, if so, how the reporting 
+entity’s obligation ranks with those of other parties 
+(b) Losses incurred by the entity during the reporting period relating to its interests in unconsolidated 
+structured entities 
+(c) The types of income the entity received during the reporting period from its interests in unconsolidated 
+structured entities 
+(d) Whether an entity is required to absorb losses of an unconsolidated structured entity before other 
+parties, the maximum limit of such losses for the entity and (if relevant) the ranking and amounts of 
+potential losses borne by parties whose interests rank lower than the entity’s interest in the 
+unconsolidated structured entity 
+(e) Information about any liquidity requirements, guarantees or other commitments with third parties that 
+may affect the fair value or risk of the entity’s interests in unconsolidated structured entities 
+(f) Any difficulties an unconsolidated structured entity has experienced in financing its activities during 
+the reporting period 
+And 
+(g) In relation to the funding of an unconsolidated structured entity, the forms of funding (e.g., commercial 
+paper or medium-term notes) and their weighted-average life. That information might include maturity 
+analyses of the assets and funding of an unconsolidated structured entity if the structured entity has 
+longer-term assets funded by shorter-term funding. [IFRS 12.B25, IFRS 12.B26]. 
+No prescriptive format is required for these disclosures. Therefore, a reporting entity will have to decide 
+whether a tabular or narrative format is suitable depending on its individual circumstances. The examples 
+above are not exhaustive. 
+The IASB does not intend each item in the list of examples above to apply in all circumstances. The IASB’s 
+intention regarding the disclosure of risk is that each entity ought to disclose information that is important 
+when assessing that exposure but not to cloud the information with unnecessary detail that would be 
+considered irrelevant. If an entity has a large exposure to risk because of transactions with a particular 
+unconsolidated structured entity, then the Board would expect extensive disclosure about that exposure. In 
+contrast, if the entity has very little exposure to risk, little disclosure would be required. Therefore, the list 
+of additional information above is a list of examples of information that might be relevant and not a list of 
+requirements that must be applied regardless of the circumstances. [IFRS 12.BC113, IFRS 12.BC114]. 
+Given that this information is required in respect of structured entities that the reporting entity does not 
+control, and over which it may not exercise significant influence, some of the disclosures suggested in 
+respect of (d), (f) and (g) of IFRS 12.B26 may be difficult to provide. This is because they require current 
+information about the activities of the structured entity, rather than information about the interests held by 
+the reporting entity. 
+Comments on some of the suggested disclosures are in sections 6.3.1 to 6.3.7 below. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1002 
+6.3.1 
+Disclosure of support 
+Illustration 4-1 above illustrates disclosure of a contractual arrangement that could require support to a 
+structured entity. 
+Illustration 4-2 above illustrates disclosure of support provided to a structured entity where there is no 
+contractual obligation to provide such support. 
+The meaning of ‘support’ is discussed in section 4.4.2 above. 
+6.3.2 
+Disclosure of losses incurred 
+How we see it 
+IFRS 12 does not elaborate on ‘losses incurred’ but we believe that it refers to both realised and 
+unrealised losses and losses recognised in both profit and loss and other comprehensive income. It may 
+be informative to explain to users of the financial statements the line items in the primary statements in 
+which the losses have been recognised. It would also be informative to disclose the aggregate losses 
+incurred in respect of investments held at the reporting date as well as the losses incurred in the 
+reporting period for those interests disposed of during the period. 
+ 
+Illustration 6-2: 
+Illustrative example of disclosure of losses incurred from investments in 
+unconsolidated structured entities 
+The Group has incurred the following realised and unrealised losses in respect of its investments in 
+unconsolidated structured entities: 
+ 
+20X1 
+20X0 
+ 
+CU’000 
+CU’000 
+Realised losses  
+200 
+200 
+Unrealised losses (profit and loss) 
+400 
+300 
+Unrealised losses (other comprehensive income) 
+500 
+400 
+ 
+1,100 
+900 
+Split by: 
+ 
+ 
+Collateralised debt obligations 
+800 
+700 
+Credit card receivables 
+300 
+200 
+ 
+1,100 
+900 
+ 
+Aggregate losses incurred  
+Transferred 
+in year 
+Transferred 
+in year 
+ 
+20X1 
+20X0 
+ 
+CU’000 
+CU’000 
+Collateralised debt obligations 
+2,300 
+1,500 
+Credit card receivables 
+1,700 
+1,400 
+ 
+4,000 
+2,900 
+  
+6.3.3 
+Disclosure of the types of income received 
+This disclosure is similar to the disclosure discussed in section 6.1.2 above in respect of unconsolidated 
+structured entities for which the reporting entity does not have an interest at the reporting date. However, 
+subparagraph (c) of IFRS 12.B26 refers only to the types of income received and does not refer to the need 
+for a specific quantification of the income received. 
+‘Income from a structured entity’ includes, but is not limited to: 
+• 
+Recurring and non-recurring fees (structuring fees, management fees, placing agent fees, etc.) 
+• 
+Interest 
+• 
+Dividends 
+• 
+Gains or losses on the remeasurement or derecognition of interests in structured entities 
+And 
+• 
+Gains or losses from the transfer of assets or liabilities to the structured entity [IFRS 12 Appendix A] 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1003 
+6.3.4 
+Disclosure of the maximum limit, ranking and amounts of potential losses 
+Disclosure is required of the maximum limit of losses for a reporting entity where a reporting entity is 
+required to absorb losses of a structured entity before other parties. This requirement is likely to be 
+relevant for reporting entities which hold notes in securitised structured entities or where the interests in 
+the structured entity are in the form of multiple contractually linked or ‘tranched’ notes. 
+An example of the type of disclosure that could be made is shown below. 
+Illustration 6-3: 
+Illustrative example of disclosure of maximum exposure to and ranking of loss 
+exposure by type of structured entity 
+The following table shows the maximum exposure to loss for ABC Bank by type of structured entity and by 
+seniority of interest, where ABC Bank’s interest ranks lower than interests of other investors, therefore, ABC 
+Bank absorbs losses before other parties. 
+  
+Seniority of interests 
+  
+CU’000 
+Subordinated 
+interests 
+Mezzanine 
+interests 
+Senior 
+interests 
+Most senior 
+interests 
+Total 
+Mortgage backed securitisations 
+  
+  
+  
+  
+  
+i) ABC Bank’s maximum exposure 
+to loss 
+150 
+592 
+850 
+346 
+1,938 
+ii) Potential losses borne by more 
+junior interests 
+- 
+897 
+7,875 
+10,332 
+19,104 
+CDOs and CLOs 
+ 
+ 
+ 
+ 
+ 
+i) ABC Bank’s maximum exposure 
+to loss 
+60 
+167 
+243 
+32 
+502 
+ii) Potential losses borne by more 
+junior interests 
+27 
+456 
+4,787 
+5,311 
+10,581 
+Asset backed commercial paper 
+  
+  
+  
+  
+  
+i) ABC Bank’s maximum exposure 
+to loss 
+- 
+- 
+- 
+379 
+379 
+ii) Potential losses borne by more 
+junior interests 
+- 
+- 
+- 
+25 
+25 
+  
+6.3.5 
+Disclosure of liquidity arrangements 
+This disclosure might include: 
+• 
+Liquidity arrangements, guarantees or other commitments provided by third parties to the structured 
+entity which affect the fair value or risk of the reporting entity’s interests in the structured entity. 
+And 
+• 
+Liquidity arrangements, guarantees or other commitments provided by third parties to the reporting 
+entity which affect the risks of the reporting entity’s interests in the structured entity. 
+How we see it 
+We do not believe that this disclosure is intended to include liquidity arrangements, guarantees or other 
+commitments made by the structured entity to third parties. While an arrangement provided to a third 
+party may itself qualify as an interest in a structured entity, it would not normally affect the fair value of 
+an entity’s interests in an unconsolidated structured entity. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1004 
+6.3.6 
+Disclosure of funding difficulties 
+Disclosure of ‘any difficulties’ that a structured entity has experienced in financing its activities during a 
+reporting period could potentially be wide-ranging. In practice, we believe that such a disclosure is likely to 
+focus on issues of debt (including short-term commercial paper) and equity securities that have failed either 
+in whole or in part. 
+6.3.7 
+Disclosure of the forms of funding 
+This disclosure appears to refer to the overall funding of the structured entity including forms of funding in 
+which the reporting entity has not participated. A tabular presentation may be the most appropriate way of 
+making this disclosure. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1005 
+7 
+Future developments 
+In April 2024, the IASB issued IFRS 18 Presentation and Disclosure in Financial Statements to replace IAS 1. 
+IFRS 18 is effective for annual reporting periods beginning on or after 1 January 2027, with earlier 
+application permitted (subject to jurisdictional endorsement). See Chapter 4 for further details on the new 
+concepts and requirements in IFRS 18. 
+IFRS 19 Subsidiaries without Public Accountability: Disclosures was issued by the IASB in May 2024 to 
+simplify the preparation of financial statements by eligible subsidiaries. Eligible subsidiaries that elect to 
+apply IFRS 19 are allowed to provide reduced disclosures while still applying the recognition, measurement 
+and presentation requirements in other IFRS accounting standards. IFRS 19 is effective for annual 
+reporting periods beginning on or after 1 January 2027, with earlier application permitted (subject to 
+jurisdictional endorsement). See Chapter 4 at section 7 for further details on the requirements of IFRS 19. 
+In September 2024, the IASB published for public comment the exposure draft ED/2024/7 Equity Method 
+of Accounting which, amongst other improvements, proposes changes to disclosure requirements for 
+investments in joint ventures and associates accounted for using the equity method. 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1006 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Variability of returns arising from issue of credit default swap (1) 
+967 
+Illustration 2-2: 
+Variability of returns arising from issue of credit default swap (2) 
+968 
+Illustration 3-1: 
+Illustrative example of disclosure of significant judgements and 
+assumptions made in determining the type of joint arrangement 
+974 
+Illustration 4-1: 
+Illustrative example of disclosure of a contractual arrangement that could 
+require parental support to a consolidated structured entity 
+982 
+Illustration 4-2: 
+Illustrative example of disclosure of financial or other support provided to a 
+consolidated structured entity 
+983 
+Illustration 4-3: 
+Illustrative example of disclosure of changes in ownership interest in 
+subsidiary that does not result in loss of control 
+984 
+Illustration 6-1: 
+Illustrative example of disclosures for sponsored structured entities where 
+no interest exists at the reporting date 
+998 
+Illustration 6-2: 
+Illustrative example of disclosure of losses incurred from investments in 
+unconsolidated structured entities 
+1002 
+Illustration 6-3: 
+Illustrative example of disclosure of maximum exposure to and ranking of 
+loss exposure by type of structured entity 
+1003 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1007 
+Appendix B - Index of Frequently asked questions 
+Question 4-1: 
+Disclosures for a subsidiary with a material non-controlling interest 
+978 
+Question 5-1: 
+Disclosure of summarised financial information about material joint 
+ventures or associates 
+988 
+Question 5-2: 
+Where the investee is a group: On which basis should an entity prepare the 
+required summarised financial information about material joint ventures or 
+associates? 
+990 
+
+
+International GAAP® 2025 
+Chapter 14 
+Disclosure of interests in other entities 
+1008 
+Appendix C - Defined terms 
+Extract from IFRS 12 
+Appendix A 
+Defined terms 
+income from a structured 
+entity 
+For the purpose of this IFRS, income from a structured entity includes, 
+but is not limited to, recurring and non-recurring fees, interest, 
+dividends, gains or losses on the remeasurement or derecognition of 
+interests in structured entities and gains or losses from the transfer of 
+assets and liabilities to the structured entity. 
+interest in another entity 
+For the purpose of this IFRS, an interest in another entity refers to 
+contractual and non-contractual involvement that exposes an entity to 
+variability of returns from the performance of the other entity. An 
+interest in another entity can be evidenced by, but is not limited to, the 
+holding of equity or debt instruments as well as other forms of 
+involvement such as the provision of funding, liquidity support, credit 
+enhancement and guarantees. It includes the means by which an entity 
+has control or joint control of, or significant influence over, another 
+entity. An entity does not necessarily have an interest in another entity 
+solely because of a typical customer supplier relationship. 
+Paragraphs B7-B9 provide further information about interests in other 
+entities. 
+Paragraphs B55-B57 of IFRS 10 explain variability of returns. 
+structured entity 
+An entity that has been designed so that voting or similar rights are not 
+the dominant factor in deciding who controls the entity, such as when 
+any voting rights relate to administrative tasks only and the relevant 
+activities are directed by means of contractual arrangements. 
+Paragraphs B22-B24 provide further information about structured 
+entities. 
+  
+ 

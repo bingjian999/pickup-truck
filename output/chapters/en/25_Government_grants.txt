@@ -1,0 +1,1640 @@
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1802 
+ 
+Chapter 25 
+Government grants 
+ 
+Contents 
+Overview 
+1804 
+1 
+Introduction 
+1805 
+1.1 
+Terms used in this chapter 
+1806 
+2 
+Scope of IAS 20 
+1807 
+2.1 
+Government assistance 
+1807 
+2.2 
+Government grants 
+1807 
+2.2.1 
+Definitions 
+1807 
+2.2.2 
+Grants with no specific relation to operating activities (SIC-10) 
+1808 
+2.2.3 
+Determining the recipient of a government grant 
+1808 
+2.3 
+Scope exclusions 
+1808 
+2.3.1 
+General considerations 
+1808 
+2.3.2 
+Investment tax credits 
+1809 
+2.4 
+Interaction of IAS 20 with IFRS 15 
+1811 
+3 
+Recognition and measurement 
+1812 
+3.1 
+General requirements of IAS 20 
+1812 
+3.2 
+Non-monetary grants 
+1814 
+3.3 
+Forgivable loans 
+1814 
+3.4 
+Loans at lower than market rates of interest 
+1815 
+3.5 
+Government guarantees 
+1816 
+3.6 
+Recognition in the income statement 
+1817 
+3.6.1 
+Achieving the most appropriate matching 
+1818 
+3.6.2 
+Loans at lower than market rates of interest 
+1819 
+3.6.3 
+The period to be benefited by the grant 
+1819 
+3.6.4 
+Separating grants into components 
+1819 
+3.7 
+Repayment of government grants 
+1820 
+3.8 
+Government assistance 
+1820 
+3.9 
+Particular issues arising when grants related to assets are accounted for as deferred 
+income 
+1821 
+3.9.1 
+Impairment testing of assets that qualified for government grants 
+1821 
+3.9.2 
+Disposal of assets that qualified for government grants 
+1822 
+3.9.3 
+Changes to the useful life of assets that qualified for government grants 
+1822 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1803 
+4 
+Presentation of grants 
+1823 
+4.1 
+Presentation of grants related to assets in the statement of financial position 
+1823 
+4.2 
+Presentation of grants related to income in the statement of profit or loss 
+1824 
+4.3 
+Statement of cash flows 
+1826 
+5 
+Government grants related to biological assets in the scope of IAS 41 
+1827 
+6 
+Disclosures 
+1828 
+Appendix A - Index of Illustrations 
+1830 
+Appendix B - Index of Frequently asked questions 
+1831 
+Appendix C - Defined terms 
+1832 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1804 
+Overview 
+IAS 20 Accounting for Government Grants and Disclosure of Government Assistance applies to the accounting 
+for, and the disclosure of, government grants and to the disclosure of other forms of government assistance. 
+[IAS 20.1]. The distinction between government grants and other forms of government assistance is important 
+because the standard’s accounting requirements only apply to the former. 
+Government grants are a specific form of government assistance and relate to the transfers of resources to 
+an entity in return for past or future compliance with certain conditions relating to the entity’s operating 
+activities. [IAS 20.3]. The purpose of government grants, which may be called subsidies, subventions or 
+premiums, [IAS 20.6], and other forms of government assistance is often to encourage a private sector entity 
+to take a course of action that it would not normally have taken if the assistance had not been provided. 
+[IAS 20.4]. Government grants are also used to provide financial support as was abundantly illustrated during 
+the coronavirus pandemic when governments all over the world introduced measures to provide financial 
+assistance to businesses in an effort to mitigate the significant impact of the pandemic on their economies. 
+The main accounting issue that arises from government grants is how to deal with the benefit that the grant 
+represents. IAS 20 adopts an income approach, whereby grants are recognised in profit or loss in the same 
+periods as the entity recognises as expenses the costs that the grants are intended to compensate. [IAS 20.12]. 
+This chapter covers the requirements of IAS 20 regarding recognition, measurement and presentation of 
+government grants and looks at specific examples of government grants including low interest and forgivable 
+loans. It also covers disclosure requirements for grants and other forms of government assistance. 
+What you need to know 
+• 
+Grants are not recognised until there is reasonable assurance that the entity is eligible as a result of 
+a past event. 
+• 
+IAS 20 adopts an income approach to the recognition of government grants, regardless of whether 
+the grant is received in cash, as a reduction in a liability to the government or in the form of a 
+transfer of a non-monetary asset. 
+• 
+Grants relating to specific expenses are recognised in profit or loss in the same periods as those 
+expenses, and grants relating to depreciable assets are recognised in profit or loss in the same 
+periods as the related depreciation expense. 
+• 
+Grants relating to assets must be presented in the statement of financial position either by setting up 
+the grant as deferred income or by deducting the grant in arriving at the carrying amount of the asset. 
+• 
+Grants relating to income must be presented in the income statement either separately or by 
+deduction in reporting the related expense. 
+• 
+A grant received in the form of a non-monetary asset can be recognised at fair value or, 
+alternatively, at a nominal amount. 
+• 
+The nature of significant other forms of government assistance that do not meet the definition of a 
+government grant must be disclosed. 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1805 
+1 
+Introduction 
+IAS 20 was applicable for the first time in 1984. [IAS 20.41]. The only substantive amendment since issue 
+was in 2008, requiring entities to quantify the benefit of a government loan at a below-market rate of 
+interest. [IAS 20.10A, IAS 20.43]. 
+IAS 20 defines government grants in terms of ”transfers of resources to an entity in return for meeting 
+certain conditions relating to the operating activities of the entity”. [IAS 20.3]. SIC-10 Government 
+Assistance - No Specific Relation to Operating Activities was issued in 1998 to clarify that IAS 20 applies 
+even if the only condition is a requirement to operate in certain regions or industry sectors (see 
+section 2.2.2 below). 
+Government grants related to biological assets are excluded from the scope of IAS 20 and are dealt with in 
+IAS 41 Agriculture, which has different accounting requirements (see section 5 below and Chapter 38 at 
+section 3.3). [IAS 20.2(d)]. 
+The standard pre-dates the IASB’s Conceptual Framework and, as the IASB itself has noted, is inconsistent 
+with it,1 resulting in the recognition in the statement of financial position of deferred credits that do not 
+meet the Framework’s definitions of liabilities and allowing alternatives to initial measurement that could 
+result in an asset being understated by reference to the Framework. IAS 20 is the only standard left that 
+takes an income approach instead of the balance sheet approach for the recognition of income and expense 
+applied in the rest of the IFRS accounting standards. 
+The standard recognises that an entity may receive other forms of government assistance which cannot 
+reasonably have a value placed upon them. Rather than prescribe how these must be accounted for, it 
+requires disclosure about such assistance. [IAS 20.34, IAS 20.36]. However, since the issuance of IFRS 13 Fair 
+Value Measurement, the challenge of placing a value on forms of assistance has reduced (see section 3.8 
+below). For example, IAS 20 cites free technical or marketing advice and the provision of guarantees as 
+examples of government assistance that cannot reasonably have a value placed on them and hence are 
+excluded from the definition of grants. [IAS 20.35]. Nevertheless, where it can be demonstrated that a fair 
+value can be determined for these items, then they must be accounted as a government grant (see 
+section 3.5 below for further discussion about guarantees). 
+ 
+1 
+IASB Update, February 2006, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1806 
+1.1 
+Terms used in this chapter 
+The following terms from IAS 20 and IAS 41 are used in this chapter with the meanings specified: [IAS 20.3, IAS 41.5] 
+Extract from IAS 20 
+3 
+The following terms are used in this Standard with the meanings specified: 
+Government refers to government, government agencies and similar bodies whether local, 
+national or international. 
+Government assistance is action by government designed to provide an economic benefit 
+specific to an entity or range of entities qualifying under certain criteria. Government 
+assistance for the purpose of this Standard does not include benefits provided only indirectly 
+through action affecting general trading conditions, such as the provision of infrastructure in 
+development areas or the imposition of trading constraints on competitors. 
+Government grants are assistance by government in the form of transfers of resources to an 
+entity in return for past or future compliance with certain conditions relating to the operating 
+activities of the entity. They exclude those forms of government assistance which cannot 
+reasonably have a value placed upon them and transactions with government which cannot 
+be distinguished from the normal trading transactions of the entity.2 
+Grants related to assets are government grants whose primary condition is that an entity 
+qualifying for them should purchase, construct or otherwise acquire long-term assets. 
+Subsidiary conditions may also be attached restricting the type or location of the assets or 
+the periods during which they are to be acquired or held. 
+Grants related to income are government grants other than those related to assets. 
+Forgivable loans are loans which the lender undertakes to waive repayment of under certain 
+prescribed conditions. 
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in 
+an orderly transaction between market participants at the measurement date. (See IFRS 13 
+Fair Value Measurement.) 
+2 
+See also SIC-10 Government Assistance-No Specific Relation to Operating Activities. 
+ 
+Extract from IAS 41 
+5 
+The following terms are used in this Standard with the meanings specified: 
+… 
+A bearer plant is a living plant that: 
+(a) 
+is used in the production or supply of agricultural produce; 
+(b) 
+is expected to bear produce for more than one period; and 
+(c) 
+has a remote likelihood of being sold as agricultural produce, except for incidental 
+scrap sales. 
+A biological asset is a living animal or plant. 
+… 
+Costs to sell are the incremental costs directly attributable to the disposal of an asset, 
+excluding finance costs and income taxes. 
+… 
+Government grants are sometimes called by other names such as subsidies, subventions, or premiums. 
+[IAS 20.6]. In addition, a non-monetary government grant is a government grant that takes the form of a 
+transfer of a non-monetary asset, such as land or other resources, for the use of the entity. [IAS 20.23]. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1807 
+2 
+Scope of IAS 20 
+IAS 20 applies in accounting for, and in the disclosure of, government grants and in the disclosure of other 
+forms of government assistance. [IAS 20.1]. The distinction between government grants and other forms of 
+government assistance is important because the standard’s accounting requirements only apply to the former. 
+The standard regards the term ‘government’ to include government agencies and similar bodies whether 
+local, national or international. [IAS 20.3]. However, IAS 20 gives no further guidance on what is meant by 
+‘similar bodies’, therefore the assessment of whether a body providing support to an entity is regarded as a 
+‘similar body’ under IAS 20 is a judgemental area dependent on the specific facts and circumstances. 
+2.1 
+Government assistance 
+Government assistance is defined as action by government designed to provide an economic benefit to an 
+entity or range of entities qualifying under certain criteria. [IAS 20.3]. Government assistance takes many 
+forms ”varying both in the nature of the assistance given and in the conditions which are usually attached 
+to it”. [IAS 20.4]. 
+However, such assistance does not include benefits provided indirectly through action affecting general 
+trading conditions, such as the provision of infrastructure (e.g., transport, communications networks or 
+utilities) in development areas or that are available for the benefit of an entire local community or the 
+imposition of trading constraints on competitors (see section 3.8 below). [IAS 20.3, IAS 20.38]. 
+2.2 
+Government grants 
+2.2.1 
+Definitions 
+Government grants are a specific form of government assistance. Under IAS 20, government grants 
+represent assistance by government in the form of transfers of resources to an entity in return for past or 
+future compliance with certain conditions relating to the operating activities of the entity. [IAS 20.3]. The 
+standard identifies grants related to assets and grants related to income, as follows: 
+Extract from IAS 20 
+3 
+The following terms are used in this Standard with the meanings specified: 
+… 
+Grants related to assets are government grants whose primary condition is that an entity 
+qualifying for them should purchase, construct or otherwise acquire long-term assets. 
+Subsidiary conditions may also be attached restricting the type or location of the assets or 
+the periods during which they are to be acquired or held. 
+Grants related to income are government grants other than those related to assets. 
+… 
+Government grants exclude: 
+(a) Assistance to which no value can reasonably be assigned 
+And 
+(b) Transactions with government that cannot be distinguished from the normal trading transactions of the 
+entity, e.g., where the entity is being favoured by a government’s procurement policy [IAS 20.3, IAS 20.34, 
+IAS 20.35] 
+Such excluded items are to be treated as falling only within the standard’s disclosure requirements for 
+government assistance (see section 3.8 below). 
+The benefit of loans at below-market interest rates is also deemed to be a form of government grant. The 
+standard requires entities to measure and record the loan in accordance with IFRS 9 Financial Instruments 
+(i.e., at fair value) and account for the benefit of the below-market rate of interest as a grant. [IAS 20.10A]. 
+The accounting consequences are discussed in section 3.4 below. 
+Grants of emission rights may meet the definition of government grants under IAS 20. Grants of renewable 
+energy certificates can also meet the definition of government grants, in some cases. The rights and 
+certificates themselves might be classified as intangible assets under IAS 38 Intangible Assets or, if they 
+meet the definition of inventory under IAS 2 Inventories, it might be appropriate to classify them as 
+inventory rather than intangible assets. Accounting for emission rights and renewable energy certificates is 
+discussed in Chapter 18 at sections 11.2 and 11.3 and in Chapter 23 at sections 2.3.1.C and 2.3.1.D. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1808 
+There are other emerging schemes in a number of regions, for example schemes relating to carbon credit 
+projects. It is important that the specific facts and circumstances of a scheme are determined to be able to 
+assess whether the scheme involves a government grant or not. Factors to consider include the primary 
+reason for the scheme, whether there is a transfer of economic benefit from the government and, if so, 
+what conditions are attached and what type of expense the government support may be compensating for. 
+2.2.2 
+Grants with no specific relation to operating activities (SIC-10) 
+SIC-10 addresses the situation in some countries where government assistance is provided to entities, but 
+without there being any conditions specifically relating to their operating activities, other than to operate in 
+certain regions or industry sectors. It determined that such forms of government assistance are to be 
+treated as government grants. [SIC-10.3]. This ruling was made to avoid any suggestion that such forms of 
+assistance were not governed by IAS 20 and could be credited directly to equity. 
+2.2.3 
+Determining the recipient of a government grant 
+It may not always be clear who the recipient of a government grant is due to the involvement of multiple 
+parties. In certain cases, an entity might receive cash from the government but is merely acting as a ‘facilitator’ 
+to ensure the benefit of the cash is passed on to the intended beneficiary of the government support. In cases 
+where there are multiple parties, it is important to have a full understanding of the terms of the relevant 
+government support scheme to determine which party should be recognising a government grant. 
+Illustration 2-1: 
+Recipient of a government grant  
+A government has a scheme in place whereby they will provide CU1,000 of financial support to commercial 
+electricity users over 12 months. This support will be provided by way of part settlement of their energy bills. 
+The government provides cash to energy suppliers, and this must be used only for the partial settlement of 
+customer bills. The terms of the scheme state that it does not reduce the amount the energy supplier is able to 
+charge its electricity customers. Any cash remaining after the 12 months must be returned to the government. 
+In this case, who is the recipient of the government grant, is it the supplier or the electricity users? 
+Although the energy supplier receives a resource (cash) from the government, it is required to pass that 
+resource on to its customer. The energy supplier still has a right to supply energy at the price in the customer 
+contract, so the provision of support does not affect the supplier’s contract with its customer. It is merely, the 
+settlement party that has changed, i.e., the energy bill is now part settled by the customer and part settled by 
+the government. This is consistent with the discussion in the Basis for Conclusions on paragraph BC187 in 
+IFRS 15 Revenue from Contracts with Customers which clarifies that the amounts to which the entity has 
+rights under the present contract can be paid by any party. It is therefore appropriate, in this case, to 
+consider the customer (not the supplier) as the grant recipient. The supplier is merely facilitating the 
+provision of support to the customer and recognises a liability upon receiving cash from the government that 
+it must use for the partial settlement of customer bills.  
+2.3 
+Scope exclusions 
+2.3.1 
+General considerations 
+IAS 20 does not deal with: 
+(a) Accounting for government grants if the entity prepares financial information that reflects the effects 
+of changing prices, whether as financial statements or in supplementary information of a similar nature 
+(b) Government assistance in the form of benefits that are available in determining taxable profit or loss or 
+are determined or limited on the basis of income tax liability, e.g., income tax holidays, investment tax 
+credits, accelerated depreciation allowances and reduced income tax rates 
+(c) Government participation in the ownership of the entity 
+And 
+(d) Government grants covered by IAS 41 [IAS 20.2] 
+The accounting treatment of government assistance either provided by way of a reduction in taxable profit 
+or loss, or determined or limited according to an entity’s income tax liability, is discussed in the context of 
+investment tax credits in section 2.3.2 below and in Chapter 29 at section 4.3. 
+In the case of exclusion (c) above, for an entity in which the government is a shareholder, it will be 
+necessary to determine whether any assistance being provided to the entity is being given by the 
+government acting in its capacity as a shareholder. If so, such assistance will not be within the scope of 
+IAS 20 and will be accounted for in equity, in common with other shareholder transactions (see Chapter 3 
+at section 3.3). 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1809 
+The reason for exclusion (d) above is that the presentation permitted by IAS 20 of deducting government 
+grants from the carrying amount of the asset (see section 4.1 below) was considered inconsistent with a 
+fair value model, which must be used in the measurement of biological assets. [IAS 41.B66]. The IASB decided 
+to deal with government grants related to agricultural activity in IAS 41 rather than initiate a wider review 
+of IAS 20. [IAS 41.B67]. The requirements of IAS 41 in relation to government grants are set out in section 5 
+below and in Chapter 38 at section 3.3. 
+There are no similar exclusions for government grants in IAS 40 Investment Property which includes a 
+similar fair value model (see Chapter 20), nor was IAS 20 revised to deal with the matter. This is probably 
+because government grants in the investment property sector are relatively rare compared to the 
+agricultural sector. However, governments do on occasion provide grants and subsidised loans to finance 
+the acquisition of social housing that meets the definition of investment property. The discount on these 
+subsidised loans is considered to be a government grant, as described in section 3.4 below. 
+2.3.2 
+Investment tax credits 
+IAS 20 excludes from its scope government assistance either provided by way of a reduction in taxable 
+profit or determined or limited according to an entity’s income tax liability, citing income tax holidays, 
+investment tax credits, accelerated depreciation allowances and reduced income tax rates as examples. 
+[IAS 20.2(b)]. IAS 12 Income Taxes states that it does not deal with the methods of accounting for 
+government grants or investment tax credits, although any temporary differences that arise from them are 
+in the scope of the standard. [IAS 12.4]. Accordingly, if government assistance is described as an investment 
+tax credit, but it is neither determined or limited by reference to the entity’s income tax liability nor 
+provided in the form of an income tax deduction, the requirements of IAS 20 apply. 
+This raises the question as to how an entity should account for those forms of government incentives for 
+specific kinds of investment that are delivered through the tax system. The fact that both IAS 20 and 
+IAS 12 use the term ‘investment tax credits’ to describe items excluded from their scope requires entities to 
+carefully consider the nature of such incentives and the conditions attached to them to determine which 
+standard the particular tax credit is excluded from and, therefore, whether they fall in the scope of IAS 20 
+or IAS 12. 
+How we see it 
+In our view, the determination of which framework to apply to a particular investment tax credit (IAS 12 
+or IAS 20) is a matter of judgement and all facts and circumstances relating to the specific incentive need 
+to be considered in assessing the substance of the arrangement. 
+The following factors will often be relevant, but this list of factors must not be considered exhaustive, and 
+entities may identify other factors which they consider to be more important than those listed below. 
+Feature of credit 
+Indicator of IAS 20 treatment 
+Indicator of IAS 12 treatment 
+Method of realisation 
+Directly settled in cash where 
+there are insufficient taxable 
+profits to allow credit to be fully 
+recovered, or available for set 
+off against non-income taxes, 
+such as payroll taxes, sales taxes 
+or other amounts owed to 
+government. 
+Only available as a reduction in 
+income taxes payable 
+(i.e., benefit is forfeited if there 
+are insufficient income taxes 
+payable). However, a lengthy 
+period allowed for carrying 
+forward unused credits may 
+make this indicator less relevant. 
+Number of non-income tax 
+conditions attached to initial 
+receipt of grant (e.g., minimum 
+employment, ongoing use of 
+purchased assets) 
+Many 
+None or few 
+Restrictions as to nature of 
+expenditure required to receive 
+the grant 
+Highly specific 
+Broad criteria encompassing 
+many different types of 
+qualifying expenditure 
+Income tax status of grant 
+income 
+Taxable 
+Not taxable 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1810 
+In group accounts, in which entities from several different jurisdictions may be consolidated, it may be 
+desirable that all ‘investment tax credits’ are consistently accounted for, either as an IAS 20 government 
+grant or as an income tax under IAS 12. However, the judgement as to which standard applies is made by 
+reference to the nature of each type of investment tax credit and the conditions attached to it. This may 
+mean that the predominant practice in a particular jurisdiction for a specific type of investment tax credit 
+has evolved differently from the consensus in another jurisdiction for what could appear to be a 
+substantially similar credit. We believe that, in determining whether the arrangement is of a type that falls 
+within the scope of IAS 20 or IAS 12, an entity must consider the following factors in the order listed below: 
+• 
+If there is a predominant local treatment for a specific investment tax credit as to whether a specific 
+credit in the relevant tax jurisdiction falls within the scope of IAS 20 or IAS 12, this must take 
+precedence. 
+• 
+If there is no predominant local treatment, the group-wide approach to determining the standard that 
+applies to such a credit must be applied. 
+• 
+In the absence of a predominant local consensus or a group-wide approach to making the 
+determination, the indicators listed in the table above provide guidance. 
+This may mean that an entity operating in several territories adopts different accounting treatments for 
+apparently similar arrangements in different countries, but it at least ensures a measure of comparability 
+between different entities operating in the same tax jurisdiction. 
+How we see it 
+It is important to note that this is not an accounting policy choice. Accordingly, an entity operating in 
+several territories could be required to adopt different accounting treatments for apparently similar 
+arrangements in different countries if predominant local practice for a specific type of investment tax 
+credit has evolved differently from the consensus in another jurisdiction. 
+For investment tax credits subject to IAS 20 and therefore treated as government grants, if the related 
+expenditure is charged directly to the income statement under IFRS accounting standards, the tax 
+credit/grant must be reflected in the income statement, either separately or under a general heading such 
+as ‘other income’; or as a deduction against the related expenditure. If the related expenditure is capitalised 
+and amortised, the grant must be presented either by setting up the credit as deferred income or by 
+deducting it from the carrying amount of the asset in accordance with IAS 20. It must not be included within 
+deferred tax. The income statement will reflect the grant as ‘other income’ or as a reduction in the 
+amortisation expense of the asset concerned on a systematic basis over the life of the asset. If the credit 
+will be received in future periods without compensation for the time value of money, the notional amount of 
+the asset must be reduced through application of an appropriate discount rate. 
+An example of the accounting policy disclosure of a company accounting for a type of investment tax credit 
+as a government grant is shown below. 
+Practical example 2-1: 
+Aston Martin Lagonda Global Holdings plc (2023) 
+United Kingdom 
+ANNUAL REPORT AND ACCOUNTS 2023 [extract] 
+NOTES TO THE FINANCIAL STATEMENTS [extract] 
+2. ACCOUNTING POLICIES [extract] 
+Government Grants [extract] 
+ 
+ 
+The treatment of investment tax credits accounted for under IAS 12 is discussed in Chapter 29 at 
+section 4.3. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1811 
+2.4 
+Interaction of IAS 20 with IFRS 15 
+The situation can arise whereby a contract with a customer, accounted for under IFRS 15, also includes a 
+government grant that falls within the scope of IAS 20, for example as illustrated below: 
+Illustration 2-2: 
+Contract with a customer contains a government grant  
+A pharmaceutical entity has a contract with the government of the jurisdiction within which it operates. The 
+contract includes a grant relating to the development of a vaccine and an obligation to deliver a specific 
+quantity of vaccines, with an option to purchase additional vaccines at a discount. 
+How does the entity allocate the contract between IFRS 15 and IAS 20? 
+IFRS 15 applies to all contracts with customers, except when certain other standards apply. [IFRS 15.5]. 
+When these other standards apply, entities are required to consider firstly the other standard before 
+applying IFRS 15. [IFRS 15.7]. IAS 20 is not included in this list of other standards and accordingly the 
+requirements of IFRS 15.7 do not apply for such contracts (this is discussed in detail in Chapter 28 at 
+section 2.5). IAS 20 does provide initial measurement and/or separation requirements in respect of three 
+scenarios (low-interest loans, [IAS 20.10A], non-monetary grants, [IAS 20.23], and forgivable loans, [IAS 20.10]) 
+which are discussed in section 3 below but does not specify how to separate the components of a contract 
+between IFRS 15 and IAS 20 as in the scenario in Illustration 2-2 above. An entity would therefore need to 
+apply the requirements in IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors to develop 
+an accounting policy to determine how to separate the parts of such a contract between IFRS 15 and 
+IAS 20. When developing its policy, an entity is required to refer to, and consider the applicability of 
+requirements in IFRS accounting standards that deal with similar and related issues. [IAS 8.11]. 
+How we see it 
+In developing an accounting policy under IAS 8, in this case to separate a contract into IFRS 15 and 
+IAS 20 components, we believe it would be appropriate to refer to IAS 20.10A by analogy. Hence, the 
+benefit of the government grant must be measured as the difference between the total contract value 
+and the consideration for the portion of the contract that is within the scope of IFRS 15, measured in 
+accordance with IFRS 15 (at stand-alone selling price). 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1812 
+3 
+Recognition and measurement 
+3.1 
+General requirements of IAS 20 
+IAS 20 requires that: [IAS 20.7] 
+Extract from IAS 20 
+7 
+Government grants, including non-monetary grants at fair value, shall not be recognised until 
+there is reasonable assurance that: 
+(a) 
+the entity will comply with the conditions attaching to them; and 
+(b) 
+the grants will be received. 
+The standard does not define ‘reasonable assurance’, which raises the question of whether or not it means 
+the same as ‘probable’ (or ‘more likely than not’). [IAS 37.15]. The phrase ‘reasonable assurance’ is generally 
+interpreted as being a high threshold which implies a significantly higher probability than ‘more likely than 
+not’. Therefore, an entity cannot recognise government grants before it is significantly more likely than 
+probable that the entity will comply with the conditions attached to them and that the grants will be 
+received. In assessing the likelihood of compliance with conditions attached to the grant, it is acknowledged 
+the conditions may relate to future performance and other future events. 
+For a grant related to an asset, a grant cannot be recognised before the asset is acquired, regardless of 
+how likely the acquisition of the asset is. If the grant is also conditional on maintaining a number of jobs to 
+operate the asset, the grant must be recognised as soon as the asset is acquired as long as there is (and 
+continues to be throughout the period during which the grant can be claimed back by government) 
+reasonable assurance that the jobs will be maintained as required. 
+The standard notes that receiving a grant does not of itself provide conclusive evidence that the conditions 
+attaching to the grant have been or will be fulfilled. [IAS 20.8]. This is particularly true since there sometimes 
+exists a supranational legal framework to comply with in addition to the eligibility criteria in local 
+jurisdictions. For example, in the EU, Member State aids also need to comply with EU laws, e.g., in the 
+context of the coronavirus pandemic. A grant may need to be recognised before it is received (in cash or 
+otherwise) or even before the entity formally files a request to receive the grant (i.e., as soon as it becomes 
+eligible to receive the grant). The grant receivable would not generally be a financial asset as it does not 
+arise from contractual rights but rather arises due to government legislation. 
+The assessment about the existence of a ‘reasonable assurance’ must be made before the initial recognition 
+of any grant income as well as subsequently, on a continuous basis, until the end of the period during which 
+any grant received could be claimed back by the government. Such assessment requires the entity to 
+understand fully the exact conditions that apply before it can make a valid judgement on whether it is 
+entitled to the grant, and to what extent. 
+The Illustration below considers two examples. 
+Illustration 3-1: 
+Recognition of a government grant  
+(a) A government has announced that, as a result of the coronavirus pandemic, it is introducing a scheme 
+whereby entities will receive financial support for their employee costs. This support is available to all 
+companies, there are no performance conditions and once the entity submits details of all their 
+employees, there is a routine verification process to confirm the identity of the applicant and the grant is 
+automatically paid. 
+In this Illustration, there are no conditions attached and the scheme is very simple by design so that the 
+outcome is known by the entity with certainty. Hence, assessing whether there is ‘reasonable assurance’ is 
+relatively straight-forward. 
+(b) A government, with the aim of driving investment in artificial intelligence, has announced a scheme whereby 
+they will provide entities in this industry financial support for the next two years but only for very specific 
+cost types. The application process is complex and requires applicants to submit detailed cost information 
+and forecasts alongside the specific amount of funding they will require to cover both past and future costs. 
+Once the submission is made, there is an extensive approval process by an independent reviewer, which may 
+require further information to be submitted by the entity as the approval process progresses. As this is a 
+new scheme, there is no past experience of approvals that the industry can consider. 
+In this Illustration, once due care has been applied by the entity to identify eligible projects and costs as set out 
+in the scheme rules, and provide appropriate documentation, it will normally be reasonably assured that the 
+entity will comply with the conditions attaching to the grant. However, caution may need to be exercised 
+when measuring the amount expected to be received.  
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1813 
+When the terms and conditions of a grant have been communicated before the end of a reporting period, 
+then in determining whether it is reasonably assured that the entity will comply with the conditions 
+attached to a grant and that the grant will be received as per IAS 20.7, information obtained after the 
+reporting period, (e.g., confirmation of the entity receiving the grant), may provide evidence of an adjusting 
+subsequent event. 
+Conversely, no ‘reasonable assurance’ can exist if the terms and conditions of a grant have not been 
+communicated before the end of a reporting period. 
+How we see it 
+In our view, entitlement to a grant does not exist before the terms of the grant have been established by 
+the government and clearly communicated publicly, or confirmed to the entity for entity-specific grants. 
+If a new law or regulation introduces a government grant after the end of the reporting period, it will 
+represent a non-adjusting subsequent event. 
+Illustration 3-2: 
+Date of entitlement to a government grant  
+An entity has a 31 March year end and on 20 March 20X1 there is an earthquake in the jurisdiction in which it 
+operates. There is severe damage to the company’s facilities. The government of that jurisdiction announces 
+on 21 March that it will introduce assistance, but the exact nature and terms of such assistance are not 
+communicated until 4 April 20X1. Hence, the criteria in IAS 20.7 cannot be met on 31 March 20X1. The 
+announcement on 4 April 20X1 confirming the conditions related to the grant is a non-adjusting post balance 
+sheet event. 
+If the facts and circumstances supporting the recognition of the government grant change and it is no 
+longer ‘reasonably assured’ that the entity will retain the grant it has initially recognised, then the entity 
+needs to derecognise any grant income and reverse any related asset or, to the extent the grant has 
+already been received in cash, recognise a refund liability. This may be before it becomes ‘more likely than 
+not’ that the entity may need to refund the grant (i.e., before the recognition threshold for a provision is 
+met under IAS 37 Provisions, Contingent Liabilities and Contingent Assets). 
+When a grant is derecognised, consideration must be given as to whether there has been a change in facts 
+and circumstances or whether there was an error in the initial application of the recognition criteria. In the 
+case of the latter, please refer to IAS 8 guidance as discussed in Chapter 3 at section 4.6. 
+After an entity has recognised a government grant, any related contingent liability or contingent asset must 
+be accounted for under IAS 37. [IAS 20.11]. 
+Illustration 3-3: 
+Derecognition of a government grant  
+A pharmaceutical company recognised a government grant two years ago based on meeting future conditions 
+on their performance. It has reassessed their future performance and no longer believes it is reasonable 
+assured they will comply with the conditions attached to the government grant. This is due to a decline in 
+performance that could not be foreseen when making the initial judgement on recognising the government 
+grant. Any grant funding already received is required to be repaid. 
+The government grant the company was initially entitled to was CU500 to be recognised in the income 
+statement on a straight-line basis over 5 years. Currently, the company has deferred income of CU300 and as 
+CU250 had already been received in cash, the remaining CU250 is held as a receivable on the balance sheet. 
+On derecognition, the accounting entries would be; 
+Dr 
+Grant income (income statement) 
+CU200 
+  
+Dr 
+Deferred income (balance sheet) 
+CU300 
+ 
+  
+Cr 
+Government grant receivable (balance sheet) 
+  
+CU250 
+ 
+Cr 
+Payable to Government (balance sheet) 
+ 
+CU250 
+  
+ 
+Government grants are accounted for similarly regardless of whether they are received in cash or as a 
+reduction of a liability to the government. [IAS 20.9]. When a grant is received in the form of a transfer of a 
+non-monetary asset, the standard allows an alternative accounting treatment, which is detailed in 
+section 3.2 below. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1814 
+3.2 
+Non-monetary grants 
+A government grant in the form of a transfer of a non-monetary asset, such as land or other resources, 
+which is intended for use by the entity, is usually recognised at the fair value of that asset. [IAS 20.23]. Fair 
+value is defined in IFRS 13 and applies when another IFRS accounting standard requires or permits fair 
+value measurement, including IAS 20. [IFRS 13.5, IAS 20.45]. “Fair value is the price that would be received to 
+sell an asset or paid to transfer a liability in an orderly transaction between market participants at the 
+measurement date”. [IAS 20.3, IFRS 13.9]. The requirements of IFRS 13 are discussed in Chapter 15. 
+An alternative of recognising such assets, and the related grant, at a nominal amount is permitted, 
+effectively leading to no recognition and a pure disclosure approach. [IAS 20.23]. This alternative is available 
+even if the fair value of the asset differs materially from the nominal amount. Under IAS 8 an entity must 
+select an accounting policy and apply it consistently to all non-monetary government grants. [IAS 8.13]. 
+Despite IAS 20 permitting two approaches to measuring non-monetary grants, it is acknowledged that 
+regulators in some jurisdictions may have a preference for one approach over the other. 
+3.3 
+Forgivable loans 
+A forgivable loan from government, the repayment of which will be waived under certain prescribed 
+conditions, [IAS 20.3], is to be treated as a government grant when there is reasonable assurance that the 
+entity will meet the terms for forgiveness of the loan. [IAS 20.10]. 
+Illustration 3-4: 
+Government grant by way of forgivable loan 
+An entity participates in a government-sponsored research and development programme under which it is 
+entitled to receive a government grant of up to 50% of the costs incurred for a particular project. The 
+government grant is interest-bearing and fully repayable based on a percentage (‘royalty’) of the sales revenue 
+of any products developed. Although the repayment period is not limited, no repayment is required if there are 
+no sales of the products. 
+The entity must account for this type of government grant as a forgivable loan, as follows: 
+• 
+Initially recognise the cash received as a liability. 
+• 
+Apply the principles underlying the effective interest rate method in subsequent periods, which would 
+involve estimating the amount and timing of future cash flows. 
+• 
+Review at each reporting date whether there is reasonable assurance that the entity will meet the terms 
+for forgiveness of part, or all of the loan based on expected future royalty repayments. If this is the case, 
+then IAS 20.10 would require derecognition of part or all of the liability initially recorded with a 
+corresponding profit in the income statement. 
+And 
+• 
+If the entity subsequently revises its estimates of future sales upwards, it adjusts the amount of the liability 
+and recognises a corresponding loss in the income statement for any amounts previously included in profit. 
+However, an arrangement only meets the definition of a forgivable loan if its terms provide for 
+circumstances where repayment would be waived (i.e., forgiven), without any other form of settlement. In 
+Illustration 3-4 above, the entity either repays some or all of the loan if the project generates any sales, or, 
+if no sales are made, its liability is waived in full, with no further recourse to the government. In May 2016, 
+the IFRS IC concluded that if any other consideration is required to be given in settlement of the obligation, 
+then the arrangement is not a forgivable loan. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1815 
+Frequently asked questions 
+Question 3-1: 
+How does an entity account for cash received from a government to help finance a 
+research and development project, when nothing is repayable in cash if the project is unsuccessful 
+and instead the entity is required only to transfer to the government the rights to the research? 
+The IFRS IC was asked to clarify whether the cash received would be treated as a forgivable loan in the 
+following specific circumstances:2 
+• 
+The loan was repayable only if the entity decided to exploit and commercialise the results of the 
+research phase of the project. 
+• 
+Otherwise, the loan was not repayable in cash but instead the entity was required to transfer to the 
+government the rights to the research. 
+The IFRS IC noted that, in this arrangement, the cash received did not meet the definition of a forgivable 
+loan under IAS 20, because the government did not undertake to waive repayment of the loan but instead 
+required settlement in cash or by the transfer of rights to the research. In other words, the entity could 
+only avoid repayment by settling a non-financial obligation (to hand over the rights to the research). This 
+requirement confirms the status of the cash receipt as a financial liability under IAS 32 Financial 
+Instruments: Presentation. [IAS 32.20(a)]. The IFRS IC also noted that the financial liability must be measured 
+under IFRS 9. Any difference between the cash receipt and the fair value of the liability would need to be 
+accounted for under IAS 20 as discussed in section 3.4 below. The IFRS IC decided not to add this issue to 
+its agenda on the basis that existing standards provide an adequate basis of accounting.3 
+Where an entity receives a loan to finance a research and development project and the loan will be forgiven 
+if the project is not successful, then the existence of the forgivable loan has no bearing on assessing the 
+project for capitalisation under the criteria in IAS 38 (see Chapter 18 at section 6.2). One of the criteria for 
+capitalisation of development costs is that the entity must demonstrate that the intangible asset will 
+generate probable economic benefits. [IAS 38.57(d)]. The existence of the forgivable loan does not mean that 
+this requirement is always met. The criteria in IAS 38 must be assessed on their own merits. 
+3.4 
+Loans at lower than market rates of interest 
+IAS 20 requires government loans that have a below-market rate of interest to be recognised and measured 
+in accordance with IFRS 9. [IAS 20.10A, IFRS 9.5.1.1]. The loans could be interest-free. The difference between 
+the initial carrying value of the loan (its fair value) and the proceeds received is treated as a government 
+grant. [IAS 20.10A, IFRS 9.B5.1.1]. 
+Illustration 3-5: 
+Interest-free loan from a government agency 
+Company A secures an interest-free loan of CU1,000 from a local government agency to ensure that the 
+company invests in new equipment at its manufacturing facility. The loan is repayable at the end of five years 
+and carries no interest. Company A can draw down the loan on demonstrating that it has incurred qualifying 
+expenditure on property, plant and equipment. 
+On initial recognition, the market rate of interest for a similar five-year loan for Company A is 10% per year. 
+The initial fair value of the loan is the present value of the future payment of CU1,000, discounted using the 
+market rate of interest for a similar loan of 10% for five years. This equates to CU621. 
+The value of the government incentive to Company A to invest in its factory is CU379, which is the difference 
+between the total consideration received of CU1,000 and the loan’s initial fair value of CU621. This difference 
+is treated as a government grant. 
+Subsequently, interest will be imputed to the loan using the effective interest method, taking account of 
+any transaction costs (see Chapter 45 at section 3.3.1). IAS 20 requires that the grant is recognised in 
+profit or loss on a systematic basis that matches it with the related costs it is intended to compensate. 
+[IAS 20.12]. The standard stresses that the entity must consider the conditions and obligations that have 
+been, or must be, met when ”identifying the costs for which the benefit of the loan is intended to 
+compensate”. [IAS 20.10A]. In this example, the benefit of the loan is to help fund the purchase of new 
+equipment. Therefore, it would be appropriate to recognise the grant as the new equipment is depreciated, 
+rather than as the interest on the loan is recognised. Recognition in the income statement of the benefit of 
+loans at below-market interest rates is discussed further in section 3.6.2 below. 
+ 
+2 
+IFRIC Update, May 2016, available on the IFRS Foundation’s website. 
+3 
+IFRIC Update, May 2016, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1816 
+As well as subsidised lending to meet specific objectives such as investment in new equipment, loans made 
+as part of government rescue plans are generally within the scope of IAS 20 if they are at a lower than 
+market rate of interest. In 2009, PSA Peugeot Citroën received assistance from the European Investment 
+Bank as described in Practical example 3-1 below. 
+Practical example 3-1: 
+PSA Peugeot Citroën (2009) 
+France 
+Half-Year Financial Report [extract] 
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+Six months ended June 30, 2009 [extract] 
+NOTE 17 - CURRENT AND NON-CURRENT FINANCIAL LIABILITIES MANUFACTURING AND SALES 
+COMPANIES [extract] 
+17.2. REFINANCING TRANSACTIONS [extract] 
+ 
+ 
+Governments sometimes provide assistance in arrangements that are similar in substance to loans by 
+allowing entities to retain sums that they collect on behalf of the government (e.g., value added taxes) until 
+a future event, as in the following Illustration: 
+Illustration 3-6: 
+Entity allowed to retain amounts owed to government 
+The local government of an underdeveloped region is trying to stimulate investment in fixed assets by allowing 
+local companies to delay payment of the value added tax (VAT) on their sales. An entity participating in this 
+scheme is entitled to retain an amount up to 40% of its investment in fixed assets. The retained VAT must be 
+paid to the local government after 5 years and does not bear interest. 
+The fact that amounts retained by the entity are required to be repaid after 5 years makes this arrangement 
+similar in nature to an interest-free loan. Accordingly, the entity would determine a value for the government 
+assistance by comparing the amounts retained to the fair value of a 5-year loan at market rates of interest, as 
+illustrated in Illustration 3-5 in section 3.4 above. In determining an appropriate basis for recognising the benefit 
+of the grant in profit or loss, the entity must consider the conditions and obligations that have been, or must be, 
+met when ”identifying the costs for which the benefit of the loan is intended to compensate”. [IAS 20.10A]. 
+In Illustration 3-6 above, because the grant is intended to stimulate investment in fixed assets, it would be 
+appropriate to recognise the grant in income in line with depreciation of the relevant assets. The judgement 
+involved in matching the benefit to costs is discussed in section 3.6.1 below. 
+3.5 
+Government guarantees 
+Governments sometimes provide support to an entity indirectly in the form of guarantees to lenders to 
+the entity. 
+For example, a government may offer to guarantee loans taken out by entities that meet certain conditions. 
+The government does not charge the lender a fee for this guarantee and consequently with the credit 
+enhancement provided by the guarantee, the lender is able to reduce the interest rate charged to the 
+borrower. 
+How we see it 
+IAS 20 cites guarantees as an example of government assistance that cannot reasonably have a value 
+placed on them and hence are excluded from the definition of government grants. Nevertheless, where it 
+can be demonstrated that a fair value can be determined for the guarantee, and the guarantee is not 
+integral to the loan then it could be accounted for separately as a government grant. 
+This determination will depend on the facts and circumstances of the guarantee. Assessing whether the 
+guarantee is integral to the loan is a matter of judgement (see Chapter 47 at section 5.8.1.A). This may 
+include consideration as to whether the loan together with the guarantee is capable of being transferred. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1817 
+If it is determined that grant accounting is appropriate, then the approach for below-market rate loans 
+would apply (see sections 3.4 above and 3.6.2 below). In this case, the fair value of the loan reflects the 
+present value of cash flows discounted using the market rate as if no guarantee were in place. The 
+difference between the proceeds received and the fair value of the loan is accounted for as a government 
+grant. If it is determined that the guarantee is government assistance, then the nature of that government 
+assistance must be disclosed. [IAS 20.39(b)]. 
+3.6 
+Recognition in the income statement 
+IAS 20 notes that: [IAS 20.12] 
+Extract from IAS 20 
+12 
+Government grants shall be recognised in profit or loss on a systematic basis over the 
+periods in which the entity recognises as expenses the related costs for which the grants are 
+intended to compensate. 
+Grants must not be credited directly to equity. [IAS 20.15]. Income recognition on a receipts basis, which is 
+not in accordance with the accruals accounting assumption, is only acceptable if there is no basis for 
+allocating a grant to periods other than the one in which it is received. [IAS 20.16]. 
+IAS 20 rejects a ‘capital approach’, under which a grant is recognised outside profit or loss (typically 
+credited directly to equity), [IAS 20.13], in favour of the ‘income approach’, under which grants are taken to 
+income over one or more periods, because: 
+(a) Government grants are receipts from a source other than shareholders. As such, they are not credited 
+directly to equity but must be recognised in profit or loss in appropriate periods. 
+(b) Government grants are rarely gratuitous. An entity earns them through compliance with their conditions 
+and meeting the envisaged obligations. They must therefore be recognised in profit or loss over the 
+periods in which the entity recognises the associated costs which the grant is intended to compensate. 
+(c) As income and other taxes are expenses, it is logical to deal also with government grants, which are an 
+extension of fiscal policies, in profit or loss. [IAS 20.15]. 
+IAS 20 envisages that in most cases, the periods over which an entity recognises the costs or expenses 
+related to the government grant are readily ascertainable and thus grants in recognition of specific 
+expenses are recognised as income in the same period as the relevant expense. [IAS 20.17]. 
+Grants related to depreciable assets are recognised as income over the periods in which, and in proportion 
+to, depreciation on those assets is charged. [IAS 20.17]. Grants related to non-depreciable assets may also 
+require the fulfilment of certain obligations, in which case they would be recognised as income over the 
+periods in which the costs of meeting the obligations are incurred. For example, a grant of land may be 
+conditional upon the erection of a building on the site, and it may be appropriate to recognise it as income 
+over the life of the building. [IAS 20.18]. 
+IAS 20 acknowledges that grants may be received as part of a package of financial or fiscal aids to which a 
+number of conditions are attached. In such cases, the standard indicates that care is needed in identifying 
+the conditions giving rise to the costs and expenses which determine the periods over which the grant will 
+be recognised as income. It may also be appropriate to allocate part of the grant on one basis and part on 
+another. [IAS 20.19]. 
+Where a grant relates to expenses or losses already incurred or becomes receivable for the purpose of 
+giving immediate financial support to the entity with no future related costs, the grant must be recognised 
+in income when it becomes receivable, and the entity must disclose its effects to ensure that these are 
+clearly understood. [IAS 20.20, IAS 20.21, IAS 20.22]. The reference to ‘expenses or losses already incurred’ 
+relates to expenses already recognised in the income statement. Where an entity has already incurred costs 
+but they have been capitalised, then the grant received will be recognised in profit or loss as the 
+depreciation expense on the asset is recognised. [IAS 20.17]. 
+Many of the problems in accounting for government grants relate to that of interpreting the requirement to 
+match the grant with the related costs, particularly because of the international context in which IAS 20 is 
+written. It does not address specific questions that relate to particular types of grants that are available in 
+individual countries. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1818 
+3.6.1 
+Achieving the most appropriate matching 
+The requirement to match the grant against the costs that it is intended to compensate can be difficult to 
+apply in practice, because grants are sometimes given for a particular kind of expenditure that forms a 
+component of a larger project. For example, in trying to determine an appropriate accounting policy for 
+government assistance that is in the form of a grant against training costs incurred as part of a larger 
+project, an entity might consider recognition in income in one of the following ways: 
+(a) Matching against direct training costs 
+Or 
+(b) Matching rateably against total project costs 
+How we see it 
+Determining a reasonable approach is dependent on the specific facts and circumstances, including not 
+only the terms of the arrangement but also other facts that might highlight the purpose of the grant, 
+including those relating to the context in which the grant was offered, the conditions attached to it and 
+the consequences of failing to meet those conditions. 
+Recognition of a grant in income when received in cash is unlikely to be an appropriate method 
+because it is not obviously linked to the recognition of the related expenditure and would be acceptable 
+only in the rare circumstances where no basis exists for allocating a grant to periods other than the 
+one in which it is received. 
+In some jurisdictions, grants are taxed as income on receipt; consequently, this is often the argument 
+advanced for taking grants to income when received in cash. However, it is clear that the treatment of an 
+item for tax purposes does not necessarily determine its treatment for accounting purposes, and 
+recognition in the income statement on receipt may result in an unacceptable departure from the principle 
+that government grants must be matched with the costs that they are intended to compensate. [IAS 20.16]. 
+The recognition of a grant in the income statement in a different period from that in which it is taxed, gives 
+rise to a temporary difference that must be accounted for in accordance with IAS 12 (see Chapter 29). The 
+Illustration below illustrates that the determination of a systematic basis for recognition under the standard 
+is not always straightforward. 
+Illustration 3-7: 
+Grant associated with investment property 
+The government provides a grant to an entity that owns an investment property on the condition that it is let 
+for social housing for 10 years. The grant is intended to compensate the entity for the lower rent it will receive 
+when the property is let as social housing at below-market rates. That means that future rental income will be 
+lower over the period of the lease which, at the same time, reduces the fair value of the investment property. 
+The property cost CU1,000 and its fair value with the condition that it must be let for social housing is CU900, 
+while the fair value of the property without that condition is CU1,000. The grant is for CU100, and the useful 
+life of the property is 20 years. 
+If the entity accounts for the investment property under the cost model in IAS 40, then it could be argued that 
+the government grant must be recognised on a straight-line basis (or another systematic basis) over the 10-year 
+term of the lease to offset the lower than market rental income as social housing. 
+Alternatively, if the entity applies the fair value model in IAS 40.33, the cost being compensated is effectively 
+the present value of the foregone future rentals (which affects the fair value change recognised). In that case, 
+it is more appropriate to recognise the benefit of the government grant immediately, to match the reduction in 
+the fair value of the investment property which, in this example is CU100. 
+ 
+How we see it 
+In the face of the issues described above of attributing a grant to related costs, entities will have to make 
+their own determination as to how the matching principle must be applied in light of the specific facts and 
+circumstances of the case. The only overriding considerations are that the determination must be 
+consistently applied to similar grants and the policy adopted in respect of both grants related to assets 
+and grants related to income, if material, must be adequately disclosed along with any significant 
+judgements relevant to the application of IAS 20. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1819 
+3.6.2 
+Loans at lower than market rates of interest 
+As discussed in section 3.4 above, IAS 20 requires that the difference between the initial fair value of a 
+government loan that has a below-market rate of interest and the proceeds received is treated as a 
+government grant. [IAS 20.10A]. 
+The issue that then arises is how to recognise the grant in profit or loss. As noted in section 3.6 above, 
+IAS 20 requires that the grant is recognised in profit or loss on a systematic basis that matches it with the 
+related costs it is intended to compensate, [IAS 20.12], i.e., the emphasis in IAS 20 is on matching the benefit 
+of a grant with the related costs as they are recognised in the income statement, rather than on the 
+recognition of liquidity or cash flows. 
+The assessment of an appropriate method of allocation requires the entity to identify the costs intended to 
+be compensated by the grant and is driven by a careful analysis of the facts and circumstances. The final 
+determination as to which treatment is appropriate must reflect not only the terms of the arrangement but 
+also other facts that might highlight the purpose of the loan, e.g.: 
+• 
+Where it is determined that the grant is a grant related to an asset, as in Illustration 3-5 in section 3.4 
+above, recognition as the asset is depreciated would be appropriate. 
+• 
+Where the grant is a grant related to income and is intended to compensate for a specific expense, then 
+recognition at the same time as that expense is recognised in profit or loss would be appropriate. 
+[IAS 20.17]. This could include immediate recognition for expenses or losses that had already been 
+incurred. [IAS 20.20]. Where the grant is intended to compensate for the cost of funding, then 
+recognition on the same basis as the interest is charged (i.e., over the term of the loan) would be 
+appropriate. This is shown in the following Illustration. 
+Illustration 3-8: 
+Below-market interest rate loan from the government 
+Company A secures a low interest loan of CU1,000 from the government as part of its support measures for 
+the coronavirus pandemic. The loan is repayable at the end of five years and carries an interest rate of 5%, 
+demonstrably below the market rate. There are no conditions attached regarding the expenditure that the loan 
+must be used for. Also, the grant benefit of the below-market rate loan cannot be attributed to any specific 
+costs, past or future, neither based on the terms of the arrangement nor on other facts and circumstances, 
+other than the cost of funding. The purpose of the grant is to provide the entity with immediate liquidity 
+support by allowing it to borrow more money than it could have based on the market rate. 
+On initial recognition, the market rate of interest for a similar five-year loan is 10% per year. The initial fair 
+value of the loan is the present value of the future payments for the loan, discounted using the market rate of 
+interest for a similar loan of 10% for five years. This equates to CU811. 
+The value of the government incentive to Company A is CU189 being the difference between the total 
+consideration received of CU1,000 and the loan’s initial fair value of CU811. This difference is treated as a 
+government grant. 
+In this Illustration, the grant is compensating Company A for the higher market rate of interest that would 
+otherwise have been charged as an expense on the loan. Company A recognises the grant benefit on the same 
+basis as the interest is charged, over the term of the loan, thereby matching the benefit with the interest cost. 
+3.6.3 
+The period to be benefited by the grant 
+IAS 20 cautions that care is needed in identifying the conditions giving rise to the costs and expenses which 
+determine the periods over which the grant will be earned. [IAS 20.19]. The qualifying conditions that must be 
+satisfied are not necessarily conclusive evidence of the period to be benefited by the grant. For example, 
+certain grants may become repayable if assets cease to be used for a qualifying purpose within a certain 
+period; notwithstanding this condition, the grant may need to be recognised over the whole life of the 
+asset, not over the qualifying period. 
+3.6.4 
+Separating grants into components 
+The grant received may relate to a package of activities, the components of which have different costs and 
+conditions. In such cases, it is common that the components for which the grant is given are not specifically 
+identified or quantified. It might be appropriate to treat these different components on different bases 
+rather than accounting for the entire grant in one way, [IAS 20.19], however, this will not always be 
+practicable. For example, a grant may be given on the basis that an entity makes approved capital 
+expenditure in a particular area and employs a specified number of local people for an agreed period of 
+time. In general, the most straightforward way of recognising such a grant is by linking it to long-term 
+assets where this is a possible interpretation, particularly where the receipt of the grant depends on the 
+cost of acquisition of long-term assets. However, this approach can only be taken if there is no clear 
+indication to the contrary. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1820 
+How we see it 
+The assessment of an appropriate method of allocation requires the entity to identify the costs intended 
+to be compensated by the grant and is driven by a careful analysis of the facts and circumstances. The 
+final determination as to which treatment is appropriate must reflect not only the terms of the 
+arrangement but also other facts that might highlight the purpose of the loan. 
+Allocation of a grant between the components will often involve judgement and entities may place more 
+emphasis on some features than on others. In these cases, and where the effect is material, the financial 
+statements must explicitly state what judgement has been made when applying the standard and disclose 
+the corresponding financial effect. 
+3.7 
+Repayment of government grants 
+A government grant that becomes repayable after recognition must be accounted for as a revision of an 
+accounting estimate. An entity must carefully assess the existence of a ‘reasonable assurance’ required to 
+account for the grant initially so that if the grant subsequently becomes repayable, this is not the correction 
+of a prior period error but the consequence of a change in circumstances or new information. [IAS 8.34]. 
+Repayment of a grant related to income must be charged first against the related unamortised deferred 
+credit and any excess must be recognised as an expense immediately. [IAS 20.32]. 
+Repayment of a grant related to an asset must be recognised by increasing the carrying amount of the 
+related asset or reducing the related unamortised deferred credit. The cumulative additional depreciation 
+that would have been recognised to date as an expense in the absence of the grant must be charged 
+immediately to profit or loss. [IAS 20.32]. 
+IAS 20 emphasises that the circumstances giving rise to the repayment of a grant related to an asset may 
+require that consideration be given to the possible impairment of the asset. [IAS 20.33]. 
+3.8 
+Government assistance 
+Extract from IAS 20 
+34 
+Excluded from the definition of government grants in paragraph 3 are certain forms of 
+government assistance which cannot reasonably have a value placed upon them and 
+transactions with government which cannot be distinguished from the normal trading 
+transactions of the entity. 
+[IAS 20.34]. 
+In the period since 1984, when IAS 20 first became effective, [IAS 20.41], the use of fair values in financial 
+reporting and the range of techniques used to determine reliable measures of fair value have increased. 
+IFRS 13, issued in 2011, defines fair value, provides a principles-based framework for measuring fair value 
+under IFRS accounting standards and requires information about those fair value measurements to be 
+disclosed. [IFRS 13.1]. IFRS 13 provides guidance for selecting appropriate valuation techniques and 
+therefore one might now expect the occurrence of government assistance that cannot reasonably have a 
+value placed on it to be a relatively rare occurrence (see Chapter 15). 
+IAS 20 cites a government procurement policy as an example of assistance that cannot be distinguished 
+from the normal trading transactions of the entity. In this case, the ”existence of the benefit might be 
+unquestioned but any attempt to segregate the trading activities from government assistance could well be 
+arbitrary”. [IAS 20.35]. The standard therefore requires disclosure of significant government assistance. 
+[IAS 20.36, IAS 20.39(b)]. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1821 
+The following Illustration describes two different forms of government assistance: 
+Illustration 3-9: 
+Government assistance 
+(a) Assistance in the form of priority bidding status 
+A government specifies that entities below a certain size are to be given priority in bidding for a particular type 
+of government contract by mandating a minimum number of such entities to obtain bidding status. Although 
+the entities will benefit from the quota, the value cannot be identified, and the effects of the assistance cannot 
+be segregated from the trading activities of the qualifying entities. 
+(b) Assistance in the form of credit facilities at market rates 
+Three governments that between themselves own just over 50% of the shares in an airline participate in 
+granting it a revolving credit facility at a market rate of interest. This is not a government grant as it is on 
+terms that a private market participant might have accepted but it is government assistance as the benefit 
+cannot be distinguished from normal trading activities of the airline. 
+IAS 20 notes that: [IAS 20.38] 
+Extract from IAS 20 
+38 
+In this Standard, government assistance does not include the provision of infrastructure by 
+improvement to the general transport and communication network and the supply of improved 
+facilities such as irrigation or water reticulation which is available on an ongoing indeterminate 
+basis for the benefit of an entire local community. 
+3.9 
+Particular issues arising when grants related to assets are 
+accounted for as deferred income 
+When grants related to assets are accounted for as deferred income, any unamortised balance carried in the 
+statement of financial position needs to be included in the accounting treatment of an impairment loss, a gain 
+on disposal or a reassessment of the useful of the asset to which it relates so that the impact on profit or loss 
+is the same as if the grant had been deducted from the initial carrying amount of the related asset. 
+3.9.1 
+Impairment testing of assets that qualified for government grants 
+When an asset is tested for impairment under IAS 36 Impairment of Assets, the value of any government 
+grants received in relation to those assets is taken into account regardless of whether the entity elected to 
+deduct the grants in arriving at the carrying amount of the related assets or decided to set up the grant as 
+deferred income. 
+Where grants have been deducted from the initial carrying amount of the related assets, no further 
+adjustment is required before commencing the impairment test. However, when grants relating to assets 
+are classified as deferred income, the unamortised balance carried in the statement of financial position 
+must be deducted from the carrying amount of the assets or cash generating unit (CGU) being tested. 
+Illustration 3-10: 
+Impairment test of an asset that qualified for a government grant 
+An entity, which is operating in a development area, purchased a machine for CU1,000 to use for the 
+production of goods. The investment in the machine is eligible for a government grant amounting to 50% of 
+the purchase price. The machine is measured according to the cost model in IAS 16 Property, Plant and 
+Equipment. 
+In accordance with IAS 20.24 and 26, the entity presented the grant, which it received in cash, as deferred 
+income in the statement of financial position. The entity subsequently recognised this deferred income as 
+income on a straight-line basis over the useful life of the machine. 
+The entity has to perform an impairment test of the asset. What impact does the grant have on this test? 
+The entity deducts the grant recognised as deferred income that relates to the machine from the carrying 
+amount of the asset for an impairment test for that asset. 
+If the entity cannot test the asset for impairment individually and the impairment test is carried out at a CGU 
+level, the grant is deducted from the carrying amount of the CGU. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1822 
+If the impairment test requires the carrying value of the asset or related CGU to be reduced (because it exceeds 
+the recoverable amount determined under IAS 36), the amount of the impairment is deducted from the 
+carrying amount of the asset. However, an entity must not adjust the balance presented as deferred income, 
+which continues to be recognised as income over the useful life of the asset. This is illustrated as follows: 
+Illustration 3-11: 
+The effect of impairment of asset on the related government grant 
+On 1 January 20X1, an entity purchased a machine costing CU1,000 to use for the production of goods. The 
+investment in the machine is eligible for a government grant amounting to 50% of the purchase price. The 
+machine has a useful economic life of 10 years, and the entity determines that the benefit of the grant will be 
+amortised over the useful life of the asset. However, due to adverse trading conditions, at the end of 20X1 it is 
+determined that the carrying value of the asset (net of grant) is not recoverable, and is fully impaired 
+Immediately before the impairment, the respective carrying values are: 
+• 
+Asset CU900 (cost of CU1,000 less depreciation to date of CU100) 
+• 
+Grant CU450 (after amounts released to income statement to date of CU50) 
+Applying the principles noted in Illustration 3-10 above, if the asset, net of the grant, is fully impaired that 
+means an impairment loss of CU450 (CU900-CU450) arises and is charged to the income statement. 
+Immediately after this impairment, the carrying values are as follows: 
+• 
+Asset CU450 (after impairment of CU450) 
+• 
+Grant CU450 
+The grant continues to be recognised as income over the useful life of the asset. 
+Likewise, any future reversal of the impairment would not affect the carrying value of the grant.  
+When the asset that is tested for impairment has been financed partly or fully by forgivable loans, the 
+recognition of an impairment loss would generally be a trigger for the reassessment of whether there is 
+reasonable assurance that the entity will meet the terms for forgiveness of part or all the related forgivable 
+loan (see section 3.3 above). 
+The requirements of IAS 36 are discussed in Chapter 21. 
+3.9.2 
+Disposal of assets that qualified for government grants 
+Where grants have been deducted from the initial carrying amount of the related assets, the gain on 
+disposal is based on the carrying amount of the assets and no further adjustment is needed. 
+Where an asset is disposed of and the grant related to the asset is classified as deferred income, any 
+remaining deferred income at the time of disposal must be recognised immediately in the income 
+statement. It would also be necessary to assess whether the disposal of such an asset triggers any payment 
+obligations to the government, such as full or partial repayment of the grant or sharing of the gain on 
+disposal, if applicable. These obligations may give rise to the recognition of a liability. 
+3.9.3 
+Changes to the useful life of assets that qualified for government grants 
+Where the useful life of an asset has changed then in respect of depreciation of that asset, the change is 
+accounted for as a change in an accounting estimate in accordance with IAS 8. [IAS 16.51, IAS 8.36]. 
+Where grants have been deducted from the initial carrying amount of the related assets, no further adjustment 
+is needed to reflect the change in estimate prospectively over the remaining useful life of the assets. 
+Where a grant related to the asset is classified as deferred income, the change to the release of any 
+remaining deferred income to the income statement is also reflected prospectively over the new remaining 
+useful life of the associated asset. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1823 
+4 
+Presentation of grants 
+4.1 
+Presentation of grants related to assets in the statement of 
+financial position 
+Grants that are related to assets (i.e., those whose primary condition is that an entity qualifying for them 
+must purchase, construct or otherwise acquire long-term assets) must be presented in the statement of 
+financial position either: [IAS 20.24] 
+(a) By setting up the grant as deferred income, which is recognised as income on a systematic basis over 
+the useful life of the asset [IAS 20.26] 
+Or 
+(b) By deducting the grant in arriving at the carrying amount of the asset, in which case the grant is 
+recognised in profit or loss as a reduction of depreciation [IAS 20.27] 
+IAS 20 regards both these methods of presenting grants in financial statements as acceptable alternatives. 
+[IAS 20.25]. The presentation approach must be applied consistently to all similar grants and appropriately 
+disclosed. 
+Greencore Group plc adopted the former treatment, as shown below: 
+Practical example 4-1: 
+Greencore Group plc (2021) 
+United Kingdom 
+Annual Report and Financial Statements 2021 [extract] 
+Notes to the Group Financial Statements [extract] 
+1. Group statement of accounting policies [extract] 
+ 
+… 
+If an entity chooses to set up the grant as deferred income, which is then recognised as income on a 
+systematic basis over the useful life of the asset, IAS 20 is not explicit about where in the income statement 
+this must be presented. 
+How we see it 
+Where a grant related to an asset is recognised as deferred income, we believe that when it is 
+subsequently recognised in profit or loss, there is an accounting policy choice as to whether it is 
+recognised gross or deducted from the depreciation expense. 
+Under the ‘gross’ accounting policy, the income statement presentation reflects the balance sheet 
+treatment. However, the ‘net’ approach is also an acceptable accounting policy as this is analogous to the 
+accounting policy choice available under IAS 20.29 (see section 4.2 below). IAS 1 Presentation of Financial 
+Statements4 also suggests offsetting may be appropriate where it ‘reflects the substance of the transaction’ 
+[IAS 1.33], which will be subject to some degree of judgement. 
+ 
+4 
+IFRS 18 Presentation and Disclosure in Financial Statements, which supersedes IAS 1 for reporting periods beginning on or after 
+1 January 2027 (with earlier application permitted) was issued by the IASB in April 2024. See Chapter 4 for further details on the 
+new concepts and requirements of IFRS 18. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1824 
+An example of a company adopting a policy of deducting grants related to assets from the cost of the 
+assets is shown below: 
+Practical example 4-2: 
+Akzo Nobel N.V. (2023) 
+The Netherlands 
+AkzoNobel Report 2023 [extract] 
+FINANCIAL INFORMATION [extract] 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS [extract] 
+Note 1 SUMMARY OF MATERIAL ACCOUNTING POLICIES [extract] 
+ 
+ 
+4.2 
+Presentation of grants related to income in the statement of profit 
+or loss 
+Grants related to income must be presented either as: 
+(a) A credit in the income statement, either separately or under a general heading such as ‘other income’ 
+Or 
+(b) A deduction in reporting the related expense [IAS 20.29] 
+The standard points out that supporters of method (a) above consider it inappropriate to present income 
+and expense items on a net basis and that “separation of the grant from the expense facilitates comparison 
+with other expenses not affected by a grant”. [IAS 20.30]. Furthermore, method (a) is consistent with the 
+general prohibition of offsetting in IAS 1 Presentation of Financial Statements. [IAS 1.32, IAS 1.33]. However, 
+supporters of method (b) above would argue that “the expenses might well not have been incurred by the 
+entity if the grant had not been available and presentation of the expense without offsetting the grant may 
+therefore be misleading”. [IAS 20.30]. The standard regards both methods as acceptable for the presentation 
+of grants related to income. [IAS 20.31]. When offsetting is permitted by another standard, the general 
+prohibition in IAS 1 does not apply. [IAS 1.32]. In any case, IAS 20 considers that disclosure of the grant is 
+necessary when material for a proper understanding of the financial statements. Furthermore, disclosure of 
+the effect of grants on any item of income or expense, which must be disclosed separately, is usually 
+appropriate. [IAS 20.31]. 
+As illustrated below, Anheuser-Busch InBev NV/SA has adopted a policy of presenting grants within other 
+operating income, which is shown separately on the face of the income statement as a component of profit 
+from operations, rather than as a deduction from the related expense. 
+Practical example 4-3: 
+Anheuser-Busch InBev NV/SA (2023) 
+Belgium 
+2023 Annual Report [extract] 
+Financial report [extract] 
+Consolidated financial statements [extract] 
+Notes to the consolidated financial statements [extract] 
+3. Summary of significant accounting policies [extract] 
+(W) INCOME RECOGNITION [extract] 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1825 
+Refer to Practical example 4-2 in section 4.1 above for an example of a company presenting the grant as a 
+deduction from the related expense in the income statement. 
+Frequently asked questions 
+Question 4-1: 
+Assuming an entity elects not to deduct the government grant from the related 
+expense, can an entity present government grants related to income as revenue? 
+When grants related to income are not deducted from the related expense, IAS 20 is not prescriptive, 
+stating that such grants are presented “… either separately, or under a general heading such as ‘Other 
+income’”. [IAS 20.29]. 
+A question, therefore, arises as to whether it may be appropriate to present income from grants as 
+revenue on the face of the income statement either within one revenue line item with appropriate 
+disaggregation in the notes to the financial statements or shown as a separate line item on the face of 
+the income statement (i.e., Revenue from grants) with inclusion in a revenue subtotal. 
+This view is consistent with the Basis for Conclusions on IFRS 15, which says that an entity can present 
+interest income as revenue only when interest income represents income from an entity’s ordinary 
+activities (discussed in Chapter 28 at section 5.5.5). [IFRS 15.BC247]. 
+It is important to distinguish between those transactions which arise in the course of an entity’s ordinary 
+activities, and therefore may be presented as revenue, and transactions that are incidental to the main 
+revenue-generating activities, but do not generate revenue themselves.  
+How we see it 
+IFRS 15 defines revenue as income arising in the course of an entity’s ordinary activities. Determining 
+whether a government grant is income arising in the course of an entity’s ordinary activities is a 
+matter of judgement after considering all the facts and circumstances relevant to an entity. Facts to 
+consider relevant to this judgement include consideration of the business model of the entity as well as 
+the frequency and purpose of grants received. 
+Accordingly, some grants may be presented as revenue while others, that are determined not to arise 
+in the course of an entity’s ordinary activities, cannot be presented as revenue. 
+However, any grant revenue recognised that is outside the scope of IFRS 15 will need to be presented 
+either separately from revenue from contracts with customers within the income statement or 
+disclosed separately within the notes. This is because entities are required to present in the statement 
+of comprehensive income, or disclose within the notes, the amount of revenue recognised from 
+contracts with customers separately from other sources of revenue. 
+The presentation approach must be applied consistently to all similar grants and appropriately disclosed. 
+Grants that have the same characteristics must follow the same presentational approach on a consistent 
+basis. 
+Illustration 4-1: 
+Presentation of grants with different characteristics 
+Company A has been receiving government grants to fund research activities for a number of years that it 
+presents as ‘other operating income’. In its current financial year, it has also received government support to 
+compensate for the salaries of furloughed employees due to the coronavirus pandemic. Company A judges the 
+R&D credits and the furlough grant to have different characteristics. It continues to present the grants to fund 
+research activities separately in other operating income and recognises the furlough grant as a deduction from 
+employment costs. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1826 
+4.3 
+Statement of cash flows 
+The receipt of grants can cause major movements in the cash flows of an entity. 
+However, neither IAS 20 nor IAS 7 Statement of Cash Flows (see Chapter 36 at section 4.4.15) provide 
+unambiguous guidance on where in the statement of cash flows to present the cash inflows from the receipt 
+of government grants. 
+The IFRS IC discussed the presentation of cash flows for several fact patterns including government grants 
+related to assets in July 2012.5 The issue was further discussed in March 2013. The IFRS IC observed that 
+the primary principle behind the classification of cash flows in IAS 7 is that cash flows are classified on the 
+basis of the nature of the activity in a manner that is most appropriate to the business of the entity in 
+accordance with IAS 7.11 and with the definitions of operating, investing and financing activities in IAS 7.6. 
+In the course of the discussions held, staff initially suggested that grants were providing a source of 
+financing to the entity, and consequently cash received would be part of the entity’s financing activities. In 
+a later meeting, however, it reached a different conclusion that cash received from a government grant is 
+presented as an operating cash flow instead, on the basis that although cash inflows from a grant provide 
+the entity with financing for the designated asset/activity, a grant does not represent a borrowing activity 
+because there is no expectation that the resource will be returned to the provider of finance; or that the 
+provider of finance will be appropriately compensated. Eventually, the IFRS IC concluded that clarifying the 
+application of the primary classification principle in IAS 7 was a matter too broad for it to address and 
+discontinued its work.6 
+Consequently, until and unless the IASB addresses this issue as part of its upcoming project on the cash 
+flow statement, there is likely to be diversity in practice for the presentation of all grants in the statement 
+of cash flows, whether related to assets or to income. Cash flows received from grants could be considered 
+to be financing by nature because they provide a source of financing to the entity. Alternatively, cash flows 
+received from grants (or only those from grants related to income) could be presented as operating cash 
+flows by default since they do not seem to meet the definition of financing activities and cash flows 
+received from grants related to assets could be presented as investing cash flows as they relate to an 
+investing activity. Further discussion on cash flow classification can be found in Chapter 36 at section 4. 
+How we see it 
+Selecting the most appropriate presentation will be a matter of judgement. Once adopted, the 
+presentation principles must be applied consistently and clear disclosure of the principles and the impact 
+thereof on the cash flow statement must be provided in accordance with IAS 1. 
+IAS 20 does makes clear, however, that cash flows from government grants must be disclosed as separate 
+items in the cash flow statement, even as regards grants related to assets, when such grants are deducted 
+from the related assets for the purpose of presentation in the statement of financial position. [IAS 20.28]. 
+Lastly, cash flows from refundable advances must be presented as financing cash flows, whereas their 
+transformation into a grant, if and when the entity meets the conditions for forgiveness of the loan, is a 
+non-cash transaction. 
+ 
+5 
+IFRIC Update, July 2012, available on the IFRS Foundation’s website. 
+6 
+IFRIC Update, March 2013, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1827 
+5 
+Government grants related to biological assets in the scope 
+of IAS 41 
+A different accounting treatment to that prescribed in IAS 20 is required if a government grant relates to a 
+biological asset measured at its fair value less costs to sell, in accordance with IAS 41, or a government 
+grant requires an entity not to engage in specified agricultural activity. [IAS 41.38]. In this context, the term 
+‘biological asset’ excludes bearer plants as defined in IAS 41 (see section 1.1 above). [IAS 41.1(a), IAS 41.5]. 
+Government grants involving biological assets are only accounted for under IAS 20 if the biological asset is 
+“measured at its cost less any accumulated depreciation and any accumulated impairment losses” (see 
+Chapter 38 at section 3.3). [IAS 41.37, IAS 41.38]. For government grants relating to biological assets 
+measured at fair value less costs to sell, the requirements of IAS 41 apply as discussed below. 
+An unconditional government grant related to a biological asset measured at its fair value less costs to sell 
+is recognised in profit or loss when, and only when, the grant becomes receivable. [IAS 41.34]. An entity is 
+therefore not permitted under IAS 41 to deduct a government grant from the carrying amount of the 
+related asset. The IASB determined that any adjustment to the carrying value of the asset would be 
+inconsistent with a fair value model and would give rise to no difference in the treatment of unconditional 
+and conditional government grants, with both effectively recognised in income immediately. [IAS 41.B66]. 
+A conditional government grant related to a biological asset measured at its fair value less costs to sell is 
+recognised only when the conditions attaching to the grant are met. [IAS 41.35]. IAS 41 permits an entity to 
+recognise a government grant as income only to the extent that it (i) has met the terms and conditions of the 
+grant and (ii) has no obligation to return the grant. [IAS 41.36]. This could be later than the point of recognition 
+in IAS 20, where reasonable assurance that these criteria will be met is sufficient. [IAS 20.7]. The following 
+Illustration, which is taken from IAS 41, illustrates how an entity applies these requirements. [IAS 41.36]. 
+Illustration 5-1: 
+Grant relating to biological assets carried at fair value 
+Entity A receives a government grant under terms that require it to farm in a particular location for five years. 
+The entire government grant must be returned if it farms for less than five years. In this case the government 
+grant is not recognised as income until the five years have passed. 
+Entity B receives a government grant on a similar basis, except the terms of the grant allow part of it to be 
+retained based on the passage of time. Entity B recognises that part of the government grant as income as 
+time passes. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1828 
+6 
+Disclosures 
+IAS 20 requires, whenever material, that entities must disclose the following information regarding 
+government grants: 
+(a) The accounting policy, including the methods of presentation adopted in the statement of financial 
+position, the statement of profit or loss and the cash flow statement 
+(b) A description of the nature and extent of the grants recognised in the financial statements and an 
+indication of other forms of government assistance from which the entity has directly benefited 
+And 
+(c) Unfulfilled conditions or other contingencies attaching to government assistance that has been 
+recognised [IAS 20.39] 
+The Practical examples below illustrate how companies typically satisfy the disclosure requirements of 
+IAS 20. It should be noted that disclosures concerning the nature and conditions of government grants are 
+sometimes relatively minimal, possibly because the amounts involved are immaterial. Marks and Spencer 
+Group plc disclose both government grants received and the effect of other government assistance. 
+Practical example 6-1: 
+Marks and Spencer Group plc (2021) 
+United Kingdom 
+Annual Report & Financial Statements & Notice of Annual General Meeting 2021 [extract] 
+NOTES TO THE FINANCIAL STATEMENTS [extract] 
+1 ACCOUNTING POLICIES [extract] 
+ 
+30 GOVERNMENT SUPPORT 
+ 
+ 
+Additional examples of accounting policies for government grants can be found in Practical examples 4-1 
+and 4-2 in section 4.1 above and Practical example 4-3 in section 4.2 above. 
+In Practical example 6-2 below, Stagecoach Group plc also provides an indication of other forms of 
+government assistance from which the entity has directly benefited, [IAS 20.39(b)], in this case in the form of 
+additional support from government bodies and local authorities to whom the Group provides 
+concessionary travel and other tendered transport services. 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1829 
+Practical example 6-2: 
+Stagecoach Group plc (2021) 
+United Kingdom 
+Annual Report and Financial Statements 2021 [extract] 
+Notes to the consolidated financial statements [extract] 
+Note 3 Operating costs and other operating income [extract] 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1830 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Recipient of a government grant 
+1808 
+Illustration 2-2: 
+Contract with a customer contains a government grant 
+1811 
+Illustration 3-1: 
+Recognition of a government grant 
+1812 
+Illustration 3-2: 
+Date of entitlement to a government grant 
+1813 
+Illustration 3-3: 
+Derecognition of a government grant 
+1813 
+Illustration 3-4: 
+Government grant by way of forgivable loan 
+1814 
+Illustration 3-5: 
+Interest-free loan from a government agency 
+1815 
+Illustration 3-6: 
+Entity allowed to retain amounts owed to government 
+1816 
+Illustration 3-7: 
+Grant associated with investment property 
+1818 
+Illustration 3-8: 
+Below-market interest rate loan from the government 
+1819 
+Illustration 3-9: 
+Government assistance 
+1821 
+Illustration 3-10: 
+Impairment test of an asset that qualified for a government grant 
+1821 
+Illustration 3-11: 
+The effect of impairment of asset on the related government grant 
+1822 
+Illustration 4-1: 
+Presentation of grants with different characteristics 
+1825 
+Illustration 5-1: 
+Grant relating to biological assets carried at fair value 
+1827 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1831 
+Appendix B - Index of Frequently asked questions 
+Question 3-1: 
+How does an entity account for cash received from a government to help 
+finance a research and development project, when nothing is repayable in 
+cash if the project is unsuccessful and instead the entity is required only to 
+transfer to the government the rights to the research? 
+1815 
+Question 4-1: 
+Assuming an entity elects not to deduct the government grant from the 
+related expense, can an entity present government grants related to income 
+as revenue? 
+1825 
+
+
+International GAAP® 2025 
+Chapter 25 
+Government grants 
+1832 
+Appendix C - Defined terms 
+Extract from IFRS accounting standards - Definitions 
+bearer plant 
+A bearer plant is a living plant that: 
+(a) is used in the production or supply of agricultural produce; 
+(b) is expected to bear produce for more than one period; and 
+(c) has a remote likelihood of being sold as agricultural produce, except 
+for incidental scrap sales. [IAS 41.5]. 
+biological asset 
+A biological asset is a living animal or plant. [IAS 41.5]. 
+costs to sell 
+Costs to sell are the incremental costs directly attributable to the 
+disposal of an asset, excluding finance costs and income taxes. 
+[IAS 41.5]. 
+government 
+Government refers to government, government agencies and similar 
+bodies whether local, national or international. [IAS 20.3]. 
+government assistance 
+Government assistance is action by government designed to provide 
+an economic benefit specific to an entity or range of entities 
+qualifying under certain criteria. Government assistance for the 
+purpose of this Standard does not include benefits provided only 
+indirectly through action affecting general trading conditions, such 
+as the provision of infrastructure in development areas or the 
+imposition of trading constraints on competitors. [IAS 20.3]. 
+government grants 
+Government grants are assistance by government in the form of 
+transfers of resources to an entity in return for past or future 
+compliance with certain conditions relating to the operating 
+activities of the entity. They exclude those forms of government 
+assistance which cannot reasonably have a value placed upon them 
+and transactions with government which cannot be distinguished 
+from the normal trading transactions of the entity.2 [IAS 20.3]. 
+grants related to assets 
+Grants related to assets are government grants whose primary 
+condition is that an entity qualifying for them should purchase, 
+construct or otherwise acquire long-term assets. Subsidiary 
+conditions may also be attached restricting the type or location of 
+the assets or the periods during which they are to be acquired or 
+held. [IAS 20.3]. 
+grants related to income 
+Grants related to income are government grants other than those 
+related to assets. [IAS 20.3]. 
+forgivable loans 
+Forgivable loans are loans which the lender undertakes to waive 
+repayment of under certain prescribed conditions. [IAS 20.3]. 
+fair value 
+Fair value is the price that would be received to sell an asset or paid 
+to transfer a liability in an orderly transaction between market 
+participants at the measurement date. (See IFRS 13 Fair Value 
+Measurement.) [IAS 20.3]. 
+2 
+See also SIC-10 Government Assistance-No Specific Relation to Operating Activities. 
+ 

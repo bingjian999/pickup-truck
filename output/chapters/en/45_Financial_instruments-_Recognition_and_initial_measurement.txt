@@ -1,0 +1,2367 @@
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3656 
+ 
+Chapter 45 
+Financial instruments: 
+Recognition and 
+initial measurement 
+ 
+Contents 
+Overview 
+3658 
+1 
+Introduction 
+3659 
+2 
+Initial recognition 
+3660 
+2.1 
+General requirements 
+3660 
+2.1.1 
+Receivables and payables 
+3660 
+2.1.2 
+Firm commitments to purchase or sell goods or services 
+3660 
+2.1.3 
+Forward contracts 
+3660 
+2.1.4 
+Option contracts 
+3660 
+2.1.5 
+Planned future transactions (forecast transactions) 
+3661 
+2.1.6 
+Transfers of financial assets not qualifying for derecognition by transferor - impact 
+on recognition 
+3661 
+2.1.7 
+Collateral 
+3662 
+2.1.8 
+Principal versus agent 
+3662 
+2.2 
+‘Regular way’ transactions 
+3662 
+2.2.1 
+Financial assets: general requirements 
+3662 
+2.2.1.A 
+No established market 
+3663 
+2.2.1.B 
+Contracts not settled according to marketplace convention: derivatives 
+3664 
+2.2.1.C 
+Multiple active markets: settlement provisions 
+3664 
+2.2.1.D 
+Exercise of an option 
+3664 
+2.2.2 
+Financial liabilities 
+3664 
+2.2.3 
+Trade date accounting 
+3665 
+2.2.4 
+Settlement date accounting 
+3665 
+2.2.5 
+Illustrative examples 
+3666 
+2.2.5.A 
+Exchanges of non-cash financial assets 
+3670 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3657 
+ 
+3 
+Initial measurement 
+3671 
+3.1 
+General requirements 
+3671 
+3.2 
+Short-term receivables and payables and trade receivables 
+3671 
+3.3 
+Initial fair value, transaction price and ‘day 1’ profits 
+3672 
+3.3.1 
+Interest-free and low-interest long-term loans 
+3673 
+3.3.2 
+Measurement of financial instruments following modification of contractual terms 
+that leads to initial recognition of a new instrument 
+3674 
+3.3.3 
+Financial guarantee contracts and off-market loan commitments 
+3675 
+3.3.4 
+Loans and receivables acquired in a business combination 
+3675 
+3.3.5 
+Acquisition of a group of assets that does not constitute a business 
+3675 
+3.4 
+Transaction costs 
+3677 
+3.4.1 
+Accounting treatment 
+3677 
+3.4.2 
+Identifying transaction costs 
+3678 
+3.5 
+Embedded derivatives and financial liability hosts 
+3678 
+3.6 
+Regular way transactions 
+3680 
+3.7 
+Assets and liabilities arising from loan commitments 
+3680 
+3.7.1 
+Loan commitments outside the scope of IFRS 9 
+3681 
+3.7.2 
+Loan commitments within the scope of IFRS 9 
+3682 
+Appendix A - Index of Illustrations 
+3684 
+Appendix B - Index of Frequently asked questions 
+3685 
+Appendix C - Defined terms 
+3686 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3658 
+Overview 
+This chapter deals with the recognition and initial measurement of financial instruments as per IFRS 9 
+Financial Instruments. Chapter 41 provides a general background to financial instruments, and discusses 
+which financial instruments are within the scope of which standards. Chapters 43 and 44 detail the 
+classification requirements. This chapter then deals with the question of when financial instruments should 
+be recognised in the financial statements, and the amount that they are measured at initially. 
+IFRS 9 requires that an entity must recognise a financial asset or a financial liability in its statement of 
+financial position when, and only when, the entity becomes a party to the contractual provisions of the 
+instrument. There are however certain exceptions to this general principle, and these are dealt with in this 
+chapter. 
+Initial measurement is normally based on the fair value of an instrument and most, but not all, of the 
+detailed requirements of IFRS accounting standards governing fair values are dealt with in IFRS 13 Fair 
+Value Measurement, which is covered in Chapter 15. However, IFRS 9 also contains certain requirements 
+addressing fair value measurements of financial instruments, and these are covered in this chapter. 
+The treatment of financial instruments after initial recognition is dealt with in subsequent chapters. In 
+particular, Chapter 46 deals with the subsequent measurement of financial instruments, Chapter 47 deals 
+with the impairment of financial assets, and Chapter 48 deals with the derecognition of financial 
+instruments. 
+What you need to know 
+• 
+The general principle for recognition is that an entity recognises a financial instrument when, and 
+only when, it becomes a party to the contractual provisions of the instrument. 
+• 
+As an exception, assets subject to regular way transactions are permitted to be recognised, or 
+derecognised, either at the trade date or at the settlement date. 
+• 
+The general principles for initial measurement are: 
+• 
+Financial instruments classified at fair value through profit or loss are normally measured at fair 
+value. 
+• 
+Other financial instruments not classified at fair value through profit or loss are normally 
+measured at fair value, but are adjusted for incremental and directly attributable transaction 
+costs. 
+• 
+There is an exception to the general initial measurement principles for certain trade receivables 
+within the scope of IFRS 15 Revenue from Contracts with Customers. 
+• 
+There are situations where the initial measurement of financial instruments require additional 
+consideration, such as when there is a difference between the fair value at initial recognition, and 
+the transaction price of the financial instrument. Some examples of where this difference may arise 
+include where an entity has an interest free or low interest rate loan, or acquires financial assets and 
+liabilities as part of a group that does not constitute a business, or simply that an entity has priced an 
+instrument in a way that appears to result in it making an immediate (Day 1) profit. When such a 
+difference arises, IFRS 9 has additional requirements and limitations about the recognition of such a 
+difference. 
+ 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3659 
+1 
+Introduction 
+Initial measurement is normally based on the fair value of the financial instrument and most, but not all, of 
+the detailed requirements of IFRS accounting standards governing fair values are dealt with in IFRS 13, 
+which is covered in Chapter 15. IFRS 9 also contains requirements addressing the fair value measurement 
+of financial instruments and these are covered in section 3.3 below. 
+Differences between the IFRS accounting standards and US GAAP guidance on this topic are not addressed 
+in this chapter as the standards are not converged. Therefore, differences between IFRS accounting 
+standards and US GAAP may exist that are not discussed further in this chapter. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3660 
+2 
+Initial recognition 
+2.1 
+General requirements 
+IFRS 9 provides that an entity must recognise a financial asset or a financial liability in its statement of 
+financial position when, and only when, the entity becomes a party to the contractual provisions of the 
+instrument. [IFRS 9.3.1.1, IFRS 9(2026).B3.1.2A]. Before that, the entity does not have contractual rights or 
+contractual obligations. Hence, there is no financial asset or financial liability, as defined in IAS 32 Financial 
+Instruments: Presentation, to recognise. IFRS 9 provides a practical exception to the application of this 
+general principle for ‘regular way’ purchases and sales (see section 2.2 below). Listed below are examples 
+of the application of this principle. 
+2.1.1 
+Receivables and payables 
+Unconditional receivables and payables are recognised as assets or liabilities when the entity becomes a 
+party to the contract and, as a consequence, has a legal right to receive, or a legal obligation to pay cash. 
+[IFRS 9.B3.1.2(a)]. 
+2.1.2 
+Firm commitments to purchase or sell goods or services 
+Under IFRS, assets to be acquired and liabilities to be incurred as a result of a firm commitment to purchase 
+or sell goods or services are generally not recognised until at least one of the parties has performed under 
+the agreement. For example, an entity that receives a firm order for goods or services does not generally 
+recognise an asset for the consideration receivable (and the entity that places the order does not generally 
+recognise a liability for the consideration to be paid) at the time of the commitment, but instead delays 
+recognition until the ordered goods or services have been shipped, delivered or rendered. [IFRS 9.B3.1.2(b)]. 
+This accounting applies on the assumption that the firm commitment to buy or sell non-financial items is 
+not: 
+• 
+Net settled and treated as if it were a derivative (see Chapter 41 at section 3.3.1) 
+• 
+Irrevocably designated at fair value through profit or loss on initial recognition. This is only allowed if 
+an accounting mismatch is eliminated or significantly reduced (see Chapter 41 at section 3.3.6) 
+Or 
+• 
+Designated as a hedged item in a fair value hedge (see Chapter 49 at section 5.1) 
+If any of the above situations apply, the firm commitment would be recognised as an asset or liability before 
+delivery of the underlying goods or services. [IFRS 9.B3.1.2(b), IFRS 9.2.4]. 
+2.1.3 
+Forward contracts 
+A forward contract obliges one party to the contract to buy, and the other party to sell, an underlying asset 
+that is the subject of the contract, for a fixed price at a future date (for further discussion on the treatment 
+of a forward contract, see Chapter 41 at section 3). 
+In most cases, a forward contract to purchase or sell a financial asset is within the scope of IFRS 9. 
+However, in certain cases it will not be in the scope, for example, a forward contract between an acquirer 
+and a selling shareholder to buy or sell an acquiree that will result in a business combination at a future 
+acquisition date (see Chapter 41 at section 2.7.2). 
+Certain forward contracts to buy or sell non-financial items that can be settled net, including where the 
+non-financial item is readily convertible into cash, will be within the scope of IFRS 9 (see Chapter 41 at 
+section 1.2.5). If a forward contract is within the scope of IFRS 9, it is recognised as an asset or a liability at 
+commitment date, rather than on the date on which settlement takes place. When an entity becomes a 
+party to a forward contract, the fair values of the right and obligation are often equal, so that the net fair 
+value of the forward at inception is zero. If the net fair value of the right and obligation is not zero, the 
+contract is recognised as an asset or liability. [IFRS 9.B3.1.2(c)]. 
+2.1.4 
+Option contracts 
+An option contract is a contract which gives one party to the contract the right, but not the obligation, to 
+buy from, or sell to, the other party to the contract the underlying asset, for a fixed price, at a future date 
+(or during a period of time). An option giving the right to buy an asset is referred to as a ‘call’ option, and 
+one giving the right to sell an asset as a ‘put’ option. An option is referred to as a ‘bought’ or ‘purchased’ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3661 
+option from the perspective of the party with the right to buy or sell (the ‘holder’) and as a ‘written’ option 
+from the perspective of the party with the potential obligation to buy or sell. 
+Option contracts that are within the scope of IFRS 9 are recognised as assets or liabilities when the holder 
+or writer becomes a party to the contract (see Chapter 41 at section 1.2.8). [IFRS 9.B3.1.2(d)]. 
+2.1.5 
+Planned future transactions (forecast transactions) 
+Planned future transactions, no matter how likely, are not assets and liabilities because the entity has not 
+become a party to a contract. They are therefore, not recognised under IFRS 9. [IFRS 9.B3.1.2(e)]. However, 
+transactions that have been entered into as a cash flow hedge of certain ‘highly probable’ future 
+transactions are recognised under IFRS 9 (see Chapter 49 at section 5.2). 
+2.1.6 
+Transfers of financial assets not qualifying for derecognition by transferor - 
+impact on recognition 
+IFRS 9 states that, where a financial asset is transferred from one party to another in circumstances that 
+preclude the transferor from derecognising the asset, the transferee must not recognise the transferred 
+asset. Instead, the transferee derecognises the cash or other consideration paid, and recognises a 
+receivable from the transferor. [IFRS 9.B3.1.1]. If the transferor has both a right, and an obligation, to 
+reacquire control of the entire transferred asset for a fixed amount (such as under a repurchase agreement 
+- see Chapter 48 at section 4.1), the transferee will account for its receivable at amortised cost, if the 
+criteria for classification as measured at amortised cost are met [IFRS 9.B3.2.15]. 
+Underlying this principle appears to be a concern that more than one party cannot satisfy the criteria in 
+IFRS 9 for recognition of the same financial asset at the same time. However, this principle may not hold in 
+all circumstances, since it is sometimes possible for the same asset to be simultaneously recognised by 
+more than one entity, for example if a seller adopts settlement date accounting, and a purchaser trade date 
+accounting (see section 2.2 below). 
+In addition, IFRS 9 clarifies that to the extent that a transfer does not qualify for derecognition, the 
+transferor does not account for its contractual rights or obligations related to the transfer separately as 
+derivatives, if recognising both the derivative and either the transferred asset, or the liability arising from 
+the transfer, would result in recognising the same rights or obligations twice. For example, a call option 
+retained by the transferor may prevent a transfer of financial assets from being accounted for as a sale. In 
+that case, the call option is not separately recognised as a derivative asset. [IFRS 9.B3.2.14]. 
+Sometimes a transfer of financial assets (the ‘underlying assets’) can involve the transferee issuing to the 
+transferor a non-derivative financial instrument, such as subordinated debt, the effect of which is that 
+substantially all the risks and rewards of the assets are not transferred and therefore, the transferor does 
+not derecognise the underlying assets. This is particularly common when the transferee is a securitisation 
+vehicle. The subordinated debt could be issued as part of the consideration for the transferred assets, 
+alongside the cash consideration. Alternatively, part of the cash consideration received in exchange for the 
+underlying assets could be reinvested in the subordinated debt. 
+How we see it 
+In the circumstances described above, we would normally expect the transferor to apply by analogy the 
+guidance for derivatives outlined above in IFRS 9 B3.2.14. As a result, the transferor would not 
+recognise the non-derivative financial instrument as a separate asset. Instead, the transferor would 
+recognise a financial liability equal to the net cash received. This will prevent the transferor from 
+recognising as a financial asset the subordinated debt, while also still recognising the underlying asset 
+that failed derecognition. 
+However, IFRS 9 is less clear about the transferee’s position and an entity will need to determine whether it 
+should recognise the subordinated loan as a separate financial liability, or to regard the subsequent cash 
+flows on this loan as part of the cash flows arising on the receivable. The guidance in Chapter 42 at 
+section 2.2 addresses whether two financial instruments should be accounted for as one (which in those 
+cases would lead to the recognition of a derivative), and these principles can help the transferee determine 
+whether it recognises both a financial liability and a receivable, or a derivative. However, this can be very 
+judgemental, and we see a degree of diversity in the way securitisation vehicles account for these 
+arrangements. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3662 
+2.1.7 
+Collateral 
+The implementation guidance accompanying IFRS 9 addresses the recognition of cash collateral. When an 
+entity receives cash collateral that is not legally segregated (e.g., not treated as ‘client money’), it must 
+recognise the cash, and a related payable to the entity providing such collateral. The reason for this is that 
+the ultimate realisation of a financial asset is its conversion into cash, and hence, no further transformation 
+is required before the economic benefits of the cash received can be realised. [IFRS 9.IG D.1.1]. 
+On the other hand, the entity providing the cash collateral derecognises the cash and recognises a 
+receivable from the receiving entity. [IFRS 9.IG D.1.1]. 
+The accounting treatment of ‘client money’ is discussed in detail in Chapter 48 at section 8. The 
+requirements related to non-cash collateral are addressed in Chapter 48 at section 5.5.2. 
+2.1.8 
+Principal versus agent 
+When an entity acts as an intermediary in transactions involving financial instruments, the question of 
+whether it is acting as an agent, or a principal may arise. This is a particularly relevant matter for brokers 
+and similar institutions. Diversity in practice in this regard had been observed, so the question was put to 
+the IFRS IC in June 2017 about how brokers should account for back-to-back derivatives with their client 
+and the central clearing counterparty. 
+Frequently asked questions 
+Question 2-1: 
+In relation to clearing brokers and similar institutions, when dealing with centrally 
+cleared client derivatives, is the clearing broker acting as an agent or a principal? 
+In June 2017, the IFRS IC concluded that the clearing broker first applies the requirements for financial 
+instruments, and observed that: 
+• 
+If the transaction(s) results in contracts that are within the scope of IFRS 9, then the clearing 
+member applies to those contracts the recognition requirements of IFRS 9. In the statement of 
+financial position, the clearing member presents the assets and liabilities arising from its contracts 
+with the clearing house separately from those arising from its contracts with its clients, unless net 
+presentation is required pursuant to the offsetting requirements in IAS 32. This implies that the 
+clearing member is considered to act as principal in both the derivative contracts with the clearing 
+house, and its clients. 
+• 
+If the transaction is not within the scope of IFRS 9, and another standard does not specifically apply, 
+only then would the clearing member apply the hierarchy in paragraphs 10-12 of IAS 8 Accounting 
+Policies, Changes in Accounting Estimates and Errors to determine an appropriate accounting policy 
+for the transaction(s) (see Chapter 3 at section 4.3), e.g., using the principal versus agent guidance 
+in IFRS 15 (see Chapter 28 at section 4.4).1 
+2.2 
+‘Regular way’ transactions 
+2.2.1 
+Financial assets: general requirements 
+As discussed in section 2.1 above, the general requirement under IFRS 9 is to recognise a financial asset or 
+a financial liability in the statement of financial position when, and only when, an entity becomes a party to 
+the contractual provisions of the instrument (i.e., the trade date). [IFRS 9.3.1.1]. However, the application of 
+this general requirement to certain transactions, known as ‘regular way’ purchases and sales, presents 
+some challenges. Below, we discuss those challenges and the accounting policy choice that IFRS 9 has 
+provided as a solution. 
+A regular way purchase or sale is defined as: [IFRS 9 Appendix A] 
+ 
+1 
+IFRIC Update, June 2017, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3663 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+regular way purchase or sale 
+A purchase or sale of a financial asset under a contract whose terms 
+require delivery of the asset within the time frame established 
+generally by regulation or convention in the marketplace concerned. 
+  
+A contract that does not require delivery of the asset, and can be net settled (i.e., payment or receipt of 
+cash or other financial assets equivalent to the change in value of the contract) is not a regular way 
+transaction. Rather, it is accounted for between the trade date and settlement date as a derivative, in 
+accordance with the requirements of IFRS 9 (see Chapter 46 at section 2.4). [IFRS 9.B3.1.4]. 
+Many financial markets provide a mechanism whereby all transactions in certain financial instruments 
+(particularly quoted equities and bonds) entered into on a particular date are settled by delivery within a 
+fixed number of days after that date. The date on which the entity commits itself to purchase or sell an 
+asset is called the ‘trade date’, and the date on which it is settled by delivery of the assets that are the 
+subject of the agreement, is called the ‘settlement date’. [IFRS 9.B3.1.5, IFRS 9.B3.1.6]. 
+In practice, because entitlement to interest often accrues from the due settlement date, the settlement 
+date is often determined with reference to the date that delivery is actually due. Consequently, if 
+settlement is temporarily delayed, an entity using settlement date accounting will account for the purchase 
+or sale of the security on the settlement due date, and recognise a payable or receivable until settlement 
+actually occurs. This results in a disconnect between what occurs in practice, and the stated requirements 
+of IFRS 9 whereby settlement date is the date on which settlement occurs. 
+Another practical implication of settlement date accounting is that, while legal title to the assets that are 
+the subject of the transaction passes only on or after settlement date, the buyer is effectively exposed to 
+the risks and rewards of ownership of the assets from the trade date. 
+Absent of any special provisions, the accounting treatment for regular way transactions under IFRS 9 would 
+be that, between trade date and settlement date, an entity has a forward contract to purchase an asset 
+(see section 2.1.3 above). Consequently, as for all derivatives, this forward contract would be recorded at 
+fair value, with all changes in fair value recognised in profit or loss (see Chapter 46 at section 2.4), unless 
+the special rules for hedge accounting apply (see Chapter 49). This would not only be somewhat onerous, 
+but would also have the effect that changes in a financial asset’s fair value between trade date and 
+settlement date would be recognised in profit or loss, even though the asset itself may not be measured at 
+fair value through profit or loss after initial recognition. 
+To avoid this, IFRS 9 permits assets subject to regular way transactions to be recognised, or derecognised, 
+either as at the trade date (‘trade date accounting’) or as at the settlement date (‘settlement date 
+accounting’). [IFRS 9.3.1.2, IFRS 9.B3.1.3]. This accounting policy choice can be made separately for each of the 
+main classification categories of financial assets identified by IFRS 9, i.e., debt instruments measured at 
+amortised cost, debt instruments at fair value through other comprehensive income (FVOCI), financial 
+assets mandatorily measured at fair value through profit or loss, debt instruments designated as measured 
+at fair value through profit or loss and equity investments designated as measured at FVOCI (see 
+Chapter 44 for further discussion on the classification of financial assets). Once chosen, the accounting 
+policy needs to be applied consistently and symmetrically (i.e., to acquisitions and disposals) to each 
+category. [IFRS 9.B3.1.3]. 
+Discussed below is additional guidance for determining whether a transaction meets the definition of 
+‘regular way’, as well as requirements relating to trade date and settlement date accounting. 
+2.2.1.A 
+No established market 
+The definition of ‘regular way’ transactions refers to terms that require delivery of the asset within the time 
+frame established generally by regulation or convention in the marketplace concerned. Marketplace in this 
+context is not limited to a formal stock exchange or organised over-the-counter market. Rather, it means 
+the environment in which the financial asset is customarily exchanged. For example, a market for private 
+issue financial instruments can be a marketplace. An acceptable time frame would be the period reasonably 
+and customarily required for the parties to complete the transaction and prepare and execute closing 
+documents. [IFRS 9.IG B.28]. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3664 
+2.2.1.B 
+Contracts not settled according to marketplace convention: derivatives 
+The contract must be accounted for as a derivative when it is not settled in the way established by 
+regulation or convention in the marketplace concerned. 
+Illustration 2-1: 
+Regular way transactions - forward contract 
+Entity A enters into a forward contract to purchase 1 million of B’s ordinary shares in two months for CU10 
+per share. The contract requires A to take physical delivery of the shares and pay the counterparty CU10 
+million in cash. B’s shares trade in an active public market at an average of 100,000 shares a day. Regular way 
+delivery is three days. 
+As the transaction is not settled in the way established by regulation or convention in the marketplace 
+concerned, it cannot be regarded as a regular way contract. Therefore, the transaction must be accounted for 
+as a derivative. [IFRS 9.IG B.29]. 
+2.2.1.C 
+Multiple active markets: settlement provisions 
+If an entity’s financial instruments trade in more than one active market, and the settlement provisions 
+differ in the various active markets, the provisions that apply are those in the market in which the purchase 
+actually takes place. 
+For instance, an entity purchasing shares of a public company listed on a US stock exchange through a 
+broker, where the settlement date of the contract is six business days later, could not apply the regular way 
+trade exemption since trades for equity shares on US exchanges customarily settle in three business days. 
+However, if the entity did the same transaction on an exchange outside the US that has a customary 
+settlement period of six business days, the contract would meet the exemption for a regular way trade. 
+[IFRS 9.IG B.30]. 
+2.2.1.D 
+Exercise of an option 
+An option is typically accounted for as a derivative. However, following its exercise, the settlement of the 
+option by delivery may be governed by regulation or convention in the options market, and could therefore, 
+represent a regular way transaction. This is illustrated as outlined below. 
+Illustration 2-2: 
+Regular way transactions - share purchase by call option 
+Entity A purchases a call option in a public market permitting it to purchase 100 shares of Entity X at any time 
+over the next three months at a price of CU100 per share. If Entity A exercises its option, it has 14 days to 
+settle the transaction according to regulation or convention in the options market. X shares are traded in an 
+active public market that requires three-day settlement. 
+In this case, while the option will be accounted for as a derivative prior to being exercised, the purchase of 
+shares by exercising the option is a regular way purchase of shares because settlement by delivery of the 
+shares within 14 days is a regular way transaction. [IFRS 9.IG B.31]. This is the case even though if the shares 
+had been acquired directly in the market, the market convention for settlement would have been three days. 
+2.2.2 Financial liabilities 
+The requirements above relating to regular way transactions apply only to transactions in financial assets. 
+IFRS 9 does not contain any specific requirements about trade date and settlement date accounting for 
+transactions in financial liabilities. Therefore, the general recognition and derecognition requirements for 
+financial liabilities in IFRS 9 apply (see above in section 2.1). [IFRS 9.IG B.32]. Consequently, financial liabilities 
+are recognised on the date the entity becomes a party to the contractual provisions of the instrument (see 
+section 2.1 above). Such contracts are not recognised unless one of the parties has performed, or the 
+contract is a derivative contract not exempted from the scope of IFRS 9 (see Chapter 41 at section 3.3). 
+However, in practice the IFRS requirements relating to trade date and settlement date accounting (covered 
+in section 2.2.1 above) have been applied as outlined below. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3665 
+Frequently asked questions 
+Question 2-2: 
+How are short sales of securities accounted for when the transaction terms require 
+delivery of the securities within the time frame established generally by regulation or convention in 
+the marketplace? 
+In January 2007, the IFRS IC addressed the accounting for short sales of securities, when the 
+transaction terms require delivery of the securities within the time frame established generally by 
+regulation or convention in the marketplace concerned. Constituents explained that in practice, many 
+entities apply trade date accounting to such transactions. Specifically, industry practice recognised the 
+short sales as financial liabilities at fair value with changes in fair value recognised in profit or loss. Profit 
+or loss would be the same as if the short sales were accounted for as derivatives, but the securities 
+would be presented differently in the statement of financial position. 
+The IFRS IC acknowledged that requiring entities to account for short positions as derivatives may create 
+considerable practical problems for their accounting systems and controls with little, if any, 
+improvement to the quality of financial information presented. For these reasons, and because there was 
+little diversity in practice, the IFRS IC decided not to take the issue onto its agenda and thus this industry 
+practice remains prevalent.2 
+2.2.3 
+Trade date accounting 
+As noted above, the trade date is the date on which an entity commits itself to purchase or sell an asset. Trade 
+date accounting requires: [IFRS 9.B3.1.5] 
+(a) In respect of an asset to be bought: recognition on the trade date of the asset, and the liability to pay for it. 
+This means that during the period between trade date and settlement date, the entity accounts for the asset 
+as if it already owned it. 
+(b) In respect of an asset to be sold: derecognition on the trade date of the asset, together with recognition of 
+any gain or loss on disposal, and the recognition of a receivable from the buyer for payment. 
+IFRS 9 notes that, generally, interest does not start to accrue on the asset and corresponding liability until the 
+settlement date when title passes (see section 2.2.1 above where the difference between the date the asset is 
+delivered, and the date it is due to be delivered, is discussed). [IFRS 9.B3.1.5]. 
+2.2.4 
+Settlement date accounting 
+As noted in section 2.2.1 above, IFRS 9 defines the settlement date as the date when an asset is delivered to or 
+by an entity. Settlement date accounting requires [IFRS 9.B3.1.6] : 
+(a) In respect of an asset to be bought: Recognition of the asset on the settlement date (i.e., the date it is 
+received by the entity). Any change in the fair value of the asset to be received during the period between 
+the trade date and the settlement date is accounted for in the same way as the acquired asset. In other 
+words: 
+• 
+For assets carried at amortised cost, the change in fair value is not recognised (other than impairment 
+losses which are considered from the trade date). This means that such financial assets are not 
+measured at their fair value on the date of initial recognition (i.e., settlement date), but at the amount 
+that represented the asset’s fair value on the trade date. This is illustrated in Illustration 2-3A at 
+section 2.2.5 below. 
+• 
+For assets classified as financial assets at fair value through profit or loss, the change in fair value is 
+recognised in profit or loss. 
+And 
+• 
+For financial assets measured at FVOCI, the change in fair value is recognised in other comprehensive 
+income. 
+Where such changes in fair value are recognised, the entity also recognises a corresponding receivable 
+or payable. At settlement date, this receivable or payable is eliminated by adjusting the amount initially 
+recognised for the financial asset. This results in the asset being recognised at its fair value at the 
+settlement date (see Illustration 2-3 B and Illustration 2-3 C below for an example of the journal entries 
+that would occur). [IFRS 9.5.7.4]. 
+ 
+2 
+IFRIC Update, January 2007, available on the IFRS Foundation’s website. Whilst the IFRS IC discussion was held in the context of 
+IAS 39, the discussion also holds true under IFRS 9 as the related requirements were brought into IFRS 9 unchanged. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3666 
+(b) In respect of an asset to be sold: On the settlement date (i.e., the date the asset is delivered by the 
+entity) the asset is derecognised, and any gain or loss on disposal is recognised along with a receivable, 
+or cash from the buyer. [IFRS 9.B3.1.6]. Any change in the fair value of the asset between trade date and 
+settlement date is not recorded in the financial statements of the seller, even though the asset 
+continues to be held by seller (see Illustration 2-4 below for an example of the journal entries that 
+would occur). This is because the seller’s right to the changes in the fair value ceases on the trade date. 
+[IFRS 9.IG D.2.2]. 
+The subsequent measurement of assets accounted for as regular way transactions is addressed in 
+Chapter 46 at section 2.9.2. 
+2.2.5 
+Illustrative examples 
+Illustration 2-3 and Illustration 2-4 below (which are based on those examples in the implementation 
+guidance appended to IFRS 9) illustrate the application of trade date and settlement date accounting to the 
+various categories of financial asset identified by IFRS 9. [IFRS 9.IG D.2.1, IFRS 9.IG D.2.2]. For simplicity, these 
+Illustrations do not address the accounting entries related to impairment charges. 
+Illustration 2-3: 
+Trade date and settlement date accounting - regular way purchase 
+On 29 December 20X1 (trade date), an entity commits itself to purchase a financial asset for CU1,000, which 
+is its fair value on trade date. On 31 December 20X1 (financial year-end) and on 4 January 20X2 (settlement 
+date) the fair value of the asset is CU1,002 and CU1,003, respectively. The accounting entries to be recorded 
+for the transaction will depend on how it is classified and whether trade date or settlement date accounting is 
+used, as shown in the tables below: 
+A 
+Financial asset accounted for at amortised cost 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+29 December 20X1 
+Dr 
+Financial asset 
+1,000 
+    
+No accounting entries 
+Cr 
+Liability to 
+counterparty 
+  
+1,000 
+  
+  
+ 
+To record purchase of asset and liability 
+thereof 
+  
+31 December 20X1 
+  
+No accounting entries 
+  
+No accounting entries 
+4 January 20X2 
+Dr 
+Liability to 
+counterparty 
+1,000 
+  Dr 
+Financial asset 
+1,000 
+  
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Cash 
+  
+1,000 
+  
+To record settlement of liability 
+  
+To record purchase of asset 
+ 
+B 
+Financial asset accounted for at fair value through profit or loss 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+29 December 20X1 
+Dr 
+Financial asset 
+1,000 
+    
+No accounting entries 
+Cr 
+Liability to 
+counterparty 
+  
+1,000 
+    
+  
+  
+  
+To record purchase of asset and liability 
+thereof 
+  
+  
+31 December 20X1 
+Dr 
+Financial Asset 
+2 
+  Dr 
+Receivable 
+2 
+  
+Cr 
+Profit or loss 
+  
+2 
+Cr 
+Profit or loss 
+  
+2 
+  
+To record change in fair value of asset 
+  
+To record change in fair value of contract 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3667 
+4 January 20X2 
+Dr 
+Liability to 
+counterparty 
+1,000 
+  Dr 
+Financial asset 
+1,003 
+  
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Cash 
+  
+1,000 
+Dr 
+Financial asset 
+1 
+  
+Cr 
+Receivable 
+  
+2 
+Cr 
+Profit or loss 
+  
+1 
+Cr 
+Profit or loss 
+  
+1 
+  
+To record settlement of liability and change 
+in fair value of asset 
+  
+To record purchase of asset, change in fair 
+value and settlement of contract 
+ 
+C 
+Financial asset measured at FVOCI* 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+29 December 20X1 
+Dr 
+Financial asset 
+1,000 
+    
+No accounting entries 
+Cr 
+Liability to 
+counterparty 
+  
+1,000 
+  
+  
+  
+To record purchase of asset and liability 
+thereof 
+  
+  
+31 December 20X1 
+Dr 
+Financial Asset 
+2 
+  Dr 
+Receivable 
+2 
+  
+Cr 
+OCI 
+  
+2 
+Cr 
+OCI 
+  
+2 
+  
+To record change in fair value of asset 
+  
+To record change in fair value of contract 
+4 January 20X2 
+Dr 
+Liability to 
+counterparty 
+1,000 
+   Dr 
+Financial asset 
+1,003 
+  
+Cr 
+Cash 
+  
+1,000 
+ Cr 
+Cash 
+  
+1,000 
+Dr 
+Financial asset 
+1 
+  
+ Cr 
+Receivable 
+  
+2 
+Cr 
+OCI 
+  
+1 
+ Cr 
+OCI 
+  
+1 
+  
+To record settlement of liability and change 
+in fair value of asset 
+  
+To record purchase of asset, change in fair 
+value and settlement of contract 
+* 
+The same analysis applies whether the financial assets measured at FVOCI are debt instruments or equity instruments. 
+As illustrated above, for a regular way purchase, the key difference between trade date and settlement 
+date accounting is the timing of recognition of a financial asset. Regardless of the method used, the net 
+impact on profit or loss, OCI and net assets is the same. 
+Illustration 2-4: 
+Trade date and settlement date accounting - regular way sale 
+On 29 December 20X1 (trade date) an entity enters into a contract to sell a financial asset for its then current 
+fair value of CU1,010. The asset was acquired one year earlier for CU1,000 and its amortised cost is CU1,000. 
+On 31 December 20X1 (financial year-end), the fair value of the asset is CU1,012. On 4 January 20X2 
+(settlement date), the fair value is CU1,013. The accounting entries to be recorded for this transaction will 
+depend on how the asset is classified and whether trade date or settlement date accounting is used as shown 
+in the tables below (any interest that might have accrued on the asset is disregarded). 
+A change in the fair value of a financial asset that is sold on a regular way basis is not recorded in the financial 
+statements between trade date and settlement date, even if the entity applies settlement date accounting, 
+because the seller’s right to changes in the fair value ceases on the trade date. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3668 
+ 
+A 
+Financial asset accounted for at amortised cost 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+Before 29 December 20X1 (cumulative net entries) 
+Dr 
+Financial asset 
+1,000 
+  Dr 
+Financial asset 
+1,000 
+  
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Cash 
+  
+1,000 
+  
+To record acquisition of the asset a year 
+earlier 
+  
+To record acquisition of the asset a year 
+earlier 
+29 December 20X1 
+Dr 
+Receivable from 
+counterparty 
+1,010 
+    
+No accounting entries 
+Cr 
+Financial asset 
+  
+1,000 
+  
+  
+Cr 
+Gain on disposal 
+(profit or loss) 
+  
+10 
+  
+  
+  
+To record disposal of asset 
+  
+  
+4 January 20X2 
+Dr 
+Cash 
+1,010 
+  Dr 
+Cash 
+1,010 
+  
+Cr 
+Receivable from 
+counterparty  
+  
+1,010 
+Cr 
+Financial asset 
+  
+1,000 
+    
+  
+  
+Cr 
+Gain on disposal 
+(profit or loss) 
+  
+10 
+  
+To record settlement of sale contract 
+  
+To record disposal of asset 
+ 
+B 
+Financial asset accounted for at fair value through profit or loss 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+Before 29 December 20X1 (cumulative net entries) 
+Dr 
+Financial asset 
+1,010 
+  Dr 
+Financial asset 
+1,010 
+  
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Profit or loss 
+  
+10 
+Cr 
+Profit or loss 
+  
+10 
+  
+To record acquisition and net change in fair 
+value up to date 
+  
+To record acquisition and net change in fair 
+value up to date 
+29 December 20X1 
+Dr 
+Receivable from 
+counterparty 
+1,010 
+    
+No accounting entries 
+Cr 
+Financial asset 
+  
+1,010 
+    
+  
+To record disposal of asset 
+  
+  
+4 January 20X2 
+Dr 
+Cash 
+1,010 
+  Dr 
+Cash 
+1,010 
+  
+Cr 
+Receivable from 
+counterparty  
+  
+1,010 
+Cr 
+Financial asset 
+  
+1,010 
+  
+To record settlement of sale contract 
+  
+To record disposal of asset 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3669 
+C 
+Debt instrument measured at FVOCI* 
+Trade date accounting 
+Settlement date accounting 
+  
+CU 
+CU 
+  
+CU 
+CU 
+Before 29 December 20X1 (cumulative net entries) 
+Dr 
+Financial asset 
+1,010 
+  Dr 
+Financial asset 
+1,010 
+  
+Cr 
+Cash 
+  
+1,000 
+Cr 
+Cash 
+  
+1,000 
+Cr 
+OCI 
+  
+10 
+Cr 
+OCI 
+  
+10 
+29 December 20X1 
+Dr 
+Receivable from 
+counterparty 
+1,010 
+    
+No accounting entries 
+Cr 
+Financial asset 
+  
+1,010 
+  
+  
+Dr 
+OCI** 
+10 
+    
+  
+Cr 
+Gain on sale (profit or 
+loss) 
+  
+10 
+  
+  
+  
+To record disposal of asset 
+  
+  
+4 January 20X2 
+Dr 
+Cash 
+1,010 
+  Dr 
+Cash 
+1,010 
+  
+Cr 
+Receivable from 
+counterparty  
+  
+1,010 
+Cr 
+Financial asset 
+  
+1,010 
+ 
+  
+  
+  Dr 
+OCI** 
+10 
+  
+    
+  
+  
+Cr 
+Gain on sale (profit or 
+loss) 
+  
+10 
+  
+To record settlement of sale contract 
+  
+To record disposal of asset 
+* 
+The same analysis will apply to equity investments measured at FVOCI, except that IFRS 9 does not permit ‘recycling’ 
+(i.e., transfers) of cumulative gains and losses from OCI to profit or loss. However, an entity may transfer the cumulative gains 
+and losses within equity (e.g., from accumulated OCI to retained earnings). 
+** 
+The transfers from OCI to profit or loss represent the ‘recycling’ of cumulative gains and losses required by IFRS 9 on 
+disposal of a debt instrument accounted for at FVOCI (see Chapter 46 at section 2.3). Disposal is regarded as occurring on trade 
+date when trade date accounting applies and on settlement date when settlement date accounting applies. 
+As illustrated above, for a regular way sale the key difference between trade date and settlement date 
+accounting is the timing of the derecognition of a financial asset. There is also a consequential difference in 
+the timing of the recognition of any gain or loss in profit and loss arising from the disposal of financial 
+assets measured at amortised cost or FVOCI. For financial assets measured at fair value through profit and 
+loss, there is no timing difference. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3670 
+2.2.5.A 
+Exchanges of non-cash financial assets 
+The implementation guidance to IFRS 9 addresses the situation in which an entity enters into a regular way 
+transaction whereby it commits to sell a non-cash financial asset in exchange for another non-cash financial 
+asset. In essence, the buying and selling legs of the exchange transaction are accounted for independently, 
+reflecting the settlement date or trade date accounting policy selection for the relevant classification of 
+asset, as illustrated below. [IFRS 9.IG D.2.3]. 
+Illustration 2-5: 
+Trade date and settlement date accounting - exchange of non-cash financial 
+assets 
+On 29 December 20X1 (trade date), an entity enters into a contract to sell Note Receivable A, which is carried 
+at amortised cost, in exchange for Bond B, which will be classified as held for trading and measured at fair 
+value. Both assets have a fair value of CU1,010 on 29 December 20X1, while the amortised cost of Note 
+Receivable A is CU1,000. The entity uses settlement date accounting for financial assets at amortised cost and 
+trade date accounting for assets held for trading. 
+On 31 December 20X1 (financial year-end), the fair value of Note Receivable A is CU1,012 and the fair value 
+of Bond B is CU1,009. 
+On 4 January 20X2 (settlement date), the fair value of Note Receivable A is CU1,013 and the fair value of 
+Bond B is CU1,007. 
+The following entries are made: 
+29 December 20X1 
+Dr 
+Bond B 
+CU1,010 
+  
+  
+Cr 
+Liability to counterparty 
+  
+CU1,010 
+To record purchase of Bond B (trade date accounting) 
+31 December 20X1 
+Dr 
+Loss on Bond B (profit or loss) 
+CU1 
+  
+  
+Cr 
+Bond B 
+  
+CU1 
+To record change in fair value of Bond B 
+4 January 20X2 
+Dr 
+Liability to counterparty 
+CU1,010 
+  
+  
+Cr 
+Note Receivable A 
+  
+CU1,000 
+  
+Cr 
+Gain on disposal (profit or loss) 
+  
+CU10 
+To record disposal of receivable A (settlement date accounting) 
+Dr 
+Loss on Bond B (profit or loss) 
+CU2 
+  
+  
+Cr 
+Bond B 
+  
+CU2 
+To record change in fair value of Bond B 
+The simultaneous recognition, between 29 December and 4 January, of both the asset being bought, and the 
+asset being given in consideration, may seem counter-intuitive. However, it is no different from the accounting 
+treatment of any purchase of goods for credit which results in the period between delivery of, and payment for 
+the goods, in the simultaneous recognition of the goods, the liability to pay the supplier, and the cash that will 
+be used to settle the liability. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3671 
+3 
+Initial measurement 
+3.1 
+General requirements 
+On initial recognition, financial assets and financial liabilities at fair value through profit or loss are normally 
+measured at their fair value on the date they are initially recognised. The initial measurement of other 
+financial instruments is based on their fair value, but adjusted in respect of any transaction costs that are 
+incremental and directly attributable to the acquisition or issue of the financial instrument. [IFRS 9.5.1.1]. 
+Furthermore, as outlined in Chapter 46 at section 3.1, there is also an adjustment to the fair value at initial 
+recognition for fees received as these are included in the calculation of the effective interest rate. 
+[IFRS 9 Appendix A]. 
+There are also certain exceptions and additional considerations to these general requirements that are 
+addressed in the sections 3.2 to 3.7 below. 
+If at initial recognition, there is uncertainty about the collection of future cash flows relating to financial 
+assets, this uncertainty is reflected in the fair value measurement at initial recognition. As a result, a 
+separate allowance for expected credit losses relating to uncertain future cash flows is not recognised at 
+initial recognition. However, at the first reporting date after initial recognition, for a financial asset subject 
+to the impairment requirements of IFRS 9, an impairment assessment will be required. [IFRS 9.5.5.3]. 
+3.2 
+Short-term receivables and payables and trade receivables 
+With the exception of trade receivables arising from transactions within the scope of IFRS 15 dealt with 
+below, short-term receivables and payables with no stated interest rate could be measured at invoice 
+amounts, without discounting, when the effect of not discounting is immaterial. This approach is permitted 
+because IAS 8 allows the application of accounting policies that are not in accordance with IFRS when the 
+effect is immaterial. [IFRS 13.BC138A, IAS 8.8]. 
+In relation to trade receivables arising from transactions within the scope of IFRS 15, IFRS 9.5.1.3 indicates 
+the following: 
+Extract from IFRS 9 
+5.1.3  Despite the requirement in paragraph 5.1.1, at initial recognition, an entity shall measure 
+trade receivables at their transaction price (as defined in IFRS 15) if the trade receivables do 
+not contain a significant financing component in accordance with IFRS 15 (or when the entity 
+applies the practical expedient in accordance with paragraph 63 of IFRS 15). 
+  
+Trade receivables within the scope of IFRS 15 are not always measured at fair value on initial recognition 
+(see Chapter 28 at section 10.1.5). Trade receivables that do not have a significant financing component 
+are required to be measured at initial recognition based on their transaction price as defined by IFRS 15. 
+Entities may also apply the practical expedient (i.e., for trade receivables with a significant financing 
+component when at contract inception the entity expects that the period between the entity transferring a 
+promised good or service to the customer, and the customer settling that trade receivable, is one year or 
+less), in which case the trade receivables are also initially measured at their transaction price as defined by 
+IFRS 15. [IFRS 9.5.1.1, IFRS 9.5.1.3]. 
+Other trade receivables (for example, those arising from an arrangement with a significant financing 
+component where the practical expedient is not applied) must be recognised at their fair value in 
+accordance with the general requirements in section 3.1 above. 
+In summary: 
+• 
+If there is no significant financing component, or if the entity has applied the practical expedient in 
+IFRS 15, the receivable is initially recognised at the transaction price, measured in accordance with 
+IFRS 15. 
+• 
+If there is a significant financing component, and the practical expedient has not been applied, the 
+receivable is initially measured at fair value. 
+If as outlined above, upon initial measurement there is a difference between the measurement of the 
+receivable under IFRS 9, and the corresponding amount of revenue, in most cases the difference is 
+presented immediately in profit or loss (e.g., as an impairment loss). [IFRS 15.108]. However, in certain 
+circumstances, further analysis of the reason for such a difference might be needed and that may lead to a 
+different accounting treatment. For example, an entity may have an unconditional right to payment for the 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3672 
+full invoiced amount (i.e., a receivable), but the amount ultimately received could potentially be subject to a 
+refund in the future. This could occur for example, where a customer is entitled to a retrospective volume 
+rebate if the customer subsequently meets the agreed conditions. In such a case, the entity would 
+recognise the difference between the revenue recognised and the receivable as a rebate liability, rather 
+than in profit or loss (see Chapter 28 at section 10.1.5 for more detail). [IFRS 15.IE208]. 
+IFRS 13 has requirements relating to the fair value measurement of a financial liability with a demand 
+feature (see Chapter 15 at section 10.5). [IFRS 13.47]. 
+3.3 
+Initial fair value, transaction price and ‘day 1’ profits 
+IFRS 9 and IFRS 13 acknowledge that the best evidence of the fair value of a financial instrument on initial 
+recognition is normally the transaction price (i.e., the fair value of the consideration given or received), 
+although this will not necessarily be the case in all circumstances (see Chapter 15 at section 12.1.1). 
+[IFRS 9.B5.1.1, IFRS 9.B5.1.2A, IFRS 13.58, IFRS 13.B4]. Although IFRS 13 specifies how to measure fair value, 
+IFRS 9 contains restrictions on recognising differences between the transaction price and the initial fair 
+value as measured under IFRS 13 (referred to here as day 1 profits), which apply in addition to the 
+requirements of IFRS 13 (see Chapter 15 at section 12.2). [IFRS 9.5.1.1A, IFRS 13.60, IFRS 13.BC138]. 
+It may be the case that the transaction price is determined to represent the fair value of a financial 
+instrument at initial recognition, and a valuation technique that uses unobservable inputs will be used to 
+measure the fair value of the item in subsequent periods. In this case, the valuation technique must be 
+calibrated at initial recognition to ensure that the result of the valuation technique equals the transaction 
+price, reflecting current conditions (see Chapter 15 at section 13.1.3.A). [IFRS 13.64]. 
+If an entity determines that the fair value on initial recognition differs from the transaction price, then the 
+facts and circumstances leading to that difference need to be assessed to determine if part of the 
+consideration is for something other than the financial instrument. For example, the difference may qualify 
+for recognition as another type of asset, liability or other transaction such as an equity contribution from an 
+owner (see section 3.3.1 below). [IFRS 9.B5.1.1]. Another Illustration is given in Chapter 24 at section 4.5.9 
+with regards to security deposits received in lease agreements where the deposit earns interest below the 
+market rate. 
+If it is determined that the difference does not qualify for recognition as another type of asset, liability or as 
+an equity transaction, then the day 1 profit is recognised as a gain or loss on initial recognition only if the 
+fair value is based on a quoted price in an active market for an identical asset or liability (i.e., a Level 1 
+input), or based on a valuation technique that uses only data from observable markets. Otherwise, the day 
+1 profit is deferred. [IFRS 9.B5.1.2A]. 
+The deferred profit is recognised as an adjustment to the initial carrying amount of the financial asset or 
+financial liability. This is on the basis that the financial asset or financial liability represents a single unit of 
+account, and IFRS 9 requires that it be initially measured at the fair value, adjusted to defer the difference 
+between the fair value and the transaction price. [IFRS 9.B5.1.2A(b)]. 
+However, there may be practical difficulties in adjusting the carrying amount of the financial instrument 
+directly. For example, a portfolio approach may be used on initial recognition to measure the fair value of a 
+number of financial instruments for which there is a resulting deferred profit, and the entity may have 
+difficulty in allocating the deferred profit to the individual financial instruments. In such cases, the entity 
+performs an analysis based on the facts and circumstances, and the general principles in IFRS accounting 
+standards (including an assessment of materiality), to determine the appropriate treatment. Accordingly, in 
+practice we have observed cases where the deferred profit is recognised separately from the individual 
+financial assets and liabilities. 
+The deferred day 1 profit is subsequently recognised as a gain or loss only to the extent that it arises from a 
+change in a factor (including time) that market participants would take into account when pricing the asset 
+or liability. [IFRS 9.B5.1.2A(b)]. 
+As a result of the day 1 profit provisions discussed above, entities that trade in financial instruments are 
+prevented from immediately recognising a profit on the initial recognition of many financial instruments 
+that are not quoted in active markets, or whose fair value is not measured based on valuation techniques 
+that use only observable inputs. Consequently, locked-in profits will emerge over the life of the financial 
+instrument, although precisely how they should emerge is not at all clear. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3673 
+The IASB has previously been asked to clarify whether straight-line amortisation was an appropriate 
+method of recognising the day 1 profits, but it decided not to do so. IFRS 9 does not discuss this, although 
+IAS 39 Financial Instruments: Recognition and Measurement used to state (without further explanation) 
+that straight-line amortisation may be an appropriate method in some cases, but will not be appropriate in 
+others. [IAS 39(2017).BC222(v)(ii)]. 
+As a result, one interpretation is that the deferred day 1 profit is recognised on a systematic basis over 
+time (for example using straight line amortisation). However, if the underlying instrument has non-linear 
+features (such as option based contracts), then non-linear amortisation may be more appropriate than 
+straight-line amortisation. An alternative interpretation is that the deferred day 1 profit should remain 
+unrecognised until all market inputs have become observable. The appropriate approach for the recognition 
+of the deferred day 1 profit will depend on the particular facts and circumstances, and must be applied 
+consistently to underlying financial instruments of a similar nature and type. 
+3.3.1 
+Interest-free and low-interest long-term loans 
+As noted in section 3.3 above, the fair value of a financial instrument on initial recognition is normally the 
+transaction price. IFRS 9 further explains that if part of the consideration given or received was for 
+something other than the financial instrument, the entity must measure the fair value of the financial 
+instrument in accordance with IFRS 13. For example, the fair value of a long-term loan or receivable that 
+carries no interest can be estimated as the present value of all future cash receipts, discounted using the 
+prevailing market rate(s) of interest for instruments that are similar as to currency, term, type of interest 
+rate, credit risk and other factors. Any additional amount advanced is an expense or a reduction of income 
+unless it qualifies for recognition as some other type of asset. [IFRS 9.B5.1.1]. IFRS 13 requires the 
+application of a similar approach in such circumstances. [IFRS 13.60]. For example, an entity may provide an 
+interest free loan to a supplier in order to receive a discount on goods or services purchased in the future, 
+and the difference between the fair value and the amount advanced might well be recognised as an asset, 
+for example under IAS 38 Intangible Assets, if the entity obtains a contractual right to the discounted 
+supplies. 
+Similar issues often arise from transactions between entities under common control. In fact, IFRS 13 
+suggests a related party transaction might indicate that the transaction price is not the same as the fair 
+value of an asset or liability [IFRS 13.B4(a)] (see Chapter 15 at section 12.1.1). 
+How we see it 
+Parent entities may lend money to subsidiaries on an interest-free or low-interest basis, where the loan is 
+not repayable on demand. Where, in its separate financial statements, the parent (or subsidiary) is 
+required to record a receivable (or payable) on initial recognition at a fair value that is lower than cost, 
+the additional consideration will normally represent an additional investment in the subsidiary (or equity 
+contribution from the parent). This is covered further in Chapter 9 at section 4.4.5.A. 
+Another example is a loan received from a government at a rate that appears to be below-market. If there is 
+a benefit of a below-market rate loan (i.e., the excess of the consideration received over the initial carrying 
+amount of the loan), then this may have to be accounted for as a government grant. [IAS 20.10A]. The 
+treatment of government grants is discussed further in Chapter 25. 
+If a financial instrument is recognised where the terms are ‘off-market’ (e.g., the stated interest rate is 
+lower than the market rate for similar loans), but instead a fee is paid or received in compensation, the 
+instrument is recognised at its fair value i.e., net of the fee that is paid or received. [IFRS 9.B5.1.2]. This is 
+outlined in the Illustration below. 
+Illustration 3-1: 
+Off-market loan with origination fee 
+Bank J lends CU1,000 to Company K. The loan carries interest at 5% and is repayable in full in five years’ time, 
+even though the market rate for similar loans is 8%. To compensate J for the below market rate of interest, K 
+pays J an origination fee of CU120. There are no other directly related payments by either party. 
+The loan is recorded at its fair value of CU880 (in this Illustration, assumed to be the net present value of 
+CU50 interest payable annually for five years and CU1,000 principal repaid after five years, all discounted at 
+8%). This equals the net amount of cash exchanged (CU1,000 loan less CU120 origination fee), and hence no 
+gain or loss is recognised on initial recognition of the loan. The upfront fee received of CU120 compensates 
+Bank J for the interest shortfall of CU30 for each of the next five years, discounted at the market rate of 8%. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3674 
+Applying the requirements of IFRS 9 to the simple fact pattern provided by the IASB is a relatively 
+straightforward exercise. In practice, however, it may be more difficult to identify those fees that are 
+required by IFRS 9 to be treated as part of the financial instrument, and those that are to be dealt with in 
+another way, for example under IFRS 15. In particular, it may be difficult to determine the extent to which 
+fees associated with a financial instrument that is not quoted in an active market represent compensation 
+for off-market terms, or for the genuine provision of services. 
+3.3.2 
+Measurement of financial instruments following modification of contractual 
+terms that leads to initial recognition of a new instrument 
+An entity may agree (with the holder or the issuer) to modify the terms of an instrument that it already 
+recognises in its financial statements as a financial asset, a financial liability, or an equity instrument. 
+For modifications of financial assets and financial liabilities, an entity needs to consider whether the 
+modification of the terms triggers derecognition of the existing instrument and recognition of a new 
+instrument (see Chapter 48 at section 3.5.1 for assets and section 6.2 for liabilities). If derecognition is 
+triggered, then on the derecognition of the financial asset (or financial liability), the difference between: 
+• 
+The carrying amount as at the derecognition date, 
+And 
+• 
+The consideration received (or paid), including the value of the new instrument obtained, less any new 
+liability assumed, 
+Is recognised in profit or loss (see Chapter 48 at sections 5.1 and 6.3). [IFRS 9.3.2.12]. 
+The new instrument would initially be measured at fair value in accordance with the general requirements 
+discussed in section 3.1 above. Any costs or fees incurred would usually be recognised as part of the gain 
+or loss on derecognition, rather than as an adjustment to the carrying amount of the new debt. However, 
+there may be very limited circumstances when fees or costs associated with the issue of new debt are not 
+included in the gain or loss on derecognition. Where it is obvious that the fees have not been incurred as 
+part of the modification or exchange, and instead are third party costs which are clearly incremental to the 
+issue of new debt, for example payments of taxes or listing fees on the issue of new debt, then an entity 
+may choose to adopt a policy whereby such costs are deducted from the carrying value of the new debt and 
+amortised over its term, as long as the new debt is not classified as held at fair value through profit or loss 
+(see Chapter 48 at section 6.2.5). 
+The accounting for a modification of a financial asset (or financial liability) that results in the recognition of 
+a new financial asset (or financial liability) is dealt with in more detail in Chapter 48 at section 3.5.1 and 
+section 6.2. 
+If the contractual terms of an issued equity instrument are modified, resulting in a conversion to a financial 
+liability, the resulting treatment will depend on the terms of the modification. This is discussed in more 
+detail below. 
+Frequently asked questions 
+Question 3-1: 
+What is the appropriate treatment of an issued equity instrument where the 
+contractual terms are modified such that it is subsequently reclassified as a financial liability? 
+This matter was previously discussed by the IFRS IC. When the contractual terms of an issued equity 
+instrument are modified in such a manner that it is subsequently reclassified as a financial liability, it is 
+measured at its fair value on the date it is initially recognised as a financial liability, with any difference 
+between this amount, and the amount previously recorded in equity, taken to equity. 
+This is consistent with the requirements of IAS 32, which prohibit the recognition of gains or losses on 
+the purchase, issue, or cancellation of an entity’s own equity. [IAS 32.36, IAS 32.33].3 
+ 
+ 
+ 
+3 
+IFRIC Update, November 2006, available on the IFRS Foundation’s website. Whilst the IFRS IC discussion was held in the context 
+of IAS 39, the discussion also holds true under IFRS 9 as the related requirements were brought into IFRS 9 unchanged. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3675 
+ 
+Illustration 3-2: 
+Changes in the contractual terms of an existing equity instrument 
+On 1 January 20X1, Company L issues a fixed rate cumulative perpetual instrument with a face value of CU10 
+million at par. Dividends on the instrument are cumulative but discretionary, and therefore, it is initially 
+classified as equity. On 1 January 20X2, L adds a new clause to the instrument so that if L is subject to a 
+change of control, L will be required to redeem the instrument at an amount equal to the face value plus any 
+accumulated unpaid dividends. Upon assessment of the facts and circumstances, it is determined that this 
+results in a reclassification of the instrument from equity to liability (see Chapter 43 at section 4.2. and 
+section 4.3 for the considerations in this determination). The fair value of the instrument on 1 January 20X2 
+is CU12 million. 
+Upon reclassification, L recognises the financial liability at its then fair value of CU12 million and the difference 
+of CU2 million is recognised in equity (e.g., retained earnings). 
+3.3.3 
+Financial guarantee contracts and off-market loan commitments 
+The requirement to measure financial instruments at fair value on initial recognition also applies to issued 
+financial guarantee contracts that are within the scope of IFRS 9, as well as to commitments to provide a 
+loan at a below-market interest rate (see Chapter 41 at sections 2.4 and 2.5). 
+When issued to an unrelated party in a stand-alone arm’s length transaction, the fair value of a financial 
+guarantee contract at inception is likely to equal the premium received, or receivable, unless there is 
+evidence to the contrary. [IFRS 9.B2.5(a)]. There is likely to be such evidence where, say, a parent provided to 
+a bank a financial guarantee in respect of its subsidiary’s borrowings and charged no fee. 
+When an off-market loan is provided to an entity’s subsidiary (see section 3.3.1 above), a ‘spare debit’ 
+arises in the separate financial statements of the parent as a result of the recognition of the loan at fair 
+value. The same situation can arise when a parent provides a subsidiary with an off-market loan 
+commitment. Again, it is normally appropriate to treat this difference as an additional cost of investment in 
+the subsidiary in the separate accounts of the parent (and as an equity contribution from the parent in the 
+accounts of the subsidiary). 
+3.3.4 
+Loans and receivables acquired in a business combination 
+Consistent with IFRS 9 and IFRS 13, IFRS 3 Business Combinations requires financial assets acquired in a 
+business combination to be measured by the acquirer on initial recognition at their fair value. [IFRS 3.18]. 
+IFRS 3 contains application guidance explaining that an acquirer does not recognise a separate valuation 
+allowance (e.g., an expected credit loss allowance) in respect of loans and receivables for contractual cash 
+flows that are deemed to be uncollectible at the acquisition date. This is because the effects of uncertainty 
+in relation to the collection of future cash flows are included in the fair value measure at initial recognition 
+(see Chapter 10 at section 5.5.5). [IFRS 3.27, IFRS 3.B41, IFRS 3.BC252]. 
+However, at the end of the first subsequent accounting period, a financial asset subject to the impairment 
+requirements of IFRS 9 will be assessed for impairment. [IFRS 9.5.5.3]. This interaction between the initial and 
+subsequent measurement of debt instruments acquired in a business combination, and the impairment 
+model of IFRS 9, is discussed in more detail in Chapter 47 at section 7.4. 
+3.3.5 
+Acquisition of a group of assets that does not constitute a business 
+When acquiring a group of assets, an entity is required to assess whether a business has been acquired (see 
+Chapter 10 at section 3.2). Where the group of assets does not constitute a business, IFRS 3 requires the 
+acquiring entity to: 
+• 
+Identify and recognise the individual identifiable assets acquired and liabilities assumed 
+And 
+• 
+Allocate the cost of the group to the individual identifiable assets and liabilities based on their relative 
+fair values at the date of the acquisition [IFRS 3.2(b)] 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3676 
+Frequently asked questions 
+Question 3-2: 
+What is the appropriate treatment in a transaction that does not constitute the 
+acquisition of a business, when there are differences noted at initial recognition in the fair value, and 
+measurement bases, of the underlying assets and liabilities acquired? 
+The IFRS IC considered how to allocate the transaction price to the identifiable assets acquired and 
+liabilities assumed when: 
+• 
+The sum of the individual fair values of the identifiable assets and liabilities is different from the 
+transaction price 
+And 
+• 
+The group of assets includes identifiable assets and liabilities initially measured both at cost, and at 
+an amount other than cost, e.g., financial instruments which are measured on initial recognition at 
+their fair value 
+Such a transaction or event does not give rise to goodwill. The IFRS IC observed that if an entity initially 
+considers that there might be a difference between the transaction price for the group, and the sum of 
+the individual fair values of the identifiable assets and liabilities, it first reviews the procedures used to 
+determine those individual fair values to assess whether such a difference truly exists, before allocating 
+the transaction price. 
+The IFRS IC concluded that a reasonable reading of the requirements of IFRS 3 results in two possible 
+ways of accounting for the acquisition of the group of assets: 
+(a) Under the first approach, the entity accounts for the acquisition of the group as follows: 
+• 
+It identifies the individual identifiable assets acquired and liabilities assumed that it recognises 
+at the date of the acquisition. 
+• 
+It determines the individual transaction price for each identifiable asset and liability by 
+allocating the cost of the group based on the relative fair values of those assets and liabilities at 
+the date of the acquisition. 
+And 
+• 
+It applies the initial measurement requirements in applicable IFRS to each identifiable asset 
+acquired and liability assumed. The entity accounts for any difference between the amount at 
+which the asset or liability is initially measured, and its individual transaction price, by applying 
+the relevant requirements. In the case of any financial instruments within the group, the entity 
+treats the difference between the fair value and allocated transaction price as a day 1 profit, the 
+requirements for which are discussed in section 3.3 above. 
+(b) Under the second approach: 
+• 
+Any identifiable asset or liability that is initially measured at an amount other than cost is 
+initially measured at the amount specified in the applicable IFRS, i.e., fair value in the case of a 
+financial instrument. 
+• 
+The entity deducts from the total transaction price the amounts allocated to the assets and 
+liabilities initially measured at an amount other than cost. 
+And 
+• 
+Using this residual transaction price, the entity then determines the cost of the remaining 
+identifiable assets and liabilities by allocating the residual transaction price, based on their 
+relative fair values at the date of the acquisition. 
+The IFRS IC observed that an entity must apply one of the above approaches consistently, as an 
+accounting policy choice, to all such acquisitions.4 
+ 
+ 
+ 
+4 
+IFRIC Update, November 2017, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3677 
+3.4 
+Transaction costs 
+3.4.1 
+Accounting treatment 
+As noted in section 3.1 above, the initial measurement of some financial instruments is based on their fair 
+value, but adjusted in respect of any transaction costs that are incremental and directly attributable to the 
+acquisition or issue of the financial instrument. [IFRS 9.5.1.1]. The consequences of this requirement are: 
+• 
+For financial instruments subsequently measured at amortised cost and, financial assets that are debt 
+instruments subsequently measured at fair value through other comprehensive income, transaction 
+costs are included in the calculation of the amortised cost using the effective interest method, in effect 
+reducing (increasing) the amount of interest income (expense) recognised over the life of the 
+instrument. [IFRS 9.IG E.1.1]. 
+• 
+For financial assets that are equity instruments that are subsequently measured at fair value through 
+other comprehensive income, transaction costs are recognised in other comprehensive income as part 
+of the change in fair value at the next remeasurement and are never reclassified into profit or loss. 
+[IFRS 9.B5.7.1, IFRS 9.IG E.1.1]. 
+And 
+• 
+Transaction costs relating to the acquisition or incurrence of financial instruments at fair value through 
+profit or loss are recognised in profit or loss as they are incurred. 
+Transaction costs that relate to the issue of a compound financial instrument are allocated to the liability 
+and equity components of the instrument in proportion to the allocation of proceeds. [IAS 32.38]. The initial 
+recognition of a compound instrument is discussed in more detail in Chapter 43 at section 6.2. 
+Section 3.5 below addresses the accounting for transaction costs associated with the recognition of a 
+hybrid financial liability where the embedded derivative is separated from the host. 
+Transaction costs, such as sale or disposal costs, that would be expected to be incurred on transfer or 
+disposal of a financial instrument, are not included in the initial or subsequent measurement of the financial 
+instrument. [IFRS 9.IG E.1.1]. 
+The following Illustration shows the accounting treatment of transaction costs for a financial asset 
+classified as measured at fair value through other comprehensive income. 
+Illustration 3-3: 
+Transaction costs - initial measurement of the related asset 
+Company A acquires an equity security that will be classified as measured at fair value through other 
+comprehensive income. The security has a fair value of CU100 and this is the amount A is required to pay. In 
+addition, A also pays a purchase commission of CU2. If the asset was to be sold, a sales commission of CU3 
+would be payable. 
+The initial measurement of the asset is CU102, i.e., the sum of its initial fair value and the purchase 
+commission. The commission payable on sale is not considered for this purpose. If A had a reporting date 
+immediately after the purchase of this security, it would measure the security at CU100 and recognise a loss 
+of CU2 in other comprehensive income, which is never reclassified to profit or loss. [IFRS 9.B5.2.2]. 
+In the Illustration above, if the financial asset was a debt instrument measured at fair value through other 
+comprehensive income, on initial recognition the transaction costs of CU2 would be included in the initial 
+measurement, and subsequently amortised to profit or loss using the effective interest method. 
+[IFRS 9.B5.2.2]. This is further discussed in Chapter 46 at section 2.3. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3678 
+3.4.2 
+Identifying transaction costs 
+Transaction costs are defined as: [IFRS 9 Appendix A] 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+transaction costs 
+Incremental costs that are directly attributable to the acquisition, 
+issue or disposal of a financial asset or financial liability (see 
+paragraph B5.4.8). An incremental cost is one that would not have 
+been incurred if the entity had not acquired, issued or disposed of the 
+financial instrument.  
+  
+Transaction costs include fees and commissions paid to agents (including employees acting as selling agents), 
+advisers, brokers, and dealers. They also include levies by regulatory agencies and securities exchanges, 
+transfer taxes and duties. [IFRS 9.B5.4.8]. 
+Chapter 46 at section 3.1 addresses whether certain financial services fees should be considered an integral 
+part of the effective interest rate of a financial instrument, which are accounted for similarly to transaction 
+costs, and those that are not. 
+Debt premiums or discounts, financing costs and allocations of internal administrative or holding costs are not 
+transaction costs. [IFRS 9.B5.4.8]. 
+In certain circumstances, it can be appropriate to regard the premium paid to acquire a financial guarantee 
+contract as a transaction cost of the guaranteed financial asset. This is discussed further in Chapter 47 at 
+section 5.8.1.A. Treating internal costs as transaction costs could open a number of possibilities for abuse by 
+allowing entities to defer expenses inappropriately. Consequently, internal costs are treated as transaction costs 
+only if they are incremental and directly attributable to the acquisition, issue or disposal of a financial asset or 
+financial liability. [IAS 39(2017).BC222(d)].5 Therefore, it will be rare for internal costs (other than, for instance, 
+commissions paid to sales staff in respect of a product sold that results in the origination or issuance of a 
+financial instrument) to be treated as transaction costs. 
+The determination of which costs are incremental and directly attributable can be highly judgemental, 
+particularly when costs are incurred in advance of the instrument being recognised. For example, a lender may 
+incur professional fees to value a property that would serve as collateral for a loan in advance of providing a 
+quote to the customer. In this case, it is useful to consider the guidance in IAS 32 which specifies that if an equity 
+transaction is abandoned, then the costs are recognised as an expense (see Chapter 43 at section 8.1). 
+[IAS 32.37]. This suggests that the possibility of a transaction ultimately not occurring is not by itself a reason to 
+not consider those costs as transaction costs. Where transaction costs are incurred in advance of the underlying 
+financial instrument, they are normally capitalised as a prepayment. 
+3.5 
+Embedded derivatives and financial liability hosts 
+Under IFRS 9, an embedded derivative is separated from a financial liability host contract when certain 
+conditions are met (see Chapter 42 at section 3). Embedded derivatives are not separated from financial assets 
+within the scope of IFRS 9, and the requirements of IFRS 9 are applied to the hybrid contract as a whole. 
+[IFRS 9.4.3.2]. 
+If there is a difference between the transaction price, and the fair value of the financial instrument as a whole, a 
+day 1 profit will arise. However, this day 1 profit may only be recognised as a gain or loss on initial recognition if 
+the hybrid instrument has a quoted price in an active market for an identical instrument (i.e., a level 1 input), or 
+if it is valued using a valuation technique that uses only data from observable markets (see section 3.3 above). 
+[IFRS 9.B5.1.2A(a)]. 
+In Chapter 42 at section 5, the treatment at initial recognition of an embedded derivative and the financial 
+liability host contact is discussed. It is explained that an embedded non-option derivative is required to have a 
+fair value of zero on initial recognition. By contrast, at initial recognition an embedded option-based derivative 
+would not normally have a fair value of zero. Furthermore, the financial liability host instrument shall initially be 
+measured based on the residual amount, after separating out the embedded derivative. [IFRS 9.B4.3.3]. 
+ 
+5 
+This discussion was included in the Basis for Conclusions to IAS 39. However, it holds true under IFRS 9 as the related 
+requirements were brought into IFRS 9 unchanged. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3679 
+IFRS 9 does not address how to allocate transaction costs that relate to a hybrid financial liability where an 
+embedded derivative is separated from the financial liability host. Therefore, when allocating transaction 
+costs to a hybrid financial instrument, entities should choose an accounting policy and apply it consistently. 
+The approaches more commonly observed are: 
+• 
+Approach 1: To allocate the transaction costs exclusively to the non-derivative financial liability host, in 
+which case the transaction costs are included in full in the host liability’s initial measurement. 
+• 
+Approach 2: To allocate the transaction costs to the non-derivative financial liability host and the 
+embedded derivative in proportion to their fair values at initial recognition, i.e., in a similar fashion to 
+compound financial instruments. Under this approach: 
+• 
+The proportion attributable to the non-derivative financial liability host will be included in the host 
+liability’s initial measurement 
+• 
+The proportion attributable to the embedded derivative will be expensed as incurred as the 
+embedded derivative is measured at fair value through profit or loss 
+If the embedded derivative is required to have an initial fair value of zero, then in essence, under 
+Approach 2, no transaction costs will be allocated to the embedded derivative. Hence the choice of 
+approach will usually only lead to a different outcome on initial recognition when the embedded derivative 
+has a non-zero fair value, for example the embedded derivative has an option feature. 
+Approach 2 would need to be adapted if the embedded derivative is an asset, for example by allocating the 
+transaction costs in proportion to the absolute fair values of the host and embedded derivative. 
+Illustration 3-4: 
+Initial recognition of embedded derivatives and financial liability hosts (with 
+transaction costs) 
+Background Information 
+• 
+Entity E with a functional currency of euros, issues a zero-coupon bond with a par value of €100, 
+which is determined to be the fair value of the hybrid instrument on that date. The proceeds received 
+were €100. 
+• 
+The bond has a maturity of 3 years. At that point the counterparty has the option to demand 
+settlement at US$100 or €100. 
+• 
+Transaction costs of €5 were incurred by Entity E. 
+• 
+Entity E will account for the bond at amortised cost. 
+• 
+As the settlement feature at maturity could be in a currency that is different to the nominal value, 
+there is a resulting cross currency option. 
+• 
+This embedded derivative is not considered to be closely related to the host liability measured at 
+amortised cost, and therefore separation is required (see Chapter 42 section 4.2.1). 
+• 
+The embedded derivative is assessed to be a liability, with a fair value on initial recognition of €20. 
+At initial recognition 
+• 
+€20 is allocated to the derivative liability as the fair value at initial recognition. 
+• 
+The financial liability host instrument is measured based on the residual amount, after separating 
+out the embedded derivative. Therefore, a value of €80 (€100-€20=€80) is allocated initially to the 
+liability. 
+Allocation of the transaction costs 
+• 
+If Approach 1 is followed, the transaction costs are allocated exclusively to the non-derivative 
+financial liability host. Consequently, the full €5 is allocated to the host liability. As the bond is 
+carried at amortised cost, the transaction costs are included in full in the bond’s initial measurement. 
+As a result, the bond is initially recognised at €75; and the embedded derivative is initially measured 
+at €20. 
+• 
+If Approach 2 is followed, the transaction costs are allocated to the non-derivative financial liability 
+host and the embedded derivative in proportion to their fair values. Consequently: 
+• 
+Transaction costs of €1 (€5x20/100) are allocated to the derivative. As the derivative is carried 
+at fair value, the transaction costs of €1 are recognised immediately in profit and loss, and the 
+embedded derivative is recognised initially at €20. 
+• 
+Transaction costs of €4 (€5x80/100) are allocated to the liability, and deducted from its initial 
+carrying amount. As a result, the bond liability is initially recognised at €76 (€80-€4). 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3680 
+3.6 
+Regular way transactions 
+When settlement date accounting is used for ‘regular way’ transactions (see section 2.2.4 above) and those 
+transactions result in the recognition of assets that are subsequently measured at amortised cost, there is 
+an exception to the general requirement to measure the asset on initial recognition at its fair value (see 
+section 3.1 above). In such circumstances, rather than being initially measured by reference to their fair 
+value on the date they are first recognised, i.e., settlement date, these financial instruments are initially 
+measured by reference to their fair value on the trade date (see Illustration 2-3A at section 2.2.5 above). 
+[IFRS 9.5.1.2]. 
+In practice, the difference will rarely be significant because of the short time scale involved between trade 
+date and settlement date. It is because of this short duration that regular way transactions are not 
+recognised as derivative financial instruments, but accounted for as set out in section 2.2 above. 
+[IFRS 9.BA.4]. 
+3.7 
+Assets and liabilities arising from loan commitments 
+Loan commitments are a form of derivative financial instrument, although for pragmatic reasons the IASB 
+decided that certain loan commitments could be excluded from most of the recognition and measurement 
+requirements of IFRS 9 (see Chapter 41 at section 2.5). Nevertheless IFRS 9 does require issuers to apply 
+its impairment rules to such loan commitments (see Chapter 47 at section 11). [IFRS 9.2.1(g)]. 
+This creates a degree of uncertainty over how assets and liabilities arising from such arrangements should 
+be measured on initial recognition, as discussed in the Illustration below. 
+For simplicity, any other amounts payable by the borrower to the lender (such as commitment and non-
+utilisation fees), have not been illustrated. The treatment of commitment fees received or paid is addressed 
+in the frequently asked questions within Chapter 46 at section 2.8. 
+Illustration 3-5: 
+Drawdown under a committed borrowing facility 
+• 
+Company H obtains from Bank Q a committed facility allowing it to borrow up to CU10,000 at any 
+time over the following five years, provided certain covenants specified in the facility agreement are 
+not breached. 
+• 
+Interest on any drawdowns is payable at the risk-free rate, plus a fixed margin, representing Q’s 
+initial assessment of H’s credit risk, resulting in a variable market rate. 
+• 
+Any such borrowings can be repaid at any time at the option of H, but must be repaid by the end of 
+five years, unless the facility is renegotiated and extended. They also become repayable immediately 
+in the event that H breaches the covenants. 
+• 
+After one year, no drawdowns have been made and H’s credit risk has increased (although it has not 
+breached any of the covenants and there is no expectation of default). As a result of this change in 
+credit risk, the fair value of the facility is CU200 (positive value to H, negative value to Q). 
+• 
+Shortly afterwards, H draws down the maximum CU10,000 available under the facility. 
+• 
+Because of the change in credit risk, the loan resulting from the drawdown has a fair value at that 
+date of CU9,800. The CU200 difference between the fair value of CU9,800 of the financial 
+instrument created, and the CU10,000 cash transferred effectively represents the change in fair 
+value of the commitment arising from the change in H’s credit risk. 
+Questions: 
+• 
+Should Q (H) initially measure the resulting asset (liability) at its CU9,800 fair value or at CU10,000, 
+being the amount of cash actually exchanged? 
+• 
+If it is recognised at CU9,800, how is the ‘spare’ CU200 accounted for, and does Q (H) recognise this 
+as a loss (profit)? 
+In order to be able to answer this question, we need to consider the accounting for the loan commitment up 
+until the date of drawdown and how its carrying amount impacts the initial measurement of the resulting 
+loan. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3681 
+3.7.1 
+Loan commitments outside the scope of IFRS 9 
+In Illustration 3-5 above, the commitment cannot be settled net and it is not at a below-market interest 
+rate. Therefore, unless H or Q designate the loan commitment at fair value through profit or loss, it will be 
+outside the scope of IFRS 9. 
+The accounting for the loan commitment outside the scope of IFRS 9 would be as follows: 
+• 
+At the next reporting date after Q and H enter into the loan commitment, Q would assess and record a 
+provision for expected credit losses under the impairment requirements of IFRS 9 (see Chapter 47 at 
+section 11), say CU10. Nothing else is recognised in the accounts of H in respect of the facility because 
+the loan commitment is not recognised. 
+• 
+When the credit risk increases in the following year, Q assesses and recognises any impact the increase 
+in credit risk may have had on the provision for expected credit loss. Assume the ECL provision at this 
+point has increased from CU10 to CU35. 
+Therefore, until the time of drawdown, the only accounting entries for Q are in relation to the impairment 
+requirements applicable to loan commitments. 
+At the time the loan is drawn down, Q classifies the loan within financial assets at amortised cost and H 
+classifies it within financial liabilities at amortised cost. The general requirement under IFRS 9 as noted in 
+section 3.1 above would require the asset (liability) to be initially measured at its fair value, i.e., CU9,800. 
+This would result in: 
+• 
+For Q, the recognition of a further loss of CU165 (CU200 - CU35). 
+• 
+For H, the recognition of a profit of CU200. 
+This is because the spare CU200 arising as the difference between the fair value (CU9,800) and the amount 
+delivered (CU10,000) does not represent any other asset or liability arising from the transaction. 
+However, the Basis for Conclusions on IFRS 9 explains that the effect of the loan commitment exception is 
+to achieve consistency with the measurement basis of the resulting loan when the holder exercises its right, 
+i.e., amortised cost. Changes in the fair value of these commitments arising from changes in market 
+interest rates or credit spreads will therefore not be recognised or measured, in the same manner that 
+changes in such rates and spreads would not affect the amortised cost of the financial asset (or financial 
+liability) recognised once the right is exercised. [IFRS 9.BCZ2.3]. This is exactly what the ‘spare’ CU200 
+represents, so in accordance with the underlying rationale and objective of allowing loan commitments to 
+be excluded from the scope of IFRS 9, it is appropriate to initially measure the asset or liability arising in 
+this case at CU10,000. It is worth mentioning that the expected credit loss provision previously recognised 
+for the loan commitment is incorporated into the allowance for the drawn down loan upon initial 
+recognition, and then subsequently reassessed at each reporting date. 
+The treatment under the loan commitment exception is consistent with that of similar assets arising from 
+regular way transactions recognised using settlement date accounting (see section 3.6 above). This is 
+relevant because the IASB introduced the loan commitment exception as a result of issues identified by the 
+IAS 39 Implementation Guidance Committee (IGC) and the only solution the IGC could identify at the time 
+involved treating loan commitments as regular way transactions and using settlement date accounting.6 
+ 
+ 
+ 
+6 
+IAS 39 Implementation Guidance Committee (IGC), Q&A 30-1, July 2002. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3682 
+The Illustration below is a continuation of Illustration 3-5 above, and demonstrates the accounting by 
+Bank Q for the loan commitment and, subsequently, for the asset that results from the draw down. 
+Illustration 3-6: 
+Drawdown under a committed borrowing facility - journals when outside the 
+scope of IFRS 9 
+The journals below illustrate the accounting for a loan commitment that is outside the scope of IFRS 9 in line 
+with the information provided in Illustration 3-5 and section 3.7.1 above. 
+Bank Q Journals 
+Financial asset accounted for at amortised cost 
+At first reporting date 
+ 
+ 
+CU 
+CU 
+Dr 
+Profit or loss 
+10 
+  
+  
+Cr 
+ECL on commitment 
+  
+10 
+To record a provision for expected credit losses under the impairment requirements of 
+IFRS 9 
+At second reporting date 
+ 
+  
+CU 
+CU 
+Dr 
+Profit or loss 
+25 
+  
+  
+Cr 
+ECL on commitment 
+  
+25 
+To record a provision for expected credit losses under the impairment requirements of 
+IFRS 9 
+At draw down 
+ 
+  
+CU 
+CU 
+Dr 
+Loan receivable 
+10,000 
+  
+  
+Cr 
+Bank 
+  
+10,000 
+To record loan on draw down 
+Immediately after draw down 
+ 
+  
+CU 
+CU 
+Dr 
+ECL on commitment 
+35 
+  
+  
+Cr 
+ECL on loan receivable  
+  
+35 
+ECL previously recognised on loan commitment incorporated into ECL for the loan 
+  
+The above discussion outlines the treatment for a loan commitment when the resulting asset is classified at 
+amortised cost. The scope exemption for loan commitments does not apply where an entity has a past 
+practice of selling the assets resulting from the loan commitments shortly after origination (see Chapter 41 
+at section 2.5). [IFRS 9.2.3(a)]. Consequently, where the resulting loan is classified as held for trading, the 
+loan commitment would be within the scope of IFRS 9 and would be dealt with as per section 3.7.2 below. 
+3.7.2 
+Loan commitments within the scope of IFRS 9 
+If in the above example, Q accounted for the loan commitment at fair value through profit or loss (in line 
+with IFRS 9.2.3(a), see Chapter 41 section 2.5), the issue of the spare CU200 would not arise. At the time 
+the loan was drawn down, the commitment would have already been recognised as a CU200 liability and an 
+equivalent loss would have been recorded in profit or loss. The loan would then be recognised at its fair 
+value of CU9,800 and the CU200 balance of the cash movement over this amount would be treated as the 
+settlement of the loan commitment liability. Therefore, no further gain or loss would need to be recognised 
+at this point. Once the loan is recognised, it will be accounted for in accordance with IFRS 9 in line with its 
+classification. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3683 
+Illustration 3-7: 
+Drawdown under a committed borrowing facility - journals when within the 
+scope of IFRS 9 
+The journals below illustrate the accounting for a loan commitment that is within the scope of IFRS 9 in line 
+with the information provided in Illustration 3-5 and accounted for at fair value through profit or loss as set 
+out above. 
+Bank Q Journals 
+After 1 year 
+ 
+  
+CU 
+CU 
+Dr 
+Profit or loss 
+200 
+  
+  
+Cr 
+Loan commitment 
+  
+200 
+To recognise the fair value of the loan commitment 
+At draw down 
+ 
+  
+CU 
+CU 
+Dr 
+Loan receivable 
+9,800 
+  
+Dr 
+Loan commitment  
+200 
+  
+  
+Cr 
+Bank 
+  
+10,000 
+To record loan on draw down, and settlement of the loan commitment 
+  
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3684 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Regular way transactions - forward contract 
+3664 
+Illustration 2-2: 
+Regular way transactions - share purchase by call option 
+3664 
+Illustration 2-3: 
+Trade date and settlement date accounting - regular way purchase 
+3666 
+Illustration 2-4: 
+Trade date and settlement date accounting - regular way sale 
+3667 
+Illustration 2-5: 
+Trade date and settlement date accounting - exchange of non-cash financial 
+assets 
+3670 
+Illustration 3-1: 
+Off-market loan with origination fee 
+3673 
+Illustration 3-2: 
+Changes in the contractual terms of an existing equity instrument 
+3675 
+Illustration 3-3: 
+Transaction costs - initial measurement of the related asset 
+3677 
+Illustration 3-4: 
+Initial recognition of embedded derivatives and financial liability hosts (with 
+transaction costs) 
+3679 
+Illustration 3-5: 
+Drawdown under a committed borrowing facility 
+3680 
+Illustration 3-6: 
+Drawdown under a committed borrowing facility - journals when outside the 
+scope of IFRS 9 
+3682 
+Illustration 3-7: 
+Drawdown under a committed borrowing facility - journals when within the 
+scope of IFRS 9 
+3683 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3685 
+Appendix B - Index of Frequently asked questions 
+Question 2-1: 
+In relation to clearing brokers and similar institutions, when dealing with 
+centrally cleared client derivatives, is the clearing broker acting as an agent 
+or a principal? 
+3662 
+Question 2-2: 
+How are short sales of securities accounted for when the transaction terms 
+require delivery of the securities within the time frame established generally 
+by regulation or convention in the marketplace? 
+3665 
+Question 3-1: 
+What is the appropriate treatment of an issued equity instrument where the 
+contractual terms are modified such that it is subsequently reclassified as a 
+financial liability? 
+3674 
+Question 3-2: 
+What is the appropriate treatment in a transaction that does not constitute 
+the acquisition of a business, when there are differences noted at initial 
+recognition in the fair value, and measurement bases, of the underlying 
+assets and liabilities acquired? 
+3676 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3686 
+Appendix C - Defined terms 
+Extract from IFRS accounting standards - Definitions 
+amortised cost of a financial 
+asset or financial liability 
+The amount at which the financial asset or financial liability is 
+measured at initial recognition minus the principal repayments, plus or 
+minus the cumulative amortisation using the effective interest method 
+of any difference between that initial amount and the maturity amount 
+and, for financial assets, adjusted for any loss allowance. 
+[IFRS 9 Appendix A]. 
+derivative 
+A financial instrument or other contract within the scope of this 
+Standard with all three of the following characteristics. 
+(a) its value changes in response to the change in a specified interest 
+rate, financial instrument price, commodity price, foreign 
+exchange rate, index of prices or rates, credit rating or credit 
+index, or other variable, provided in the case of a non-financial 
+variable that the variable is not specific to a party to the contract 
+(sometimes called the ‘underlying’). 
+(b) it requires no initial net investment or an initial net investment 
+that is smaller than would be required for other types of contracts 
+that would be expected to have a similar response to changes in 
+market factors. 
+(c) it is settled at a future date. [IFRS 9 Appendix A]. 
+equity instrument 
+An equity instrument is any contract that evidences a residual 
+interest in the assets of an entity after deducting all of its liabilities. 
+[IAS 32.11]. 
+fair value 
+The price that would be received to sell an asset or paid to transfer a 
+liability in an orderly transaction between market participants at the 
+measurement date. [IFRS 13 Appendix A]. 
+financial asset 
+A financial asset is any asset that is: 
+(a) cash; 
+(b) an equity instrument of another entity; 
+(c) a contractual right: 
+(i) to receive cash or another financial asset from another 
+entity; or 
+(ii) to exchange financial assets or financial liabilities with 
+another entity under conditions that are potentially 
+favourable to the entity; or 
+(d) a contract that will or may be settled in the entity’s own equity 
+instruments and is: 
+(i) a non-derivative for which the entity is or may be obliged to 
+receive a variable number of the entity’s own equity 
+instruments; or 
+(ii) a derivative that will or may be settled other than by the 
+exchange of a fixed amount of cash or another financial 
+asset for a fixed number of the entity’s own equity 
+instruments. 
+For this purpose the entity’s own equity instruments do not 
+include puttable financial instruments classified as equity 
+instruments in accordance with paragraphs 16A and 16B, 
+instruments that impose on the entity an obligation to 
+deliver to another party a pro rata share of the net assets of 
+the entity only on liquidation and are classified as equity 
+instruments in accordance with paragraphs 16C and 16D, or 
+instruments that are contracts for the future receipt or 
+delivery of the entity’s own equity instruments. [IAS 32.11]. 
+  
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3687 
+financial guarantee contract 
+A contract that requires the issuer to make specified payments to 
+reimburse the holder for a loss it incurs because a specified debtor fails 
+to make payment when due in accordance with the original or modified 
+terms of a debt instrument. [IFRS 9 Appendix A]. 
+financial instrument 
+A financial instrument is any contract that gives rise to a financial 
+asset of one entity and a financial liability or equity instrument of 
+another entity. [IAS 32.11]. 
+financial liability 
+A financial liability is any liability that is: 
+(a) a contractual obligation: 
+(i) to deliver cash or another financial asset to another entity; 
+or 
+(ii) to exchange financial assets or financial liabilities with 
+another entity under conditions that are potentially 
+unfavourable to the entity; or 
+(b) a contract that will or may be settled in the entity’s own equity 
+instruments and is: 
+(i) a non-derivative for which the entity is or may be obliged to 
+deliver a variable number of the entity’s own equity 
+instruments; or 
+(ii) a derivative that will or may be settled other than by the 
+exchange of a fixed amount of cash or another financial 
+asset for a fixed number of the entity’s own equity 
+instruments. For this purpose, rights, options or warrants to 
+acquire a fixed number of the entity’s own equity 
+instruments for a fixed amount of any currency are equity 
+instruments if the entity offers the rights, options or 
+warrants pro rata to all of its existing owners of the same 
+class of its own non-derivative equity instruments. Also, for 
+these purposes the entity’s own equity instruments do not 
+include puttable financial instruments that are classified as 
+equity instruments in accordance with paragraphs 16A 
+and 16B, instruments that impose on the entity an 
+obligation to deliver to another party a pro rata share of the 
+net assets of the entity only on liquidation and are classified 
+as equity instruments in accordance with paragraphs 16C 
+and 16D, or instruments that are contracts for the future 
+receipt or delivery of the entity’s own equity instruments. 
+As an exception, an instrument that meets the definition of a 
+financial liability is classified as an equity instrument if it has all the 
+features and meets the conditions in paragraphs 16A and 16B or 
+paragraphs 16C and 16D. [IAS 32.11]. 
+financial liability at fair 
+value through profit or loss 
+A financial liability that meets one of the following conditions: 
+(a) it meets the definition of held for trading. 
+(b) upon initial recognition it is designated by the entity as at fair 
+value through profit or loss in accordance with paragraph 4.2.2 
+or 4.3.5. 
+(c) it is designated either upon initial recognition or subsequently as 
+at fair value through profit or loss in accordance with 
+paragraph 6.7.1. [IFRS 9 Appendix A]. 
+ 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 45 
+Financial instruments: Recognition and initial measurement 
+3688 
+held for trading 
+A financial asset or financial liability that: 
+(a) is acquired or incurred principally for the purpose of selling or 
+repurchasing it in the near term; 
+(b) on initial recognition is part of a portfolio of identified financial 
+instruments that are managed together and for which there is 
+evidence of a recent actual pattern of short-term profit-taking; or 
+(c) is a derivative (except for a derivative that is a financial guarantee 
+contract or a designated and effective hedging instrument). 
+[IFRS 9 Appendix A]. 
+regular way purchase or 
+sale 
+A purchase or sale of a financial asset under a contract whose terms 
+require delivery of the asset within the time frame established 
+generally by regulation or convention in the marketplace concerned. 
+[IFRS 9 Appendix A]. 
+transaction costs 
+Incremental costs that are directly attributable to the acquisition, issue 
+or disposal of a financial asset or financial liability (see 
+paragraph B5.4.8). An incremental cost is one that would not have 
+been incurred if the entity had not acquired, issued or disposed of the 
+financial instrument. [IFRS 9 Appendix A]. 
+transaction price 
+(for a contract with a 
+customer) 
+The amount of consideration to which an entity expects to be entitled 
+in exchange for transferring promised goods or services to a 
+customer, excluding amounts collected on behalf of third parties. 
+[IFRS 15 Appendix A]. 
+ 

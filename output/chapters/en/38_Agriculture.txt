@@ -1,0 +1,3128 @@
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3122 
+ 
+Chapter 38 
+Agriculture 
+ 
+Contents 
+Overview 
+3124 
+1 
+Introduction 
+3124 
+2 
+Objective, definitions and scope 
+3125 
+2.1 
+Objective 
+3125 
+2.2 
+Definitions 
+3125 
+2.2.1 
+Agriculture-related definitions 
+3125 
+2.2.1.A 
+Definition of bearer plants 
+3126 
+2.2.2 
+General definitions 
+3128 
+2.3 
+Scope 
+3128 
+2.3.1 
+Biological assets outside the scope of IAS 41 
+3129 
+2.3.2 
+Agricultural produce before and after harvest 
+3129 
+2.3.3 
+Bearer plants and produce growing on a bearer plant 
+3129 
+2.3.4 
+Products that are the result of processing after harvest 
+3129 
+2.3.5 
+Leases of biological assets (excluding bearer plants) 
+3130 
+2.3.5.A 
+Leases of biological assets (excluding bearer plants) - lessee accounting 
+3130 
+2.3.5.B 
+Leases of biological assets (excluding bearer plants) - lessor accounting 
+3131 
+2.3.6 
+Concessions 
+3131 
+2.3.7 
+Trees held to generate carbon offsets for use or sale 
+3132 
+3 
+Recognition and measurement principles 
+3134 
+3.1 
+Recognition 
+3134 
+3.2 
+Measurement 
+3134 
+3.2.1 
+Biological assets within the scope of IAS 41 
+3134 
+3.2.1.A 
+Initial and subsequent measurement 
+3134 
+3.2.1.B 
+Subsequent expenditure 
+3134 
+3.2.2 
+Agricultural produce 
+3135 
+3.2.3 
+Requirements for produce growing on a bearer plant 
+3136 
+3.2.3.A 
+Requirements for bearer plants in the scope of IAS 16 
+3136 
+3.2.3.B 
+Requirements for agricultural produce growing on bearer plants 
+3138 
+3.2.4 
+Requirements for trees held to generate carbon offsets for use or sale 
+3140 
+3.2.5 
+Gains and losses 
+3141 
+3.2.6 
+Inability to measure fair value reliably 
+3141 
+3.2.6.A 
+Rebutting the presumption 
+3141 
+3.2.6.B 
+The cost model 
+3143 
+3.3 
+Government grants 
+3144 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3123 
+4 
+Measuring fair value less costs to sell 
+3146 
+4.1 
+The interaction between IAS 41 and IFRS 13 
+3146 
+4.2 
+Establishing what to measure 
+3146 
+4.2.1 
+Unit of account 
+3146 
+4.2.2 
+Grouping of assets 
+3146 
+4.3 
+When to measure fair value 
+3146 
+4.4 
+Determining costs to sell 
+3147 
+4.5 
+Measuring fair value: IAS 41-specific requirements 
+3147 
+4.5.1 
+Use of external independent valuers 
+3147 
+4.5.2 
+Obligation to re-establish a biological asset after harvest 
+3147 
+4.5.3 
+Forward sales contracts 
+3148 
+4.5.4 
+Onerous contracts 
+3148 
+4.5.5 
+Financing cash flows and taxation 
+3148 
+4.6 
+Measuring fair value: overview of IFRS 13’s requirements 
+3149 
+4.6.1 
+The fair value measurement framework 
+3149 
+4.6.2 
+Highest and best use and valuation premise 
+3149 
+4.6.2.A 
+Biological assets attached to land 
+3150 
+4.6.3 
+Selecting appropriate assumptions 
+3153 
+4.6.3.A 
+Condition and location 
+3154 
+4.6.4 
+Valuation techniques in IFRS 13 
+3154 
+4.6.4.A 
+Cost as an approximation of fair value 
+3154 
+4.7 
+The problem of measuring fair value for part-grown or immature biological assets 
+3155 
+4.7.1 
+The use of prices for similar assets, for which observable prices do exist, as an input 
+into the fair value measurement 
+3156 
+5 
+Disclosure 
+3157 
+5.1 
+General 
+3157 
+5.1.1 
+Statement of financial position 
+3157 
+5.1.1.A 
+Current versus non-current classification 
+3158 
+5.1.1.B 
+Bearer plants 
+3159 
+5.1.2 
+Income statement 
+3165 
+5.1.3 
+Groups of biological assets 
+3168 
+5.1.4 
+Other disclosures 
+3168 
+5.1.5 
+Developments in presentation and disclosure 
+3174 
+5.2 
+Fair value measurement disclosures 
+3175 
+5.3 
+Additional disclosures if fair value cannot be measured reliably 
+3178 
+5.4 
+Government grants 
+3178 
+Appendix A - Index of Illustrations 
+3179 
+Appendix B - Index of Frequently asked questions 
+3180 
+Appendix C - Defined terms 
+3181 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3124 
+Overview 
+IAS 41 Agriculture prescribes the accounting treatment for most agricultural activity, from the initial 
+recognition of a biological asset to the harvest of agricultural produce. 
+IAS 41 applies to some, but not all biological assets. In particular, IAS 41 excludes bearer plants, as 
+defined, from its scope. Instead, they are within the scope of IAS 16 Property, Plant and Equipment and are 
+subject to all of the requirements therein. However, agricultural produce growing on bearer plants 
+(e.g., fruit growing on a tree) are within the scope of IAS 41 and are treated as biological assets. 
+Government grants related to agricultural activity are also within the scope of IAS 41. IAS 20 Accounting 
+for Government Grants and Disclosure of Government Assistance applies to all other government grants and 
+to disclosures about other government assistance. 
+This chapter discusses the requirements of IAS 41, along with the requirements that apply to bearer plants 
+within the scope of IAS 16. It also discusses the accounting for trees held to generate carbon offsets for use 
+or sale. The requirements of IAS 16 are discussed in Chapter 19. The requirements of IAS 20 are discussed 
+in Chapter 25. 
+What you need to know 
+• 
+IAS 41 prescribes the accounting treatment for biological assets, agricultural produce at the point of 
+harvest and government grants related to agricultural activity. 
+• 
+Bearer plants are within the scope of IAS 16, but IAS 41 applies to the produce growing on a bearer 
+plant. 
+• 
+Biological assets and agricultural produce at the point of harvest within the scope of IAS 41 are 
+measured at fair value less costs to sell, with limited exceptions. IAS 41 includes a rebuttable 
+presumption that fair value can be reliably measured for biological assets. 
+ 
+1 
+Introduction 
+IAS 41 applies to most biological assets, agricultural produce at the point of harvest, and government 
+grants related to agricultural activity. Produce growing on a bearer plant is within the scope of IAS 41, but 
+the bearer plants they grow on are within the scope of IAS 16. 
+Practical difficulties may arise when determining which assets are within the scope of the standard, 
+particularly for arrangements that involve leases or concessions. Entities may also find it particularly 
+challenging to apply two different measurement models under two different standards to bearer plants, as 
+defined, and the produce growing thereon. However, it is IAS 41’s application of the fair value model that 
+can be the most challenging and contentious. 
+The nature of agricultural activity can create uncertainty or may conflict with traditional accounting 
+models, particularly because the critical events associated with biological transformation (growth, 
+degeneration, production, and procreation) that alter the substance of biological assets are difficult to deal 
+with in an accounting model based on historical cost and realisation. 
+As a result, for assets that are in-scope, IAS 41 requires the application of the fair value model to animals 
+and plant life alike, with limited relief. Under this approach, a market price for an animal or part-grown crop 
+is presumed to exist (or is presumed to be reliably measurable if there is no such market price) and the 
+animal or part-grown crop must be valued at this price in the entity’s financial statements. The fair value 
+model is applied to all biological assets that are in scope, regardless of whether they are consumed as part 
+of the agricultural activity (consumable biological assets) or not (bearer biological assets). 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3125 
+2 
+Objective, definitions and scope 
+2.1 
+Objective 
+The stated objective of IAS 41 is: [IAS 41 Objective] 
+Extract from IAS 41 
+Objective 
+The objective of this Standard is to prescribe the accounting treatment and disclosures related to 
+agricultural activity. 
+2.2 
+Definitions 
+2.2.1 
+Agriculture-related definitions 
+IAS 41 defines ‘agricultural activity’ as “the management by an entity of the biological transformation and 
+harvest of biological assets for sale or for conversion into agricultural produce or into additional biological 
+assets”. [IAS 41.5]. 
+The standard states that ‘agricultural activity’ covers a wide range of activities, e.g., “raising livestock, 
+forestry, annual or perennial cropping, cultivating orchards and plantations, floriculture, and aquaculture 
+(including fish farming)”. [IAS 41.6]. Nevertheless, these agricultural activities have certain common 
+features: 
+“(a) Capability to change. Living animals and plants are capable of biological transformation; 
+“(b) Management of change. Management facilitates biological transformation by enhancing, or at least 
+stabilising, conditions necessary for the process to take place (for example, nutrient levels, moisture, 
+temperature, fertility, and light). Such management distinguishes agricultural activity from other 
+activities. For example, harvesting from unmanaged sources (such as ocean fishing and deforestation) 
+is not agricultural activity; and 
+“(c) Measurement of change. The change in quality (for example, genetic merit, density, ripeness, fat cover, 
+protein content, and fibre strength) or quantity (for example, progeny, weight, cubic metres, fibre 
+length or diameter, and number of buds) brought about by biological transformation or harvest is 
+measured and monitored as a routine management function.” [IAS 41.6]. 
+Biological transformation under IAS 41 “comprises the processes of growth, degeneration, production, and 
+procreation that cause qualitative or quantitative changes in a biological asset”. [IAS 41.5]. The standard 
+explains that biological transformation results in the following types of outcomes: 
+“(a) asset changes through (i) growth (an increase in quantity or improvement in quality of an animal or 
+plant), (ii) degeneration (a decrease in the quantity or deterioration in quality of an animal or plant), or 
+(iii) procreation (creation of additional living animals or plants); or 
+(b) production of agricultural produce such as latex, tea leaf, wool, and milk.” [IAS 41.7]. 
+IAS 41 defines the following additional terms that are used throughout the standard: [IAS 41.5] 
+• 
+A biological asset is a living animal or plant. 
+• 
+A group of biological assets is an aggregation of similar living animals or plants. 
+• 
+Agricultural produce is the harvested product of the entity’s biological assets. 
+• 
+Harvest is the detachment of produce from a biological asset or the cessation of a biological asset’s life 
+processes. 
+• 
+Costs to sell are the incremental costs directly attributable to the disposal of an asset, excluding 
+finance costs and income taxes. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3126 
+The standard provides examples to illustrate the above definitions. In addition to providing these examples, 
+the standard notes that some of the plants mentioned in the table below may meet the definition of bearer 
+plants and, therefore, be within the scope of IAS 16. However, the produce growing on such plants is within 
+the scope of IAS 41 (see sections 2.2.1.A and 2.3.3 below) and is considered a biological asset. [IAS 41.5C]. 
+Figure 2-1 below is based on those examples, but has been modified to provide examples of possible bearer 
+plants and produce growing on those plants: [IAS 41.4] 
+Figure 2-1: 
+Examples of biological assets (including possible bearer plants), agricultural 
+produce and products that are the result of processing after harvest 
+Biological assets that 
+may meet the 
+definition of a bearer 
+plant 
+Biological assets 
+(including produce 
+growing on a bearer 
+plant) 
+Agricultural produce  
+Products that are the 
+result of processing 
+after harvest 
+  
+Sheep 
+Wool 
+Yarn, carpet 
+  
+Trees in a timber 
+plantation 
+Felled trees  
+Logs, lumber  
+  
+Dairy cattle 
+Milk 
+Cheese 
+  
+Pigs 
+Carcass 
+Sausages, cured hams 
+Cotton plants 
+Growing cotton 
+Harvested cotton 
+Thread, clothing 
+Sugar-cane roots 
+Growing sugarcane 
+Harvested cane 
+Sugar 
+Tobacco plants 
+Leaves on the tobacco 
+plants 
+Picked leaves 
+Cured tobacco 
+Tea bushes 
+Leaves on the tea 
+bushes 
+Picked leaves 
+Tea 
+Grape vines 
+Grapes on the vines 
+Picked grapes 
+Wine 
+Fruit trees 
+Fruit on the trees 
+Picked fruit 
+Processed fruit 
+Oil palms 
+Growing fruit 
+Picked fruit 
+Palm oil 
+Rubber trees 
+Latex 
+Harvested latex 
+Rubber products 
+2.2.1.A 
+Definition of bearer plants 
+A bearer plant is defined as “a living plant that: 
+(a) is used in the production or supply of agricultural produce; 
+(b) is expected to bear produce for more than one period; and 
+(c) has a remote likelihood of being sold as agricultural produce, except for incidental scrap sales”. 
+[IAS 41.5]. 
+All of the above criteria need to be met for a plant to be considered a bearer plant. 
+The definition captures plants that would intuitively be considered to be bearers, for instance, grape vines. 
+Some plants may appear to be consumable, such as the root systems of perennial plants (e.g., sugar cane, 
+bamboo or asparagus), but due to the perennial nature of their root systems, it is likely they will also meet 
+the definition of a bearer plant. 
+Annual crops and other plants that are held solely to be harvested as agricultural produce (e.g., many 
+traditional arable crops such as maize, wheat and soya, as well as trees grown for lumber), are explicitly 
+excluded from the definition of a bearer plant. In addition, plants that have a dual use (i.e., plants cultivated 
+to bear agricultural produce, but for which there is more than a remote likelihood that the plant itself will be 
+harvested and sold as agricultural produce, beyond incidental scrap sales) are not bearer plants. [IAS 41.5A]. 
+This may be the case when, for example, an entity holds rubber trees to sell both the latex as agricultural 
+produce and the trees as lumber. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3127 
+Bearer animals, like bearer plants, may be held solely for the produce that they bear. However, when 
+IAS 41 was amended to exclude bearer plants from its scope, bearer animals were explicitly excluded from 
+the amendments and continue to be accounted for under IAS 41 on the basis that the measurement model 
+would become more complex if applied to such assets. 
+How we see it 
+Determining whether an asset meets the definition of a bearer plant may not be entirely intuitive. Careful 
+assessment is, therefore, important. We believe that judgement is needed, in particular in determining: 
+• 
+Whether the plant will be used in the production or supply of agricultural produce 
+• 
+Whether the plant is expected to bear produce for more than one period 
+• 
+What constitutes incidental scrap sales 
+We discuss these areas of judgement in more detail below. 
+• 
+Used in the production or supply of agricultural produce 
+Judgement might be needed to determine whether a plant is used in the production or supply of 
+agricultural produce, rather than consumed in the process. For example, some plants that are generally 
+thought of as consumable are harvested twice, but with the first harvest having the principal purpose 
+of improving the yield of the second harvest. It is not clear whether the fact that there are two harvests 
+is sufficient to make these plants bearer assets. 
+For certain plants, new produce may be capable of being grown from various parts of the plant 
+(e.g., pineapples). For others, the plant itself may be cut back and re-grown. For example, after a 
+harvest of bananas, the banana plant may be cut down to its base and re-grown the next year to 
+produce more bananas. In such situations, judgement may be needed to determine which part of the 
+plant might be the bearer plant (e.g., the banana palm or the base). 
+• 
+Expected to bear produce for more than one period 
+The definition of a bearer plant requires that a plant be expected to bear produce for more than one 
+period. It would seem appropriate to think of an annual period in this context. However, the standard 
+does not use this term, so an entity needs to consider if an interim period, a season or a production 
+cycle (i.e., through to harvest) might also be appropriate. 
+• 
+Incidental scrap sales 
+Whether the likelihood of the plant being sold as agricultural produce is remote is also a matter of 
+judgement. However, it is intended to be a high hurdle. The standard does allow for the fact that there 
+may be some ‘incidental scrap sales’, but this term is not defined. 
+The standard notes that bearer plants might be cut down and sold as scrap, (e.g., for firewood) at the 
+end of their productive life and states that “such incidental scrap sales would not prevent the plant 
+from satisfying the definition of a bearer plant”. [IAS 41.5B]. However, in the example given in the 
+standard (i.e., firewood), it is reasonably evident that such sales would be ‘incidental’. Since no further 
+guidance is given in the standard, entities need to apply judgement in determining what constitutes 
+‘scrap sales’ (e.g., would it include ad-hoc sales before the productive life ends, such as selling trees 
+removed while thinning?). Furthermore, the standard does not clarify at what level sales cease to be 
+incidental and whether this is a qualitative or quantitative assessment. Therefore, judgement could be 
+needed. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3128 
+Frequently asked questions 
+Question 2-1: 
+What IFRS accounting standard applies if a plant initially meets the definition of a 
+bearer plant, but this subsequently changes? 
+In addition to the considerations above, an entity might also need to reassess whether a plant meets the 
+definition of a bearer plant after initial recognition. If a plant initially meets the definition of a bearer plant, 
+but this subsequently changes, would IAS 41 then apply instead of IAS 16? Neither IAS 16 nor IAS 41 
+address this question or specify how to transfer such assets between IAS 16 and IAS 41 (or vice versa). 
+How we see it 
+In the absence of guidance, management will need to apply judgement in developing an accounting 
+policy (in accordance with IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors) in 
+these situations. For example, entities might look to the requirements in IAS 40 Investment Property 
+on transfers of property to, or from investment property for guidance on determining the threshold 
+for when to account for a transfer of bearer plants to biological assets. IAS 40.57 requires a transfer 
+when there is ‘a change in use’ and states that “A change in use occurs when … there is evidence of 
+the change in use. In isolation, a change in management’s intentions for the use of a property does not 
+provide evidence of a change in use”. 
+It is, however, important to note that the Basis for Conclusions on IAS 16 states, “The Board noted that 
+it would be rare for transfers to take place between IAS 16 and IAS 41 for bearer plants, particularly in 
+the light of the Board’s decision to change criterion (c) of the definition of a bearer plant to ‘has a remote 
+likelihood of being sold as agricultural produce, except for incidental scrap sales’”. [IAS 16.BC83]. 
+2.2.2 
+General definitions 
+IAS 41 defines the general terms it uses throughout the standard as follows: [IAS 41.8] 
+• 
+Carrying amount is the amount at which an asset is recognised in the statement of financial position. 
+• 
+Government grants are as defined in IAS 20 (see Chapter 25). 
+IFRS 13 Fair Value Measurement defines fair value as “the price that would be received to sell an asset or 
+paid to transfer a liability in an orderly transaction between market participants at the measurement date”. 
+[IAS 41.8, IFRS 13.9]. Measuring fair value in accordance with IFRS 13 is discussed further in section 4 below 
+and in Chapter 15. 
+2.3 
+Scope 
+IAS 41 applies to most biological assets, agricultural produce at the point of harvest, and government 
+grants involving biological assets measured at fair value less costs to sell. However, to be within the scope 
+of IAS 41, these items must relate to agricultural activity. [IAS 41.1]. As discussed in section 2.2.1 above, 
+agricultural activity refers to “the management by an entity of the biological transformation and harvest of 
+biological assets for sale or for conversion into agricultural produce or into additional biological assets”. 
+[IAS 41.5]. It is important to note that this definition does not focus on the primary purpose of holding such 
+assets or the number of sales that may result. In fact, the definition refers to ‘sale or conversion’; 
+therefore, an entity need not intend to sell the biological assets or agricultural produce in order for the 
+entity to be undertaking agricultural activity. Furthermore, the standard contemplates an entity applying 
+IAS 41 to assets that it will use itself; the Basis for Conclusions refers, as an example, to an entity 
+accounting for trees as biological assets within IAS 41 when it intends to use the harvested logs in the 
+construction of a building for its own use. [IAS 41.B8]. 
+IAS 41 explicitly excludes the following assets from its scope: [IAS 41.2] 
+• 
+Bearer plants (see section 2.2.1.A above), which are within the scope of IAS 16 (see Chapter 19), 
+however, produce growing on a bearer plant is still within the scope of IAS 41 
+• 
+Government grants that relate to bearer plants, to which IAS 20 applies (see Chapter 25) 
+• 
+Land related to agricultural activity, which are accounted for under either IAS 16 (see Chapter 19) or 
+IAS 40 (see Chapter 20) [IAS 41.B55, IAS 41.B56, IAS 41.B57] 
+• 
+Intangible assets related to agricultural activity, for instance the costs of developing new disease 
+resistant crops, which are accounted for under IAS 38 Intangible Assets (see Chapter 18) [IAS 41.B58, 
+IAS 41.B59, IAS 41.B60] 
+And 
+• 
+Right-of-use assets arising from a lease of land related to agricultural activity, which is accounted for 
+under IFRS 16 Leases (see Chapter 24) 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3129 
+2.3.1 
+Biological assets outside the scope of IAS 41 
+Biological assets are outside the scope of IAS 41 when they are not used in agricultural activity. For 
+example, animals in a zoo (or game park) that does not have an active breeding programme and rarely sells 
+any animals or animal products would be outside the scope of the standard. Another example is activities in 
+the pharmaceutical industry that involve the culture of bacteria. Such activity would not fall within the 
+scope of IAS 41. While the bacteria could be considered a biological asset, the development of a culture by 
+a pharmaceutical company would not constitute agricultural activity. Refer to section 2.3.7 below for 
+further discussion on trees held to generate carbon offsets. 
+Biological assets outside the scope of IAS 41 will normally fall within the scope of either IAS 16 (see 
+Chapter 19) or IAS 2 Inventories (see Chapter 23). 
+2.3.2 
+Agricultural produce before and after harvest 
+IAS 41 applies to agricultural produce (i.e., harvested produce) at the point of harvest only; not subsequent 
+to harvest. Under IAS 41, unharvested agricultural produce is considered to be part of the biological asset 
+from which it will be harvested. Therefore, before harvest, agricultural produce is not accounted for 
+separately from the biological asset from which it comes. For example, milk is accounted for as part of the 
+dairy cow right up to the moment at which the cow is milked. 
+Subsequent to harvest, agricultural produce is accounted for under IAS 2 or another standard, if applicable. 
+[IAS 41.3]. Under IAS 2, agricultural produce is initially recognised as inventory at its fair value less costs to 
+sell (measured in accordance with IAS 41), which becomes its cost for IAS 2 purposes (see Chapter 23). 
+[IAS 41.B41, IAS 41.B42, IAS 41.B43, IAS 41.B44, IAS 41.B45]. 
+2.3.3 
+Bearer plants and produce growing on a bearer plant 
+IAS 41 explicitly excludes bearer plants (see section 2.2.1.A above) from its scope; instead, IAS 16 applies 
+to these assets (see Chapter 19). However, the produce growing on a bearer plant remains within the scope 
+of IAS 41. [IAS 41.2(b)]. 
+Entities will need to carefully assess which of its plants meet the definition of a bearer plant. This is because 
+the scope exclusion, while focused on the definition of a bearer plant, also affects the accounting treatment 
+for the produce growing on a bearer plant and any related government grants (see section 3.3 below). 
+Bearer plants and their agricultural produce are considered to be two separate assets for accounting 
+purposes (i.e., two units of account), with different measurement models being applied under different 
+standards (see section 3.2.3 below for further discussion). 
+In developing the requirements for bearer plants, the Board noted that bearer plants are held by an entity 
+solely to grow produce over their productive life, similar to plant and equipment and, therefore, do not 
+directly affect the entity’s future cash flows. As a result, it decided that bearer plants need to be treated as 
+property, plant and equipment in accordance with IAS 16. However, the IASB believes that “the same 
+argument is not true for the produce growing on the bearer plants that is undergoing biological 
+transformation until it is harvested (for example, grapes growing on a grape vine). The Board observed that 
+the produce is a consumable biological asset growing on the bearer plant and the growth of the produce 
+directly increases the expected revenue from the sale of the produce. Consequently, fair value 
+measurement of the growing produce provides useful information to users of financial statements about 
+future cash flows that an entity is expected to realise”. [IAS 41.BC4B]. The Board also indicated that such 
+produce ultimately has a market value on its own, whereas the bearer plants on which it grows generally do 
+not. As such, the Board decided that produce growing on a bearer plant would remain within the scope of 
+IAS 41, which is expected to ensure consistency between produce growing in the ground and produce 
+growing on a bearer plant. [IAS 41.BC4A, IAS 41.BC4B, IAS 41.BC4C, IAS 41.BC4D]. 
+2.3.4 
+Products that are the result of processing after harvest 
+IAS 41 does not deal with the processing of agricultural produce after harvest. The standard makes it clear 
+that, even if the processing is considered “a logical and natural extension of agricultural activity, and the 
+events taking place … bear some similarity to biological transformation, such processing is not included 
+within the definition of agricultural activity”. [IAS 41.3]. For example, the process of brewing beer - in which 
+yeast (a fungus) converts sugars into alcohol - would not meet the definition of agricultural activity in the 
+standard. Similarly, cheese production would fall outside the definition of agricultural activity. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3130 
+2.3.5 
+Leases of biological assets (excluding bearer plants) 
+Leases involving biological assets are common in some jurisdictions, for example, the leasing of a sheep 
+farm, where the lessee rents the farm, including the land, sheep and other assets, tends the sheep and sells 
+the wool (agricultural produce). Other examples include leased dairy cows, or leased vineyards, as is 
+illustrated below. 
+Illustration 2-1: 
+Renting out land with producing vines under an operating lease 
+Entity A owns a vineyard that includes the following main assets: vineyard land, vineyard infrastructure 
+(e.g., trellises), winery buildings, winery plant and machinery (crushing equipment, distilling equipment), vines 
+and grapes. 
+The vineyard (the vineyard land and vines) is rented out (as an operating lease) such that the lessee can grow 
+and harvest grapes, and in some instances process the grapes using the winery plant and equipment. Entity A 
+(the lessor) is not entitled to the grapes harvested from the vines. There is no adjustment or contingent rental 
+at the end of the lease for payments or rebates in the movement of the market value of the vines during the 
+lease term. 
+Under the contract, the lessee must manage the vines including pruning, irrigation, fertilisation, soil 
+management and other necessary activities to preserve and maintain the vineyard and the vines in a proper 
+and efficient state of cultivation in accordance with best viticultural practice. These obligations protect the 
+lessor’s interest in the vines by maintaining the long-term health and productivity of the vineyard, and are 
+similar in nature to the obligations of a lessee of a building to ensure that the building is in a suitable condition 
+to be re-let at the end of the lease. 
+Entity A does not actively participate in the managing of the vines themselves, or the soil that the vines grow 
+in, and it does not have any employees or contractors who are viticulturists. Also, Entity A does not participate 
+in the operating plans or budgets of the lessees. 
+The risks associated with claims and damages to the vineyard including diseases reside with the lessee for the 
+term of the lease. The lessee takes the risk of loss of grapes from the vines, and takes the risk of deterioration 
+(or improvement) in yields and quality because of disease and weather. Entity A is only at risk for deterioration 
+of the vines from disease at the end of the lease, when renewals are renegotiated. 
+The grapes produced on Entity A’s vineyard are predominantly premium quality grapes. However, these 
+grapes do not have any unique qualities and can be replaced by the grapes grown in the same area under 
+similar conditions. 
+Any upgrades to the vineyard, such as additional vines plantations or change in grape varieties, made by the 
+lessee must be agreed with Entity A in advance. The upgrades are carried out by the lessee on behalf of Entity 
+A, with Entity A reimbursing upgrade costs to the lessee. The upgrades attract additional lease payments. 
+Entity A considers the definition of agricultural activity in IAS 41. Entity A notes there is the capability for 
+biological transformation, they are able to measure those changes and there is also harvest of produce 
+resulting from that biological transformation. There is also management of the biological transformation, even 
+though Entity A does not manage the change itself (the lessee manages that change instead). 
+How we see it 
+IAS 41 does not specify who must do the managing. Therefore, we believe the definition of agricultural 
+activity can be met even when an entity is not directly managing the biological transformation itself. 
+Therefore, Entity A concludes that renting out of land containing vines producing grapes under an operating 
+lease by a lessor is within that definition. As a result, the vines are a bearer plant (see section 2.3.3 above) 
+related to agricultural activity and the grapes growing on the vines are biological assets related to agricultural 
+produce. 
+2.3.5.A 
+Leases of biological assets (excluding bearer plants) - lessee accounting 
+IFRS 16 excludes from its scope the lessee accounting for leases of biological assets that are within the 
+scope of IAS 41. [IFRS 16.3(b)]. The scope exemption in IFRS 16 does not specify whether the asset would be 
+recognised in accordance with IAS 41; only that it is an asset that would be within the scope of IAS 41. Nor 
+does it explain how an entity would account for its lease liability since it is outside the scope of IFRS 16. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3131 
+Entities affected by this scope exemption will need to use judgement to develop an appropriate accounting 
+policy, considering the requirements of IAS 81 (see Chapter 3). [IAS 8.10, IAS 8.11, IAS 8.12, IAS 8.13]. 
+It is important to note that leases of bearer plants that are within the scope of IAS 16 are not excluded from 
+the scope of IFRS 16. “Consequently, leases of bearer plants such as orchards and vineyards held by a 
+lessee are within the scope of IFRS 16”. [IFRS 16.BC68(b)]. 
+2.3.5.B 
+Leases of biological assets (excluding bearer plants) - lessor accounting 
+Chapter 24 contains a discussion of lessor accounting. For lessors, leases of biological assets, including 
+those within the scope of IAS 41, are within the scope of IFRS 16. A lessor would account for its leases as 
+either operating or finance leases in accordance with IFRS 16. [IFRS 16.67-97]. 
+For finance leases of biological assets, the lessor would: 
+• 
+Account for the net investment in the lease (i.e., the lease receivable, not the biological asset) in 
+accordance with IFRS 16. 
+For operating leases of biological assets, the lessor would: 
+• 
+Account for the lease payments as income in accordance with IFRS 16. 
+• 
+Present the leased biological asset in accordance with its nature, consistent with other assets in the 
+scope of IAS 41. 
+• 
+Account for other rights and obligations under the lease (e.g., lease income) in accordance with 
+IFRS 16. 
+• 
+Make disclosures both in accordance with IFRS 16, and for the asset subject to the operating lease, in 
+accordance with IAS 41. [IFRS 16.81-88]. 
+Beyond discussing certain costs, depreciation and impairment, IFRS 16.81-88 do not specifically discuss how to 
+recognise and measure the asset subject to an operating lease if it is within the scope of IAS 41. [IFRS 16.81-88]. 
+How we see it 
+IFRS 16.BC58-BC66 outlines the IASB’s rationale in retaining the requirements of the predecessor 
+standard to IFRS 16, IAS 17 Leases, for lessors, virtually unchanged. Furthermore, IAS 41.B82(n), which 
+outlined the interaction between IAS 41 and IAS 17, was not amended on the issuance of IFRS 16. 
+Therefore, it is likely that lessors will continue to measure a biological asset in accordance with IAS 41. 
+Such lease arrangements may include the land to which the asset is attached. Any leased land would need 
+to be separately accounted for under the relevant standard, for example IAS 16 or IAS 40, as it is explicitly 
+excluded from the scope of IAS 41 (see section 2.3 above). [IAS 41.2(e)]. 
+It is worth noting that, unless specifically excluded from its scope, IAS 41 applies to all biological assets 
+when they relate to agricultural activity. [IAS 41.1]. In the example discussed above in section 2.3.5, where 
+the sheep are leased under an operating lease, the wool is the agricultural produce. The sheep are being 
+managed to produce that wool, albeit by the lessee and not the lessor. Since IAS 41 does not specify who 
+must do the managing, the definition of agricultural activity is met. Therefore, the leased sheep would be a 
+lease of biological assets within the scope of IAS 41. Similarly, in Illustration 2-1 in section 2.3.5 above, 
+Entity A concludes the definition of agricultural activity is met even though it is the lessee that does the 
+management, rather than Entity A. 
+2.3.6 
+Concessions 
+A concession typically involves a government, or other controlling authority, granting land to an entity, but 
+requiring that the land be used for a specific purpose, for example, growing certain crops for a minimum 
+period of time. 
+The treatment of each concession will depend on the specific facts and circumstances. However, if the 
+concession requires an entity to undertake agricultural activity, as defined in IAS 41 (see section 2.2.1 
+above), the biological assets (excluding bearer plants, but including the produce growing on bearer plants) 
+and agriculture produce will be within the scope of IAS 41. The grant received can also be within the scope 
+of the standard. However, the land granted would be within the scope of IAS 16 or IAS 40 (see Chapters 19 
+and 20, respectively), and any bearer plants would be within the scope of IAS 16. The discussion in 
+section 3.3 below addresses the treatment of government grants related to biological assets (other than 
+bearer plants). 
+ 
+1 
+The consequential amendments resulting from IFRS 18 Presentation and Disclosure in Financial Statements, once effective, 
+changes the title of IAS 8 to ‘Basis of Preparation of Financial Statements’ to better reflect the amended content of IAS 8. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3132 
+2.3.7 
+Trees held to generate carbon offsets for use or sale 
+Climate change and carbon emissions are a global concern. In an effort to offset some of their emissions, 
+entities might buy or plant trees that will absorb carbon dioxide (i.e., act as carbon sinks) and thereby 
+generate carbon offsets. Similarly, forestry companies might change their business models to defer, or 
+cease, planned harvests to generate carbon offsets. In light of the current demand, some entities also sell 
+carbon credits generated by the trees over time. 
+Entities that directly owns such trees (rather than indirectly through investments in entities that owns the 
+trees) will need to determine whether the trees are: 
+• 
+Biological assets related to agricultural activity to which IAS 41 applies 
+• 
+Bearer plants related to agricultural activity to which IAS 16 applies 
+Or 
+• 
+Assets not related to agricultural activity, in which case, it is likely an entity would apply the 
+requirements in IAS 16 
+Determining the nature of the asset is fundamental to this assessment. As discussed in sections 2.2.1 and 
+2.3 above to be within the scope of IAS 41 or to be a bearer plant within the scope of IAS 16, the trees 
+must relate to agricultural activity. [IAS 41.1(a), IAS 41.5]. The accounting requirements that apply, depending 
+on the nature of the asset are discussed in section 3.2.4 below. 
+Although IFRS accounting standards need to be applied to the individual trees (i.e., the unit of account), in 
+practice, entities might be able to assess each stand (A group of trees occupying a specific area that are 
+sufficiently uniform (e.g., species, age)) of trees or groups of stands if the intended use of those trees is 
+consistent. It may not be possible to account for an entire forest in the same way if an entity intends to use 
+different parts of the forest in different ways. 
+(a) Determine whether the definition of agricultural activity is met 
+Trees are living plants and, therefore, meet the definition of a biological asset. [IAS 41.5]. However, to be 
+within the scope of IAS 41 or to be a bearer plant within the scope of IAS 16, they must relate to 
+agricultural activity. [IAS 41.1(a)]. 
+Considering the definition of agricultural activity in section 2.2.1 above, by their very nature, trees will be 
+subject to biological transformation (growth, degeneration, production and procreation processes), which 
+will result in qualitative and quantitative changes over time. Such change for trees can be measured. 
+[IAS 41.5, IAS 41.6, IAS 41.7]. However, for there to be agricultural activity, as defined in IAS 41, the entity also 
+needs both of the following: 
+• 
+Management of change 
+What constitutes management is discussed in section 2.2.1 above. For trees, management normally 
+includes silviculture activities, such as planting, pruning, thinning, and fertilising. Harvesting 
+unmanaged sources (deforestation) will not meet the definition of agricultural activity. [IAS 41.6]. 
+• 
+Harvest of agricultural produce 
+Also discussed in section 2.2.1 above, IAS 41 limits the definition of agricultural produce to that which 
+can be harvested. This includes harvesting produce growing on, or in, the trees (e.g., fruit, latex) and 
+felling the trees. The harvested produce need not solely be for sale; an entity might also harvest for its 
+own use (e.g., lumber used by an entity in constructing a building for its own use). [IAS 41.B8]. 
+How we see it 
+While carbon dioxide is absorbed and oxygen is produced by the trees, the oxygen cannot be captured at 
+the point of production and detached in the manner contemplated by the definition of agricultural 
+produce in IAS 41. Similarly, in our view, carbon offsets are not agricultural produce of trees. 
+IAS 41 does not provide guidance on the extent of harvest needed to qualify as an agricultural activity. If 
+the entity actively manages the trees, thinning the trees will involve harvesting some trees to give space for 
+others to grow. Trees can also be felled to create, or maintain, an access road. Even if the entity does not 
+plan to harvest, a wind or a water event might naturally fell the trees. It is not clear the extent to which 
+such felling might constitute harvesting of agricultural produce (and, therefore, agricultural activity) if the 
+entity were to sell (e.g., at stump) or use the logs. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3133 
+How we see it 
+The definition of a bearer plant permits incidental scrap sales (e.g., trees sold for firewood) not to taint 
+the definition of bearer plants (see section 2.3.3 above). It is not clear whether an entity could analogise 
+to this guidance. That is, would it be possible not to meet the definition of agricultural activity if the only 
+harvesting were for incidental scrap sales? While very limited scrap sales might not prevent an entity 
+from applying the bearer plant guidance by analogy, more extensive sales would generally lead to a 
+conclusion that the entity is engaged in agricultural activity. 
+(b) Determine whether the bearer plant definition is met 
+If an entity determines there is agricultural activity, it will need to determine whether the trees are bearer 
+plants. Trees related to agricultural activity will be within the scope of IAS 41, unless they meet the 
+definition of a bearer plant. IAS 16 applies to the bearer plants, however, any produce growing in, or on, 
+the trees would be treated as biological assets under IAS 41 until harvest (i.e., as two units of account). 
+Bearer plants are a subset of biological assets. They are living plants that: are used in the production or 
+supply of agricultural produce; are expected to bear produce for more than one period; and have a remote 
+likelihood of being sold as agricultural produce themselves, except for incidental scrap sales. Examples 
+might include rubber trees, oil palms and fruit trees. However, IAS 41 makes it clear that “plants cultivated 
+to be harvested as agricultural produce (for example, trees grown for use as lumber)”, and “trees that are 
+cultivated both for their fruit and their lumber)” (i.e., those with dual purpose) are not bearer plants. 
+[IAS 41.5, IAS 41.5A, IAS 41.5B]. 
+Since bearer plants must relate to agricultural activity, trees held solely to produce carbon offsets will not 
+be bearer plants. However, it is likely that some bearer plants might also produce carbon offsets. 
+Where it is determined that the trees are not held in relation to agricultural activity, it is likely that an entity 
+would apply the requirements in IAS 16 (refer to section 3.2.4 below, and Chapter 19 at section 3.1.8). 
+(c) Determine the nature of the asset 
+The considerations discussed above will, in turn, determine the nature of the asset. The consequent 
+accounting requirements are discussed in section 3.2.4 below. 
+Figure 2-2: 
+Trees held to generate carbon offsets: determining the nature of the asset 
+Nature of the asset 
+Agricultural 
+activity 
+Bearer plant 
+definition 
+Example 
+Biological asset related 
+to agricultural activity 
+Yes 
+Not met 
+Trees in a plantation forest with deferred 
+harvest to allow generation of carbon 
+offsets 
+Bearer plant related to 
+agricultural activity 
+Yes 
+Met 
+Rubber trees held to generate carbon 
+offsets as well as harvest produce within 
+those trees 
+Asset not related to 
+agricultural activity 
+No 
+Not met  
+Trees held to generate carbon offsets that 
+are unmanaged and/or not harvested 
+ 
+How we see it 
+If the trees are held solely to generate carbon offsets, whether sold or used, determining the nature of 
+the asset may require judgement. 
+After initial recognition, it is not clear whether reassessment might be required if circumstances change. 
+For example, assume an entity had no intention of felling the trees, but that subsequently changed for 
+some of the trees due to windthrow. If these circumstances were to arise, an entity would need to apply 
+the hierarchy in IAS 8 to develop an appropriate policy. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3134 
+3 
+Recognition and measurement principles 
+3.1 
+Recognition 
+The standard includes the following recognition requirements for biological assets (including produce 
+growing on a bearer plant) and agricultural produce: [IAS 41.10] 
+Extract from IAS 41 
+10 
+An entity shall recognise a biological asset or agricultural produce when, and only when: 
+(a) 
+the entity controls the asset as a result of past events; 
+(b) 
+it is probable that future economic benefits associated with the asset will flow to the 
+entity; and 
+(c) 
+the fair value or cost of the asset can be measured reliably. 
+Considerations for the recognition of produce growing on a bearer plant are discussed in section 3.2.3.B 
+below. 
+In agricultural activity, an entity may evidence control by, for example, “legal ownership of cattle and the 
+branding or otherwise marking of the cattle on acquisition, birth, or weaning”. [IAS 41.11]. 
+3.2 
+Measurement 
+3.2.1 
+Biological assets within the scope of IAS 41 
+3.2.1.A 
+Initial and subsequent measurement 
+A biological asset that is within the scope of IAS 41 (i.e., excluding bearer plants, but including produce 
+growing on a bearer plant) is measured on initial recognition and at the end of each reporting period at its 
+fair value less costs to sell, unless an entity can demonstrate at initial recognition that its fair value cannot 
+be measured reliably. [IAS 41.12]. In the latter case, the entity measures the biological asset at historic cost 
+less any accumulated depreciation and any accumulated impairment losses (see section 3.2.6 below), 
+unless/until the fair value becomes reliably measurable. [IAS 41.30]. 
+3.2.1.B 
+Subsequent expenditure 
+IAS 41 does not prescribe how an entity accounts for subsequent expenditure in relation to biological 
+assets, because the (then) IASC believed this to be unnecessary with a fair-value-based measurement 
+approach. [IAS 41.B62]. 
+Such expenditure may be expensed as incurred or capitalised as additions to the related biological asset. 
+However, under the fair value model, the biological asset will be re-measured at the end of each reporting 
+period. As such, any amounts capitalised will only result in a reallocation between expenses and the fair 
+value gain or loss for the biological asset. Therefore, an entity’s policy in relation to subsequent 
+expenditure will have no effect on its equity or net profit or loss, although it will affect all of the following: 
+• 
+The reconciliation of changes in the carrying amount of biological assets 
+• 
+The classification of the expenditure in the income statement as either an expense or as part of the net 
+gain or loss on biological assets 
+• 
+The presentation of subsequent expenditure on biological assets in the statement of cash flows as 
+either operating or investing activities, as appropriate 
+How we see it 
+In our view, an entity needs to select an accounting policy for subsequent expenditure that is broadly 
+consistent with the principles in other standards, such as IAS 16 and IAS 38. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3135 
+In the case of livestock, for example, an entity could expense maintenance costs, such as routine 
+vaccinations, while treating costs that increase the originally expected yield of the asset as capital 
+expenditure. In this case, an entity must consider whether it is appropriate to add costs that improve 
+initially anticipated yields (such as additional vaccinations or feed supplements) to the carrying value of the 
+asset. However, such additions would be adjusted at each period end when the biological asset concerned is 
+revalued to its new fair value. Judgement might be required to determine whether costs that take place 
+after maturity (e.g., vaccinations or feed supplements) would be maintenance costs or improvements. 
+Furthermore, care will be needed when costs are related to both bearer plants and produce growing on a 
+bearer plant or when it is not clear to which of those assets it relates. This is discussed further in 
+section 3.2.3 below. 
+In September 2019, the IFRS IC discussed a submission about the accounting for costs related to the 
+biological transformation of biological assets (subsequent expenditure) applying IAS 41. The submitter 
+asked whether an entity: (a) recognises subsequent expenditure as an expense when incurred; or (b) 
+capitalises the subsequent expenditure (i.e., adds it to the carrying amount of the asset). 
+The IFRS IC decided not to take the issue onto its standard setting agenda noting that IAS 41 does not 
+specify requirements on the accounting for subsequent expenditure and an entity can either capitalise 
+subsequent expenditure or recognise it as an expense when incurred. The IFRS IC observed that capitalising 
+subsequent expenditure or recognising it as an expense has no effect on the fair value measurement of 
+biological assets nor does it have any effect on profit or loss; however, it affects the presentation of 
+amounts in the statement of profit or loss. 
+The IFRS IC drew attention to the requirements of: 
+• 
+Paragraph 13 of IAS 8, whereby an entity would apply its accounting policy for subsequent expenditure 
+consistently to each group of biological assets 
+And 
+• 
+Paragraphs 117-124 of IAS 1 Presentation of Financial Statements whereby an entity would also 
+disclose the selected accounting policy if that disclosure would assist users of financial statements in 
+understanding how those transactions are reflected in reported financial performance [IAS 1.117-124, 
+IAS 8.13] 
+The IFRS IC also noted that when “assessing how to present such subsequent expenditure in the statement 
+of profit or loss, an entity would apply the requirements in paragraphs 81-105 of IAS 1”. In particular, an 
+“entity would: 
+• 
+Applying paragraph 85, ’present additional line items (including by disaggregating the line items listed 
+in paragraph 82), headings and subtotals in the statement(s) presenting profit or loss and other 
+comprehensive income when such presentation is relevant to an understanding of the entity’s financial 
+performance’; and 
+• 
+Applying paragraph 99, present in the statement(s) presenting profit or loss and other comprehensive 
+income or in the notes ‘an analysis of expenses recognised in profit or loss using a classification based 
+on either their nature or their function within the entity, whichever provides information that is reliable 
+and more relevant’”. [IAS 1.85, IAS 1.99].2 
+The presentation of items in the statement of profit or loss is further discussed in Chapter 3 at section 3.2. 
+3.2.2 
+Agricultural produce 
+Agricultural produce harvested from an entity’s biological assets is initially “measured at its fair value less 
+costs to sell at the point of harvest”. [IAS 41.13]. The standard presumes that an entity can always reliably 
+measure this amount and hence does not permit valuation at historical cost. [IAS 41.32, IAS 41.B43]. 
+The value resulting from initial measurement is subsequently used as cost in applying IAS 2 (if the 
+agricultural produce is to be sold, see Chapter 23), IAS 16 (if harvested logs are used for the construction 
+of a building, see Chapter 19) or other applicable IFRS accounting standards. [IAS 41.13, IAS 41.B8]. 
+An important reason for requiring agricultural produce at the point of harvest to be measured at fair value 
+was to ensure that the basis of measurement would be consistent with that of biological assets and to avoid 
+inconsistent and distorted reporting of current period performance upon harvest of agricultural produce. 
+[IAS 41.B42]. 
+ 
+2 
+IFRIC Update, September 2019, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3136 
+3.2.3 
+Requirements for produce growing on a bearer plant 
+3.2.3.A 
+Requirements for bearer plants in the scope of IAS 16 
+Bearer plants are subject to all of the recognition and measurement requirements in IAS 16 (see 
+Chapter 19), including the following (see Figure 3-1 below): 
+• 
+Before maturity, bearer plants must be measured at their accumulated cost, similar to the accounting 
+treatment for a self-constructed item of plant and equipment before it is available for use. [IAS 16.22A]. 
+And 
+• 
+After the bearer plant is mature, entities have a policy choice to measure the bearer plants using either 
+the cost model or the revaluation model. [IAS 16.29]. It is important to note that: 
+• 
+If the revaluation model is selected, revaluations need to take place with sufficient regularity to 
+ensure the carrying amount does not differ materially from the asset’s fair value had it been 
+measured at the end of the reporting period. [IAS 16.22A]. 
+• 
+Entities following either model need to determine the useful life of the bearer plant in order to 
+depreciate it. The useful life needs to be re-evaluated each year. [IAS 16.51]. 
+And 
+• 
+Unlike biological assets within the scope of IAS 41, items of property, plant and equipment within the 
+scope of IAS 16 are not scoped out of IAS 36 Impairment of Assets. Entities, therefore, need to assess 
+whether there are indicators that a bearer plant is impaired at the end of each reporting period. If 
+such indicators exist, the bearer plant will be subject to an impairment test in accordance with IAS 36. 
+[IAS 16.63, IAS 36.8, IAS 36.9]. An impairment loss is recognised if the carrying value is higher than the 
+bearer asset’s recoverable amount (being the higher of the asset’s fair value less costs of disposal and 
+its value in use). [IAS 36.60]. The requirements of IAS 36 are discussed in Chapter 21. 
+The requirements for bearer plants do not completely eliminate volatility in profit or loss, as entities still 
+need to recognise any changes in the fair value of agricultural produce growing on the bearer plant, as 
+discussed in section 3.2.3.B below. 
+Figure 3-1: 
+Measurement requirements for bearer plants (assuming fair value can be reliably 
+measured) 
+Timing 
+Measurement requirement 
+At initial 
+recognition 
+• 
+Measured separately from any related agricultural produce  
+(i.e., two units of account). 
+• 
+Measured at cost, accumulated until maturity. 
+Subsequent 
+measurement 
+requirements 
+• 
+Measured separately from any related agricultural produce  
+(i.e., two units of account). 
+• 
+Measured at: 
+• 
+Cost, less any subsequent accumulated depreciation and impairment, with 
+changes recognised in profit or loss. 
+Or 
+• 
+Fair value at each revaluation date, less any subsequent accumulated 
+depreciation and impairment. Revaluation adjustments (and impairment, to 
+the extent it reverses previous revaluation increases) recognised in other 
+comprehensive income; all other changes recognised in profit or loss. 
+IAS 16 is written with property, plant and equipment in mind. As such, entities may need to use judgement 
+to apply its requirements to bearer plants and we note the following areas for consideration. 
+(a) Unit of account for bearer plants 
+IAS 16 does not specify the unit of account for bearer plants. Therefore, entities need to use the general 
+requirements of IAS 16 (see Chapter 19) and need to consider that IAS 41 applies to each item of produce 
+growing on a bearer plant. 
+The Basis for Conclusions to IAS 16 notes that “IAS 16 does not prescribe the unit of measure, or the 
+extent to which items can be aggregated and treated as a single item of property, plant and equipment. 
+Consequently, applying the recognition criteria in IAS 16 to bearer plants will require judgement. This gives 
+an entity flexibility, depending on its circumstances, to decide how to aggregate individual plants for the 
+purpose of determining a measurable unit of bearer plants”. [IAS 16.BC81]. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3137 
+(b) Determining when a bearer plant is mature 
+IAS 16 requires an entity to determine when a bearer plant reaches maturity - that is, when it is in the 
+“location and condition necessary for it to be capable of operating in the manner intended by 
+management”. [IAS 16.16(b)]. This determination is important because it is when an entity must cease 
+capitalising costs as part of the initial cost of the asset. The requirements for bearer plants seem to assume 
+that the point in time when a plant is capable of producing (which is referred to as ‘maturity’) marks a 
+distinct end to all bearer plants’ biological transformation. However, the life cycles of plants can vary 
+widely, and it may be difficult, in practice, to identify when maturity has been reached. 
+Determining at what stage during biological transformation a bearer plant would be considered mature 
+could, therefore, be challenging. Alternatives could include: 
+• 
+When the bearer plant is capable of producing its first crop 
+• 
+When the produce is expected to be of sufficient quality to be sold (e.g., macadamia trees start 
+producing fruit after 3-4 years, but only reach commercial levels when the trees are 7 years old) 
+Or 
+• 
+When the growth phase of biological transformation is complete for the bearer plant (and thereafter 
+the plant is expected to degenerate or its productive capacity is expected to decline) 
+The Board decided not to provide specific application guidance for bearer plants. As such, entities need to 
+apply judgement to determine when a bearer plant is mature for accounting purposes. In reaching its 
+decision not to provide additional guidance, the IASB noted that options, such as those listed above, would 
+have needed further defining and could have led to interpretive issues. Furthermore, the Board noted that 
+“a similar scenario arises for a factory or retail outlet that is not yet capable of operating at full capacity 
+and did not think that this was a major issue in practice”. [IAS 16.BC82]. Entities, therefore, need to carefully 
+consider the requirements of IAS 16, including those related to sales prior to an item of property, plant and 
+equipment being available for use (see Chapter 19). 
+(c) Determining initial cost for bearer plants (prior to maturity) 
+IAS 16 requires that: [IAS 16.22A] 
+Extract from IAS 16 
+22A 
+Bearer plants are accounted for in the same way as self-constructed items of property, plant 
+and equipment before they are in the location and condition necessary to be capable of 
+operating in the manner intended by management. Consequently, references to ‘construction’ 
+in this Standard should be read as covering activities that are necessary to cultivate the bearer 
+plants before they are in the location and condition necessary to be capable of operating in the 
+manner intended by management. 
+While IAS 16 provides guidance (see Chapter 19) that entities need to consider for bearer plants, there are 
+differences between traditional plant and equipment and biological assets. As such, entities need to apply 
+judgement in determining which costs can be capitalised. For example, as a plant is growing, an entity will 
+incur costs related to water, fertiliser, greenhouses, etc. The entity needs to assess whether these costs 
+are directly attributable to the bearer plant reaching maturity. 
+Another example is the cost of abnormal amounts of wasted material, labour and other resources. IAS 16 
+does not permit these costs to be included in the cost of a self-constructed asset. [IAS 16.22]. Entities need to 
+determine what constitutes a normal level of wastage for bearer plants. For example, many bearer plants 
+die before maturity (e.g., due to disease or adverse weather) and are subject to planned thinning. Whether 
+either or both of these is normal wastage requires judgement. 
+(d) Costs incurred after maturity 
+A number of costs, such as fertilising, pruning and thinning are incurred after maturity and can improve the 
+quality of the produce or extend the productive life of a bearer plant. Entities need to use judgement to 
+determine whether these costs are maintenance costs or are considered to be improvements. 
+In addition, after maturity many costs are incurred to benefit both the bearer plant and the produce 
+growing on the bearer plant. Entities need to carefully consider the basis on which to allocate costs 
+between a bearer plant and the produce growing on a bearer plant when the costs are incurred in relation 
+to both assets (e.g., fertilising costs). 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3138 
+(e) Depreciation and impairment considerations 
+Entities need to carefully consider an appropriate depreciation rate for their bearer plants. Similar 
+considerations are discussed in section 3.2.6.B below in relation to biological assets for which the cost 
+model is used under IAS 41. The model in IAS 16 generally assumes that improvements in productivity and 
+quality of produce do not occur after maturity without additional expenditure to improve the asset. 
+However, many plants mature with age and cultivation. As discussed in section 2.2.1 above, biological 
+transformation continues after a bearer plant begins to produce and includes degeneration. [IAS 41.5, 
+IAS 41.7]. A decline in productivity might, therefore, occur only at the end of a plant’s productive life, which 
+differs from wear and tear on an item of machinery. 
+Applying the requirements of IAS 36 to a bearer plant may also be challenging. For example, an individual 
+bearer plant may not generate its own cash inflows and may, therefore, need to be tested for impairment 
+as part of a cash generating unit. In addition, the produce growing on a bearer plant is treated as a separate 
+asset from the bearer plant and, because it is measured at fair value less costs to sell on an ongoing basis 
+under IAS 41, it is excluded from the scope of IAS 36. When testing the bearer plant for impairment, 
+entities need to determine whether or not they can include the produce currently growing on the bearer 
+plant in their impairment assessment. 
+(f) Revaluation model in IAS 16 
+IAS 16 permits an entity, after initial recognition to apply the revaluation model. However, this is not the 
+same as applying the fair value model in IAS 41. The former is one that recognises valuation adjustments in 
+other comprehensive income as a form of capital maintenance; the latter is a model that recognises 
+valuation adjustments in the income statement as part of periodic performance. In addition, unlike the 
+model in IAS 41, if the revaluation model is applied under IAS 16 entities are required to: 
+• 
+Depreciate bearer plants between revaluations, with the depreciation expense recognised in profit or 
+loss 
+• 
+Identify appropriate indicators of impairment for bearer plants in accordance with IAS 36, and assess 
+annually whether indicators exist. If impairment indicators do exist, then those bearer plants are tested 
+for impairment (as discussed above) 
+And 
+• 
+Maintain cost records for each bearer plant so as to separately track those impairments that are 
+recognised in profit or loss and those impairments that are recognised in other comprehensive income 
+Furthermore, an entity is unable to recognise increases in fair value that arise from a bearer plant’s 
+biological transformation in profit or loss, during the periods in which it is held and used. Since bearer 
+plants are considered property, plant and equipment, the sale of a bearer plant results in a gain or loss on 
+disposal, while revenue is recognised only in relation to sales of agricultural produce. 
+Despite these challenges, entities could elect to measure their bearer plants using the revaluation model to 
+ensure consistency with the produce growing on them or because the fair value information is useful. That 
+is, a change in the productive capacity of a bearer plant, or a change in the prices for the future output of a 
+bearer plant, can provide useful information. 
+3.2.3.B 
+Requirements for agricultural produce growing on bearer plants 
+As noted in section 3.2.3.A above, IAS 16 and IAS 41 require an entity to recognise a bearer plant 
+separately from produce growing on it from the time it exists until the point of harvest. 
+Produce growing on a bearer plant remains within the scope of IAS 41 and is measured at fair value less 
+costs to sell, with changes recognised in profit or loss as the produce grows. In the IASB’s view, this 
+requirement ensures that produce growing in the ground as an annual crop (e.g., wheat) and produce 
+growing on a bearer biological asset (e.g., grapes) are accounted for consistently. [IAS 41.BC4D]. As a result, 
+changes in the fair value of such agricultural produce continue to be recognised in profit or loss at the end 
+of each reporting period. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3139 
+Figure 3-2: 
+Measurement requirements for produce growing on bearer plants 
+Timing 
+Measurement requirement 
+At the end of each reporting period prior 
+to harvest (i.e., biological asset) 
+Measured separately from the bearer plant at fair value less 
+costs to sell. 
+At the point of harvest (i.e., agricultural 
+product) 
+Measured separately from the bearer plant at fair value less 
+costs to sell. 
+After harvest 
+Measured separately from the bearer plant. Fair value less 
+costs to sell at the point of harvest becomes initial cost for 
+the purpose of applying IAS 2 or another applicable IFRS 
+accounting standard (see section 2.3.2 above). 
+(a) Determining when agricultural produce exists 
+As discussed in section 3.1 above, IAS 41.10 provides criteria for recognising biological assets and 
+agricultural produce. [IAS 41.10]. However, since produce growing on a plant is not acquired, but grown, it 
+may be difficult to determine when that produce exists and can be recognised for accounting purposes. 
+Would an entity, for example, wait for physical evidence, e.g., blossom on a tree? If so, how would this be 
+done when the produce is within the bearer plant and not visible, such as with maple or rubber trees? 
+Entities also need to check their procedures for ensuring that sufficient information is gathered, 
+i.e., identifying each item of produce growing on a bearer plant when it is at the right stage of development 
+to be recognised. The key question when assessing the recognition criteria (see section 3.1 above) may be 
+whether it is probable that future economic benefits will flow to the entity. At such an early stage of 
+development, this may be difficult to determine for each item of produce growing on the bearer plant. 
+However, historical information about similar bearer plants and their produce may be of help. 
+Determining when produce on a bearer plant exists is important as it affects when an entity would 
+recognise and initially measure fair value less costs to sell. This, in turn, determines when an entity 
+assesses whether it is able to measure produce at fair value reliably (or otherwise apply the measurement 
+exception discussed in section 3.2.6 below). 
+(b) Applying the requirements for biological assets to produce growing on a bearer plant 
+IAS 41 does not explicitly address the accounting for produce growing on a bearer plant. Instead, the 
+standard says that “produce growing on bearer plants is a biological asset”. [IAS 41.5C]. Therefore, an entity 
+is required to apply the accounting required for other biological assets to such produce. This has a number 
+of consequences, including the following: 
+• 
+The unit of account is each item of produce, not the produce growing on each plant as a group. 
+However, while the unit of account is the individual item, an entity is permitted to group these together 
+for measurement purposes (see section 4.2.2 below). 
+• 
+Each item of produce growing on a bearer plant must be measured at fair value less costs to sell from 
+the time it is recognised until the point of harvest, unless the measurement exception for biological 
+assets for which the fair value cannot be reliably measured at initial recognition is applicable. (See 
+section 3.2.6 below, including discussion by the IFRS IC in 2017 in relation to applying these 
+requirements to produce growing on a bearer plant). 
+The fair value less costs to sell may initially be negligible. That is, a market participant acquiring the 
+bearer plant would only pay a negligible amount for the produce in the early stages of development 
+because they would want to be compensated for the costs, they would need to incur to continue 
+growing the produce through to harvest and for the related risks, such as crop failure or price falls 
+during the maturation period. Furthermore, cost to sell needs to be deducted from the fair value of the 
+asset. As discussed in section 3.2.3.A above, entities also need to carefully consider which costs relate 
+to a bearer plant and which relate to the produce growing on the bearer plant. 
+The different stages of maturity of the produce and the allocation of the costs related to both the 
+bearer plants and to the produce may make valuing the produce on its own challenging. Measuring fair 
+value for produce growing on a bearer plant also presents the same challenges as measuring part-
+grown biological assets and those that are physically attached to land (as discussed in sections 4.7 and 
+4.6.2.A below, respectively). 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3140 
+• 
+The disclosure requirements that apply to biological assets also apply to produce growing on a bearer 
+plant (see section 5 below). Some of the required disclosures may be challenging for entities. For 
+example, IAS 41.46 requires an entity to disclose non-financial measures or estimates of physical 
+quantities for each group of biological assets. [IAS 41.46]. While entities might gather such information 
+for management reporting purposes, they need to ensure that information is available for produce 
+growing on bearer plants separately from the bearer plants on which they are growing. 
+3.2.4 
+Requirements for trees held to generate carbon offsets for use or sale 
+As discussed in section 2.3.7 above, to determine the accounting requirements that apply to trees held to 
+generate carbon offsets, entities need to determine the nature of the asset, i.e., whether the trees are: 
+• 
+Biological assets related to agricultural activity to which IAS 41 applies 
+• 
+Bearer plants related to agricultural activity to which IAS 16 applies 
+Or 
+• 
+Assets not related to agricultural activity, in which case, it is likely that an entity would apply the 
+requirements in IAS 16 (refer to Chapter 19 at section 3.1.8). 
+Figure 3-3: 
+Trees held to generate carbon offsets: applicable standard(s) and measurement 
+requirements 
+Nature of the 
+asset  
+Applicable 
+standard(s) 
+Measurement requirements 
+Biological asset 
+related to 
+agricultural 
+activity 
+IAS 41 
+Fair value less costs to sell at initial recognition (see 
+section 3.2.1 above) and subsequently (see section 3.2.1.B 
+above for considerations relating to subsequent expenditure). 
+If the presumption that fair value can be reliably measured is 
+rebutted on initial recognition (see section 3.2.6 below), an 
+entity is permitted to measure a biological asset at its cost less 
+any accumulated depreciation until fair value becomes reliably 
+measurable. [IAS 41.30]. 
+Bearer plant 
+related to 
+agricultural 
+activity 
+Produce growing 
+on, or in, the 
+bearer plant: 
+IAS 41 (treated 
+as biological 
+assets under that 
+standard) 
+Fair value less costs to sell at initial recognition (see 
+section 3.2.2 above) and subsequently (see section 3.2.3.B 
+above). 
+If the presumption that fair value can be reliably measured is 
+rebutted on initial recognition (see section 3.2.6 below), an 
+entity is permitted to measure a biological asset at its cost less 
+any accumulated depreciation until fair value becomes reliably 
+measurable. [IAS 41.30]. 
+Trees: IAS 16 
+Initial recognition at cost determined using the requirements for 
+bearer plants; choice between cost or revaluation model 
+subsequently (see section 3.2.3.A above). 
+Assets not 
+related to 
+agricultural 
+activity 
+Likely to be 
+IAS 16 
+Initial recognition at cost determined using the general 
+requirements for property, plant and equipment; choice 
+between cost or revaluation model subsequently. 
+As Figure 3-3 above illustrates, the accounting requirements can vary depending on the nature of the 
+asset. 
+If IAS 41 applies, the trees (or produce growing on a bearer plant) are measured at fair value less costs to 
+sell both at initial recognition and subsequently (unless the measurement exception applies because fair 
+value cannot be reliably measured), with recognition of those changes through profit or loss. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3141 
+If IAS 16 applies (see Chapter 19), the initial measurement requirements will differ depending on whether 
+the asset is a bearer plant or not: 
+• 
+Bearer plants: they are measured at their accumulated cost, similar to the accounting treatment for a 
+self-constructed item of plant and equipment before it is ’available for use’, which is typically when they 
+are mature (see section 3.2.3.A above). 
+• 
+Other assets: they are measured at their accumulated cost until they are available for use, which will 
+generally be as soon as they are planted. An entity would not need to apply the requirements for 
+bearer plants. 
+Subsequently, under IAS 16, entities have a policy choice to measure trees (whether bearer plants or not) 
+using either the cost model or the revaluation model. 
+• 
+If the revaluation model is selected, revaluations need to take place with sufficient regularity to ensure 
+the carrying amount does not differ materially from the asset’s fair value had it been measured at the 
+end of the reporting period. In addition, unlike IAS 41, revaluation changes are recognised through 
+other comprehensive income. 
+• 
+Entities following either model need to determine the useful life of the trees in order to depreciate 
+them. The useful life needs to be re-evaluated each year. 
+• 
+Unlike biological assets in the scope of IAS 41, property, plant and equipment is not scoped out of 
+IAS 36 (refer to Chapter 21). Entities, therefore, need to assess whether there are indicators that the 
+trees are impaired at the end of each reporting period. If such indicators exist, an impairment loss will 
+be recognised if the carrying value is higher than the asset’s recoverable amount (being the higher of 
+the asset’s fair value less costs of disposal and its value in use). 
+How we see it 
+While measurement of fair value can be complex and subject to measurement uncertainty, determining 
+the cost of growing trees can also be challenging. For example, pruning and thinning maintains the trees 
+in the forest, but can also improve yield. It might also be difficult to determine an appropriate useful life 
+for a growing asset. Therefore, regardless of the measurement requirements, entities might need to 
+apply judgement in accounting for such trees. Similar considerations apply to bearer plants (discussed 
+further in section 3.2.3.A above) and to biological assets if the cost model in IAS 41 applies (discussed 
+further in section 3.2.6.B below). 
+3.2.5 
+Gains and losses 
+IAS 41 requires gains and losses arising on the initial recognition of a biological asset (including produce 
+growing on a bearer plant) at fair value less costs to sell to be included in profit or loss for the period in 
+which they arise. [IAS 41.26]. The standard warns that: [IAS 41.27] 
+Extract from IAS 41 
+27 
+A loss may arise on initial recognition of a biological asset, because costs to sell are deducted in 
+determining fair value less costs to sell of a biological asset. A gain may arise on initial 
+recognition of a biological asset, such as when a calf is born. 
+Subsequent to initial recognition, reported gains or losses essentially represent the difference between two 
+fair values. As such, the standard effectively decouples profit recognition from a sales transaction. One 
+consequence of this approach is to anticipate some of the profit that will be realised, often by a matter of 
+years for long-term crops, such as trees. 
+The implications for initial recognition of agricultural produce are similar - an entity need to recognise a 
+gain or loss on agricultural produce upon harvesting if the fair value of the harvested produce is different 
+from the pre-harvest valuation. [IAS 41.29]. The standard requires that “A gain or loss arising on initial 
+recognition of agricultural produce at fair value less costs to sell … be included in profit or loss for the 
+period in which it arises”. [IAS 41.28]. 
+3.2.6 
+Inability to measure fair value reliably 
+3.2.6.A 
+Rebutting the presumption 
+Under IAS 41, there is a presumption that the fair value of all biological assets (including produce growing 
+on a bearer plant) can be measured reliably. This presumption can only be rebutted on initial recognition for 
+a biological asset (not agricultural produce). 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3142 
+How we see it 
+In our view, such a rebuttal will be rare as, to be able to do so, an entity must demonstrate both of the 
+following: 
+(a) Quoted market prices for the biological asset (including produce growing on a bearer plant) are not 
+available. 
+And 
+(b) Alternative fair value measurements for the biological asset are determined to be clearly unreliable. 
+The following considerations are relevant when determining whether the presumption can be rebutted. 
+Since IAS 41 requires that the fair value of a biological asset (including produce growing on a bearer plant) 
+be measured in accordance with IFRS 13 (see Chapter 15), an entity needs to consider the requirements of 
+that standard in order to determine whether fair value can be reliably measured. 
+In relation to (a) above, it is important to note that IAS 41 does not restrict the criteria to quoted prices in 
+an active market. Therefore, in order to rebut the presumption, an entity needs to determine that quoted 
+prices in both active and inactive markets are unavailable for the asset. 
+If an entity is able to determine that quoted prices for the asset are unavailable, it still needs to determine 
+that all other methods for measuring fair value are clearly unreliable before it can rebut the presumption. 
+This is not the same identifying that a fair value measurement is complex and/or subjective. That is, 
+measuring fair value often involves estimation and significant judgement, but this does not mean that it is 
+automatically unreliable. Furthermore, the requirement is for the measurements to be ‘clearly unreliable’, 
+which is arguably a higher hurdle than ‘unreliable’. 
+Determining that alternative fair value measurements are clearly unreliable is likely to include, but not be 
+limited to, considering the reliability of the following factors: 
+• 
+Estimates of quantities on hand and the stage of development - while estimates are often required of 
+quantities on hand (including current stage of biological transformation and anticipated yields for 
+future agricultural produce), the mere fact that estimates are used is not sufficient to demonstrate that 
+fair value is unreliable. Rather, an entity needs to demonstrate that their estimates of the quantity and 
+current state of their biological assets are often incorrect. This may be challenging for entities to 
+demonstrate if the underlying information is regularly used by management to make decisions about 
+future operations of the business. 
+• 
+Prices for the asset in a future state (e.g., for the mature biological asset or the agricultural produce 
+that will ultimately be harvested). 
+• 
+Prices for similar assets that can be used as an input into the fair value measurement - this could 
+include plants and animals that are similar to the asset held by the entity or the ultimate agricultural 
+produce that will result from managing the biological transformation of the asset held by the entity. 
+• 
+Cash flow projections for the asset. 
+• 
+The replacement cost of the asset. 
+Entities might also need to consider whether other entities (within a country or globally) are able to 
+demonstrate that fair value can be reliably measured for the same or similar assets. 
+In 2017, the IFRS IC received a request to consider whether fruit growing on oil palms is considered an example 
+of a biological asset for which an entity might rebut the fair value presumption applying IAS 41.30. The IFRS IC 
+rejected this request observing that its role is not to conclude upon very specific application questions, 
+particularly when they relate to the application of the judgements required in applying IFRS accounting 
+standards. In rejecting the request, “the Committee concluded that the reference to ‘clearly unreliable’ in 
+paragraph 30 of IAS 41 indicates that, to rebut the presumption, an entity must demonstrate that any fair 
+value measurement is clearly unreliable. Paragraph BC4C of IAS 41 suggests that, when developing the 
+amendments to IAS 41 on bearer plants, the Board’s expectation was that fair value measurements of produce 
+growing on bearer plants might be clearly unreliable when an entity encounters significant practical difficulties. 
+However, the Committee observed that the converse is not necessarily true - i.e., if an entity encounters 
+significant practical difficulties, this does not necessarily mean that any fair value measurement of produce is 
+clearly unreliable”.3 [IAS 41.30, IAS 41.BC4C]. In addition to these observations, the IFRS IC noted that possible 
+differences in supportable assumptions, (which might give rise to significantly different measurements) do not 
+constitute evidence of ‘significant practical difficulties’ as discussed in IAS 41.BC4C. This is because these 
+would not, on their own, result in fair value measurements that are clearly unreliable. 
+ 
+3 
+IFRIC Update, June 2017, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3143 
+The IFRS IC’s observations indicate that a rebuttal of the presumption that the fair value can be measured 
+reliably will be rare. If they cannot rebut the presumption, entities will need to measure fair value and that fair 
+value may be subject to significant estimation uncertainty. As a result, the Committee also emphasised that 
+entities need to comply with the disclosure requirements in IAS 1.125 (regarding significant assumptions and 
+estimates) and those in IFRS 13.91 so as to assist users of financial statements understand the valuation 
+techniques, inputs used and the effect of measurements that use Level 3 inputs.4 [IAS 1.125, IFRS 13.91]. 
+An entity that previously measured a biological asset at its fair value less costs to sell cannot revert to a 
+cost-based measurement in a later period, even if a fair value can no longer be measured reliably. 
+[IAS 41.31]. The standard assumes that reliable estimates of fair value would rarely, if ever, cease to be 
+available. [IAS 41.B36]. This assumption holds during times of heightened market volatility or uncertainty. A 
+more detailed discussion of some of the practical problems associated with determining fair value in the 
+absence of a market price can be found in section 4.7 below. 
+If an entity rebuts the presumption at initial recognition and then it becomes possible at a later date to 
+measure the fair value of a biological asset reliably, the entity is required to apply the fair value model to 
+that asset from that date onwards. [IAS 41.30]. In developing the standard, the (then) IASC noted in this 
+respect that “in agricultural activity, it is likely that fair value becomes measurable more reliably as 
+biological transformation occurs and that fair value measurement is preferable to cost in those cases”. 
+Therefore, the IASC “decided to require fair value measurement once fair value becomes reliably 
+measurable”. [IAS 41.B35]. 
+IAS 41 presumes that the fair value of a non-current biological asset that “meets the criteria to be classified 
+as held for sale (or is included in a disposal group that is classified as held for sale) in accordance with IFRS 5 
+Non-current Assets Held for Sale and Discontinued Operations” can always be measured reliably. [IAS 41.30]. 
+Frequently asked questions 
+Question 3-1: 
+Can acquisition-related transaction costs be taken into account when subsequently 
+measuring fair value? 
+In situations where the cost model is initially applied and then fair value becomes reliably measurable, a 
+question that sometimes arises is whether acquisition-related transaction costs (i.e., those that have 
+been incurred by the entity on purchasing the asset) that have been capitalised can be taken into 
+account when subsequently measuring the fair value component of ‘fair value less costs to sell’. Fair 
+value is a market-based measure and is defined in IFRS 13 as an exit price. The objective is to measure 
+the price that would be obtained in a transaction between market participants to sell an asset; not the 
+costs each party would incur in order to transact - those costs reflect the characteristics of the 
+transaction and not of the asset being hypothetically sold. 
+How we see it 
+In light of the above, we believe it would be inappropriate to include acquisition-related transaction 
+costs when measuring fair value, particularly since a seller would not incur such costs. 
+In addition, as discussed in section 4.6.4.A below, IFRS 13 specifically states that transaction costs that 
+would be incurred in a transaction to sell an asset are not part of fair value (that is, they are not added 
+to, or deducted from, the exit price used to measure fair value). [IFRS 13.25]. However, IAS 41 requires 
+‘costs to sell’ to be deducted from fair value, measured in accordance with IFRS 13, before recognition in 
+the financial statements leading to a lower valuation than a pure IFRS 13 valuation. 
+3.2.6.B 
+The cost model 
+If, on initial recognition, an entity rebuts the presumption and demonstrates that fair value cannot be 
+measured reliably, it applies the cost model to the biological asset (including produce growing on a bearer 
+plant), i.e., the asset is measured at cost less any accumulated depreciation and any accumulated 
+impairment losses. [IAS 41.30]. 
+When determining cost, accumulated depreciation and accumulated impairment losses an entity needs to 
+consider the requirements of IAS 2, IAS 16 and IAS 36. [IAS 41.33]. Refer to Chapter 23, Chapter 19 and 
+Chapter 21, respectively, for discussion on each of these standards. IAS 41 provides no further guidance 
+on the application of the cost model or the extent to which entities need to consider the requirements of 
+these standards. 
+ 
+4 
+IFRIC Update, June 2017, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3144 
+How we see it 
+Both IAS 2 and IAS 16 establish frameworks within which to determine cost. The nature of the biological 
+asset could be helpful when determining which approach to use. The nature of the biological asset could 
+also be helpful in determining when to commence depreciation and the useful life of the asset. 
+Consumable biological assets that are to be harvested as agricultural produce or sold as biological assets, 
+for example livestock to be slaughtered or held for sale, fish in farms or crops to be harvested, could be 
+more consistent with inventories accounted for in accordance with IAS 2. Bearer biological assets, such as 
+dairy cows could be more consistent with plant and equipment accounted for in accordance with IAS 16. 
+When the IASB issued the bearer plants amendments, it noted that, although bearer plants are dissimilar in 
+form to plant and machinery, similarities in how they are used supported accounting for them in the same 
+way. [IAS 16.BC67]. 
+IAS 16.55 requires depreciation to commence when an asset is available for use. [IAS 16.55]. Determining 
+when a biological asset is available for use may be more obvious in relation to bearer biological assets. For 
+example, a cow may be considered available for use as soon as it is sufficiently mature to produce milk. 
+However, for consumable biological assets defining when an asset is available for use is less clear because 
+the period between these assets reaching maturity and being sold or harvested is typically short. 
+The last component of the cost model is the assessment of impairment in accordance with IAS 36. That 
+standard requires an entity to determine the recoverable amount of an asset or cash-generating unit (CGU) 
+and compare it to its carrying amount in order to determine whether the asset or CGU is impaired. 
+Recoverable amount is defined by IAS 36 as the higher of either the value in use or fair value less costs of 
+disposal of the asset or CGU (IAS 36 is discussed in Chapter 21). 
+How we see it 
+Entities that have demonstrated that fair value cannot be reliably determined for a biological asset need 
+to ensure they apply a consistent approach when determining the recoverable amount of that asset. As 
+such, using a value in use approach to determine recoverable amount will be required, possibly at the 
+CGU level. Even in this situation, entities may need to carefully consider whether information used to 
+measure value in use could be used to measure the fair value of the biological asset. 
+An entity that uses the reliability exception (and, therefore, applies the cost model) is required to disclose 
+certain additional information in its financial statements. This is discussed further in section 5.3 below. 
+[IAS 41.B37]. 
+3.3 
+Government grants 
+Government grants involving biological assets that are within the scope of IAS 41 (i.e., excluding bearer 
+plants, which are specifically scoped out of IAS 41) are only accounted for under IAS 20 if the biological 
+asset is “measured at its cost less any accumulated depreciation and any accumulated impairment losses” 
+as discussed in section 3.2.6 above (see Chapter 25 for a discussion of government grants within the scope 
+of IAS 20). [IAS 41.37, IAS 41.38]. IAS 41 applies to government grants relating to all other biological assets 
+(including produce growing on a bearer plant) accounted for at fair value less costs to sell. 
+What is not clear is whether government grants that relate to both a bearer plant and the produce growing 
+on that bearer plant would be within the scope of either IAS 20 or IAS 41. It is also not clear how an entity 
+would deal with a government grant if the related biological asset is initially measured in accordance with 
+the cost model in IAS 41 (and so applies IAS 20 to the related government grant), but later is measured at 
+fair value less costs to sell because fair value becomes reliably measurable. Entities will need to use 
+judgement in relation to such grants. 
+Under IAS 20, government grants are either: 
+• 
+Recognised as deferred income and then recognised in profit or loss on a systematic basis over the 
+useful life of the asset 
+Or 
+• 
+Deducted in calculating the carrying amount of the asset and then recognised in profit or loss over the 
+life of a depreciable asset as a reduced depreciation expense 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3145 
+Under IAS 41, an unconditional government grant related to a biological asset that is “measured at its fair 
+value less costs to sell shall be recognised in profit or loss when, and only when, the government grant 
+becomes receivable”. [IAS 41.34]. An entity is, therefore, not permitted under IAS 41 to deduct a 
+government grant from the carrying amount of the related asset. This would be inconsistent with a “fair 
+value model in which an asset is measured and presented at its fair value” because the entity would 
+recognise even conditional government grants in income immediately. [IAS 41.B66]. 
+Any conditional government grant related to a biological asset measured at its fair value less costs to sell - 
+including government grants that require an entity not to engage in a specified agricultural activity - are 
+only recognised when the conditions attaching to the grant are met. [IAS 41.35]. IAS 41 permits an entity to 
+recognise a government grant as income only to the extent that it: (i) has met the terms and conditions of 
+the grant; and (ii) has no obligation to return the grant. The following Illustration, which is derived from an 
+example in IAS 41, shows how an entity applies these requirements. [IAS 41.36]. 
+Illustration 3-1: 
+Conditional government grants 
+A government grant requires an entity to farm in a particular location for five years and requires the entity to 
+return the entire government grant if it farms for less than five years. The government grant is not recognised 
+as income until the five years have passed. 
+Another government grant allows for part of the government grant to be retained based on the passage of 
+time. The entity recognises this government grant as income on a time proportion basis. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3146 
+4 
+Measuring fair value less costs to sell 
+4.1 
+The interaction between IAS 41 and IFRS 13 
+IFRS 13 specifies how to measure fair value. However, it does not specify what must be measured at fair 
+value or when a fair value measurement must be performed. Therefore, an entity applies IAS 41 to 
+determine what to measure at fair value less costs to sell and when to measure fair value (i.e., the 
+measurement date). The entity then applies IFRS 13 to measure ‘fair value’, taking into consideration the 
+specific requirements in IAS 41 (see section 4.5 below). ‘Costs to sell’, measured in accordance with 
+IAS 41, are then deducted. 
+As discussed in section 5 below, disclosures in relation to the fair value measurement will need to be 
+provided in accordance with IFRS 13 and also IAS 41, to the extent that it requires additional agriculture-
+specific disclosures. 
+The following sections consider further the interaction between IFRS 13 and IAS 41 and highlight some of 
+the key requirements of IFRS 13 relating to biological assets and agricultural produce. See Chapter 15 for a 
+discussion of the requirements in IFRS 13. 
+4.2 
+Establishing what to measure 
+4.2.1 
+Unit of account 
+The unit of account identifies what is being measured for financial reporting purposes, i.e., the level of 
+aggregation (or disaggregation) for presentation and disclosure purposes. For example, whether the 
+information presented and disclosed in the financial statements is for an individual asset or for a group of 
+assets. 
+The unit of account in IAS 41 is the individual biological asset or agricultural produce. For example, the 
+standard applies to the individual trees in a forest, not the forest as a whole. As discussed in section 4.2.2 
+below, the standard does permit grouping of assets to facilitate measuring fair value, but this does not 
+change the unit of account. 
+Another important factor is that the asset is being measured in its current form, and not as it will be once 
+mature. Therefore, understanding the different stages of maturity for the asset and determining what stage 
+the asset is in at the measurement date is crucial. Consider for example a farmer raising chickens, the 
+farmer needs to consider the various stages from egg, to hatchling, day-old chick, partly-grown and finally 
+mature chicken. The different stages the chickens are in at the measurement date could result in different 
+methods and inputs being used to measure fair value, and different assumptions, for example different 
+principal markets at each stage (see section 4.6.3 below). Also refer to section 4.7 below for a further 
+discussion on measuring fair value for part-grown or immature biological assets. 
+4.2.2 
+Grouping of assets 
+IAS 41 states that: [IAS 41.15] 
+Extract from IAS 41 
+15 
+The fair value measurement of a biological asset or agricultural produce may be facilitated by 
+grouping biological assets or agricultural produce according to significant attributes; for 
+example, by age or quality. An entity selects the attributes corresponding to the attributes used 
+in the market as a basis for pricing. 
+For example, when undertaking a valuation of livestock, an entity may group each of the animals in the herd 
+based on factors such as species, age, weight and the expected yield. 
+4.3 
+When to measure fair value 
+In order to apply the requirements of IFRS 13, an entity needs to determine when to measure fair value, 
+i.e., the measurement date. IFRS 13 relies on the standard that requires, or permits, the fair value 
+measurement to specify this date, i.e., IAS 41 for biological assets (including produce growing on a bearer 
+plant) and agricultural produce. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3147 
+As discussed in section 3.2.1.A above, biological assets within the scope of IAS 41 are required to be 
+measured at fair value less costs to sell at initial recognition and subsequently, on a recurring basis, at least 
+at the end of each reporting period. 
+The fair value less costs to sell of agricultural produce is measured on the date that it is harvested (see 
+section 3.2.2 above). 
+4.4 
+Determining costs to sell 
+Costs to sell are defined in IAS 41 as “the incremental costs directly attributable to the disposal of an asset, 
+excluding finance costs and income taxes”. [IAS 41.5]. 
+Therefore, of all the costs that are necessary for a sale to occur, costs to sell only include those costs that 
+would otherwise not arise. However, costs already included within the fair value measurement, such as 
+transportation costs, are excluded from costs to sell. Examples of costs to sell could include brokers’ and 
+dealers’ commissions, levies by regulatory agencies and commodity exchanges, transfer taxes and duties. 
+[IAS 41.BC3, IAS 41.B22]. 
+4.5 
+Measuring fair value: IAS 41-specific requirements 
+4.5.1 
+Use of external independent valuers 
+IAS 41 does not require an entity to use an external independent valuer to determine the value of biological 
+assets. In fact, the Board rejected a proposal to require external independent valuations because they are 
+“not commonly used for certain agricultural activity and it would be burdensome to require an external 
+independent valuation. The Board believes that it is for entities to decide how to determine fair value 
+reliably, including the extent to which independent valuers need to be involved”. [IAS 41.B33]. Furthermore, 
+the Board also noted that requiring the disclosure of the extent to which the carrying amount of biological 
+assets reflects a valuation by an external independent valuer would not be appropriate for the same 
+reasons. [IAS 41.B81]. 
+4.5.2 
+Obligation to re-establish a biological asset after harvest 
+It is common in certain industries, particularly where a biological asset is physically attached to land, for an 
+entity to have an obligation to re-establish a biological asset after harvest. The standard gives the example 
+of an entity that has an obligation to replant the trees in forest after harvest. 
+IAS 41 does not permit an entity to include the costs of re-establishing a biological asset after harvest when 
+using estimated future cash flows to measure fair value. [IAS 41.22]. This is consistent with the unit of 
+account being the individual biological asset (see section 4.2.1 above). For example, an entity that owns a 
+forest might consider its intention, or obligation, to replace its trees in the future if it were measuring the 
+fair value of the forest as a whole. However, the entity is required by IAS 41 to measure the individual trees 
+that are actually planted in the forest on the measurement date. It would be inconsistent to consider 
+replanting, since removal of an existing tree (in order to plant a new tree) would be the end of that asset’s 
+useful life. 
+The IFRS IC considered such obligations in May 2004 and confirmed its previous decisions that, if an entity 
+has an obligation to re-establish a biological asset after harvest, that obligation is attached to the land and 
+does not affect the fair value of the biological assets currently growing on the land. 
+The problem of how to account for an obligation to replant was considered by the Board in 2007. 
+Circumstances can arise where an entity is legally obliged (whether by law or contract) to replant a 
+biological asset after harvest. The interaction of the fair value measurement basis of IAS 41, the prohibition 
+on including the replanting costs in determining that fair value in IAS 41.22 and the potential recognition of 
+a provision for the cost of replanting in accordance with IAS 37 Provisions, Contingent Liabilities and 
+Contingent Assets (see Chapter 27) when the biological asset is harvested, could lead to a net expense 
+being recognised at the point of harvest. 
+Even in situations where there is a legal obligation to replant, an entity cannot consider replanting when 
+measuring the fair value of a biological asset. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3148 
+4.5.3 
+Forward sales contracts 
+When an entity enters into a contract to sell its biological assets (including produce growing on a bearer plant) or 
+agricultural produce at a future date, the standard does not permit it to measure those assets at the contracted 
+price, stating that “the fair value … is not adjusted because of the existence of a contract”. [IAS 41.16]. 
+When IAS 41 was developed, the Board considered whether the standard should require sales contracts to 
+be measured at fair value but concluded that no solution would be practicable without a complete review of 
+the accounting for commodity contracts that are not accounted for as financial instruments. [IAS 41.B50-B54]. 
+It follows from this that, if an entity engaged in agricultural activity enters into forward sales contracts for its 
+produce, it will need to consider whether such contracts are within the scope of IFRS 9 Financial Instruments. 
+IFRS 9.2.4 states “This standard shall be applied to those contracts to buy or sell a non-financial item that can 
+be settled net in cash or another financial instrument, or by exchanging financial instruments, as if the 
+contracts were financial instruments, with the exception of contracts that were entered into and continue to 
+be held for the purpose of the receipt or delivery of a non-financial item in accordance with the entity’s 
+expected purchase, sale or usage requirements”. [IFRS 9.2.4]. Accordingly, an agricultural commodity sales 
+contract will be accounted for under IFRS 9 by an entity that intends to net settle that contract, even if it is 
+also a producer of the underlying agricultural produce. Conversely, a farmer who intends to settle a forward 
+sales contract for barley by physical delivery would not typically account for the contract under IFRS 9, but 
+would treat it as an executory contract. However, IFRS 9 is applied to such contracts if an entity designates 
+them as measured at fair value through profit or loss in accordance with IFRS 9.2.5. [IFRS 9.2.5]. This issue is 
+discussed further in Chapter 41. 
+4.5.4 
+Onerous contracts 
+Although a forward sales contract that is scoped out of IFRS 9 is treated as an executory contract, IAS 41 
+notes that, if the contracted price is lower than the fair value of the assets, the contract for the sale of a 
+biological asset (including produce growing on a bearer plant) or agricultural produce may be an onerous 
+contract, as defined in IAS 37. If it meets the definition of an onerous contract, it is accounted for under 
+IAS 37 [IAS 41.16] - the accounting for onerous contracts is dealt with in Chapter 27. 
+However, IAS 41 provides no further guidance on the subject of when such a contract becomes onerous. 
+The standard is also silent on what this might mean, given the fact that IAS 37 defines an onerous contract 
+as “a contract in which the unavoidable costs of meeting the obligations under the contract exceed the 
+economic benefits expected to be received under it”. [IAS 41.B50, IAS 41.B51, IAS 41.B52, IAS 41.B53, IAS 41.B54]. In 
+other words, a contract that is not loss-making, but that has a contract price lower than the fair value of the 
+produce concerned, is not automatically defined as onerous by IAS 37, yet seems to be regarded as 
+onerous under IAS 41. 
+How we see it 
+In our view, a contract to sell a biological asset at an amount that is below its fair value less costs to sell 
+(and, therefore, its carrying amount) would be regarded as onerous under IAS 37. 
+4.5.5 
+Financing cash flows and taxation 
+IAS 41 does not permit an entity to include any cash flows for financing an asset when using estimated 
+future cash flows to measure fair value. [IAS 41.22]. 
+Previously, the standard also required an entity to exclude tax cash flows when measuring fair value in 
+accordance with IAS 41. [IAS 41(2021).22]. However, in May 2020 the Board issued an amendment to IAS 41 as 
+part of its Annual Improvements to IFRS Standards 2018-2020 which removed that requirement. The 
+amendment became effective for annual periods beginning on or after 1 January 2022 and applied 
+prospectively.5 This amendment aligned the requirements in IAS 41 on fair value measurement with those in 
+IFRS 13, which allows the use of post-tax cash flows and post-tax discount rates when measuring fair value. 
+The previous exclusion of taxation had been practically challenging if an entity used an income approach to 
+measure fair value. Valuers typically prepared post-tax calculations, discounting post-tax cash flows using a 
+post-tax discount rate. If this approach was used to derive a pre-tax equivalent fair value, entities needed to 
+ensure the assumptions related to tax were not entity-specific. As discussed in section 4.6 below, IFRS 13 
+requires that assumptions used to measure fair value reflect what market participants would consider. 
+ 
+5 
+Annual Improvements to IFRS Standards 2018-2020, May 2020, pp.15-17. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3149 
+4.6 
+Measuring fair value: overview of IFRS 13’s requirements 
+4.6.1 
+The fair value measurement framework 
+The objective of a fair value measurement is “to estimate the price at which an orderly transaction to sell 
+the asset or to transfer the liability would take place between market participants at the measurement date 
+under current market conditions”. [IFRS 13.B2]. In order to measure the fair value of a biological asset or 
+agricultural produce, an entity needs to determine all of the following: [IFRS 13.B2] 
+• 
+The particular asset that is the subject of the measurement (consistent with its unit of account - see 
+section 4.2 above) 
+• 
+The valuation premise that is appropriate for the measurement (consistent with its highest and best 
+use - see section 4.6.2 below) 
+• 
+The principal market (or in the absence of a principal market, the most advantageous market) for the 
+asset or liability (see section 4.6.3 below) 
+• 
+The valuation technique(s) appropriate for the measurement, considering the availability of data with 
+which to develop inputs that represent the assumptions that market participants would use when 
+pricing the asset and the level of the fair value hierarchy within which the inputs are categorised (see 
+sections 4.6.3 and 4.6.4 below) 
+When valuations are subject to significant measurement uncertainty due to market volatility and there is a wider 
+range of possible estimates of fair value measurement, an entity is required to apply judgement to determine the 
+point within that range that is most representative of fair value measurement in the circumstances. 
+Climate change can have a tangible effect on an entity’s assets and liabilities now or in the future. Entities 
+might be subject to real or perceived risks or opportunities as a result of climate change, both physical risks 
+(such as rising water levels, changing weather patterns, increased pollution levels) and transition risks 
+(such as known or anticipated changes to laws and regulations or commitments to agreed targets or 
+spending to mitigate the effects of pollution). Entities need to ensure that their fair value measurements 
+appropriately consider relevant climate-related risk factors and opportunities. 
+Since fair value focuses on what market participants in the principal (or most advantageous) market would 
+consider when pricing the asset or liability, care is needed in determining whether, and to what extent, 
+climate change might affect the assumptions used to measure fair value. This might include, for example, 
+how market participants believe climate-related risks would affect the price of the asset or liability; the 
+effect of restrictions imposed on assets in response to climate change (if it is a characteristic of the asset); 
+and the highest and best use of a non-financial asset, which must be physically possible, legally permissible 
+and financially feasible, and is presumed to be the entity’s current use. Sustainability reporting disclosures 
+might provide more information about an asset or liability and, therefore, affect what market participants 
+would be willing to pay. However, determining the impact of that information on market participant 
+assumptions, inputs and sensitivities, is likely to require significant judgement.6 
+4.6.2 
+Highest and best use and valuation premise 
+IFRS 13 requires that the fair value of non-financial assets, such as biological assets and agricultural 
+produce, take into account “a market participant’s ability to generate economic benefits by using the asset 
+in its highest and best use or by selling it to another market participant that would use the asset in its 
+highest and best use” (emphasis added). [IFRS 13.27]. 
+The objective in determining highest and best use is to identify the use by market participants that would 
+maximise the value of the asset, either on its own or with other assets and/or liabilities. Therefore, in order 
+to determine the highest and best use of a non-financial asset, an entity needs to make the assessment 
+from the perspective of market participants (see section 4.6.3 below). 
+Importantly, IFRS 13 starts with the presumption that the highest and best use is an asset’s current use. 
+Alternative uses are not considered unless market or other factors suggest that market participants would use 
+that asset differently to maximise the value of that asset. [IFRS 13.29]. If such factors exist, an entity would only 
+consider those alternative uses that are physically possible, legally permissible and financially feasible. 
+[IFRS 13.28]. Appropriately determining an asset’s highest and best use is a critical step and can have significant 
+implications on the measurement of fair value. Therefore, this assessment is based on the weight of evidence 
+available. Careful consideration is needed to ensure consistent assumptions regarding the principal market (or 
+in the absence of a principal market, the most advantageous market) and the participants in that market, 
+since highest and best use is determined from the market participants’ perspective. 
+ 
+6 
+For more information on the topic of accounting for climate change refer to our publication titled Applying IFRS: Connected 
+Financial Reporting: Accounting for Climate Change available on ey.com. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3150 
+Determining highest and best use is discussed further in Chapter 15. As discussed in Chapter 15 and in 
+section 5.2 below, additional disclosures are required if an entity determines that the highest and best use 
+of a non-financial asset is different from its current use. 
+Dependent on its highest and best use, the fair value of the non-financial asset will either be measured 
+based on the value it would derive on a stand-alone basis or in combination with other assets or other 
+assets and liabilities (known as the valuation premise). [IFRS 13.31]. For example, as discussed in 
+section 4.6.2.A below, the highest and best use of a biological asset might be in combination with the land 
+to which it is physically attached. For produce growing on a bearer plant, it may also be in combination with 
+the bearer plant upon (or within) which it grows. 
+Even in situations where the valuation premise of a biological asset (including produce growing on a bearer 
+plant) is ‘in combination with other assets and/or liabilities’, the objective of a fair value measurement is 
+still to measure the price to sell the biological asset, not the combined group. IFRS 13 assumes that the 
+market participants that would purchase the biological asset would use it in combination with those other 
+assets and/or liabilities. That is, if the market participants already had those other assets and/or liabilities, 
+what price would the market participants pay to acquire the biological asset? In reality, sales are unlikely to 
+be structured in this way. Entities might need to sell the ‘other assets and/or liabilities’ in order to sell the 
+biological asset (particularly if they are physically attached, as is discussed in section 4.6.2.A below). 
+However, regardless of how an entity might structure an actual sale, IFRS 13 contemplates a hypothetical 
+sale and specifically states that, when the highest and best use is the use of the asset in combination with 
+other assets and/or liabilities, a fair value measurement assumes that the market participant acquiring the 
+asset already holds the complementary assets and/or the associated liabilities. [IFRS 13.32]. 
+In practice, an entity may need to measure the price to sell the biological asset by measuring the price for 
+the combined assets and/or liabilities and then allocating that fair value to the various components. IFRS 13 
+does not specify which allocation approaches can or cannot be used. Therefore, an entity must use its 
+judgement to select the most appropriate technique. Even if this approach is used, the objective is to 
+measure the fair value of the biological asset assuming it is sold consistent with its unit of account, which 
+for a biological asset is the individual asset. [IFRS 13.32]. This is discussed further in section 4.6.2.A below. 
+4.6.2.A 
+Biological assets attached to land 
+IAS 41 observes that biological assets are often physically attached to land, for example, crops growing in a 
+field. In many cases, there will be no separate market for biological assets in their current condition and 
+location. The objective of a fair value measurement is to determine the price for the asset in its current 
+form. However, as discussed in section 4.7 below (see also Chapter 15 at section 4.2), if no market exists 
+for an biological asset in its current form, but there is a market for the converted or transformed asset, an 
+entity would adjust the price that would be received for the converted or transformed asset for the costs a 
+market participant would incur to recondition the asset (after acquiring the asset in its current condition) 
+and the compensation they would expect for the effort in order to measure fair value. 
+IFRS 13 does not require a market to be observable or active in order to measure fair value. However, it is 
+clear that, if there is a principal market for the asset, the fair value measurement represents the price in 
+that market at the measurement date (regardless of whether that price is directly observable or estimated 
+using another valuation technique). This price must be used even if a price in a different market is 
+potentially more advantageous. [IFRS 13.18]. While the price need not be observable to measure fair value, 
+the standard does require an entity to prioritise observable inputs in the principal (or in the absence of a 
+principal market, the most advantageous) market over unobservable inputs. [IFRS 13.67]. 
+If an income approach (such as a discounted cash flow approach) is used to measure the biological asset 
+(excluding the land) and the land, to which the asset is physically attached, is owned by the entity, care is 
+needed to ensure that fair value measurement is not overstated. This is because land owned by the entity 
+would not derive any expected cash outflows. It is, therefore, common for entities to include a notional 
+rental charge for the land, reflecting what would be paid to rent the land, using market participant 
+assumptions. 
+IAS 41 suggests that where there is no separate market for biological assets in their current form and they 
+are physically attached to land, an active market might exist for the combined assets, i.e., for the biological 
+assets, land and land improvements. If this is the case, an entity could use the information regarding the 
+combined assets to determine the fair value of the biological assets. [IAS 41.25]. Similar considerations will 
+also be relevant for produce growing on a bearer plant, which is unlikely to have a separate market in its 
+current form and is physically attached to the bearer plant and, in turn, to the land. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3151 
+IFRS 13 defines an active market as: [IFRS 13 Appendix A] 
+Extract from IFRS 13 
+Appendix A 
+Defined terms 
+active market 
+A market in which transactions for the asset or liability take place with 
+sufficient frequency and volume to provide pricing information on an 
+ongoing basis. 
+Whether such a market exists for the combined assets is a matter of judgement, taking into consideration 
+all the relevant facts and circumstances. However, an entity needs to have sufficient evidence to support 
+such an assumption. 
+Importantly, the unit of account established by IAS 41 is an individual asset (see section 4.2.1 above). 
+Therefore, if fair value is measured for the combined assets, the total fair value would need to be allocated 
+to each component in order to derive the fair value for the biological asset or produce growing on a bearer 
+plant (as is illustrated by Figure 4-1 below). As discussed in section 4.6.2 above, IFRS 13 does not provide 
+guidance on how to perform such an allocation. IAS 41 suggests the use of the residual method as one 
+possible way to allocate the fair value between the biological assets and the land. However, this might be 
+difficult to apply in practice, as illustrated in Illustration 4-1 below. Therefore, entities will need to apply 
+judgement when determining the appropriate allocation. 
+Illustration 4-1: 
+Assets attached to land 
+Entity A acquired a 10-hectare vineyard on 1 January 20X1 for CU1,200. The purchase price of the vineyard 
+was attributed as follows: 
+1 January 20X1 
+CU 
+Purchase price 
+1,200  
+Land 
+(780) 
+Vineyard improvements 
+(130) 
+Grape vines 
+(255) 
+Grapes growing on the vines 
+35  
+At the end of its financial year Entity A needs to determine the fair value of the grapes growing on the vines in 
+accordance with IAS 41 and invites two equally skilled professional valuers to determine their value. 
+  
+Valuer 1 
+Valuer 2 
+31 December 20X1 
+CU 
+CU 
+Fair value of an average 10-hectare vineyard 
+1,105  
+1,100  
+Adjustment for soil and climatic conditions 
+135  
+150  
+Estimated fair value of Entity A’s vineyard 
+1,240  
+1,250  
+  
+  
+  
+Fair value of the land 
+(830) 
+(825) 
+Fair value of vineyard improvements 
+(135) 
+(125) 
+Fair value of grape vines 
+(245) 
+(250) 
+Grapes growing on the vines 
+30  
+50  
+Valuer 1 and Valuer 2 make a virtually identical assessment of the market values of the vineyard, the land, 
+vineyard improvements and the grape vines. Nevertheless, because the value of grapes growing on the vines is 
+calculated by subtracting all the other known elements from the total value of the vineyard, a noticeable 
+difference arises in the valuation of the grapes growing on the vines. In a similar vein, entities that use only 
+one valuer need to be aware that even small changes in assumptions from period-to-period could have a 
+significant impact on the valuation of biological assets or plants growing on a bearer plant and, therefore, 
+reported profits or losses. For this reason, IFRS 13 requires extensive disclosures about assumptions used in 
+determining fair value. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3152 
+In April 2012, the IFRS IC received a request to clarify the use of the residual approach, as discussed in 
+IAS 41.25 (in light of the requirement in IFRS 13 to measure the fair value of non-financial assets based on 
+their highest and best use). Specifically, the IFRS IC was asked to consider the situation where a biological 
+asset was physically attached to land and no separate market for the biological asset existed in its current 
+condition and location. The submitter of the request assumed entities would apply IAS 41.25, measure the 
+biological asset and land on a combined basis and use the residual approach to derive a fair value for the 
+biological asset. The submitter was concerned about situations where the highest and best use of the 
+biological asset is in combination with the land, but the value of the land could be higher if measured 
+assuming some alternative use (such as property development). In these circumstances, the allocated fair 
+value of the biological asset might be nil or negligible. The fact pattern was further complicated because it 
+was assumed the land to which the biological asset was attached was measured using the cost model in 
+accordance with IAS 16.7 
+The IFRS IC elected not to take the issue onto its agenda, but noted that, in the development of IFRS 13, 
+the IASB had considered the situation where the highest and best use of an asset in a group of assets is 
+different from its current use. However, “IFRS 13 does not explicitly address the accounting implications if 
+those circumstances arise and the fair value measurement of the asset based on its highest and best use 
+assumes that other assets in the group need to be converted or destroyed”. The IFRS IC also observed that 
+this issue may affect non-financial assets within the scope of other standards, not just those within the 
+scope of IAS 41.8 The IFRS IC asked the IASB to provide clarification of the accounting requirements for the 
+issues it had considered. However, as outreach indicated the issue was not widespread, in May 2013, the 
+IASB decided it could, instead, be considered for review in the Post-Implementation Review (PIR) of 
+IFRS 13.9 Most respondents to the IASB’s requests for information as part of its PIR of IFRS 13 that had 
+experience with biological assets said that fair value measurement of biological assets was challenging 
+(highlighting specific aspects that are challenging) and asked for additional guidance (particularly in relation 
+to measuring the fair value of growing produce) and/or changes to IAS 41. However, there were different 
+views about how the Board could help.10 
+In considering all of the feedback to its request for information, the Board completed its review of findings 
+and concluded in March 2018 that IFRS 13 is working as it intended. It also decided to: 
+“a. feed the PIR findings regarding the usefulness of disclosures into the Board’s work on Better 
+Communication in Financial Reporting, in particular, into the Targeted Standards-level Review of 
+Disclosures and the Primary Financial Statements projects; 
+b. 
+continue liaising with the valuation profession, monitor new developments in practice and promote 
+knowledge development and sharing; and 
+c. 
+conduct no other follow-up activities as a result of findings from the PIR.”11 
+In relation to education about measuring the fair value of biological assets, “the Board concluded that, 
+although there might be inconsistent application in fair value measurement of biological assets, detailed 
+application questions are best addressed by the valuation profession, and not by accounting standard-
+setters”.12 Determining the highest and best use of an asset requires judgement (see section 4.6.2 above), 
+but an entity starts with the presumption that the highest and best use is an asset’s current use. As 
+discussed above, IAS 41.25 is only relevant where there is no separate market for a biological asset or 
+produce growing on a bearer plant in its current form and it (or the bearer plant on which it grows) is 
+physically attached to land. In addition, that paragraph suggests an active market may exists for the 
+combined assets (e.g., land and biological asset) and, therefore, that an observable price in that market for 
+the assets (on a combined basis) could be used to derive fair value for the biological asset. [IAS 41.25]. 
+Selecting appropriate valuation techniques with which to measure fair value in accordance with IFRS 13 
+requires judgement. Some might use the residual approach to do this, as indicated in the submission. 
+However, IAS 41.25 does not require the use of the residual approach; it is only mentioned as an example. 
+ 
+7 
+IASB Staff Paper 13: Project: IAS 41 Agriculture and IFRS 13 Fair Value Measurement, Paper topic: Valuation of biological assets 
+using a residual method, IFRS IC Meeting, May 2012. Available on the IFRS Foundation’s website. 
+8 
+IFRIC Update, March 2013, available on the IFRS Foundation’s website. 
+9 
+IASB Update, May 2013, available on the IFRS Foundation’s website. 
+10 
+IASB Staff Paper 7B: Project: Post-implementation Review of IFRS 13 Fair Value Measurement, Paper topic: Background-Detailed 
+analysis of feedback received, IASB meeting, March 2018. Available on the IFRS Foundation’s website. 
+11 
+IFRS Project Reporting and Feedback Statement: Post-implementation Review of IFRS 13 Fair Value Measurement, IASB, 
+December 2018, page 8. Available on the IFRS Foundation’s website. 
+12 
+IFRS Project Reporting and Feedback Statement: Post-implementation Review of IFRS 13 Fair Value Measurement, IASB, 
+December 2018, page 16. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3153 
+The IASB reaffirmed this when they considered this matter in May 2013. They also noted that IFRS 13 
+encourages the use of multiple valuation techniques, where appropriate.13 
+How we see it 
+The outcome from a fact pattern such as the one the IFRS IC discussed may be somewhat 
+counterintuitive. However, the fact that the fair value of the land, in that situation, would not be 
+recognised in the financial statements is, in our view, irrelevant to the measurement of fair value. The 
+objective of a fair value measurement does not change regardless of whether it is recognised or 
+unrecognised. 
+Figure 4-1: 
+Applying IAS 41.25 to measure the fair value of a biological asset 
+ 
+4.6.3 
+Selecting appropriate assumptions 
+Selecting the appropriate assumption with which to measure the fair value of biological assets and 
+agricultural produce can often be difficult. According to IFRS 13 (see Chapter 15), an entity selects 
+assumptions that: 
+• 
+Market participants would use, i.e., they are not entity-specific 
+• 
+Are consistent with the unit of account and characteristics of the asset, including an asset’s condition 
+and location and any restrictions on the use or sale of the asset 
+• 
+Are consistent with an orderly transaction to sell the asset in the principal market, or in the absence of 
+a principal market, the most advantageous market 
+And 
+• 
+Maximise the use of observable inputs and minimise the use of unobservable inputs (based on the fair 
+value hierarchy) 
+IFRS 13 clarifies that the transaction to sell the asset would be between market participants, not between 
+the entity and a market participant. In addition, assumptions need to reflect those that market participants 
+generally would assume, not those of a particular market participant. In order to select the appropriate 
+assumptions, an entity would identify characteristics of market participants. At a minimum, IFRS 13 
+assumes that market participants will be independent of each other, knowledgeable about the asset, able 
+and willing to enter into a transaction for the asset. [IFRS 13 Appendix A]. An entity need not identify specific 
+market participants, but needs to identify the distinguishing characteristics of market participants. 
+[IFRS 13.23]. 
+Identifying the appropriate market participants (or their characteristics) depends on the principal market 
+for the asset or, in the absence of a principal market, the most advantageous market (see Chapter 15 for 
+further discussion). [IFRS 13.23]. There is a general presumption in IFRS 13 that the principal market is the 
+one in which the entity would normally enter into a transaction to sell the asset, unless there is evidence to 
+the contrary. [IFRS 13.17]. 
+ 
+13 
+IASB Update, May 2013, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3154 
+In times of market volatility, additional judgement may be needed to select appropriate assumption for fair 
+value measurement. IFRS 13 has specific guidance on evaluating whether there has been a significant 
+decrease in the volume or level of activity for an asset (see Chapter 15 at section 7.1) and identifying 
+transactions that are not orderly (Chapter 15 at section 7.2). It also provides guidance on estimating fair 
+value when there has been a significant decrease in volume and level of activity (Chapter 15 at section 7.3). 
+4.6.3.A 
+Condition and location 
+Fair value measured in accordance with IFRS 13 takes into consideration an asset’s condition and location, 
+provided they are a characteristic of the asset being measured that a market participant would consider 
+when pricing the asset. [IFRS 13.11]. 
+This will have a direct impact on what is being measured. For example, entities measuring partly grown 
+crops may also need to consider the fair value of the land in which they are planted (see section 4.6.2.A 
+above). It may also require an entity to consider alternative markets. For example, an entity that rears 
+chickens have to consider whether there is a market for immature chicks and/or day-old chicks and not just 
+consider the market for mature chickens as the only market available. Another example is the market for 
+vines versus the market for grapes, or seeds versus seedlings. 
+It is possible for a market to exist in one geographical area, but not in another area. For example, 
+transportation costs may limit the geographical size of the market for agricultural produce significantly, 
+possibly to the point where a local cooperative or factory is the only buyer. 
+If no market exists for an asset in its current form, but there is a market for the converted or transformed 
+asset, an entity adjusts the fair value for the costs a market participant would incur to re-condition the 
+asset (after acquiring the asset in its current condition) and the compensation they would expect for the 
+effort. 
+If the location of a biological asset or agricultural produce would require it to be transported to the market 
+in order to sell it, transportation costs would be deducted from the market price in order to measure fair 
+value. Given the logistical problems and generally high costs of transporting living animals and plants, there 
+could be many different fair values for identical biological assets depending on their location. 
+4.6.4 
+Valuation techniques in IFRS 13 
+IFRS 13 does not limit the types of valuation techniques an entity might use to measure fair value. 
+However, it does require the valuation techniques to be consistent with one of three approaches: the 
+market approach; the income approach; or the cost approach. [IFRS 13.62]. According to IFRS 13, multiple 
+techniques need to be used, when applicable. Therefore, judgement is needed to select the techniques that 
+are appropriate in the circumstances. [IFRS 13.63]. Selecting appropriate valuation techniques is discussed 
+further in Chapter 15 at section 13. 
+IFRS 13 does not prioritise the use of one valuation technique over another, or require the use of only one 
+technique. Instead, IFRS 13 establishes a hierarchy for the inputs used in those valuation techniques, 
+requiring an entity to maximise observable inputs and minimise the use of unobservable inputs (this is 
+discussed further in Chapter 15 at section 15). [IFRS 13.74]. The best indication of fair value is a quoted price 
+in an active market for the identical asset. However, even when fair value needs to be estimated, an entity 
+must maximise the use of observable inputs and minimise the use of unobservable inputs. 
+A significant decrease in volume or activity in a market can also influence which valuation techniques are 
+used, how those techniques are applied and whether inputs are observable at the measurement date. This 
+is discussed further in Chapter 15 at section 7.3. 
+4.6.4.A 
+Cost as an approximation of fair value 
+IFRS 13 defines fair value as a current exit price, not an entry price. Therefore, while exit and entry prices 
+may be identical in many situations, the transaction price (an entry price) is not presumed to represent the 
+fair value of an asset or liability measured in accordance with IFRS 13 on its initial recognition. [IFRS 13.57, 
+IFRS 13.58, IFRS 13.59]. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3155 
+IAS 41 indicates that cost can sometimes approximate fair value. The standard gives two situations where 
+this might occur: [IAS 41.24] 
+• 
+When little biological transformation has taken place since cost was initially incurred - seedlings planted 
+immediately prior to the end of a reporting period and newly acquired livestock are given as examples 
+Or 
+• 
+When the impact of the biological transformation on price is not expected to be material - for example, 
+during the initial phase of growth for a pine plantation with a 30-year production cycle 
+Even in such situations, the objective is still to measure fair value in accordance with IFRS 13. Therefore, as 
+with an entry price on initial recognition, an entity cannot presume that cost approximates fair value. 
+Instead, it must ensure cost is materially consistent with a current exit price for the asset. 
+How we see it 
+Entities need to carefully consider which costs could be included in the entry price. IFRS 13 specifically 
+states that transaction costs are not part of fair value (that is, they are not added to or deducted from 
+the exit price), therefore, we would not expect an entity to deduct such costs from the entry price - 
+particularly as ‘costs to sell’ are deducted from fair value before being recognised in the financial 
+statements. Nor would we expect entities applying a fair value model to include acquisition-related 
+transaction costs within an entry price used to approximate fair value. 
+4.7 
+The problem of measuring fair value for part-grown or immature 
+biological assets 
+Entities may be required to measure their biological assets part way through the transformation process, 
+particularly when the time to harvest is greater than 12 months. In these circumstances, there may not be 
+an active market for the asset in its current condition and location. In the absence of an active market, 
+preparers often use a discounted cash flow model to estimate fair value. 
+In these situations, a common question is whether an entity can take into consideration the future biological 
+transformation when estimating the fair value of a biological asset. 
+As discussed in section 4.6.3.A above, IFRS 13 makes it clear that the fair value of an asset considers 
+characteristics of an asset, such as its current condition and location. An entity must consider this objective in 
+determining an appropriate discount rate and estimating its future cash flows, which must be based on 
+assumptions market participants would use. Therefore, if a market participant would consider the potential 
+for future growth or maturation, the related cash flows and risks from that additional biological 
+transformation are included in determining the appropriate fair value. Assume, for example, that a particular 
+breed of chicken is considered mature between 16 and 24 weeks of age and an entity needs to measure the 
+fair value of a 10-week-old chick at the measurement date. An immature chick at 10 weeks of age is closer in 
+age to a mature chicken than to a day-old chick. There may not be an observable price for 10-week-old chicks 
+and, therefore, an entity might use the price of a mature chicken as an input, adjusting for the risks and cash 
+flows that market participants would incur (as well as a reasonable profit margin) since the chick is only 10 
+weeks old at the measurement date (see section 4.7.1 below for further discussion). 
+It is important to consider the requirements of IFRS 13 (Chapter 15) for determining the principal, or most 
+advantageous, market for the specific unit of account. Therefore, in applying IAS 41, an entity needs to 
+identify the principal market for each individual asset. An entity first determines the markets that it can 
+access, which could include local and/or foreign markets. Then it determines which of those markets has the 
+greatest volume and liquidity in relation to the particular asset; this is the principal market (also refer to 
+Chapter 15 at section 5). It would be reasonable for an entity to conclude there are different principal markets 
+for different types of assets, for example, for different species of fish. It is also possible to have different 
+principal markets at different maturation stages (e.g., for eggs, day old chicks and mature chickens). 
+IFRS 13 requires that, if there is a principal market for the asset or liability, the fair value measurement 
+shall represent the price in that market at the measurement date (regardless of whether that price is 
+directly observable or estimated using another valuation technique). The price in the principal market must 
+be used even if the price in a different market is potentially more advantageous. [IFRS 13.18]. Since an entity 
+can consider the expected cash flows the asset can generate in its principal market, the entity is not 
+permitted to use available prices in other active markets for part-grown biological assets. Even in situations 
+where there is no principal market, once the most advantageous market has been selected, an entity would 
+not look to other markets for available prices or use prices in the most advantageous market if market 
+participants would not consider them. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3156 
+4.7.1 
+The use of prices for similar assets, for which observable prices do exist, as 
+an input into the fair value measurement 
+The original version of IAS 41 had caused confusion in this area, as it had required that the estimation of 
+future cash flows “exclude any increases in value from additional biological transformation and future 
+activities of the entity”. [IAS 41(2008).21]. This seemed to suggest that the value of immature biological 
+assets is based on values in their current condition, rather than recognising that part of the value must 
+logically lie in their potential, given appropriate husbandry, to grow to full size. The IASB amended IAS 41 
+to clarify that entities need to consider the risks associated with cash flows from additional biological 
+transformation in determining the cash flows, the discount rate or some combination of the two provided a 
+market participant would take the additional biological transformation into consideration. 
+While IAS 41.21 was subsequently deleted by the introduction of IFRS 13, this clarification is consistent 
+with the requirements in that standard and is helpful in understanding its requirements in situations where 
+prices are available in an active market for part-grown biological assets, but that market is not the principal 
+market (or in the absence of a principal market, the most advantageous market). 
+This issue is illustrated by an extract from (the former) CESR’s database of enforcement decisions published in 
+April 2007 (Decision ref. EECS/0407-11) in relation to the fair value measurement requirements in IAS 41 
+(prior to the issuance of IFRS 13). Norwegian fish farmers had developed a practice of recording live 
+immature fish at cost on the basis that they were unable to value them reliably in accordance with IAS 41.30. 
+The Norwegian regulator took the view that slaughtered fish sold whole and gutted need to be considered the 
+same as live salmon under paragraph 18(b) of the 2012 version of IAS 41 (IAS 41(2012)) and that it was 
+possible to value the live immature fish based on the market price for slaughtered fish of the same size. 
+Smaller fish are sold on the market because they are harvested with mature fish, however their value per kilo 
+is significantly below that of mature fish and the Norwegian fish farming entities did not, therefore, believe 
+that it was appropriate to use their market price as a basis for fair value. The regulator’s decision was 
+appealed to the Norwegian Ministry of Finance and the database reports the conclusion as follows: 
+“The Ministry of Finance upheld the decision of the enforcer, with some adjustments and additions. 
+Most significantly, the final ruling upholds the enforcer’s decision that slaughtered salmon which is sold 
+whole and gutted is in an accounting sense to be considered as a similar asset of live salmon, according 
+to IAS 41.18(b) and that this also applies to so-called immature farmed salmon. Hence, the observable 
+prices of slaughtered salmon shall be used as a basis for determining the fair value of live immature 
+salmon. The key amendment to the decision made by the Ministry of Finance is that it added certain 
+comments relating to how the term ‘adjustments to reflect differences’ in IAS 41.18(b) was to be 
+applied. The adjustments should reflect the differences between the price of an immature salmon and 
+the hypothetical market price in an active market for live immature salmon.” 
+As a result of this decision, the Norwegian entities were required to record immature salmon at fair value, 
+rather than at cost, by making appropriate adjustments to available market prices for similar sized 
+slaughtered fish. 
+While IFRS 13 has now replaced the requirements in paragraph 18(b) of IAS 41 (2012) to which this 
+decision related, the same approach could be used when measuring fair value in accordance with that 
+standard. IFRS 13 prioritises the use of observable inputs for identical or similar items when measuring fair 
+value. Therefore, in situations where an active market does not exist for the asset in its current form, 
+entities might use prices for similar assets, for which observable prices do exist, as an input into the fair 
+value measurement. [IFRS 13.82(a), IFRS 13.82(b)]. 
+As discussed in the Norwegian salmon example above and in Chapter 15 at section 4.2.1, an entity would 
+need to identify any differences between the asset being measured at fair value and similar assets (e.g., a 
+converted or transformed assets), for which observable market prices are available. The entity would then 
+adjust the similar asset’s market price for the costs a market participant would incur (after acquiring the 
+asset in its current condition) and the compensation they would expect for the effort. Such adjustments 
+could affect the categorisation of the fair value measurement (as a whole) within the fair value hierarchy. 
+Categorisation within the hierarchy is done for disclosure purposes and affects how much information must 
+be disclosed about the fair value measurement (see section 5.2 below). IFRS 13 requires that, “If an 
+observable input requires an adjustment using an unobservable input and that adjustment results in a 
+significantly higher or lower fair value measurement, the resulting measurement would be categorised 
+within Level 3 of the fair value hierarchy”. [IFRS 13.75]. Categorisation within IFRS 13’s fair value hierarchy is 
+discussed further in Chapter 15 at section 15. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3157 
+5 
+Disclosure 
+5.1 
+General 
+In addition to the discussion in this chapter, our publication, Good Group (International) Limited - 
+Agriculture, which is a supplement to Good Group (International) Limited - Illustrative consolidated financial 
+statements,14 includes illustrative disclosures for biological assets, including bearer plants, and agricultural 
+produce, as required by IFRS 13, IAS 16 and IAS 41. 
+5.1.1 
+Statement of financial position 
+IAS 1 requires biological assets (including produce growing on a bearer plant) to be presented separately on 
+the face of an entity’s statement of financial position (see Chapter 3). [IAS 1.54]. As discussed in 
+section 2.3.2 above, agricultural produce after the point of harvest is accounted for under IAS 2 or another 
+applicable IFRS accounting standard (e.g., IAS 16). IAS 2 does not require agricultural produce to be 
+disclosed separately on the face of the statement of financial position (see Chapter 23). The following 
+extract from the Illustrative Examples to IAS 41 illustrates the requirement to disclose biological assets in 
+the statement of financial position. [IAS 41.IE Example 1]. 
+Extract from IAS 41 Illustrative Examples 
+A1 
+Example 1 illustrates how the disclosure requirements of this Standard might be put into 
+practice for a dairy farming entity. This Standard encourages the separation of the change in 
+fair value less costs to sell of an entity’s biological assets into physical change and price change. 
+That separation is reflected in Example 1. Example 2 illustrates how to separate physical 
+change and price change. 
+A2 
+The financial statements in Example 1 do not conform to all of the disclosure and presentation 
+requirements of other Standards. Other approaches to presentation and disclosure may also be 
+appropriate. 
+Example 1 XYZ Dairy Ltd 
+Statement of financial position 
+XYZ Dairy Ltd 
+Statement of financial position 
+Notes 
+31 December 
+20X1 
+31 December 
+20X0 
+ASSETS 
+  
+  
+  
+Non-current assets 
+  
+  
+  
+Dairy livestock - immature(a) 
+  
+52,060 
+47,730 
+Dairy livestock - mature(a) 
+  
+372,990 
+411,840 
+Subtotal - biological assets 
+3 
+425,050 
+459,570 
+Property, plant and equipment 
+  
+1,462,650 
+1,409,800 
+Total non-current assets 
+  
+1,887,700 
+1,869,370 
+  
+  
+  
+  
+Current assets 
+  
+  
+  
+Inventories 
+  
+82,950 
+70,650 
+Trade and other receivables 
+  
+88,000 
+65,000 
+Cash 
+  
+10,000 
+10,000 
+Total current assets 
+  
+180,950 
+145,650 
+Total assets 
+  
+2,068,650 
+2,015,020 
+ 
+ 
+ 
+14 
+Available on ey.com/IFRS. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3158 
+EQUITY AND LIABILITIES 
+  
+  
+  
+Equity 
+  
+  
+  
+Issued capital 
+  
+1,000,000 
+1,000,000 
+Retained earnings 
+  
+902,828 
+865,000 
+Total equity 
+  
+1,902,828 
+1,865,000 
+  
+  
+  
+  
+Current liabilities 
+  
+  
+  
+Trade and other payables 
+  
+165,822 
+150,020 
+Total current liabilities 
+  
+165,822 
+150,020 
+Total equity and liabilities 
+  
+2,068,650 
+2,015,020 
+  
+  
+  
+  
+(a) An entity is encouraged, but not required, to provide a quantified description of each group of biological assets, 
+distinguishing between consumable and bearer biological assets or between mature and immature biological 
+assets, as appropriate. An entity discloses the basis for making any such distinctions. 
+ 
+5.1.1.A 
+Current versus non-current classification 
+IAS 115 requires an asset to be classified as current when: [IAS 1.66] 
+(a) The entity expects to sell, consume or realise the asset in its normal operating cycle. 
+(b) The asset is primarily for trading purposes. 
+(c) The entity expects to realise the asset within 12 months after the reporting period. 
+Or 
+(d) The asset is cash or a cash equivalent (as defined in IAS 7 Statement of Cash Flows, see Chapter 36), 
+unless it is restricted from being exchanged or used to settle a liability for at least twelve months after 
+the reporting period. 
+If these criteria are not met, the asset is classified as non-current. 
+The classification of agricultural produce is usually consistent with an entity’s assessment for its 
+inventories, i.e., typically classified as a current asset because it will be sold, consumed or realised as part 
+of the normal operating cycle. 
+The classification of biological assets (including produce growing on a bearer plant) typically varies based 
+on the nature of the biological asset and the time it takes to mature. 
+For consumable biological assets that only have one harvest, classification will depend on when the asset 
+will be harvested and sold. For example, livestock held for slaughter would likely be realised within 12 
+months after the end of the reporting period or as part of the normal operating cycle, and therefore would 
+be classified as a current asset. Pine trees in a forest usually take more than 20 years to mature. 
+Therefore, pine forests are usually classified as non-current. 
+Bearer biological assets, such as dairy cows or animals used for breeding, are often classified as non-
+current. Such assets usually provide multiple harvests, which may extend beyond one accounting period. 
+Therefore, in order to classify the asset appropriately, an entity would need to consider the period over 
+which it will derive future economic benefits from the asset, which is likely to be when the biological asset 
+will be sold, replaced or removed. This is essentially consistent with determining the useful life of an item of 
+property, plant and equipment in accordance with IAS 16. 
+In situations where biological assets are classified as non-current, there is some debate about whether a 
+portion should be classified as current. Some believe that, particularly for bearer biological assets, the 
+asset should be classified as non-current, consistent with the classification of property, plant and 
+equipment under IAS 16. In this situation, an entity would probably only classify the asset as current when 
+it is held for sale in accordance with IFRS 5 (see Chapter 5). Others argue that, since the unit of account in 
+IAS 41 is the individual asset (see section 4.2.1 above), a portion of a group of biological assets could be 
+classified as current. The current portion would be comprised of biological assets that will be removed 
+permanently (e.g., sold, uprooted or otherwise removed) within 12 months after the end of the reporting 
+period. Determining such a split may be more obvious for consumable biological assets with only one 
+harvest, for example, the trees in a forest an entity expects to harvest within 12 months of the end of the 
+reporting period. For other biological assets, care is needed to ensure that it is the final removal of the 
+biological asset itself that is considered and not its agricultural produce. An example of the final removal of 
+such biological assets includes dairy cows in a herd that an entity sells for slaughter. 
+ 
+15 
+Refer to section 5.1.5 for more on IFRS 18, which supersedes IAS 1 for reporting periods beginning on or after 1 January 2027. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3159 
+How we see it 
+Regardless of which of the above approaches is used, an entity needs to be consistent from period to 
+period across all similar types of biological assets. An entity also needs to assess whether its policy for 
+classifying, or not classifying, a portion of its biological assets as current needs to be disclosed (see 
+Chapter 3 for further discussion). 
+Produce growing on a bearer plant (e.g., grapes on a vine) are accounted for in accordance with IAS 41, 
+separately from the bearer plant (which is within the scope of IAS 16, see section 3.2.3 above). As a result, 
+entities need to consider the appropriate classification of any produce growing on a bearer plant. It is likely 
+that produce growing on a bearer plant will be a current asset, unless it takes more than an operating cycle 
+(e.g., a year) to mature. 
+5.1.1.B 
+Bearer plants 
+The disclosure requirements of IAS 16 are applicable to bearer plants (see Chapter 19). Bearer plants are 
+an example of a separate class of property, plant and equipment listed in IAS 16.37, therefore, the 
+disclosure requirements of IAS 16.73 are provided for bearer plants separately to those of other classes. 
+[IAS 16.37, IAS 16.73]. 
+The Practical example below, from the consolidated financial statements of T&G Global Limited, is an 
+example of disclosures provided of bearer plants (trees and vines) under IAS 16 and of the produce growing 
+on the bearer plants (unharvested fruit) under IAS 41. 
+Practical example 5–1: 
+T&G Global Limited (2023) 
+New Zealand 
+Annual Report 2023 [extract] 
+Financials [extract] 
+Notes to the financial statements [extract] 
+Operating assets [extract] 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3160 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3161 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3162 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3163 
+ 
+10. Property, plant and equipment [extract] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3164 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3165 
+ 
+ 
+… 
+ 
+ 
+5.1.2 
+Income statement 
+IAS 1 is silent on the presentation of gains and losses on biological assets (including produce growing on a 
+bearer plant) and agricultural produce in the income statement. 
+IAS 41 requires that: [IAS 41.40] 
+Extract from IAS 41 
+40 
+An entity shall disclose the aggregate gain or loss arising during the current period on initial 
+recognition of biological assets and agricultural produce and from the change in fair value 
+less costs to sell of biological assets. 
+The standard only requires disclosure of the aggregate gain or loss; it does not require or encourage 
+disaggregating the gain or loss. [IAS 41.B78, IAS 41.B79]. Example 1 of the Illustrative Examples to IAS 41 
+illustrates gains on biological assets and agricultural produce presented near the top of the income 
+statement, although it is not entirely clear from the example whether losses on biological assets should be 
+presented in the same position or elsewhere in the income statement. [IAS 41.IE Example 1]. 
+The Practical example below is from the consolidated financial statements of Mondi plc. The Mondi plc 
+group recognised changes in fair value less costs to sell in profit or loss, but did not separately disclose that 
+amount on the face of the financial statements. Instead, as is illustrated below, the change in the fair value 
+less costs to sell of biological assets was separately disclosed in the notes to the financial statements. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3166 
+Practical example 5–2: 
+Mondi plc (2023) 
+United Kingdom 
+Integrated report and financial statements 2023 [extract] 
+Financial statements [extract] 
+Notes to the consolidated financial statements [extract] 
+1 Basis of preparation [extract] 
+ 
+ 
+35 Accounting policies [extract] 
+Non-current non-financial assets excluding goodwill, deferred tax and net retirement benefits assets 
+[extract] 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3167 
+ 
+14 Forestry assets [extract] 
+ 
+ 
+ 
+ 
+IAS 41 is not clear about how gains should be presented in the income statement. IAS 1 prohibits offsetting 
+of income and expenses in the income statement, unless required or permitted by another standard. 
+[IAS 1.32]. Therefore, if the sale of biological assets or agricultural produce meets the definition of revenue 
+under IFRS 15 Revenue from Contracts with Customers, i.e., “income arising from the ordinary activities of 
+the entity”, [IFRS 15 Appendix A], it is presented on a gross basis in the income statement. Furthermore, if the 
+sale of biological assets results from a contract with a customer and is within the scope of IFRS 15, it would 
+be accounted for in accordance with IFRS 15 and presented as revenue from contracts with customers (see 
+Chapter 28). However, for an entity’s sales of non-current biological assets “that do not generate revenue 
+but are incidental to the main revenue-generating activities of the entity. An entity presents the results of 
+such transactions, when this presentation reflects the substance of the transaction or other event, by 
+netting any income with related expenses arising on the same transaction”. [IAS 1.34]. However, under 
+IAS 41 the gross margin on agricultural produce sold shortly after harvest may be negligible, as the 
+produce may have been previously carried at a valuation near to its sales price. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3168 
+5.1.3 
+Groups of biological assets 
+The standard requires an entity to provide a narrative or quantitative description of each group of biological 
+assets. [IAS 41.41, IAS 41.42]. An entity is encouraged to provide “a quantified description of each group of 
+biological assets, distinguishing between consumable and bearer biological assets or between mature and 
+immature biological assets, as appropriate”. [IAS 41.43]. The standard suggests that an entity may 
+separately disclose the carrying amounts of: [IAS 41.43, IAS 41.44] 
+• 
+Consumable biological assets (i.e., assets that are to be harvested as agricultural produce, sold as 
+biological assets or produce growing on a bearer plant) 
+And 
+• 
+Bearer biological assets (i.e., assets that are not consumable, but rather are self-regenerating) 
+The standard continues by suggesting that an entity “may further divide those carrying amounts between 
+mature and immature assets. These distinctions provide information that may be helpful in assessing the 
+timing of future cash flows”. [IAS 41.43]. Mature biological assets are defined by the standard as those assets 
+“that have attained harvestable specifications (for consumable biological assets) or are able to sustain 
+regular harvests (for bearer biological assets)”. [IAS 41.45]. If an entity makes such distinctions, it discloses 
+the basis for making those distinctions. [IAS 41.43]. 
+5.1.4 
+Other disclosures 
+If not disclosed elsewhere in information published with the financial statements, an entity is required to 
+describe: 
+“(a) the nature of its activities involving each group of biological assets; and 
+“(b) non-financial measures or estimates of the physical quantities of: 
+“(i) each group of the entity’s biological assets at the end of the period; and 
+“(ii) output of agricultural produce during the period”. [IAS 41.46]. 
+In addition, an entity shall disclose the following information: 
+(a) The existence and carrying amounts of biological assets whose title is restricted, and the carrying 
+amounts of biological assets pledged as security for liabilities [IAS 41.49] 
+(b) The amount of commitments for the development or acquisition of biological assets [IAS 41.49] 
+(c) Financial risk management strategies related to agricultural activity [IAS 41.49] 
+(d) A reconciliation of changes in the carrying amount of biological assets between the beginning and the 
+end of the current period, which includes: [IAS 41.50] 
+(i) The gain or loss arising from changes in fair value less costs to sell 
+(ii) Increases due to purchases 
+(iii) Decreases attributable to sales and biological assets classified as held for sale (or included in a 
+disposal group that is classified as held for sale) in accordance with IFRS 5 
+(iv) Decreases due to harvest 
+(v) Increases resulting from business combinations 
+(vi) Net exchange differences arising on the translation of financial statements into a different 
+presentation currency, and on the translation of a foreign operation into the presentation currency 
+of the reporting entity 
+And 
+(vii) Other changes 
+Fair value measurement disclosures are discussed in section 5.2 below and in Chapter 15. 
+The standard also encourages, but does not require, an entity “to disclose, by group or otherwise, the 
+amount of change in fair value less costs to sell included in profit or loss due to physical changes and due to 
+price changes”, because this information is “useful in appraising current period performance and future 
+prospects, particularly when there is a production cycle of more than one year”. [IAS 41.51, IAS 41.B74, 
+IAS 41.B75, IAS 41.B76, IAS 41.B77]. IAS 41 notes that physical change itself can be broken down further into 
+growth, degeneration, production and procreation, but the standard does not specifically encourage 
+disclosure of this information. [IAS 41.52]. The following example from the standard, explains how an entity 
+would go about separating the effect of physical changes from those of price changes. [IAS 41.IE Example 2]. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3169 
+Extract from IAS 41 Illustrative Examples 
+Example 2 Physical change and price change 
+The following example illustrates how to separate physical change and price change. Separating the 
+change in fair value less costs to sell between the portion attributable to physical changes and the 
+portion attributable to price changes is encouraged but not required by this Standard. 
+A herd of 10 2 year old animals was held at 1 January 20X1. One animal aged 2.5 years was 
+purchased on 1 July 20X1 for 108, and one animal was born on 1 July 20X1. No animals were 
+sold or disposed of during the period. Per-unit fair values less costs to sell were as follows: 
+2 year old animal at 1 January 20X1 
+100 
+Newborn animal at 1 July 20X1 
+70 
+2.5 year old animal at 1 July 20X1 
+108 
+Newborn animal at 31 December 20X1 
+72 
+0.5 year old animal at 31 December 20X1 
+80 
+2 year old animal at 31 December 20X1 
+105 
+2.5 year old animal at 31 December 20X1 
+111 
+3 year old animal at 31 December 20X1 
+120 
+ 
+Fair value less costs to sell of herd at 1 January 20X1 (10 × 
+100) 
+  
+1,000 
+Purchase on 1 July 20X1 (1 × 108) 
+  
+108 
+Increase in fair value less costs to sell due to price change: 
+  
+  
+10 × (105 - 100) 
+50 
+  
+1 × (111 - 108) 
+3 
+  
+1 × (72 - 70) 
+2 
+55 
+Increase in fair value less costs to sell due to physical change: 
+  
+  
+10 × (120 - 105) 
+150 
+  
+1 × (120 - 111) 
+9 
+  
+1 × (80 - 72) 
+8 
+  
+1 × 70 
+70 
+237 
+Fair value less costs to sell of herd at 31 December 20X1 
+  
+  
+11 × 120 
+1,320 
+  
+1 × 80 
+80 
+1,400 
+  
+In January 2012, the IFRS IC considered a request for clarification in relation to IAS 41.51. The submitter 
+was concerned that this paragraph may be contributing to an unacceptable application of the market 
+approach to valuing biological assets. To remedy this, the submitter suggested that the disclosure be 
+amended as part of annual improvements so that it would only be encouraged when the entity’s biological 
+assets are at the same level of biological transformation as those quoted in an active market. However, the 
+IFRS IC did not believe an amendment was needed, noting that IAS 41.51 addresses disclosures, not 
+measurement. The IFRS IC also pointed out that the requirements for measuring fair value are set out in 
+IFRS 13, which is not affected by IAS 41.51.16 
+In addition to the above required and encouraged disclosures, the standard notes that agricultural activity 
+is “often exposed to climatic, disease and other natural risks. If an event occurs that gives rise to a material 
+item of income or expense, the nature and amount of that item are disclosed in accordance with IAS 1” (see 
+Chapter 3). For example, an entity may need to disclose events such as “an outbreak of a virulent disease, a 
+flood, a severe drought or frost, and a plague of insects”. [IAS 41.53]. 
+ 
+16 
+IFRIC Update, January 2012, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3170 
+Many of the uncertainties and judgements inherent in the valuations and also climate-related risk and 
+events, that have to be made under IAS 41 are discussed in the financial statements of T&G Global Limited 
+(as shown in section 5.1.1.B above), Mondi plc (as shown in section 5.1.2 above), Mowi ASA and Sappi 
+Limited, as shown in the following Practical examples. 
+Practical example 5–3: 
+Mowi ASA (2023) 
+Norway 
+Integrated Annual Report 2023 [extract] 
+3 Group results [extract] 
+Financial statement and notes [extract] 
+NOTE –3A - ESTIMATES AND JUDGEMENTS [extract] 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3171 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3172 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3173 
+Practical example 5–4: 
+Sappi Limited (2023) 
+South Africa 
+2023 Group Annual Financial Statements [extract] 
+Notes to the Group Annual Financial Statements [extract] 
+2. Accounting policies [extract] 
+2.3 Critical accounting policies and key sources of estimation uncertainty [extract] 
+ 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3174 
+ 
+ 
+ 
+ 
+ 
+5.1.5 
+Developments in presentation and disclosure 
+IFRS 18 Presentation and Disclosure in Financial Statements, which supersedes IAS 1 for reporting periods 
+beginning on or after 1 January 2027 (with earlier application permitted) was issued by the IASB in April 
+2024. See Chapter 4 for further details on the new concepts and requirements of IFRS 18. 
+IFRS 19 Subsidiaries without Public Accountability: Disclosures was issued by the IASB in May 2024 to 
+simplify the preparation of financial statements by eligible subsidiaries. Eligible subsidiaries that elect to 
+apply IFRS 19 are allowed to provide reduced disclosures while still applying the recognition, measurement 
+and presentation requirements in other IFRS accounting standards. IFRS 19 is effective for annual 
+reporting periods beginning on or after 1 January 2027, with earlier application permitted. IFRS 19 
+contains no reduced disclosure impact for IAS 41 disclosures. See Chapter 4 for further details on the 
+requirements of IFRS 19. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3175 
+5.2 
+Fair value measurement disclosures 
+IFRS 13 specifies the disclosures that are required for fair value measurements of biological assets and 
+agricultural produce. 
+IFRS 13 requires a substantial amount of information to be disclosed about fair value measurements, for 
+example: 
+• 
+The methods and assumptions used in measuring fair value 
+• 
+The categorisation of a fair value measurement (as a whole) within the fair value hierarchy, i.e., Level 
+1, 2 or 3, and, for recurring fair value measurements, any transfers between levels in the hierarchy 
+• 
+A detailed reconciliation of movements for fair value measurements classified within Level 3 of the 
+hierarchy, along with narrative sensitivity analysis 
+And 
+• 
+The highest and best use of a non-financial asset if it differs from its current use, including why the 
+non-financial asset is being used in a manner that differs from its highest and best use [IFRS 13.93] 
+Chapter 15 at section 19 discusses IFRS 13’s disclosure requirements in more detail. 
+In times of heightened market volatility and uncertainty, entities should pay particular attention to the 
+IFRS 13 disclosure requirements on the sensitivity of Level 3 measurements to changes in significant 
+unobservable inputs. These are discussed in Chapter 15 at section 19.3.8. 
+In instances where climate-related risk factors have a material impact on fair value measurements, 
+additional disclosures could be required, particularly for those categorised within Level 3 of the fair value 
+hierarchy. This includes any changes in the valuation processes, and sensitivity to changes in unobservable 
+inputs and the interrelationship of those inputs. Entities might need to consider whether additional 
+information is needed to meet the disclosure objective in IFRS 13. Should they wish to convey more 
+information (e.g., the entity’s incorporation of climate-related factors for its own purposes, rather than 
+financial reporting), entities need to consider whether disclosure within the financial statements is 
+appropriate or it is better presented in the management’s discussion and analysis (MD&A). 
+Entities need to ensure that any climate change variables incorporated in a fair value measurement are 
+those that market participants would consider when pricing the asset or liability to ensure it is an IFRS 13 
+fair value measurement. More information about climate-related risks will be made available in future, 
+including information disclosed outside the financial statements, for example, following the publication of 
+IFRS S2 Climate-related Disclosures by the International Sustainability Standards Board (ISSB). Reliably 
+pricing climate-related risk and incorporating climate change variables into valuations is expected to 
+gradually improve. 
+Significant judgement may be needed when considering climate-related factors in fair value measurements, 
+which might lead to greater estimation uncertainty. As a result, entities will need to provide sufficient 
+transparency in their disclosures about the impact of climate-related risks on fair value measurements. 
+The following Practical example illustrates fair value disclosures for biological assets, as do the Practical 
+examples in sections 5.1.1.B, 5.1.2 and 5.1.4 above. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3176 
+Practical example 5–5: 
+Mowi ASA (2023) 
+Norway 
+Integrated Annual Report 2023 [extract] 
+3 Group results [extract] 
+Financial statement and notes [extract] 
+NOTE 6 – BIOLOGICAL ASSETS [extract] 
+ 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3177 
+ 
+ 
+… 
+ 
+… 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3178 
+5.3 
+Additional disclosures if fair value cannot be measured reliably 
+If an entity rebuts the presumption that fair value can be reliably measured on initial recognition of a 
+biological asset (including produce growing on a bearer plant) and measures the asset at its cost less any 
+accumulated depreciation and any accumulated impairment losses it is required to disclose the following 
+information: 
+(a) If the entity holds such assets at the end of the period: [IAS 41.54] 
+(i) A description of the biological assets 
+(ii) An explanation of why fair value cannot be measured reliably 
+(iii) If possible, the range of estimates within which fair value is highly likely to lie 
+(iv) The depreciation method used 
+(v) The useful lives or the depreciation rates used 
+And 
+(vi) The gross carrying amount and the accumulated depreciation (aggregated with accumulated 
+impairment losses) at the beginning and end of the period 
+(b) If the entity held such assets at any point during the current period: [IAS 41.55] 
+(i) Any gain or loss recognised on disposal of such biological assets 
+(ii) The reconciliation required by IAS 41.50 (see section 5.1.4 above) shall disclose amounts related 
+to such biological assets separately 
+(iii) That reconciliation shall include the following amounts included in profit or loss related to those 
+biological assets: 
+• 
+Impairment losses 
+• 
+Reversals of impairment losses 
+And 
+• 
+Depreciation 
+(c) If the entity held such assets and their fair value became reliably measurable during the current period: 
+[IAS 41.56] 
+(i) A description of the biological assets 
+(ii) An explanation of why fair value has become reliably measurable 
+And 
+(iii) The effect of the change 
+5.4 
+Government grants 
+An entity that has received government grants related to agricultural activity covered by IAS 41 is required 
+to disclose the following information: [IAS 41.57] 
+Extract from IAS 41 
+Government grants 
+57 
+An entity shall disclose the following related to agricultural activity covered by this 
+Standard: 
+(a) 
+the nature and extent of government grants recognised in the financial statements; 
+(b) 
+unfulfilled conditions and other contingencies attaching to government grants; and 
+(c) 
+significant decreases expected in the level of government grants. 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3179 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Renting out land with producing vines under an operating lease 
+3130 
+Illustration 3-1: 
+Conditional government grants 
+3145 
+Illustration 4-1: 
+Assets attached to land 
+3151 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3180 
+Appendix B - Index of Frequently asked questions 
+Question 2-1: 
+What IFRS accounting standard applies if a plant initially meets the definition 
+of a bearer plant, but this subsequently changes? 
+3128 
+Question 3-1: 
+Can acquisition-related transaction costs be taken into account when 
+subsequently measuring fair value? 
+3143 
+
+
+International GAAP® 2025 
+Chapter 38 
+Agriculture 
+3181 
+Appendix C - Defined terms 
+Extract from IAS 41 
+5 
+The following terms are used in this Standard with the meanings specified: 
+Agricultural activity is the management by an entity of the biological transformation and 
+harvest of biological assets for sale or for conversion into agricultural produce or into 
+additional biological assets. 
+Agricultural produce is the harvested produce of the entity’s biological assets. 
+A bearer plant is a living plant that: 
+(a) 
+is used in the production or supply of agricultural produce; 
+(b) 
+is expected to bear produce for more than one period; and 
+(c) 
+has a remote likelihood of being sold as agricultural produce, except for incidental 
+scrap sales. 
+A biological asset is a living animal or plant. 
+Biological transformation comprises the processes of growth, degeneration, production, and 
+procreation that cause qualitative or quantitative changes in a biological asset. 
+Costs to sell are the incremental costs directly attributable to the disposal of an asset, 
+excluding finance costs and income taxes. 
+A group of biological assets is an aggregation of similar living animals or plants. 
+Harvest is the detachment of produce from a biological asset or the cessation of a biological 
+asset’s life processes. 
+ 

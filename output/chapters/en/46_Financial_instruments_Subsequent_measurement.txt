@@ -1,0 +1,3090 @@
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3689 
+ 
+Chapter 46 
+Financial instruments: 
+Subsequent measurement 
+ 
+Contents 
+Overview 
+3691 
+1 
+Introduction 
+3692 
+2 
+Subsequent measurement and recognition of gains and losses 
+3693 
+2.1 
+Debt financial assets measured at amortised cost 
+3694 
+2.2 
+Financial liabilities measured at amortised cost 
+3694 
+2.3 
+Debt financial assets measured at fair value through other comprehensive income 
+3694 
+2.4 
+Financial assets and financial liabilities measured at fair value through profit or loss 
+3695 
+2.4.1 
+Liabilities at fair value through profit or loss: calculating the gain or loss attributable 
+to changes in credit risk 
+3695 
+2.4.2 
+Liabilities at fair value through profit or loss: assessing whether an accounting 
+mismatch is created or enlarged 
+3698 
+2.5 
+Investments in equity instruments designated at fair value through other 
+comprehensive income 
+3699 
+2.6 
+Unquoted equity instruments and related derivatives 
+3700 
+2.7 
+Reclassifications of financial assets 
+3700 
+2.8 
+Financial guarantees and loan commitments 
+3701 
+2.9 
+Exceptions to the general principles 
+3704 
+2.9.1 
+Hedging relationships 
+3704 
+2.9.2 
+Regular way transactions 
+3704 
+2.9.3 
+Liabilities arising from failed derecognition transactions 
+3704 
+3 
+Amortised cost and the effective interest method 
+3705 
+3.1 
+Effective interest rate (EIR) 
+3705 
+3.1.1 
+The amortisation period 
+3706 
+3.1.2 
+Purchased or credit-impaired financial assets 
+3708 
+3.1.3 
+Post implementation review 
+3710 
+3.2 
+Fixed interest rate instruments 
+3710 
+3.3 
+Floating interest rate instruments 
+3711 
+3.4 
+Prepayment, call and similar options 
+3712 
+3.4.1 
+Revisions to estimated cash flows 
+3713 
+3.5 
+Perpetual debt instruments 
+3714 
+3.6 
+Inflation-linked debt instruments 
+3715 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3690 
+3.7 
+Financial liabilities 
+3717 
+3.7.1 
+Amortised cost financial liabilities with embedded features 
+3717 
+3.7.2 
+Amortised cost financial liabilities with contractual linkage features 
+3718 
+3.7.3 
+Amortised cost financial liabilities with contingent demand features 
+3719 
+3.8 
+Modified financial assets and liabilities 
+3720 
+3.8.1 
+Accounting for modifications that do not result in derecognition 
+3720 
+3.8.2 
+Treatment of modification fees 
+3723 
+3.8.3 
+Interbank Offered Rate (IBOR) reform 
+3724 
+3.8.4 
+Post implementation review 
+3724 
+4 
+Foreign currencies 
+3726 
+4.1 
+Foreign currency instruments 
+3726 
+4.2 
+Foreign entities 
+3728 
+5 
+Future developments 
+3729 
+Appendix A - Index of Illustrations 
+3730 
+Appendix B - Index of Frequently asked questions 
+3731 
+Appendix C - Defined terms 
+3732 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3691 
+Overview 
+This chapter discusses the subsequent measurement of financial instruments under IFRS 9 Financial 
+Instruments, including the requirements relating to amortised cost, the effective interest method, 
+modifications of ‘financial assets and liabilities’ and ‘foreign currency’ revaluation. The subsequent 
+measurement of financial assets and liabilities is dependent on their classification, which is covered in 
+Chapter 44. 
+This chapter also discusses fees that are considered an integral part of the effective interest rate (EIR) and 
+provides examples of how the effective interest method is applied to fixed and floating rate instruments, 
+including those with additional features such as prepayment options or an inflation feature. Guidance is also 
+provided on accounting for modifications of financial assets and liabilities that do not result in 
+derecognition, including the treatment of modification fees. 
+Subsequent measurement of contingent consideration recognised by an acquirer in a business combination 
+to which IFRS 3 Business Combinations applies, that falls within the scope of IFRS 9, is discussed in 
+Chapter 10 at section 7.1.3. The impairment of financial instruments is addressed in Chapter 47. 
+Most, but not all, of the detailed requirements of IFRS accounting standards governing the measurement of 
+fair values are dealt with in IFRS 13 Fair Value Measurement, which is covered in Chapter 15. The 
+measurement of a financial liability with a demand feature is also covered in Chapter 15 at section 10.5. 
+IFRS 9 contains certain requirements addressing fair value measurements of financial instruments and 
+these are covered in sections 2.3 to 2.5 below. 
+What you need to know 
+• 
+Subsequent to initial recognition, financial assets and liabilities are accounted for based on their 
+classification at: 
+(a) amortised cost, 
+(b) fair value through other comprehensive income (FVOCI) 
+Or 
+(c) fair value through profit or loss (FVTPL). 
+• 
+Amortised cost is determined using the EIR method. This calculation includes all fees and points that 
+are an integral part of the EIR, as well as transaction costs, and all other premiums and discounts. 
+The EIR method amortises all such fees, points, costs, premiums or discounts over the expected life 
+of the instrument rather than the contractual life. 
+• 
+For a fixed rate instrument, changes to estimated cash flows that do not result in derecognition of 
+the instrument are accounted for by discounting the revised cash flows using the original EIR and 
+recognising a catch-up adjustment in profit or loss. For a floating rate instrument, such revisions to 
+estimated cashflows are accounted for by discounting the revised cash flows using a revised EIR with 
+respect to floating features (such as the risk-free rate and, or, the credit spread). 
+• 
+When a financial instrument is modified, and the modification does not result in derecognition, fees 
+incurred or paid in connection with the modification are added to the carrying value of the 
+instrument. IFRS 9 explicitly addresses certain issues, but in other cases judgement needs to be 
+applied to determine the appropriate treatment. 
+• 
+For FVOCI debt instruments, interest income, foreign exchange gains or losses and impairments 
+(calculated based on the amortised cost of the instrument) are recognised immediately in profit or 
+loss. All other changes in fair value are recognised in other comprehensive income (OCI). Fair value 
+changes that have been recognised in OCI are recycled to profit or loss upon derecognition of the 
+debt instrument. 
+• 
+Equity instruments are normally measured at FVTPL. However, for equity instruments designated at 
+FVOCI, gains and losses are recognised in OCI, while dividends are recognised in profit or loss, unless 
+the dividend clearly represents a recovery of part of the cost of the investment. Unlike for FVOCI 
+debt instruments, gains or losses recognised in OCI for equity instruments are never reclassified 
+from equity to profit or loss. Consequently, there is no need to review such investments for 
+impairment. 
+• 
+IAS 21 The Effects of Changes in Foreign Exchange Rates applies to foreign currency denominated 
+financial instruments. 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3692 
+1 
+Introduction 
+The initial classification of financial assets and liabilities determines their subsequent measurement at 
+either fair value or amortised cost (see Chapter 44 for the requirements relating to classification). Most of 
+the requirements for determining fair value are covered in IFRS 13 (see Chapter 15, although the 
+International Accounting Standards Board (IASB or Board) included guidance in IFRS 9 about how to 
+determine fair values for financial instruments for which no quoted market price is available (see 
+section 2.6 below). Amortised cost and the effective interest method are covered in section 3 below. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3693 
+2 
+Subsequent measurement and recognition of gains and 
+losses 
+As explained in Chapter 44 at sections 1 and 2, financial assets and financial liabilities are classified into 
+one of the following measurement categories: [IFRS 9.4.1.1, IFRS 9.4.2.1] 
+• 
+Debt financial assets at amortised cost 
+• 
+Debt financial assets at fair value through other comprehensive income (with cumulative gains and 
+losses reclassified to profit or loss upon derecognition) 
+• 
+Debt financial assets, derivatives and investments in equity instruments at fair value through profit or 
+loss 
+• 
+Investments in equity instruments designated as measured at fair value through other comprehensive 
+income (with gains and losses remaining in other comprehensive income, without recycling) 
+• 
+Financial liabilities at amortised cost 
+Or 
+• 
+Financial liabilities at fair value through profit or loss 
+Following the initial recognition of financial assets and financial liabilities, their subsequent accounting 
+treatment depends principally on the classification of the instrument, although there are a small number of 
+exceptions. These requirements are summarised in Figure 2-1 below and are considered in more detail in 
+the remainder of this section. 
+Figure 2-1: 
+Classification and subsequent measurement of financial assets and financial 
+liabilities 
+Classification 
+Instrument 
+type 
+Statement 
+of 
+financial 
+position 
+Fair value gains 
+and losses 
+Interest or 
+dividends 
+Impairment 
+Foreign 
+exchange 
+Financial 
+assets and 
+liabilities at 
+amortised cost 
+Debt 
+Amortised 
+cost 
+- 
+Profit or loss: 
+interest 
+calculated 
+using the EIR 
+Profit or 
+loss 
+(financial 
+assets) 
+Profit or loss 
+Debt financial 
+assets at fair 
+value through 
+other 
+comprehensive 
+income 
+Debt 
+Fair value 
+OCI and recycled 
+to profit or loss 
+when derecognised 
+Profit or loss: 
+interest 
+calculated 
+using the EIR 
+Profit or 
+loss 
+Profit or loss 
+(foreign 
+exchange 
+differences on 
+the amortised 
+cost) 
+OCI (other 
+changes) 
+Fair value 
+through profit 
+or loss 
+(including 
+derivatives not 
+designated in 
+effective 
+hedges) 
+Debt, 
+equity or 
+derivative 
+Fair value 
+Profit or loss (see 
+Chapter 50 at 
+section 7.1.1 on 
+presentation 
+requirements) and 
+OCI for changes in 
+own credit risk for 
+financial liabilities 
+designated at 
+FVTPL 
+Profit or loss 
+(see 
+Chapter 50 at 
+section 7.1.1 
+on 
+presentation 
+requirements) 
+- 
+Profit or loss 
+Equity 
+investments at 
+fair value 
+through other 
+comprehensive 
+income 
+Equity 
+Fair value 
+OCI (no recycling 
+to profit or loss 
+when 
+derecognised) 
+Profit or loss: 
+dividends 
+(unless 
+recovery of 
+part of the 
+cost of 
+investment) 
+- 
+OCI (no 
+recycling to 
+profit or loss 
+when 
+derecognised) 
+In addition, IFRS 9 sets out the accounting treatment for certain financial guarantee contracts (see 
+Chapter 41 at section 2.4) and loan commitments (see Chapter 41 at section 2.5). 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3694 
+2.1 
+Debt financial assets measured at amortised cost 
+Financial assets that are measured at amortised cost require the use of the effective interest method and 
+are subject to the IFRS 9 impairment rules. [IFRS 9.5.2.1, IFRS 9.5.2.2]. Gains and losses are recognised in profit 
+or loss when the instrument is derecognised or impaired, through the amortisation process and, if 
+applicable, through modification or reclassification. [IFRS 9.5.7.2]. The effective interest method of 
+accounting is dealt with in section 3 below, foreign currency translation in section 4 below, reclassification 
+of financial assets in section 2.7 below, modification of financial assets in section 3.8 below and impairment 
+is addressed in Chapter 47. 
+2.2 
+Financial liabilities measured at amortised cost 
+Liabilities that are measured at amortised cost require the use of the effective interest method with gains 
+or losses recognised in profit or loss when the instrument is derecognised, as well as through the 
+amortisation process and, if applicable, through modification if the modification does not result in 
+derecognition. [IFRS 9.5.3.1, IFRS 9.5.7.2]. The effective interest method of accounting is dealt with in section 3 
+below, foreign currency retranslation is discussed in section 4 below and modification of financial liabilities 
+is covered in section 3.8 below. 
+2.3 
+Debt financial assets measured at fair value through other 
+comprehensive income 
+For financial assets that are debt instruments measured at fair value through other comprehensive income 
+(see Chapter 44 at section 1.1), the IASB decided that both amortised cost and fair value information are 
+relevant because debt instruments held by entities in this measurement category are held for both the 
+collection of contractual cash flows and the realisation of fair values. [IFRS 9.BC4.150]. 
+After initial recognition, investments in debt instruments that are classified as measured at fair value 
+through other comprehensive income are measured at fair value in the statement of financial position (with 
+no deduction for sale or disposal costs). The amounts recognised in profit or loss are the same as the 
+amounts that would have been recognised in profit or loss if the investment had been recorded at 
+amortised cost. [IFRS 9.5.7.11, IFRS 9.B5.7.1A]. For example, the following amounts are recognised in profit or 
+loss: 
+• 
+Impairment gains and losses (see Chapter 47) derived using the same methodology that is applied to 
+financial assets measured at amortised cost. [IFRS 9.5.2.2, IFRS 9.5.5.2]. 
+• 
+Foreign exchange gains and losses (see section 4 below) calculated based on the amortised cost of the 
+debt instruments. [IFRS 9.B5.7.2, IFRS 9.B5.7.2A]. 
+• 
+Interest revenue calculated using the effective interest method (see section 3 below). [IFRS 9.5.4.1]. 
+And 
+• 
+Modification gains or losses for debt instruments that are modified (see section 3.8 below and 
+Chapter 47 at section 8). [IFRS 9.5.4.3, IFRS 9.5.7.10, IFRS 9.5.7.11]. 
+Furthermore, the subsequent measurement of debt instruments at fair value through other comprehensive 
+income involves the following: 
+• 
+Other fair value gains and losses are recognised in OCI. [IFRS 9.B5.7.1A, IFRS 9.5.7.1(d)]. 
+And 
+• 
+When the debt instruments are derecognised, the cumulative gains or losses previously recognised in 
+OCI are reclassified (i.e., recycled) from equity to profit or loss as a reclassification adjustment. 
+[IFRS 9.5.7.10]. 
+It follows that the amount recognised in OCI (prior to derecognition) is the difference between the total 
+change in fair value, and the amounts recognised in profit or loss (excluding any amounts received in cash, 
+e.g., the coupon on a bond). 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3695 
+How we see it 
+Whilst IFRS 9.5.7.10 does not mention modification gains or losses as a component of a financial asset 
+measured at FVOCI to be recorded in profit or loss and could therefore be read as suggesting that the 
+modification gains or losses should not be recognised in profit or loss, we understand that it was the 
+IASB’s intention that they should be recognised in profit or loss. This is clear from reading IFRS 9.5.7.11 
+in conjunction with IFRS 9.5.4.3, which clarifies the accounting treatment of modifications as 
+IFRS 9.5.7.11 clearly states that the amounts that are recognised in profit or loss are the same as the 
+amounts that would have been recognised in profit or loss if the financial asset had been measured at 
+amortised cost. 
+2.4 
+Financial assets and financial liabilities measured at fair value 
+through profit or loss 
+After initial recognition, financial assets and financial liabilities that are classified as measured at fair value 
+through profit or loss (including derivatives that are not designated in effective hedging relationships) are 
+measured at fair value, with no deduction for sale or disposal costs (see Chapter 45 at section 3.1). 
+[IFRS 9.5.2.1, IFRS 9.5.3.1]. 
+The standard helpfully points out that if the fair value of a financial asset falls below zero it becomes a 
+financial liability (assuming it is measured at fair value). [IFRS 9.B5.2.1]. The standard does not explain what 
+happens if the fair value of a financial liability becomes positive, but it is safe to assume that it becomes a 
+financial asset and not a negative liability. 
+Gains and losses arising from remeasuring a financial asset or financial liability at fair value, that is not in a 
+hedging relationship, are normally recognised in profit or loss. [IFRS 9.5.7.1]. However, there is an exception 
+for non-derivative financial liabilities that are designated as measured at fair value through profit or loss. 
+For these liabilities, the element of the gain or loss attributable to changes in credit risk (see section 2.4.1 
+below) is recognised in other comprehensive income (with the remainder of the fair value change 
+recognised in profit or loss). [IFRS 9.5.7.7]. These amounts presented in other comprehensive income are not 
+subsequently transferred to profit or loss. However, the cumulative gain or loss may be transferred within 
+equity. [IFRS 9.B5.7.9]. 
+This exception does not apply to loan commitments or financial guarantee contracts, nor does it apply if it 
+would create or enlarge an accounting mismatch in profit or loss (see section 2.4.2 below). [IFRS 9.5.7.8, 
+IFRS 9.5.7.9]. In these cases, all changes in the fair value of the liability (including the effects of changes in 
+the credit risk) are recognised in profit or loss. [IFRS 9.B5.7.8]. 
+2.4.1 
+Liabilities at fair value through profit or loss: calculating the gain or loss 
+attributable to changes in credit risk 
+IFRS 7 Financial Instruments: Disclosures defines credit risk as: [IFRS 7 Appendix A] 
+Extract from IFRS 7 
+Appendix A 
+Defined terms 
+credit risk 
+The risk that one party to a financial instrument will cause a financial 
+loss for the other party by failing to discharge an obligation. 
+  
+Credit risk is also part of non-performance risk as defined in IFRS 13 (see Chapter 15 at section 10.3). The 
+change in fair value of a financial liability that is attributable to credit risk relates to the risk that the issuer 
+will fail to pay that liability. It may not solely relate to the creditworthiness of the issuer but may be 
+influenced by other factors, such as collateral. 
+For example, if an entity issues a collateralised liability and a non-collateralised liability that are otherwise 
+identical, the credit risk of those two liabilities will be different, even though they are issued by the same 
+entity. The credit risk on the collateralised liability will be less than the credit risk of the non-collateralised 
+liability. In fact, the credit risk for a collateralised liability may be close to zero. [IFRS 9.B5.7.13]. It is 
+important to distinguish between the terms ‘credit risk’ and ‘the risk of default’ as referred to in the 
+impairment requirements of the standard (see Chapter 47 at section 6.1), since the latter does not include 
+the benefit of collateral. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3696 
+For these purposes, credit risk is different from asset-specific performance risk. IFRS 9.B5.7.14 notes that 
+“…Asset-specific performance risk is not related to the risk that an entity will fail to discharge a particular 
+obligation but instead it is related to the risk that a single asset or a group of assets will perform poorly (or 
+not at all)”. [IFRS 9.B5.7.14]. For example, consider the following two situations: [IFRS 9.B5.7.15] 
+(a) A liability with a unit-linking feature whereby the amount due to investors is contractually determined 
+on the basis of the performance of specified assets. The effect of that unit-linking feature on the fair 
+value of the liability is asset-specific performance risk, not credit risk. 
+(b) A liability issued by a structured entity with the following characteristics: 
+• 
+The structured entity is legally isolated so the assets in the structured entity are ring-fenced solely 
+for the benefit of its investors, even in the event of bankruptcy. 
+• 
+The structured entity enters into no other transactions and the assets in the structured entity 
+cannot be hypothecated. 
+And 
+• 
+Amounts are due to the structured entity’s investors only if the ring-fenced assets generate cash 
+flows. 
+Thus, in both cases, changes in the fair value of the liability primarily reflect changes in the fair value of the 
+assets. The effect of the performance of the assets on the fair value of the liability is asset-specific 
+performance risk, not credit risk. 
+Unless an alternative method more faithfully represents the change in fair value of a financial liability that is 
+attributable to credit risk, the standard states that this amount shall be determined as the amount of 
+change in the fair value of the liability that is not attributable to changes in market conditions that give rise 
+to what it defines as ‘market risk’. [IFRS 9.B5.7.16]. Examples of changes in market conditions that give rise to 
+market risk include changes in a benchmark interest rate, the price of another entity’s financial instrument, 
+a commodity price, foreign exchange rate or index of prices or rates. [IFRS 9.B5.7.17]. 
+The standard says that if the only significant relevant changes in market conditions for a financial liability 
+are changes in ‘an observed (benchmark) interest rate’, the amount to be recognised in other 
+comprehensive income can be estimated as follows: [IFRS 9.B5.7.18] 
+(a) First, to arrive at an instrument-specific component of the internal rate of return; the liability’s internal 
+rate of return at the start of the period is computed using the fair value and contractual cash flows at 
+that time and the observed (benchmark) interest rate at the start of the period is deducted from this. 
+(b) Next, the present value of the cash flows associated with the liability is calculated using the liability’s 
+contractual cash flows at the end of the period and a discount rate equal to the sum of the observed 
+(benchmark) interest rate at the end of the period and the instrument-specific component of the 
+internal rate of return at the start of the period as determined in (a). 
+And 
+(c) The difference between the fair value of the liability at the end of the period and the amount 
+determined in (b) is the change in fair value that is not attributable to changes in the observed 
+(benchmark) interest rate and this is the amount to be presented in other comprehensive income. 
+It should be noted that ‘market risk’ is defined to include movements in ‘a benchmark rate’. The latter term 
+is not itself defined but typically it would encompass both risk free rates, such as AAA rated government 
+bond rates or overnight rates, and interbank offer rates (IBOR) such as 3-month EURIBOR, which include an 
+element of credit risk. It would therefore appear that the standard is ambivalent as to whether the amount 
+of change in fair value that is attributable to changes in credit risk of a liability is measured by reference to 
+risk free rates, or by comparison to the credit risk already present in an IBOR. Using the former, the amount 
+will reflect all changes in credit risk of the liability, whereas using the latter, it will only reflect a portion of 
+the changes in credit risk to the liability. Further, the change in credit risk will differ depending on which 
+tenor is selected such as 3-month EURIBOR, 6-month EURIBOR or 12-month EURIBOR. From 2022, most 
+benchmark rates are risk free rates (RFRs) based on actual transactions (see Supplement: IBOR Reform for 
+more details). It would follow that the change in the amount attributable to credit risk reflects all changes in 
+credit risk if using the new RFRs as benchmarks. 
+This method is illustrated in the following Illustration, adapted from that provided in the Illustrative 
+Examples attached to the standard. [IFRS 9.IE1, IFRS 9.IE2, IFRS 9.IE3, IFRS 9.IE4, IFRS 9.IE5]. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3697 
+Illustration 2-1: 
+Estimating the change in fair value of an instrument attributable to its credit 
+risk 
+On 1 January 20X1 Company J issues a 10-year bond with a par value of €150,000 and an annual fixed 
+coupon rate of 8%, which is consistent with market rates for bonds with similar characteristics. J uses 3-month 
+EURIBOR as its observable (benchmark) interest rate. At the date of inception of the bond, 3-month EURIBOR 
+is 5%. At the end of the first year: 
+• 
+3-Month EURIBOR has decreased to 4.75%. 
+And 
+• 
+The fair value of the bond is €153,811 which is consistent with an interest rate of 7.6% (i.e., the 
+remaining cash flows on the bond, €12,000 per year for nine years and €150,000 at the end of nine 
+years, discounted at 7.6% equals €153,811). 
+For simplicity, this Illustration assumes a flat yield curve, that all changes in interest rates result from a 
+parallel shift in the yield curve, and that the changes in 3-month EURIBOR are assumed to be the only relevant 
+changes in market conditions. 
+The amount of change in the fair value of the bond that is not attributable to changes in market conditions that 
+give rise to market risk is estimated as follows: 
+Step (a) 
+The bond’s internal rate of return at the start of the period is 8%. Because the observed (benchmark) interest 
+rate (3-month EURIBOR) is 5%, the instrument-specific component of the internal rate of return is deemed to 
+be 3%. 
+Step (b) 
+The contractual cash flows of the instrument at the end of the period are: 
+• 
+Interest: €12,000 [€150,000 × 8%] per year for each of years 20X2 (year 2) to 20Y0 (year 10). 
+• 
+Principal: €150,000 in 20Y0 (year 10). 
+The discount rate to be used to calculate the present value of the bond is thus 7.75%, which is the 4.75% end 
+of period 3-month EURIBOR rate, plus the 3% instrument-specific component calculated as at the start of the 
+period, which gives a notional present value of €152,367 (€12,000 × (1 - 1.0775-9) ÷ 0.0775 + €150,000 × 
+1.0775-9), on the assumption that there has been no change in the instrument-specific component. 
+Step (c) 
+The market price of the liability at the end of the period (which will reflect the real instrument-specific 
+component at the end of the period within the 7.6% yield) is €153,811. Therefore, J accounts for €1,444 
+(€153,811 - €152,367) as the increase in fair value of the bond that is not attributable to changes in market 
+conditions that give rise to market risk. 
+This method assumes that changes in fair value other than those arising from changes in the instrument’s 
+credit risk or from changes in the ‘observed (benchmark) interest rate’ are not significant. It would not be 
+appropriate to use this method if changes in fair value arising from other factors are significant. In such 
+cases, an alternative method should be used that more faithfully measures the effects of changes in the 
+liability’s credit risk. For example, if the instrument in the Illustration contained an embedded derivative, 
+the change in fair value of the embedded derivative must be excluded in determining the amount to be 
+presented in other comprehensive income. [IFRS 9.B5.7.19, IFRS 9.B5.7.16(b)]. This ensures that only fair value 
+changes attributable to credit risk are reflected in other comprehensive income and excludes the fair value 
+changes attributable to the embedded derivative. 
+The above method will also produce an amount which includes any changes in the liquidity spread charged 
+by market participants, over say 3-month EURIBOR, since such changes are not considered to be 
+attributable to changes in market conditions that give rise to market risk. This method is applied in practice 
+as the effect of a liquidity spread cannot normally be isolated from that of the credit spread. 
+As with all estimates of fair value, the measurement method used for determining the portion of the change 
+in the liability’s fair value that is attributable to changes in its credit risk should make maximum use of 
+observable market inputs. [IFRS 9.B5.7.20]. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3698 
+2.4.2 
+Liabilities at fair value through profit or loss: assessing whether an 
+accounting mismatch is created or enlarged 
+If a financial liability is designated as at fair value through profit or loss, it must be determined whether 
+presenting the effects of changes in the liability’s credit risk in OCI would create or enlarge an accounting 
+mismatch in profit or loss. The IASB expects this to be a rare occurrence. An accounting mismatch would be 
+created or enlarged if presenting changes in credit risk in OCI would result in a greater mismatch in profit or 
+loss, than if those amounts had been presented in profit or loss. [IFRS 9.B5.7.5, IFRS 9.BC5.39]. 
+In making that determination, an assessment should be made as to whether the effects of changes in the 
+liability’s credit risk are expected to be offset in profit or loss by a change in the fair value of another 
+financial instrument measured at fair value through profit or loss. Such an expectation should be based on 
+an economic relationship between the characteristics of the liability and the characteristics of the other 
+financial instrument. [IFRS 9.B5.7.6]. 
+The determination is made at initial recognition and is not reassessed. For practical purposes, all the assets 
+and liabilities giving rise to an accounting mismatch do not need to be entered into at exactly the same time 
+- a reasonable delay is permitted provided that any remaining transactions are expected to occur. An 
+entity’s methodology for making the determination of whether an accounting mismatch is created or 
+enlarged must be applied consistently for similar types of transactions. IFRS 7 requires an entity to provide 
+qualitative disclosures in the notes to the financial statements about its methodology for making the 
+accounting mismatch determination - see Chapter 50 at section 4.4.2. [IFRS 9.B5.7.7]. 
+If an accounting mismatch would be created or enlarged, the entity is required to present all changes in fair 
+value (including the effects of changes in the credit risk of the liability) in profit or loss. In the absence of an 
+accounting mismatch being created or enlarged, the entity is required to present the effects of changes in 
+the liability’s credit risk in OCI. [IFRS 9.B5.7.8]. 
+The following Illustration describes a situation in which an accounting mismatch would be created in profit 
+or loss if the effects of changes in the credit risk of the liability were presented in OCI. [IFRS 9.B5.7.10]. 
+Illustration 2-2: 
+Liabilities at fair value through profit or loss: accounting mismatch in profit 
+or loss 
+A mortgage bank provides loans to customers and these are funded by issuing bonds with matching 
+characteristics (e.g., amount outstanding, repayment profile, term and currency) in the market. The loans 
+contain a prepayment feature which allows the mortgage customer to prepay its loan (i.e., satisfy its obligation 
+to the bank) by buying the corresponding bond (which were originally used by the bank to fund the loans) at 
+fair value in the market and delivering that bond to the mortgage bank. 
+As a result of that contractual prepayment right, if the credit quality of the bond worsens (resulting in the fair 
+value of the mortgage bank’s liability decreasing), the fair value of the mortgage bank’s loan asset also 
+decreases. The change in the fair value of the loan asset reflects the mortgage customer’s contractual right to 
+prepay the mortgage loan by buying the underlying bond at fair value (which, in this Illustration, has 
+decreased) and delivering the bond to the mortgage bank. Therefore, the effects of changes in the credit risk 
+of the liability (the bond) will be offset in profit or loss by a corresponding change in the fair value of a financial 
+asset (the loan). 
+If the effects of changes in the liability’s credit risk were presented in OCI there would be an accounting 
+mismatch in profit or loss. Therefore, the mortgage bank is required to present all changes in fair value of the 
+liability (including the effects of changes in the liability’s credit risk) in profit or loss. 
+In Illustration 2-2 above, there is a contractual link between the effects of changes in the credit risk of the 
+liability and changes in the fair value of the financial asset (i.e., as a result of the mortgage customer’s 
+contractual right to prepay the loan by buying the bond at fair value and delivering the bond to the 
+mortgage bank). The standard states that an accounting mismatch may also occur in the absence of a 
+contractual link, but does not provide any examples of when this might be the case. [IFRS 9.B5.7.11]. 
+However, the standard makes it clear that a mismatch that arises solely as a result of the measurement 
+method does not affect the determination of whether presenting the effects of changes in the liability’s 
+credit risk in OCI would create or enlarge an accounting mismatch. For instance, an entity may not be able 
+to isolate changes in a liability’s credit risk from changes in liquidity risk. Consequently, when the entity 
+presents the combined effect of both factors in OCI, a mismatch may occur because changes in liquidity risk 
+are included in the fair value measurement movement of the entity’s financial assets presented in profit or 
+loss. However, such a mismatch is caused by measurement imprecision, not an offsetting relationship, and, 
+therefore, does not affect the determination of an accounting mismatch. [IFRS 9.B5.7.12]. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3699 
+The following Illustration presents another situation in which an accounting mismatch is not due to an 
+economic relationship (in the sense intended by the IASB) between the movement in the fair value of the 
+financial assets and the movement in the fair value of the financial liabilities related to the liabilities’ own 
+credit risk. 
+Illustration 2-3: 
+Liabilities at fair value through profit or loss: no accounting mismatch in profit 
+or loss 
+A bank issues structured products (consisting of a host debt contract and one or more embedded derivatives) 
+in the market. These financial liabilities are designated as at fair value through profit or loss because they are 
+managed on a fair value basis. 
+The bank invests the funds received in highly rated bonds, which are also designated as at fair value through 
+profit or loss, and derivatives whose terms mirror those of the embedded derivatives in the structured 
+products. 
+In periods when market credit spreads are volatile, it is expected that the effect of changes in credit spreads 
+on the fair value of the structured products will be mainly compensated for by the effect of an offsetting credit 
+spread movements on the bonds. This is because the credit quality of the bank is similar to the credit quality of 
+the highly rated bonds in which the bank has invested. 
+Unlike Illustration 2-2 above, there is no direct link between the bank’s own credit risk of the structured 
+financial liabilities and the credit risk of the financial assets. The credit quality of the financial assets may be 
+similar to that of the financial liabilities and these may move in a correlated manner as they are affected by 
+similar movements in the general price of credit and other market risks, but the fair value of the financial 
+assets will not move directly in response to changes in the bank’s own credit risk. 
+Therefore, the requirements for an economic relationship are not met and all fair value changes attributable to 
+changes in the credit risk of the financial liabilities should be taken to OCI. 
+2.5 
+Investments in equity instruments designated at fair value through 
+other comprehensive income 
+After initial recognition, investments in equity instruments not held for trading that are designated as 
+measured at fair value through other comprehensive income (see Chapter 44 at section 1.2) are measured 
+at fair value, with no deduction for sale or disposal costs. [IFRS 9.5.7.5]. With the exception of dividends, the 
+associated gains and losses (including any related foreign exchange component) are recognised in OCI. 
+These investments are not subject to impairment testing. Amounts presented in OCI are not subsequently 
+transferred to profit or loss, although the cumulative gain or loss may be transferred within equity. 
+[IFRS 9.B5.7.1, IFRS 9.B5.7.3]. 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+dividends  
+Distributions of profits to holders of equity instruments in proportion 
+to their holdings of a particular class of capital. 
+[IFRS 9 Appendix A]. 
+Dividends from these investments are recognised in profit or loss when the right to receive payment is 
+established, the amount of the dividend can be measured reliably and it is probable that economic benefits 
+will flow to the entity. [IFRS 9.5.7.1A, IFRS 9.5.7.6]. However, if the dividend clearly represents a recovery of 
+part of the cost of the investment, it is not recognised in profit and loss (see Chapter 9 at section 2.4.1.C). 
+[IFRS 9.B5.7.1]. In the Basis for Conclusions to IFRS 9 the IASB distinguish between dividends that represent a 
+return of investment, and those dividends that are a return on the investment. [IFRS 9.BC5.25(a)]. However, 
+determining when a dividend does or does not clearly represent a recovery of the cost of the investment 
+can be highly judgemental, and a thorough understanding of the particular facts and circumstances is 
+needed. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3700 
+2.6 
+Unquoted equity instruments and related derivatives 
+IFRS 9 requires all investments in equity instruments and contracts on those instruments to be measured at 
+fair value (see Chapter 15). However, it is recognised that in limited circumstances, cost may be an 
+appropriate estimate of fair value. That may be the case if insufficient recent information is available to 
+determine fair value, or if there is a wide range of possible fair value measurements and cost represents the 
+best estimate of fair value within that range. [IFRS 9.B5.2.3]. 
+Such guidance was provided to alleviate some of the concerns expressed by constituents and also, to 
+replace the cost exception that was not brought forward to IFRS 9 from IAS 39 Financial Instruments: 
+Recognition and Measurement, the previous standard for accounting for financial instruments. IAS 39 
+contained an exception from fair value measurement for investments in equity instruments (and some 
+derivatives linked to those investments) that did not have a quoted price in an active market and whose fair 
+value could not be reliably measured. Those equity investments were required to be measured at cost less 
+impairment, if any. [IFRS 9.BC5.13, IFRS 9.BC5.16, IFRS 9.BC5.18]. 
+Extract from IFRS 9 
+B5.2.4 
+Indicators that cost might not be representative of fair value include: 
+(a) 
+a significant change in the performance of the investee compared with budgets, plans or 
+milestones. 
+(b) 
+changes in expectation that the investee’s technical product milestones will be achieved. 
+(c) 
+a significant change in the market for the investee’s equity or its products or potential 
+products. 
+(d) 
+a significant change in the global economy or the economic environment in which the 
+investee operates. 
+(e) 
+a significant change in the performance of comparable entities, or in the valuations 
+implied by the overall market. 
+(f) 
+internal matters of the investee such as fraud, commercial disputes, litigation, changes in 
+management or strategy. 
+(g) 
+evidence from external transactions in the investee’s equity, either by the investee (such 
+as a fresh issue of equity), or by transfers of equity instruments between third parties. 
+[IFRS 9.B5.2.4]. 
+This list is not intended to be exhaustive. All information about the performance and operations of the 
+investee that becomes available after the date of initial recognition should be used and to the extent that 
+any such relevant factors exist, they may indicate that cost might not be representative of fair value. In 
+such cases, fair value should be estimated. [IFRS 9.B5.2.5]. 
+For the avoidance of doubt, IFRS 9 emphasises that cost is never the best estimate of fair value for 
+investments in quoted equity instruments (or contracts on quoted equity instruments). [IFRS 9.B5.2.6]. Also, 
+the IASB noted that for financial institutions and investment funds, the cost of an equity investment cannot 
+be considered representative of fair value. [IFRS 9.BC5.18]. 
+2.7 
+Reclassifications of financial assets 
+In certain situations, financial assets are reclassified, and the situations in which a reclassification might 
+arise are considered in more detail in Chapter 44 at section 8. 
+The reclassification must be applied prospectively from the reclassification date which is defined as: 
+[IFRS 9.5.6.1, IFRS 9 Appendix A] 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+reclassification date 
+The first day of the first reporting period following the change in 
+business model that results in an entity reclassifying financial assets. 
+  
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3701 
+Accordingly, any previously recognised gains, losses (including impairment gains and losses) or interest 
+should not be restated. [IFRS 9.5.6.1]. For example, when a financial asset is reclassified so that it is 
+measured at fair value, its fair value is determined at the reclassification date. Any gain or loss arising from 
+a difference between the previous carrying amount and fair value should be recognised in profit or loss of 
+the current period without restating prior periods. [IFRS 9.5.6.2]. Moreover, when a financial asset is 
+reclassified so that it is measured at amortised cost, its fair value at the reclassification date becomes its 
+new gross carrying amount. [IFRS 9.5.6.3]. The effective interest rate is determined on the basis of the fair 
+value of the asset at the date of reclassification. [IFRS 9.B5.6.2]. Below is a table summarising the treatment 
+of financial assets on reclassification. [IFRS 9.5.6.2, IFRS 9.5.6.3, IFRS 9.5.6.4, IFRS 9.5.6.5, IFRS 9.5.6.6, IFRS 9.5.6.7, 
+IFRS 9.B5.6.1, IFRS 9.B5.6.2]. 
+Original 
+classification 
+New 
+classification 
+Accounting  
+Amortised cost 
+FVTPL 
+The fair value of the asset is measured at the reclassification date. 
+Any gain or loss arising from a difference between the fair value 
+and the previous amortised cost of the financial asset is recognised 
+in profit or loss. 
+FVTPL 
+Amortised cost 
+The fair value of the asset at the reclassification date is the new 
+gross carrying amount. The EIR is determined on the basis of the 
+fair value at reclassification date and impairment is calculated 
+based on this EIR and as if the date of reclassification date was the 
+date of initial recognition. 
+Amortised cost 
+FVOCI 
+The fair value of the asset is measured at the reclassification date. 
+Any gain or loss arising from a difference between the previous 
+amortised cost and the fair value, is recognised in OCI. The EIR and 
+the measurement of expected credit losses are not adjusted. 
+FVOCI 
+Amortised cost 
+The fair value of the asset at reclassification date is new gross 
+carrying amount. At reclassification date, the cumulative gain or 
+loss previously recognised in OCI is removed from equity and 
+adjusted against the fair value. The EIR and the measurement of 
+expected credit losses are not adjusted. 
+FVTPL 
+FVOCI 
+The asset continues to be carried at fair value. The EIR is 
+determined on the basis of the fair value at reclassification date. 
+FVOCI 
+FVTPL 
+The asset continues to be carried at fair value. At reclassification 
+date, the cumulative gain or loss previously recognised in OCI is 
+reclassified from equity to profit and loss as a reclassification 
+adjustment. 
+2.8 
+Financial guarantees and loan commitments 
+Loan commitments are generally excluded from IFRS 9, with the exception of the impairment requirements 
+and derecognition provisions (see Chapters 47 and 48). However, loan commitments are within the scope 
+of IFRS 9 if they have been designated as financial liabilities at fair value through profit or loss, can be 
+settled net in cash or by delivering or issuing another financial instrument, or if they are commitments to 
+provide a loan at a below-market interest rate (see Chapter 41 at section 2.5 for more details on the 
+scoping). [IFRS 9.2.1(g), IFRS 9.2.3]. 
+Loan commitments that can be settled net in cash or by delivering or issuing another financial instrument 
+are derivatives and are therefore measured at fair value through profit and loss. 
+Loan commitments issued to provide a loan at a below-market interest rate, and financial guarantees 
+issued, are measured on initial recognition at their (negative) fair value which is generally equal to the 
+premium received where the transaction is undertaken at an arm’s length (see Chapter 45 at section 3.3.3) 
+[IFRS 9.2.3(c), IFRS 9.B2.5(a)]. Subsequently these are measured on the statement of financial position at the 
+higher of: [IFRS 9.4.2.1(c), IFRS 9.4.2.1(d)] 
+• 
+The amount of the loss allowance determined in accordance with the impairment requirements of 
+IFRS 9 (see Chapter 47 at section 11). 
+And 
+• 
+The amount initially recognised less, when appropriate, the cumulative amount of income recognised in 
+accordance with the principles of IFRS 15 Revenue from Contracts with Customers (see Chapter 28). 
+Typically, any upfront premium will be amortised over the related guarantee period. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3702 
+For a financial guarantee contract, this assumes that it did not arise from a failed derecognition transaction 
+(see section 2.9.3 below). [IFRS 9.4.2.1(b), IFRS 9.4.2.1(c)]. 
+While the requirements outlined above address the statement of financial position presentation, the income 
+statement presentation is not specified. For example, it is unclear whether the initial premium received 
+should be recognised as ‘revenue’ with a separate additional remeasurement for the impairment allowance 
+or whether a single net amount should be presented in the profit and loss account shown in the revenue or 
+impairment line depending on the comparison of the ‘higher of’ test. There is a further issue of whether any 
+amounts recorded in the impairment line should be restricted to ensure there is no reversal of impairment 
+that would exceed the cumulative impairment losses recorded in prior periods. Due to the lack of guidance 
+in this area, diversity may arise in practice. 
+For financial guarantees, there were discussions by the IFRS Transition Resource Group for Impairment of 
+Financial Instruments (ITG) on whether future premiums to be received affect the measurement of the 
+expected credit loss (ECL) allowance and this is discussed further at Chapter 47 at sections 1.5 and 11. 
+The discussions above deal with the accounting implications for the issuer of financial guarantees and loan 
+commitments. There are also accounting implications for the holder to consider. For example, in November 
+2018 the IFRS IC discussed whether the cash flows expected, in general, from a financial guarantee 
+contract or any other credit enhancement can be included in the measurement of expected credit losses 
+(see Chapter 47 at section 5.8.1). A further issue to consider is how fees paid or received in relation to loan 
+commitments are treated. This is dealt with in more detail below. 
+Frequently asked questions 
+Question 2-1: 
+How should fees received (or paid) upfront to secure a loan commitment be 
+accounted for in the Statement of Comprehensive Income? 
+Fees paid to obtain a loan commitment from an issuer may be paid up-front, over the life of the 
+commitment, or in arrears on the undrawn amount (sometimes called non-utilisation fees). The fees may 
+be paid to obtain a term loan, a line-of-credit, or a revolving debt arrangement. 
+The accounting treatment of all types of fees received or paid depends on whether: 
+• 
+It is probable (more likely than not) at inception that the loan commitment will be utilised in whole or 
+in part. 
+And 
+• 
+Once utilised, the loan commitment expires (that is, if the loan is repaid no further amount can be 
+drawn). 
+Usually, the second criterion is met when the commitment includes a specified repayment schedule. 
+Therefore, this criterion is not met for a revolving debt arrangement or a line-of-credit when the 
+borrower can borrow and repay funds at the borrower’s option numerous times during the life of the loan 
+commitment (see Question 2-4 below). 
+When both criteria above are met, and it is probable that the total loan commitment will be utilised, the 
+fees payable for the loan commitment are recognised by both the issuer and the borrower over the life of 
+the loan using the EIR method. [IFRS 9.B5.4.2(b), IFRS 9.B5.4.3(b)]. As the fees are integral to the EIR they are 
+apportioned consistently with the amounts borrowed and recognised over the resulting loan’s expected 
+life using the EIR method (see section 3.1 below). The exception to this is when the borrower or issuer 
+will account for draw downs on the facility at fair value through profit or loss. In this case, the fees would 
+be recognised in profit or loss when the draw down occurs. 
+Although the guidance in IFRS 9.B5.4.2(b) and IFRS 9.B5.4.3(b) is in the context of the accounting for 
+commitment fees received by the issuer, this guidance can also be applied to the accounting by the 
+borrower. Furthermore, the deferral of the commitment fees paid by the borrower when it is probable 
+there will be a drawdown of a specific loan is also consistent with the definition of an asset in the IASB’s 
+Conceptual Framework because there are potential economic benefits. [CF 4.3, CF 4.4, CF 4.14, CF 4.16]. 
+Question 2-2: 
+How should fees received (or paid) to secure a loan commitment be accounted for 
+when management initially expects only a portion of the loan commitment to be utilised? 
+If both criteria outlined in Question 2-1 above have been met for a portion of the loan commitment only, 
+then the fees are apportioned between the amount expected to be utilised, and the amount not expected 
+to be utilised. The fees related to the amount expected to be utilised are recognised over the resulting 
+loans’ expected life using the EIR method in line with the reasoning outlined in Question 2-1 above. 
+[IFRS 9.B5.4.2(b)]. 
+The remaining portion of the fees is expensed by the borrower over the commitment period, for example 
+on a straight-line basis. This is on the basis that the commitment fees paid by the borrower meet the 
+definition of a prepayment made to the lender for liquidity services made available to the borrower. 
+[IAS 38.70]. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3703 
+The issuer accounts for the remaining portion of the fee income under IFRS 15 as compensation for the 
+service of providing the facility and recognises it when (or as) it fulfils its performance obligation in 
+making the facility available. [IFRS 9.B5.4.3(b)]. This is on the basis, that the issuer has a performance 
+obligation to stand ready to make the facility available to the borrower (i.e., a promise to provide a 
+service of making a certain amount of cash available to the borrower during the commitment period). 
+[IFRS 15.26(e)]. For each performance obligation identified, it needs to be determined whether it is satisfied 
+over time or at a point in time, and is accounted for accordingly (see Chapter 28). [IFRS 15.32, 
+IFRS 15.35(a)]. 
+Question 2-3: 
+How should fees received (or paid) to secure a loan commitment be accounted for 
+when management does not expect any of the loan commitment to be utilised? 
+In line with the reasoning outlined in Question 2-2 above, if management do not expect any of the loan 
+commitment to be utilised, the fees are expensed by the borrower over the commitment period, for 
+example on a straight-line basis. The issuer accounts for the fee income under IFRS 15 as compensation 
+for the service of providing the facility and recognises it when (or as) it fulfils its performance obligation 
+in making the facility available. 
+Question 2-4: 
+How should fees received (or paid) to secure a loan commitment be accounted for 
+when the loan commitment does not expire after being utilised? 
+Some loan commitments, once drawn, do not expire. For example, access bond and credit card 
+arrangements normally provide a loan facility which can be drawn down, repaid and then drawn again 
+without any additional commitment fees being charged. When this is the case, the fees are not integral 
+to any particular financial asset or liability resulting from draw downs on the loan commitment, and 
+therefore, are not part of any EIR. Consequently, the fees are expensed by the borrower over the 
+commitment period, for example on a straight-line basis. 
+The issuer accounts for the fee income under IFRS 15 as compensation for the service of providing the 
+facility and recognises it when (or as) it fulfils its performance obligation in making the facility available 
+(see Chapter 28). [IFRS 15.35(a)]. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3704 
+2.9 
+Exceptions to the general principles 
+2.9.1 
+Hedging relationships 
+Financial assets and financial liabilities that are designated as hedged items are subject to measurement 
+under the hedge accounting requirements of IFRS 9, or IAS 39 if the entity chooses as its accounting policy 
+to continue to apply the hedge accounting requirements of IAS 39. [IFRS 9.5.2.3, IFRS 9.5.3.2, IFRS 9.5.7.3, 
+IFRS 9.7.2.21]. 
+Furthermore, derivatives and non-derivative debt financial instruments may be designated as hedging 
+instruments which can affect whether fair value or foreign exchange gains and losses are recognised in 
+profit or loss or in other comprehensive income. [IFRS 9.B5.7.2]. 
+Hedge accounting is covered in Chapter 49. 
+2.9.2 
+Regular way transactions 
+Except for its rules on transfers of assets, IFRS 9 requires an entity to recognise a financial asset in its 
+statement of financial position when, and only when, the entity becomes party to the contractual provisions 
+of the instrument and to derecognise a financial asset when, and only when, the contractual rights to the 
+cash flows from the financial asset expire (see Chapter 48 at section 3.5). [IFRS 9.3.1.1, IFRS 9.3.2.3]. In other 
+words, IFRS 9 requires a financial asset to be recognised or derecognised on a trade date basis, i.e., the 
+date that an entity commits itself to purchase or sell an asset. [IFRS 9.B3.1.5]. However, the standard permits 
+financial assets subject to so called ‘regular way purchase or sale’ to be recognised, or derecognised, either 
+as at the trade date or as at the settlement date (see Chapter 45 at section 2.2). [IFRS 9.3.1.2, IFRS 9.B3.1.3]. 
+Whichever method is used, it is applied consistently and symmetrically (i.e., to acquisitions and disposals) to 
+each of the main measurement categories of financial asset identified by IFRS 9 (see Chapter 45 at 
+section 2.2). [IFRS 9.B3.1.3]. 
+Where settlement date accounting is used for regular way purchases or sales, any change in the fair value 
+of the asset to be received arising between trade date and settlement date is not recognised for those 
+assets that will be measured at amortised cost. For assets that will be recorded at fair value, such changes 
+in value are recognised: [IFRS 9.5.7.4, IFRS 9.B3.1.6] 
+• 
+In profit or loss for assets classified as measured at fair value through profit or loss 
+And 
+• 
+In other comprehensive income for debt instruments classified, and equity instruments designated, as 
+measured at fair value through other comprehensive income 
+On disposal, changes in value of such assets between trade date and settlement date are not recognised 
+because the right to changes in fair value ceases on the trade date. [IFRS 9.IG D.2.2]. The accounting for trade 
+date and settlement date accounting on initial recognition, and derecognition, is dealt with in more detail is 
+in Chapter 45 at sections 2.2.3, 2.2.4 and 2.2.5. 
+For financial assets measured at amortised cost or at fair value through other comprehensive income, 
+IFRS 9 requires entities to use the trade date as the date of initial recognition for the purposes of applying 
+the impairment requirements. [IFRS 9.5.7.4]. This means that entities that use settlement date accounting 
+may have to recognise a loss allowance for financial assets which they have purchased but not yet 
+recognised and, correspondingly, no loss allowance for assets that they have sold but not yet derecognised 
+(see Chapter 47 at section 7.3.2). 
+2.9.3 
+Liabilities arising from failed derecognition transactions 
+There are special requirements for financial liabilities (including financial guarantee contracts) that arise 
+when transfers of financial assets do not qualify for derecognition, or are accounted for using the 
+continuing involvement approach. [IFRS 9.4.2.1(b)]. These are dealt with in Chapter 48 at section 5.3. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3705 
+3 
+Amortised cost and the effective interest method 
+IFRS 9 contains four key definitions relating to measurement at amortised cost, which are set out below: 
+[IFRS 9 Appendix A] 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+amortised cost of a financial 
+asset or financial liability 
+The amount at which the financial asset or financial liability is 
+measured at initial recognition minus the principal repayments, plus or 
+minus the cumulative amortisation using the effective interest method 
+of any difference between that initial amount and the maturity amount 
+and, for financial assets, adjusted for any loss allowance. 
+effective interest method 
+The method that is used in the calculation of the amortised cost of a 
+financial asset or a financial liability and in the allocation and 
+recognition of the interest revenue or interest expense in profit or loss 
+over the relevant period. 
+effective interest rate 
+The rate that exactly discounts estimated future cash payments or 
+receipts through the expected life of the financial asset or financial 
+liability to the gross carrying amount of a financial asset or to the 
+amortised cost of a financial liability. When calculating the effective 
+interest rate, an entity shall estimate the expected cash flows by 
+considering all the contractual terms of the financial instrument (for 
+example, prepayment, extension, call and similar options) but shall not 
+consider the expected credit losses. The calculation includes all fees 
+and points paid or received between parties to the contract that are an 
+integral part of the effective interest rate (see paragraphs B5.4.1-
+B5.4.3), transaction costs, and all other premiums or discounts. There 
+is a presumption that the cash flows and the expected life of a group of 
+similar financial instruments can be estimated reliably. However, in 
+those rare cases when it is not possible to reliably estimate the cash 
+flows or the expected life of a financial instrument (or group of 
+financial instruments), the entity shall use the contractual cash flows 
+over the full contractual term of the financial instrument (or group of 
+financial instruments). 
+gross carrying amount of a 
+financial asset 
+The amortised cost of a financial asset, before adjusting for any loss 
+allowance. 
+  
+3.1 
+Effective interest rate (EIR) 
+For financial assets held at amortised cost, interest revenue is calculated by applying the EIR to the gross 
+carrying amount. When calculating the EIR, an entity should estimate the expected cash flows by 
+considering all the contractual terms of the financial instrument (e.g., prepayment, extension, call and 
+similar options). However, IFRS 9 does not contain clear guidance on how the expected cash flows are 
+estimated when calculating EIR. For example, it is unclear how to reflect conditionality attached to the 
+contractual interest rate in the EIR (see section 3.1.3 below where this has been raised as part of the post 
+implementation review of IFRS 9). The calculation includes all fees and points paid or received between 
+parties to the contract that are an integral part of the EIR, transaction costs, and all other premiums or 
+discounts. [IFRS 9 Appendix A]. Except for purchased or originated financial assets that are credit-impaired on 
+initial recognition, ECLs are not considered in the calculation of the EIR. This is because the recognition of 
+ECLs is separate from the recognition of interest revenue (see Chapter 47 at section 3.1). [IFRS 9 Appendix A, 
+IFRS 9.BCZ5.67]. 
+When applying the effective interest method, an entity generally amortises any fees, points paid or 
+received, transaction costs and other premiums or discounts that are included in the calculation of the EIR 
+over the expected life of the financial instrument. However, there may be situations when discounts or 
+premiums are amortised over a shorter period (see section 3.1.1 below). 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3706 
+Guidance related to what fees should and should not be considered integral is included in IFRS 9. Fees that 
+are an integral part of the EIR of a financial instrument are treated as an adjustment to the EIR, unless the 
+financial instrument is measured at fair value through profit or loss. In those cases, the fees are recognised 
+as revenue or expense when the instrument is initially recognised. [IFRS 9.B5.4.1]. 
+Extract from IFRS 9 
+B5.4.2 
+Fees that are an integral part of the effective interest rate of a financial instrument include: 
+(a) 
+origination fees received by the entity relating to the creation or acquisition of a financial 
+asset. Such fees may include compensation for activities such as evaluating the 
+borrower’s financial condition, evaluating and recording guarantees, collateral and other 
+security arrangements, negotiating the terms of the instrument, preparing and 
+processing documents and closing the transaction. These fees are an integral part of 
+generating an involvement with the resulting financial instrument. 
+(b) 
+commitment fees received by the entity to originate a loan when the loan commitment is 
+not measured in accordance with paragraph 4.2.1(a) and it is probable that the entity will 
+enter into a specific lending arrangement. These fees are regarded as compensation for 
+an ongoing involvement with the acquisition of a financial instrument. If the commitment 
+expires without the entity making the loan, the fee is recognised as revenue on expiry. 
+(c) 
+origination fees paid on issuing financial liabilities measured at amortised cost. These 
+fees are an integral part of generating an involvement with a financial liability. An entity 
+distinguishes fees and costs that are an integral part of the effective interest rate for the 
+financial liability from origination fees and transaction costs relating to the right to 
+provide services, such as investment management services. 
+B5.4.3 
+Fees that are not an integral part of the effective interest rate of a financial instrument and are 
+accounted for in accordance with IFRS 15 include: 
+(a) 
+fees charged for servicing a loan; 
+(b) 
+commitment fees to originate a loan when the loan commitment is not measured in 
+accordance with paragraph 4.2.1(a) and it is unlikely that a specific lending arrangement 
+will be entered into; and 
+(c) 
+loan syndication fees received by an entity that arranges a loan and retains no part of the 
+loan package for itself (or retains a part at the same effective interest rate for 
+comparable risk as other participants). 
+[IFRS 9.B5.4.2, IFRS 9.B5.4.3]. 
+It is important to note that the EIR is normally based on estimated, not contractual, cash flows and there is 
+a presumption that the cash flows and the expected life of a group of similar financial instruments can be 
+estimated reliably. However, in those rare cases when it is not possible to estimate reliably the cash flows 
+or the expected life of a financial instrument (or group of instruments), the contractual cash flows over the 
+full contractual term of the financial instrument (or group of instruments) should be used. [IFRS 9 Appendix A]. 
+For fair value hedges in which the hedged item is recorded at amortised cost, the adjustment to the hedged 
+item arising from the application of hedge accounting is amortised to profit or loss. This adjustment is 
+based on a recalculated EIR at the date amortisation begins (see Chapter 49 at section 7.1.2). 
+The application of the effective interest method to floating-rate instruments and inflation-linked debt is 
+considered in more detail in sections 3.3 and 3.6 below. 
+As set out in Chapter 43 at section 6, an issued compound financial instrument such as a convertible bond 
+is accounted for as a financial liability component and an equity component. In accounting for the financial 
+liability at amortised cost, the expected cash flows should be those of the liability component only and the 
+estimate should not take account of the bond being converted. 
+3.1.1 
+The amortisation period 
+A key element in the EIR calculation is the determination of the amortisation period. Payments, receipts, 
+discounts and premiums included in the effective interest method calculation are normally amortised over 
+the expected life of the instrument and it will often be acceptable to amortise transaction costs on a 
+straight-line basis over the life of the instrument on a basis of materiality. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3707 
+However, there may be situations when discounts or premiums are amortised over a shorter period if this is 
+the period to which the fees, points paid or received, transaction costs, premiums or discounts relate. This 
+will be the case when the related variable (e.g., interest rates) to which the fees, points paid or received, 
+transaction costs, premiums or discounts relate is repriced to market rates before the instrument’s 
+expected maturity. In such cases, the appropriate amortisation period is to the next repricing date. 
+[IFRS 9.B5.4.4]. 
+For example, changes in market rates since the floating interest rate was reset to market rates will be 
+amortised to the next date when the interest rate is reset to market rates. This is because the difference 
+relates to the period to the next interest reset date as, at that date, the variable to which the difference 
+relates (i.e., the interest rate) is reset to market rates. If, however, a premium or discount results from a 
+change in the credit spread over the floating-rate specified in the financial instrument, or other variables 
+that are not reset to market rates, it is amortised over the expected life of the instrument. [IFRS 9.B5.4.4]. 
+The following Illustration demonstrates the requirements of applying a discount arising on acquisition of a 
+debt instrument resulting from a credit downgrade. 
+Illustration 3-1: 
+Effective interest method - amortisation of discount arising from credit 
+downgrade 
+A twenty-year bond is issued at CU100, has a principal amount of CU100, and requires quarterly interest 
+payments equal to current three-month EURIBOR plus 1% over the life of the instrument. The interest rate 
+reflects the market-based required rate of return associated with the bond issue at issuance. Subsequent to 
+issuance, the credit quality of the bond deteriorates resulting in a rating downgrade. It therefore trades at a 
+discount, although it is assessed not to be credit-impaired (see Chapter 47 at section 3.1). Company A 
+purchases the bond for CU95 and classifies it as measured at amortised cost and not determined to be 
+purchased credit-impaired on initial recognition. 
+The discount of CU5 is amortised to income over the period to the maturity of the bond and not to the next 
+date interest rate payments are reset as it results from a change in credit spreads.1 This is because it relates 
+to an adjustment for credit quality which is not a variable that reprices to market rates before the expected 
+maturity. 
+There are financial instruments which pay a fixed or lower rate of interest in an initial period of their life and 
+subsequently convert to a standard variable rate. An issue arises as to whether the EIR should be calculated 
+on a ‘blended’ basis, so as to obtain a consistent rate of return over the instrument’s expected life or 
+whether the initial period and subsequent period of different interest rates should be treated as two 
+discrete periods, such that blending is not necessary. 
+Previously, under IAS 39, entities were required to calculate the EIR by discounting estimated “future cash 
+payments, or receipts through the expected life of the instrument, or when appropriate, a shorter period”. 
+[IAS 39(2017).9]. Whilst IFRS 9 has removed ‘when appropriate, a shorter period’ in its definition in 
+Appendix A to the standard, it has kept the reference to a ‘shorter period’ in IFRS 9.B5.4.4. It was, and still 
+is, unclear as to what is meant by ‘when appropriate’ and this has led to some diversity in practice with 
+some entities applying a blended rate rather than having different EIRs for discrete periods of interest. 
+Illustration 3-2 and Illustration 3-3 below demonstrates a loan whose interest is partially fixed and partially 
+variable. 
+Illustration 3-2: 
+Fixed rate mortgage which reprices to market interest rate 
+Bank E offers fixed-rate mortgages to customers with an initial fixed-rate for a term of 5 years, which is 
+shorter than the overall term of the loan of 25 years. The fixed rate is a market rate at the date of the 
+mortgage offer. After the fixed 5-year term, the initial rate on the loan reverts to a market rate to be 
+determined at that point in time. 
+How we see it 
+The change in interest rate is to a current market rate and is made in accordance with the terms of the 
+original instrument. 
+Consequently, it may be appropriate to treat this as a change in EIR, similar to the repricing of a 
+floating-rate instrument. Therefore, the fixed rate may be applied for the initial 5 years followed by the 
+new market rate when applying the effective interest method. 
+  
+ 
+ 
+1 
+IAS 39 Implementation Guidance Committee (IGC), Q&A 76-1, July 2001. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3708 
+Illustration 3-3: 
+Bargain rate mortgage which reprices to market interest rate 
+Bank F issues the same mortgage as in Illustration 3-2 above, except that the initial fixed rate is determined to 
+be a bargain rate. 
+How we see it 
+When the initial rate is a bargain rate, it may be required to calculate a blended rate, so as to obtain a 
+consistent rate of return over the expected life of the mortgage. 
+The blended rate would be recalculated as and when the estimated future cash flows change. 
+  
+3.1.2 
+Purchased or credit-impaired financial assets 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+credit-impaired financial 
+asset 
+A financial asset is credit-impaired when one or more events that have 
+a detrimental impact on the estimated future cash flows of that 
+financial asset have occurred. Evidence that a financial asset is credit-
+impaired include observable data about the following events: 
+(a) significant financial difficulty of the issuer or the borrower; 
+(b) a breach of contract, such as a default or past due event; 
+(c) the lender(s) of the borrower, for economic or contractual reasons 
+relating to the borrower’s financial difficulty, having granted to the 
+borrower a concession(s) that the lender(s) would not otherwise 
+consider; 
+(d) it is becoming probable that the borrower will enter bankruptcy or 
+other financial reorganisation; 
+(e) the disappearance of an active market for that financial asset 
+because of financial difficulties; or 
+(f) the purchase or origination of a financial asset at a deep discount 
+that reflects the incurred credit losses. 
+It may not be possible to identify a single discrete event - instead, the 
+combined effect of several events may have caused financial assets to 
+become credit-impaired. 
+purchased or originated 
+credit-impaired financial 
+asset 
+Purchased or originated financial asset(s) that are credit-impaired on 
+initial recognition. 
+  
+For a purchased or originated credit-impaired financial asset (see Chapter 47 at section 3.3), the credit-
+adjusted EIR is applied when calculating the interest revenue and it is the rate that exactly discounts the 
+estimated future cash payments or receipts through the expected life of the financial asset to the amortised 
+cost of a financial asset. An entity is required to include the initial ECLs in the estimated cash flows when 
+calculating the credit-adjusted EIR for such assets. [IFRS 9.5.4.1(a), IFRS 9.B5.4.7, IFRS 9.Appendix A]. 
+However, this does not mean that a credit-adjusted EIR should be applied solely because the financial asset 
+has high credit risk at initial recognition. Rather, as outlined above, IFRS 9 contains specific definitions 
+outlining the requirements relating to a credit impaired asset. Furthermore, the application guidance 
+explains that a financial asset is only considered credit-impaired at initial recognition when the credit risk is 
+very high or, in the case of a purchase, it is acquired at a deep discount. [IFRS 9.B5.4.7]. 
+For financial assets that are not purchased or originated credit-impaired but have subsequently become 
+credit impaired, interest revenue is calculated by applying the EIR to the amortised cost in subsequent 
+reporting periods. [IFRS 9.5.4.1(b)]. In subsequent reporting periods, if the credit quality of the financial asset 
+improves so that the financial asset is no longer credit-impaired and the improvement can be related 
+objectively to the occurrence of an event (such as an improvement in the borrower’s credit rating), then on 
+a prospective basis an entity should once again calculate the interest revenue by applying the EIR to the 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3709 
+gross carrying amount of the financial asset (and there is no catch up of contractual interest that was not 
+recognised while the asset was credit impaired). [IFRS 9.5.4.2]. 
+Frequently asked questions 
+Question 3-1: 
+Does ‘subsequent reporting period’ refer only to annual periods or does it also 
+extend to interim reporting periods? 
+‘Reporting period’ refers to a period for which financial statements are produced in accordance with IFRS 
+accounting standards. In some instances, the standards specifically refer to ‘annual reporting period’ 
+(e.g., IFRS 9.7.2.15 and IFRS 9.7.2.33), which indicates that the more general references to ‘reporting 
+period’ extend beyond annual reporting periods. Paragraph 4 of IAS 34 Interim Financial Reporting 
+defines interim period as a ‘financial reporting period shorter than a full financial year’. [IAS 34.4]. 
+Therefore, both interim and annual reporting periods for which financial statements are prepared in 
+compliance with IFRS (full or IAS 34) are ‘reporting periods’. ‘Subsequent reporting period’ therefore 
+refers to the next interim or annual reporting period, whichever comes sooner. 
+In line with the discussions above, it should be noted that if an entity produces quarterly financial 
+statements that are not in compliance with IFRS (full or IAS 34), then the period cannot be considered a 
+‘reporting period’. 
+Question 3-2: 
+IAS 34.28 requires that the frequency of an entity’s reporting shall not affect the 
+measurement of its annual results. If interim reporting periods are ‘reporting periods’, are the IFRS 9 
+requirements to give effect to changes between gross and net interest calculation in the ‘subsequent 
+reporting period’ inconsistent with the requirement in IAS 34.28, and in that case, which standard’s 
+guidance should be followed? 
+There is an internal conflict between the requirements of IFRS 9 and IAS 34.28. 
+How we see it 
+In our view, in the absence of further clarity, the specific requirements in IFRS 9 to give effect to 
+changes between the gross and net interest calculation in the ‘subsequent reporting period’ take 
+precedence over the more general requirements of IAS 34.28 that the frequency of an entity’s 
+reporting shall not affect the measurement of its annual results. 
+Question 3-3: 
+Are entities allowed to perform the impairment assessments, with the resulting 
+changes to the interest calculation, more frequently than their interim reporting periods, for example, 
+monthly? 
+The IASB believes that, conceptually, the credit impairment of financial assets should be assessed on an 
+ongoing basis, thus altering the interest revenue determination as the underlying economics change. 
+However, it was noted that such an approach would be unduly onerous for preparers. Therefore, the 
+IASB introduced a practical expedient that the assessment of whether a financial asset is credit impaired 
+be required at the reporting date, with changes in the interest calculation effected from the beginning of 
+the following reporting period. [IFRS 9.BC5.78]. This seems to prevent entities from having to update their 
+staging and interest calculations on an ongoing basis. However, if entities voluntarily perform their 
+staging assessment, and changes to interest calculations, more frequently than their reporting periods, 
+this is not contrary to the objectives of IFRS 9, provided that the approach is applied consistently. 
+How we see it 
+An entity may assess whether a financial asset has become (or ceased to be) credit impaired more 
+frequently than at its reporting dates. If it does so, any resulting changes between gross and net 
+interest income presentation will occur more frequently than its next reporting period. The timing of 
+these assessments is an accounting policy choice and should be evenly spaced and consistently 
+applied. 
+For further guidance on ‘reporting period’ in the context of reclassifications of financial assets and hedge 
+accounting, see Chapter 44 at section 8.1 and Chapter 49 at section 6.4, respectively. 
+See Chapter 47 at section 3.1 for a more detailed discussion on the application of the EIR to credit impaired 
+assets. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3710 
+3.1.3 
+Post implementation review 
+The post implementation review (PIR) of the classification and measurement requirements of IFRS 9 was 
+completed in 2022. In December 2022, the IASB issued a report2 containing feedback from the 
+classification and measurement PIR and concluded the requirements are working as intended, however they 
+noted that clarification was needed in certain areas to improve the understandability of the requirements. 
+In particular, the feedback on the EIR method highlighted that respondents found the following as the most 
+challenging and interpretive areas: 
+• 
+How to reflect conditions that are attached to the contractual interest rate in the EIR i.e., what 
+expectations or uncertainties to consider in calculating the EIR and how to reflect conditionality. For 
+example, how to treat an adjustment to the contractual interest rate based on the borrower’s 
+performance in meeting sustainability linked targets. 
+And 
+• 
+How to account for subsequent changes in estimates of future cash flows. 
+A related challenge is identifying when subsequent changes to estimated contractual cash flows are 
+accounted for under IFRS 9.B5.4.5 because the change relates to a change in a floating market rate of 
+interest. The alternative is that the change would be accounted for by applying IFRS 9.B5.4.6 such that the 
+carrying value is updated for the present value of the revised estimated contractual cash discounted at the 
+original EIR, which remains unchanged. 
+Other areas that the Board will consider developing clarifications and further explanations on are the 
+following: 
+• 
+The meaning of a ’floating rate’ financial instrument and whether this refers to the overall contractual 
+rate or only a component thereof 
+• 
+The meaning of ’movements in market rates’ and whether this includes contractually specified 
+adjustments to the contractual interest rate 
+And 
+• 
+The effect modifications have on determining the EIR 
+In response to the above, the IASB decided to add a project to its research project pipeline, the “Amortised 
+Cost Measurement” project, which will consider whether the requirements for applying the effective 
+interest rate method can be clarified in an effective manner. 
+As discussed in Chapter 47 at section 1.6, the IASB has completed its PIR of the impairment requirements 
+in IFRS 9. On 4 July 2024, the IASB published the project summary and feedback statement, in which the 
+IASB concluded that the impairment requirements are working as intended. The IASB will explore whether it 
+can clarify the requirements for modification, derecognition and write-off of financial instruments and the 
+consequential effect on recognition of expected credit losses as part of its project on Amortised Cost 
+Measurement.3 Refer to section 3.8.4 below for further details. 
+3.2 
+Fixed interest rate instruments 
+The effective interest method is most easily applied to instruments that have fixed payments and a fixed 
+term. The following Illustrations, adapted from the Implementation Guidance to the IFRS accounting 
+standard, explain this. [IFRS 9.IG B.26, IFRS 9.IG B.27]. 
+Illustration 3-4: 
+Effective interest method - amortisation of premium or discount on acquisition 
+At the start of 20X1, a company purchases a debt instrument with five years remaining to maturity for its fair 
+value of CU1,000 (including transaction costs). The instrument has a principal amount of CU1,250 and carries 
+fixed interest of 4.7% payable annually (CU1,250 × 4.7% = CU59 per year). In order to allocate interest 
+receipts and the initial discount over the term of the instrument at a constant rate on the carrying amount, it 
+can be shown that interest needs to be accrued at the rate of 10% annually. In each period, the amortised cost 
+at the beginning of the period is multiplied by the EIR of 10% and added to the gross carrying amount. Any 
+cash payments in the period are deducted from the resulting balance. 
+ 
+2 
+Project Report and Feedback Statement: Post-implementation Review, IFRS 9 Financial Instruments-Classification and 
+Measurement, IASB, December 2022. Available on the IFRS Foundation’s website. 
+3 
+IASB Staff Paper 27C: Project: Post-implementation Review of IFRS 9-Impairment, Topic: Interaction of impairment requirements 
+with other requirements, IASB meeting, April 2024. Available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3711 
+The table below provides information about the gross carrying amount, interest income, and cash flows of the 
+debt instrument in each reporting period: [IFRS 9.IG B.26] 
+ 
+(a) 
+(b = a × 10%) 
+(c) 
+(d = a + b - c) 
+  
+Gross carrying 
+amount at the 
+start of the year 
+Interest income 
+Cash flows 
+Gross carrying 
+amount at the end 
+of the year 
+Year 
+(CU) 
+(CU) 
+(CU) 
+(CU) 
+20X1 
+1,000 
+100 
+59 
+1,041 
+20X2 
+1,041 
+104 
+59 
+1,086 
+20X3 
+1,086 
+109 
+59 
+1,136 
+20X4 
+1,136 
+113 
+59 
+1,190 
+20X5 
+1,190 
+119 
+1,250 + 59 
+- 
+  
+ 
+Illustration 3-5: 
+Effective interest method - stepped interest rates 
+On 1 January 20X1, Company A issues a debt instrument for a price of CU1,250 (including transaction costs). 
+The principal amount is CU1,250 which is repayable on 31 December 20X5. The rate of interest is specified in 
+the debt agreement as a percentage of the principal amount as follows: 6% in 20X1 (CU75), 8% in 20X2 
+(CU100), 10% in 20X3 (CU125), 12% in 20X4 (CU150) and 16.4% in 20X5 (CU205). It can be shown that the 
+interest rate that exactly discounts the stream of future cash payments to maturity is 10%. In each period, the 
+amortised cost at the beginning of the period is multiplied by the EIR of 10% and added to the gross carrying 
+amount. Any cash payments in the period are deducted from the resulting balance. Accordingly, the gross 
+carrying amount, interest income and cash flows of the debt instrument in each period are as follows: [IFRS 9.IG 
+B.27] 
+  
+(a) 
+(b = a × 10%) 
+(c) 
+(d = a + b - c) 
+  
+Gross carrying 
+amount at the 
+start of the year  
+Interest income 
+Cash flows 
+Gross carrying 
+amount at the end 
+of the year 
+Year 
+(CU) 
+(CU) 
+(CU) 
+(CU) 
+20X1 
+1,250 
+125 
+75 
+1,300 
+20X2 
+1,300 
+130 
+100 
+1,330 
+20X3 
+1,330 
+133 
+125 
+1,338 
+20X4 
+1,338 
+134 
+150 
+1,322 
+20X5 
+1,322 
+133 
+1,250 + 205 
+- 
+It can be seen that, although the instrument is issued for CU1,250 and has a maturity amount of CU1,250, its 
+gross carrying amount (i.e., the amortised cost) does not equal CU1,250 at each reporting date. 
+Methods for determining the EIR for a given set of cash flows (as in the Illustrations above) include simple 
+trial and error techniques as well as more methodical iterative algorithms. Alternatively, many spreadsheet 
+applications contain goal-seek or similar functions that can also be used to derive EIRs. 
+3.3 
+Floating interest rate instruments 
+In most cases, a floating rate will be specified as a benchmark rate, such as EURIBOR or SONIA, plus (or for 
+a very highly rated borrower, less) a fixed credit spread. Hence it might be more accurate to say that the 
+rate has a floating component and a fixed component. But it is also possible for the credit spread to be 
+periodically reset to a market rate. Neither ‘floating-rate’ nor ‘market rates of interest’ are defined in the 
+standard. However, the IFRS IC noted in its January 2016 agenda decision on separation of an embedded 
+floor from a floating rate host contract that the term ‘market rate of interest’ is linked to the concept of fair 
+value as defined in IFRS 13 and is described in IAS 39.AG64 as the rate of interest for a similar instrument 
+(similar as to currency, term, type of interest rate and other factors) with a similar credit rating (or the 
+equivalent in IFRS 9.B5.1.1).4 This implies that the market rate of interest may include the credit spread 
+appropriate for the transaction and not just the benchmark component of the rate. 
+ 
+4 
+IFRIC Update, January 2016, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3712 
+For floating-rate instruments, the periodic re-estimation of cash flows to reflect the movements in the 
+market interest rates alters the EIR. The standard goes on to explain that where a floating rate financial 
+asset or a floating-rate financial liability is initially recognised at an amount equal to the principal receivable 
+or repayable on maturity, re-estimating the future interest payments normally has no significant effect on 
+the carrying amount of the asset or the liability. [IFRS 9.B5.4.5]. This is normally interpreted to mean that 
+entities should simply account for periodic floating-rate payments on an accrual basis in the period they are 
+earned. An alternative treatment would consist of calculating the EIR based on a market-derived yield curve 
+applicable for the entire life of the instrument. Applying this alternative approach, the calculated EIR is 
+applied until estimated future cash flows are revised, at which point a new EIR is calculated based on the 
+revised cash flow expectations and the current carrying amount. This more complicated treatment is 
+explained in the following Illustration in which it is assumed that the instrument meets the criteria for 
+measurement at amortised cost under IFRS 9. This is in line with the IFRS IC’s discussion on inflation-linked 
+instruments in May 2008 (see section 3.6 below). Any proposed change in the use of either approach 
+described above, would need to be assessed against the requirements of IAS 8 Accounting Policies, 
+Changes in Accounting Estimates and Errors to determine whether this would represent a change in 
+estimate or change in accounting policy. For more details see Chapter 3 at section 4.2. 
+Illustration 3-6: 
+Effective interest method - variable rate loan 
+At the start of July 20X1, Company G originates a floating-rate debt instrument. Its fair value is equal to its 
+principal amount of CU1,000 and no transaction costs are incurred. The instrument pays, in arrears at the end 
+of June, a variable rate coupon, determined by reference to 12-month EURIBOR at the start of each previous 
+July. It has a term of five years and is repayable at its principal amount at the end of June 20X6. 
+On origination, 12-month EURIBOR is 5% and this establishes the first payment, to be made in June 20X2, at 
+CU50. Based on a market-derived yield curve, G estimates that the subsequent floating-rate payments will be 
+CU60, CU70, CU80 and CU90 (the yield curve rises steeply). It can be demonstrated that the interest rate that 
+exactly discounts these estimated coupon payments and the CU1,000 principal at maturity to the current 
+carrying amount of CU1,000 is 6.87%. This would be the EIR for the debt instrument. The EIR is recalculated 
+as and when the estimated future cash flows change. 
+In the context of applying IFRS 9.B5.4.5, principal is understood to be the fair value of the financial 
+instrument at initial recognition, and importantly that the principal amount may change over the life of the 
+instrument (for example, if there are repayments of principal) (see Chapter 44 at section 5.1). 
+[IFRS 9.B4.1.7B]. This would mean that floating rate financial instruments where there are repayments over 
+the life, for example a floating rate loan with capital repayments required over the life, would still fall into 
+the scope of IFRS 9.B5.4.5. 
+3.4 
+Prepayment, call and similar options 
+When calculating the EIR, all contractual terms of the financial instrument, for example prepayment, call 
+and similar options, should be taken into account in the estimate of expected cash flows. [IFRS 9 Appendix A]. 
+This assumes that the presence of such contractual terms does not cause the contractual cash flow 
+characteristics test to fail, i.e., the contractual terms of the debt instrument give rise on specified dates to 
+cash flows that are solely payments of principal and interest on the principal amount outstanding (see 
+Chapter 44 at section 5). The following simple Illustration shows how this principle is applied. 
+Illustration 3-7: 
+Effective interest rate - embedded prepayment options 
+Bank ABC originates 1,000 ten-year loans of CU10,000 with 10% stated interest, prepayable at par. 
+Prepayments are probable and it is possible to reasonably estimate their timing and amount. ABC determines 
+that the EIR including loan origination fees received by ABC is 10.2% based on the contractual payment terms 
+of the loans as the fees received reduce the initial carrying amount. 
+However, if the expected prepayments were considered, the EIR would be 10.4% since the difference between 
+the initial amount and maturity amount is amortised over a shorter period. 
+The EIR that should be used by ABC for the loans in this portfolio is 10.4%.5 
+ 
+ 
+ 
+5 
+IAS 39 Implementation Guidance Committee (IGC), Q&A 10-19, July 2001. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3713 
+If a hybrid contract contains a host that is a liability within the scope of IFRS 9, any embedded derivative 
+(e.g., a prepayment option) that is separated from the host must be accounted for as a derivative (see 
+Chapter 42 at section 4 and section 5). [IFRS 9.4.3.3]. Once separated, the embedded derivative should not 
+be taken into account in applying the effective interest method of the host. However, if the embedded 
+derivative is closely related and not separated from the host instrument, entities that measure the whole 
+instrument at amortised cost must apply the effective interest method inclusive of the embedded derivative 
+to determine the amount of interest to be recognised in profit or loss for each period (see Chapter 42 at 
+section 3). 
+3.4.1 
+Revisions to estimated cash flows 
+The standard contains an explanation of how changes to estimates of payments or receipts (e.g., because 
+of a reassessment of the extent to which prepayments will occur) should be dealt with. 
+When there is a change in estimates of payments or receipts, excluding changes in estimates of ECLs, the 
+gross carrying amount of the financial asset or amortised cost of a financial liability (or group of 
+instruments) should be adjusted to reflect actual and revised estimated cash flows. More precisely, the 
+gross carrying amount of the financial asset or amortised cost of the financial liability should be 
+recalculated by computing the present value of estimated future contractual cash flows that are discounted 
+at the financial instrument’s original EIR. Any consequent adjustment should be recognised immediately in 
+profit or loss. [IFRS 9.B5.4.6]. 
+The revision of estimates is demonstrated in the following Illustration adapted from the Implementation 
+Guidance to the IFRS accounting standard. [IFRS 9.IG B.26]. 
+Illustration 3-8: 
+Effective interest method - revision of estimates 
+At the start of 20X1, a company purchases in a quoted market a debt instrument with five years remaining to 
+maturity for its fair value of CU1,000 (including transaction costs). The instrument has a principal amount of 
+CU1,250 and carries fixed interest of 4.7% payable annually (CU1,250 × 4.7% = CU59 per year). In order to 
+allocate interest receipts and the initial discount over the term of the instrument at a constant rate on the 
+carrying amount, it can be shown that interest needs to be accrued at the rate of 10% annually. In each period, 
+the amortised cost at the beginning of the period is multiplied by the EIR of 10% and added to the gross 
+carrying amount. Any cash payments in the period are deducted from the resulting balance. 
+In effect, this instrument has the same terms as the instrument in Illustration 3-4 in section 3.2 above, except 
+that the contract also specifies that the borrower has an option to prepay the instrument and that no penalty 
+will be charged for prepayment (i.e., any prepayment will be made at the principal amount of CU1,250 or a 
+proportion thereof). 
+At inception, there is an expectation that the borrower will not prepay and so the information about the 
+instrument’s EIR, gross carrying amount, interest income and cash flows in each reporting period would be the 
+same as that in Illustration 3-4 above. The table is repeated below and provides information about the gross 
+carrying amount, interest income, and cash flows of the debt instrument in each reporting period. 
+  
+(a) 
+(b = a × 10%) 
+(c) 
+(d = a + b - c) 
+  
+Gross carrying 
+amount at the 
+start of the year 
+Interest income 
+Cash flows 
+Gross carrying 
+amount at the end 
+of the year 
+Year 
+(CU) 
+(CU) 
+(CU) 
+(CU) 
+20X1 
+1,000 
+100 
+59 
+1,041 
+20X2 
+1,041 
+104 
+59 
+1,086 
+20X3 
+1,086 
+109 
+59 
+1,136 
+20X4 
+1,136 
+113 
+59 
+1,190 
+20X5 
+1,190 
+119 
+1,250 + 59 
+- 
+On the first day of 20X3, the investor revises its estimate of cash flows. It now expects that 50% of the 
+principal will be prepaid at the end of 20X3 and the remaining 50% at the end of 20X5. Therefore, the opening 
+balance of the debt instrument in 20X3 is adjusted to an amount calculated by discounting the amounts 
+expected to be received in 20X3 and subsequent years using the original EIR (10%). This results in a revised 
+balance of CU1,138. The adjustment of CU52 (CU1,138 - CU1,086) is recorded in profit or loss in 20X3. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3714 
+ 
+The table below provides information about the gross carrying amount, interest income and cash flows as they 
+would be adjusted taking into account this change in estimate. 
+  
+(a) 
+(b = a × 10%) 
+(c) 
+(d = a + b - c) 
+  
+Gross carrying 
+amount at start of 
+year  
+Interest and 
+similar income 
+Cash flows 
+Gross carrying 
+amount at end of 
+year 
+Year 
+(CU) 
+(CU) 
+(CU) 
+(CU) 
+20X1 
+1,000 
+100 
+59 
+1,041 
+20X2 
+1,041 
+104 
+59 
+1,086 
+20X3 
+1,086 + 52 
+114 
+625 + 59 
+568 
+20X4 
+568 
+57 
+30 
+595 
+20X5 
+595 
+60 
+625 + 30 
+- 
+This above calculation would be applicable whether the instruments were classified as measured at amortised 
+cost or fair value through other comprehensive income under IFRS 9. 
+The standard and its related guidance do not state whether the catch-up adjustment in the Illustration 
+above (CU52 in 20X3 in this case) should be classified as interest income or as some other income or 
+expense, simply that it should be recognised in profit or loss. 
+This Illustration assumes that the prepayment option does not cause the debt financial asset to fail to 
+comply with the amortised cost classification criteria. For this to be the case, the fair value of the 
+prepayment feature on initial recognition would have to be insignificant. [IFRS 9.4.1.2(b), IFRS 9.B4.1.12]. 
+3.5 
+Perpetual debt instruments 
+Accounting for perpetual debt instruments is discussed in Chapter 43 at section 4.7. The fact that an 
+instrument is perpetual does not change how the gross carrying amount is calculated. The present value of 
+the perpetual stream of future cash payments, discounted at the EIR, equals the gross carrying amount in 
+each period. [IFRS 9.IG B.24]. 
+However, in cases where interest is only paid over a limited amount of time, some or all the interest 
+payments are, from an economic perspective, repayments of the gross carrying amount, as illustrated in 
+the following Illustration. [IFRS 9.IG B.25]. 
+Illustration 3-9: 
+Amortised cost - perpetual debt with interest payments over a limited amount 
+of time 
+On 1 January 20X1, Company A subscribes CU1,000 for a perpetual debt instrument which yields 25% 
+interest for the first five years and 0% in subsequent periods. The instrument is classified as measured at 
+amortised cost. It can be determined that the effective yield is 7.93% and the gross carrying amount is shown 
+in the table below. 
+ 
+(a) 
+(b = a × 7.93%) 
+(c) 
+(d = a + b - c) 
+  
+Gross carrying 
+amount at the 
+start of the year  
+Interest income 
+Cash flows 
+Gross carrying 
+amount at the end 
+of the year 
+Year 
+(CU) 
+(CU) 
+(CU) 
+(CU) 
+20X1 
+1,000 
+79 
+250 
+829 
+20X2 
+829 
+66 
+250 
+645 
+20X3 
+645 
+51 
+250 
+446 
+20X4 
+446 
+36 
+250 
+232 
+20X5 
+232 
+18 
+250 
+- 
+20X6 
+- 
+- 
+- 
+- 
+  
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3715 
+3.6 
+Inflation-linked debt instruments 
+As noted in Chapter 42 at section 4.1.5, the issue of debt instruments whose cash flows are linked to 
+changes in an inflation index is quite common. IFRS 9 often allows inflation-linked financial assets to be 
+recorded at amortised cost or at fair value through other comprehensive income, as shown in Illustration 5-
+2 in Chapter 44 at section 5.3.5. Entities that record these instruments at amortised cost must apply the 
+effective interest method to determine the amount of interest to be recognised in profit or loss for each 
+period. In May 2008, the IFRS IC was asked to consider a request for guidance on this issue. The key issue 
+is whether the changes in the cash flows on inflation-linked debt are equivalent to a repricing to the market 
+rate and, therefore, inflation-linked debt can be treated as a floating rate instrument. Three ways of 
+applying the effective interest method that were being used in practice were included in the request. These 
+are summarised in the following Illustration that has been revised to reflect the requirements in IFRS 9 
+instead of IAS 39.6 
+Illustration 3-10: 
+Application of the effective interest method to inflation-linked debt instruments 
+On 1 January 20X1, Company A issues a debt instrument for CU100,000 that is linked to the local Consumer 
+Prices Index (CPI). The terms of the instrument require it to be repaid in full after five years at an amount 
+equal to CU100,000 adjusted by the cumulative change in the CPI over those five years. Interest on the loan is 
+paid at each year end at an amount equal to 5% of the principal (CU100,000) adjusted by the cumulative 
+change in the CPI from issuance of the instrument. For IFRS 9 purposes, it is assumed that the debt instrument 
+is not held for trading or designated at fair value through profit or loss and thereby, the debt instrument is 
+classified as subsequently measured at amortised cost. 
+The following table sets out the expected annual inflation rates on issuance of the instrument and one year 
+later: 
+  
+Expected annual inflation rates 
+  
+At start of 20X1 
+At start of 20X2 
+20X1 
+0.7% 
+1.2% 
+20X2 
+2.6% 
+1.4% 
+20X3 
+2.8% 
+1.9% 
+20X4 
+2.8% 
+3.5% 
+20X5 
+2.8% 
+3.5% 
+During 20X1, actual inflation is 1.2%. 
+Approach 1 - application of IFRS 9.B5.4.6 (or the previous IAS 39.AG8 approach) 
+This approach follows the requirements set out in section 3.4.1 above. As outlined below, it does not view the 
+debt as a floating-rate instrument and so calculates a fixed EIR. This is established on 1 January 20X1 based 
+on expected cash flows at that time: 
+Date: end of 
+Expected cash flow 
+Calculation 
+  
+(CU) 
+  
+20X1 
+5,035 
+=5,000 × 1.007 
+20X2 
+5,166 
+=5,000 × 1.007 × 1.026 
+20X3 
+5,311 
+=5,000 × 1.007 × 1.026 × 1.028 
+20X4 
+5,459 
+=5,000 × 1.007 × 1.026 × 1.028 × 1.028 
+20X5 
+117,854 
+=105,000 × 1.007 × 1.026 × 1.028 × 1.028 × 1.028 
+It can be demonstrated that these expected cash flows produce an EIR of 7.4075%, i.e., the net present value 
+of these cash flows, discounted at 7.4075%, equals CU100,000. 
+During 20X1, A applies the EIR to the financial liability to recognise an interest expense of CU7,408 
+(CU100,000 × 7.4075%), increasing the carrying amount of the financial liability to CU107,408 (CU100,000 + 
+CU7,408). At the end of the year, A pays cash interest of CU5,060 (CU5,000 × 101.2%) reducing the liability 
+to CU102,348 (CU107,408 - CU5,060). In addition, A must adjust the carrying amount of the financial liability 
+so that it equals the net present value of expected future cash flows discounted at the original expected 
+interest rate as determined based on original expectations.  
+ 
+ 
+ 
+6 
+IFRIC Update, July 2008, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3716 
+ 
+The expected future cash flows are now as follows: 
+Date: end of 
+Cash flow 
+Calculation 
+  
+(CU) 
+  
+20X2  
+5,131 
+=5,000 × 1.012 × 1.014 
+20X3  
+5,228 
+=5,000 × 1.012 × 1.014 × 1.019 
+20X4  
+5,411 
+=5,000 × 1.012 × 1.014 × 1.019 × 1.035 
+20X5  
+117,615 
+=105,000 × 1.012 × 1.014 × 1.019 × 1.035 × 1.035 
+The net present value of these cash flows discounted at 7.4075% is CU102,050. Therefore, A recognises a 
+gain as a result of the revision of estimated cash flows in profit and loss of CU298 (CU102,050 - CU102,348). 
+Approach 2 - application of IFRS 9.B5.4.5 using forecast future cash flows (or the previous IAS 39 AG7 
+approach) 
+This approach is referred to in section 3.3 above for simple floating-rate instruments. In outline, it calculates a 
+floating-rate EIR based on current market expectations of future inflation. 
+The initial EIR is calculated and applied in the same way as Approach 1. However, no adjustment is made to the 
+carrying amount of the financial liability at the end of 20X1 of CU102,348 or to the interest expense for 20X1 
+CU7,408 (CU100,000 × 7.4075%) as a result of A revising its expectations about inflation over the remaining 
+term of the instrument at the start of 20X1. 
+Instead, a revised EIR is calculated at the start of 20X2 using the revised forecast cash flows (shown above 
+under Approach 1, i.e., CU5,131 at the end of 20X2, CU5,228 at the end of 20X3, CU5,411 at the end of 
+20X4 and CU117,615 at the end of 20X5) and the current carrying amount (CU102,348). It can be 
+demonstrated that this produces a revised EIR of 7.3236%, i.e., the net present value of those cash flows, 
+discounted at 7.3236% equals CU102,348. 
+Applying this revised rate prospectively in 20X2 (and assuming estimates of future inflation are not revised 
+again until the start of 20X3) there will be interest expense for 20X2 of CU7,496 (CU102,348 × 7.3236%). 
+Approach 3 - application of IFRS 9 B5.4.5 without forecasting future cash flows 
+This method is based on the traditional approach of accounting for floating-rate debt instruments and is 
+commonly used under other bodies of GAAP. Rather than taking account of expectations of future inflation it 
+takes account of inflation only during the reporting period. 
+Therefore, in 20X1, A would recognise interest expense of CU5,060 (CU100,000 × 5% × 1.012) as a result of 
+accruing the variable interest payment in respect of 20X1. In addition, the actual inflation experienced during 
+20X1 increases the amount of principal that will be paid from CU100,000 to CU101,200 (CU100,000 × 
+1.012%). This increase, i.e., CU1,200, is effectively a premium to be paid on the redemption of the financial 
+liability. IFRS 9 explains that a premium should normally be amortised over the expected life of an instrument. 
+However, it goes on to explain that a shorter period should be used if this is the period to which the premium 
+relates. [IFRS 9.B5.4.4]. In this case, the premium clearly relates to 20X1 as it arises from inflation during that 
+year and so it is appropriately amortised in that year. 
+Consequently, the total interest expense for 20X1 using this approach would be CU6,260 (CU5,060 + 
+CU1,200). 
+In analysing the submission, it initially appeared as if the IFRS IC staff completely rejected Approach 3. The 
+submission argued that Approach 3 was justified by reference to IAS 29 Financial Reporting in 
+Hyperinflationary Economies. The staff concluded that it was inappropriate to apply IAS 29 because that 
+standard applies only to the financial statements of an entity whose functional currency is the currency of a 
+hyperinflationary economy and instead the guidance in IAS 39 should be applied. 
+However, in their final rejection notice the IFRS IC noted that IAS 39.AG6 to AG8 provide the relevant 
+application guidance and that judgement is required to determine whether an instrument is floating-rate 
+and within the scope of IAS 39.AG7 or is within the scope of IAS 39.AG8.7 Further, it was noted that IAS 39 
+was unclear as to whether future expectations about interest rates (and presumably, therefore, inflation) 
+should be taken into account when applying IAS 39.AG7. This would appear to suggest that all three 
+approaches noted in the Illustration would be consistent with the requirements of IAS 39 and therefore, 
+since the requirements are unchanged, of IFRS 9. Any proposed change in the approach used by an entity 
+would need to be assessed against the requirements of IAS 8 to determine whether this would represent a 
+change in estimate or change in accounting policy. For more details see Chapter 3 at section 4.2. 
+ 
+7 
+IFRIC Update, July 2008, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3717 
+3.7 
+Financial liabilities 
+3.7.1 
+Amortised cost financial liabilities with embedded features 
+Under IFRS 9, most complex financial assets are accounted for at fair value through profit or loss. The treatment 
+of financial liabilities is, however, unchanged from that under IAS 39. The application of the effective interest 
+method to liabilities with embedded derivatives that are deemed closely related to the host, or other embedded 
+features not deemed to meet the definition of a derivative, is not always straightforward or intuitive. Specifically, 
+it is not always clear how to deal with changes in the estimated cash flows of the instrument and in any given 
+situation one needs to assess which is the most appropriate approach: 
+• 
+The general requirements for changes in cash flows set out in IFRS 9.B5.4.6, equivalent to the previous 
+IAS 39 AG8 approach, assuming a fixed original EIR (see section 3.4.1 above). 
+Or 
+• 
+Specific requirements for floating-rate instruments under IFRS 9.B5.4.5, equivalent to the previous IAS 39 
+AG7 approach (see section 3.3 above). 
+To illustrate the differences between the two approaches, consider an entity that issues a debt instrument for its 
+par value of CU10m which is repayable in ten years’ time on which an annual coupon is payable comprising two 
+elements: a fixed amount of 2.5% of the par value and a variable amount equating to 0.01% of the entity’s 
+annual revenues. The instrument is not designated at fair value through profit or loss and it is judged that the 
+embedded feature is not a derivative as outlined in Illustration 1-5 in Chapter 42 at section 1.1.3. 
+The requirements under IFRS 9.B5.4.5 and IFRS 9.B5.4.6 could give rise to significantly different accounting 
+treatments. In the latter case, the issuer would need to estimate the amount of payments to be made over the 
+life of the bond (which will depend on its estimated revenues for the next ten years) in order to determine the 
+EIR to be applied. Any changes to these estimates would result in a catch-up adjustment, based on the rate as 
+estimated on origination, to profit or loss and the carrying amount of the bond which, potentially, could give rise 
+to significant volatility. In the former case the annual coupon would simply be accrued each year and changes in 
+estimated revenues of future periods would have no impact on the accounting treatment until the applicable 
+year. 
+In 2009, the IFRS IC was asked for guidance on how an issuer should account for a financial liability that contains 
+participation rights by which the instrument holder shares in the net income and losses of the issuer. The holder 
+receives a percentage of the issuer’s net income and is allocated a proportional share of the issuer’s losses. 
+Losses are applied to the nominal value of the instrument to be repaid on maturity. Losses allocated to the 
+holder in one period can be offset by profits in subsequent periods. The submission was asking how the issuer 
+should account for such instruments in periods in which the issuer records a loss and allocates a portion of that 
+loss to the participating financial instruments. Two possible views were submitted to IFRS IC: 
+• 
+In the first view the requirements in IAS 39.AG8 (equivalent to IFRS 9.B5.4.6) do not apply. Rather, the 
+requirements for derecognition should be applied and a gain equal to the allocated loss should be 
+recognised in the current period (with an offsetting reduction in the carrying amount of the instrument). 
+• 
+In a second view, the requirements in IAS 39.AG8 (equivalent to IFRS 9.B5.4.6) apply. Current period losses 
+are one factor that the issuer would consider when it evaluates whether it needs to revise its estimated 
+future cash flows and adjust the carrying amount of the participating financial instrument. 
+The IFRS IC noted that IAS 39.AG6 and AG8 (equivalent to IFRS 9.B5.4.4. and IFRS 9.B5.4.6) provide the 
+relevant application guidance for measuring financial liabilities at amortised cost using the EIR method. The 
+IFRS IC also noted that it was inappropriate to analogise to the derecognition guidance in IAS 39 because the 
+liability has not been extinguished. Therefore, a gain equal to the allocated loss should not be recognised in the 
+current period. Rather, current period losses should be considered together with further expectations when the 
+issuer evaluates the need to revise its estimated future cash flows and adjust the carrying amount of the 
+participating financial instrument. 
+It should be noted that the IFRS IC considered the issue without reconsidering the assumptions described in the 
+request, namely that the financial liability: (a) did not contain any embedded derivatives, (b) was measured at 
+amortised cost using the effective interest method, and (c) did not meet the definition of a floating-rate 
+instrument.8 
+ 
+8 
+IFRIC Update, May 2009, available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3718 
+How we see it 
+In these situations, we believe that it would often be inappropriate to apply the requirements under 
+IFRS 9.B5.4.5, principally because the entity’s revenue does not represent a floating-rate that changes to 
+reflect movements in market rates of interest. However, IFRS 9 does not contain clear guidance on how 
+the expected cash flows are estimated when calculating EIR. Consequently, the EIR should be determined 
+by estimating what the resultant cashflows will be. This may involve the use of judgement or assumptions 
+based on the latest available, reliable information. The expected cash flows could be estimated using the 
+most likely outcome method or a probability-weighted approach. The estimation technique used should 
+remain consistent, unless there are changes in the circumstances on which the accounting estimate was 
+based or as a result of new information, new developments or more experience. 
+In determining which estimation technique to use (i.e., the most likely outcome or a probability-weighted 
+method), an entity could consider the principles in IAS 37 Provisions, Contingent Liabilities and Contingent 
+Assets for determining a best estimate, see Chapter 27 section 4.1, as well as the principles in IFRIC 23 
+Uncertainty over Income Tax Treatments which requires an entity to use whichever method better predicts 
+the resolution of the uncertainty, see Chapter 29 section 9.4. 
+There are some financial liabilities for which re-estimation of cash flows will only reflect movements in 
+market interest rates but for which the use of IFRS 9.B5.4.5 would, arguably, not be appropriate. An 
+example would be an ‘inverse floater’, on which coupons are paid at a fixed-rate minus EURIBOR (subject to 
+a floor of zero). 
+For some financial liabilities, it might be considered appropriate to apply a combination of both the 
+IFRS 9.B5.4.5 and IFRS 9.B5.4.6 approaches. An example would be the situation outlined above where the 
+liability contains participation features, together with a floating rate element. In these situations, the EIR 
+would be a combination of the current floating rate and initial expected revenue assumptions. 
+IFRS 9.B5.4.6. would be applied to the revision of expected revenues, but the remainder of the interest 
+coupon would be the floating-rate (also see section 3.3 above and section 3.8.1 below where further 
+situations are outlined where a combination of both the IFRS 9.B5.4.5 and IFRS 9.B5.4.6 would be 
+required). 
+In addition to determining whether IFRS 9.B5.4.5 or IFRS 9.B5.4.6 is applicable, there are further 
+complexities involving the estimation of the expected cash flows both initially, and if required, on revision of 
+the cashflows. There are also complications when distinguishing between a partial derecognition and a 
+modification, and accounting for fees and costs as a result of modifying the original contract. To a large 
+extent these complexities were raised as part of IFRS 9 PIR (see section 3.8.4 below). 
+3.7.2 
+Amortised cost financial liabilities with contractual linkage features 
+Another complex area is the accounting for a financial liability in a securitisation structure where a special 
+purpose entity (SPE) invests in a portfolio of loans and raises funds by issuing listed non-recourse notes to 
+investors. The SPE’s contractual obligations on the listed notes are linked to the performance of the loans 
+less the interest spread. This contractual linkage feature, where any losses suffered on the loans will be 
+borne by the noteholders, will be accounted for as part of the listed notes liability. Consequently, the EIR of 
+the notes will reflect an estimate of any expected cash shortfalls arising from credit losses on the 
+underlying loan assets (since this affects the contractual payments required on the notes) [IFRS 9.BCZ5.67]. 
+With regards to how the expected cash flows are estimated when calculating EIR, IFRS 9 does not contain 
+clear guidance. Consequently, the EIR should be determined by estimating what the resultant cashflows will 
+be. This may involve the use of judgement or assumptions based on the latest available, reliable 
+information. [IAS 8.32]. The expected cash flows could be estimated using the most likely outcome method or 
+a probability-weighted approach. In determining which estimation technique to use (i.e., the most likely 
+outcome or a probability-weighted method), an entity could consider the principles in IAS 37 for 
+determining a best estimate, see Chapter 27 section 4.1, as well as the principles in IFRIC 23 which requires 
+an entity to use whichever method better predicts the resolution of the uncertainty, see Chapter 29 
+section 9.4. The estimation technique used should remain consistent, unless there are changes in the 
+circumstances on which the accounting estimate was based or as a result of new information, new 
+developments or more experience. [IAS 8.34]. Any revisions to the estimated contractual cash payments on 
+the listed notes due to the linkage feature should be accounted for as an adjustment to the amortised cost 
+of the noteholder liability (discounted at the effective interest rate) and recognised in profit or loss (for 
+more details, see Chapter 47 at section 7.7). [IFRS 9.B5.4.6]. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3719 
+3.7.3 
+Amortised cost financial liabilities with contingent demand features 
+As discussed in section 3.4 above, the definition of effective interest rate makes it clear that entities are 
+required to take prepayment, call and similar options into account when determining the EIR of a financial 
+instrument. There are situations where the ability to exercise these options may be contingent on some 
+future event. The Illustration below shows how an entity may need to revise its estimate of payments in the 
+event that an entity breaches a debt covenant and the loan becomes repayable on demand. 
+Illustration 3-11: 
+Loan repayable on demand due to breach of a covenant 
+Entity X (the borrower) borrows CU1,000 from Bank Y (the lender) at the beginning of 20X1. The loan attracts 
+interest at a floating rate and is repayable in five years’ time (i.e., at the end of 20X5). The borrower incurs 
+transaction costs amounting to CU50. In the event that there is a breach of covenant, the financial liability 
+becomes repayable on demand at the option of the lender. 
+Key assumptions: 
+• 
+The loan is measured at amortised cost. 
+• 
+At the end of the reporting period 20X3, Entity X has breached its debt covenant. 
+• 
+The value of unamortised transaction costs at the end of 20X3 is CU20. 
+Analysis: 
+The loan contract provides Bank Y (the lender) with an option to demand repayment of the loan in the event 
+that Entity X (the borrower) breaches a covenant. In determining the period over which the transaction costs 
+should be amortised, Entity X would have had to assess the probability of the early repayment option being 
+triggered and exercised at initial recognition. This would require an assessment of: 
+a) 
+The likelihood of the option becoming exercisable (taking into account the probability of Entity X 
+breaching covenants). 
+And 
+b) 
+The likelihood of the bank exercising its option in that instance. 
+This estimate could be determined using a most likely outcome approach or a probability-weighted approach, 
+depending on the specific facts and circumstances. Any subsequent revision of the estimates of cash flows 
+would need to be accounted for in accordance with IFRS 9.B5.4.6. 
+As a result of Entity X breaching its covenant at the end of 20X3 and the liability becoming repayable on 
+demand at the option of the Bank Y, Entity X, as part of its re-estimation of the cash flows, would need to 
+update its assessment of whether the bank is expected to exercise its option to demand repayment. The period 
+over which the transaction costs are to be amortised would need to be updated accordingly. The gross 
+carrying amount of the financial liability would need to be updated for any change in such estimate, with any 
+consequential adjustment being recognised in profit or loss. [IFRS 9.B5.4.6]. In some cases, the entity may not 
+have sufficient information to determine whether the lender will demand repayment of the loan, in which case 
+it may be appropriate to accelerate the amortisation of the remaining unamortised transaction costs. 
+The assumptions that the borrower makes regarding whether the bank will demand repayment, should be 
+consistent with the assumptions used for assessing the entity’s ability to continue as a going concern. 
+How we see it 
+In the Illustration above, the loan (financial liability) is measured initially at fair value and subsequently 
+at amortised cost. If the loan was subsequently measured at fair value, then the entity would have to 
+consider IFRS 13.47 which requires that the fair value of a financial liability with a demand feature, is 
+not less than the amount payable on demand, discounted from the first date that the amount could be 
+required to be paid. However, as illustrated above, where a loan that is subsequently measured at 
+amortised cost becomes repayable on demand at some point after initial recognition, e.g., as result of 
+a covenant breach, then the principles of IFRS 13.47 would not be applicable. Therefore, the 
+amortisation of the remaining unamortised transaction costs would not necessarily need to be 
+accelerated such that the loan reflects the amount that could be demanded by the bank. Rather in such 
+a case, same as before the covenant breach, the amortised cost loan would need to be remeasured 
+taking into account the entity’s revised estimate of cash flows. This estimate would involve the use of 
+judgement or assumptions based on the latest available, reliable information, including the status of 
+negotiations with the bank and how this impacts the probability and timing of the bank demanding 
+repayment. 
+ 
+ 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3720 
+The Illustration above explains how an entity needs to revise its estimate of the timing of cash flows in the 
+event of breaching a covenant, and the loan becoming repayable on demand. In determining which 
+estimation technique to use (i.e., the most likely outcome or a probability-weighted method), an entity 
+could consider the principles in IAS 37 for determining a best estimate, see Chapter 27 section 4.1, as well 
+as the principles in IFRIC 23 which requires an entity to use whichever method better predicts the 
+resolution of the uncertainty, see Chapter 29 section 9.4. 
+An entity would also need to update its liquidity risk disclosures in response to the loan becoming repayable 
+on demand. Refer to Chapter 50 at section 5.4 for further information. The assessment of whether the 
+liability should be presented in the statement of financial position (as either current or non-current) is 
+separate from the measurement considerations. In the above Illustration given that the breach occurred 
+prior to the end of the reporting period, and there was no renegotiation of the terms of the loan that were 
+concluded by period end, the loan would be classified as current. This would be the case regardless of 
+whether the entity expects the bank to demand repayment or whether there is an expectation that the 
+terms of the loan will be renegotiated. Refer to Chapter 3 at section 3.1.4 for further information. 
+3.8 
+Modified financial assets and liabilities 
+3.8.1 
+Accounting for modifications that do not result in derecognition 
+When the contractual cash flows of a financial asset are renegotiated or otherwise modified and the 
+renegotiation or modification does not result in the derecognition of that financial asset (see Chapter 48 at 
+section 3.5.1), an entity recalculates the gross carrying amount of the financial asset and recognises a 
+modification gain or loss in profit or loss. The gross carrying amount of the financial asset is recalculated as 
+the present value of the renegotiated or modified contractual cash flows that are discounted at the financial 
+asset’s original effective interest rate (or credit-adjusted effective interest rate for purchased or originated 
+credit-impaired financial assets - see section 3.1.2 above). Any costs or fees incurred adjust the carrying 
+amount of the modified financial asset and are amortised over the remaining term of the modified financial 
+asset (see section 3.8.2 below). [IFRS 9.5.4.3]. This results in a revision of the original EIR (see section 3.8.2 
+below). 
+The accounting for modifications of financial assets that do not result in derecognition is similar to changes 
+in estimates (see section 3.4.1 above), i.e., the original EIR is retained and there is a catch-up adjustment 
+to profit or loss for the change in expected cash flows discounted at the original EIR. [IFRS 9.B5.4.6]. For 
+example, this would be applicable where a borrower is granted a concession to delay interest payments if 
+the entity concludes that the change in the terms is not a substantial modification and therefore does not 
+result in the derecognition of the original loan and the recognition of a new loan. 
+In October 2017, the Board added wording to the Basis for Conclusions of IFRS 9 as part of the amendment 
+for prepayment features with negative compensation (see Chapter 44 at section 5.4.4.A). This addition 
+states that the requirements in IFRS 9 for adjusting the amortised cost of a financial liability when a 
+modification (or exchange) does not result in the derecognition of the financial liability are consistent with 
+the requirements for adjusting the gross carrying amount of a financial asset when a modification does not 
+result in the derecognition of the financial asset. It adds that the requirements in IFRS 9 therefore provide 
+an adequate basis for an entity to account for modifications and exchanges of financial liabilities that do not 
+result in derecognition. [IFRS 9.BC4.252, IFRS 9.BC4.253]. Therefore IFRS 9 requires modifications of financial 
+liabilities that do not result in derecognition to be accounted for similarly to modifications of financial 
+assets. The amortised cost of the financial liability should be recalculated by computing the present value of 
+estimated future contractual cash flows that are discounted at the financial instrument’s original EIR. Any 
+consequent adjustment should be recognised immediately in profit or loss. Any costs or fees incurred adjust 
+the carrying amount of the liability and are amortised over the remaining term of the modified liability. 
+[IFRS 9.B3.3.6]. This results in a revision of the original EIR (see section 3.8.2 below for more details on the 
+treatment of modification fees, and the examples in Chapter 48 at section 6.2.5 and section 6.2.6). 
+In certain instances judgement may need to be applied to identify whether the substance of a payment 
+made by a borrower to the lender represents additional interest or payment of principal to be accounted for 
+as a modification of cash flows (in line with IFRS 9.BC4.253) rather than a transaction cost (in line with 
+IFRS 9.B3.3.6) (see also Chapter 48 at section 6.2.5 to 6.2.7). 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3721 
+When the terms of a financial instrument are amended, application of the standard’s guidance on 
+modifications raises questions as to what the ‘original effective interest rate’ actually means, in particular 
+when the original contractual terms introduce some form of variability in the rate. This has led to more 
+general questions about when it may be appropriate to apply a prospective change to the effective interest 
+rate in accordance with IFRS 9.B5.4.5, assuming the effective interest rate has a variable component, 
+rather than applying a fixed effective interest rate. The following Illustrations focus on whether the changes 
+in terms constitute a modification or whether it may be appropriate to apply IFRS 9.B5.4.5. The accounting 
+treatment is clear in some of the fact patterns whilst an element of interpretation is required in others. 
+These Illustrations address the accounting from the lender’s perspective but are applicable to both financial 
+assets and financial liabilities, since the same modification requirements apply to both, as discussed above. 
+Illustration 3-12: 
+Changes in credit spread 
+Fact Pattern 1: A ratchet loan with a rate reset 
+Bank A issues a ratchet loan whereby the credit spread is increased in accordance with a scale of 
+predetermined rates, on the occurrence of one or more predetermined events that are linked to the borrower’s 
+financial covenants (e.g., debt and equity or interest coverage ratios). These clauses are included to avoid the 
+need to renegotiate the loan when the credit risk of the borrower changes and are considered to meet the 
+standard’s requirements for the loan to be recorded at amortised cost for the holder. 
+Analysis: 
+The credit spread is reset to reflect changes in credit risk and credit spreads are a component of a market 
+interest rate as indicated by the January 2016 IFRS IC agenda decision (see section 3.1 above). Consequently, 
+it would be appropriate to apply the guidance in B5.4.5. and account for the changes in the EIR prospectively 
+on an accrual basis. [IFRS 9.B5.4.5]. 
+How we see it 
+For a vanilla floating rate loan (e.g., at EURIBOR plus 2%), it is widely accepted that resetting only the 
+benchmark component of the rate would be regarded as a change in EIR in accordance with IFRS 9.B5.4.5. 
+Similarly, in our view, resetting only the credit spread component when the reset is predetermined at 
+inception can be regarded as a change in EIR as it is considered a component of the market interest rate. 
+Although the amount of the reset is specified at inception rather than being the market credit spread at the 
+reset date, this may be accounted for as a reset of the EIR provided that the predetermined rate changes 
+reasonably approximate the market rates for the different credit qualities as observed at inception. 
+Fact Pattern 2: Renegotiation of loan covenant in return for a higher credit spread 
+Company B has a term loan which pays interest at EURIBOR plus 2% (assume the EIR is also EURIBOR plus 2% 
+as there were no transaction costs, fees, discount nor premium). Company B is close to breaching a covenant, 
+and as they would generally be unable to prepay in the case of a covenant breach, they renegotiate the loan to 
+adjust the covenant in return for increasing the credit spread applied to the loan to 3%. The revised credit 
+spread reflects the amended terms of the loan and Company B’s current credit risk. 
+Analysis: 
+The change in rate results solely from a renegotiation of the terms and this change was not specified in the 
+contract at inception. Unless it was specified in the original terms that the credit spread would be reset to 
+predetermined rates based on specific events, the change should be treated as a modification in accordance 
+with IFRS 9.5.4.3. This would mean retaining the original EIR of EURIBOR plus 2%, resulting in the computation 
+and recognition of a gain or loss based on the change of spread discounted at this rate. [IFRS 9.5.4.3]. 
+ 
+Illustration 3-13: 
+Modification - troubled debt restructuring 
+Company B enters into a fixed rate term loan. A few years later, the company is in financial difficulty and 
+renegotiates with the lender to reduce or defer some of the payments due under the loan. The changes in the 
+terms of the loan are not considered to result in a substantial modification and therefore it is not appropriate 
+to derecognise the entire loan. This renegotiation is also not treated as a partial derecognition (see Chapter 48 
+at sections 3.4 and 3.5.1). 
+Analysis: 
+As the changes to the payments are not as a result of movements in market interest rates and this change was 
+not specified in the contract at inception, it should be treated as a modification in accordance with 
+IFRS 9.5.4.3. This would mean retaining the original fixed rate EIR, resulting in the computation and 
+recognition of a gain or loss based on the change in the contractual payments discounted at this rate. 
+[IFRS 9.5.4.3]. 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3722 
+Illustration 3-14: 
+Modification - renegotiation of a fixed rate loan 
+Fact pattern 1: Renegotiation of a non-prepayable fixed rate loan with a partial rate reset 
+Company C has had a fixed-rate loan for several years, during which time the market interest rate has fallen. 
+The terms of the loan do not include any ability for the company to prepay. Company C renegotiates the loan 
+with the bank, to reduce the future interest payments to reflect a partial reset of the benchmark rate 
+component of the rate. There has been no change in the credit risk or credit spread applicable to the loan and 
+there are no other changes to the terms. 
+Analysis: 
+The change in rate results solely from a renegotiation of the terms and there was no existing prepayment 
+option that would allow Company C to prepay and re-enter into a new loan with the revised rate. Consequently, 
+the change should be treated as a modification in accordance with IFRS 9.5.4.3. This would mean retaining the 
+original fixed rate EIR, resulting in the computation and recognition of a gain or loss based on the change in 
+rate discounted at the original fixed EIR. [IFRS 9.5.4.3]. 
+Fact pattern 2: Renegotiation of fixed rate loan that is prepayable at par to a current market rate 
+Company D has a fixed rate loan that is prepayable at par, i.e., for unpaid principal and interest9, at any time 
+with no penalty. Company D renegotiates the terms of the loan with the lender to a new fixed market rate of 
+interest. The renegotiation is assumed not to be considered a substantial modification. 
+How we see it 
+The standard is unclear on how to treat this fact pattern. In such circumstances, in our view, the lender may 
+apply its judgement and select an appropriate accounting policy as shown in the analysis below. 
+Analysis: 
+Derecognition: The revision of the rate is in substance a settlement of the existing loan through the exercise of 
+the prepayment option and commencement of a new loan at the market rate of interest. The cash flows of the 
+original loan are deemed to have expired and should be derecognised with a corresponding new loan 
+recognised at fair value on initial recognition. [IFRS 9.3.2.3]. 
+Modification - keeping the original EIR: The revision does not represent an expiry of the contractual cash flows 
+and there was no actual prepayment of the loan. Since the rate reset is not specifically detailed in the contract 
+at inception, the prepayment option is not viewed as a reset option. Accordingly, the revision is treated as a 
+modification in accordance with IFRS 9.5.4.3. This would mean retaining the original fixed rate EIR, resulting 
+in the computation and recognition of a gain or loss based on the change of rate discounted at the original 
+fixed EIR. [IFRS 9.5.4.3]. 
+Modification - prospective change in EIR: The loan with a prepayment option at par with no penalty is 
+considered analogous to a loan with an option to reset the interest rate to the then prevailing market rate. 
+With such a prepayment option, Company D may prepay the fixed rate loan when interest rates decrease and 
+refinance at a market rate of interest with the same or different lender, or force the same lender to 
+renegotiate the existing interest rate to a market rate of interest. In both cases, the current lender is not 
+entitled to receive the original fixed-rate over the full maturity of the loan. Accordingly, although the 
+renegotiation is treated as a modification, the EIR is adjusted to reflect the new fixed market rate. 
+Fact pattern 3: Renegotiation of a fixed rate loan that is prepayable with compensation for the change in 
+benchmark interest rate 
+Company E has a prepayable fixed-rate loan whereby the prepayment amount includes reasonable additional 
+compensation to compensate for the change in benchmark interest rates. The prepayment clause is 
+considered to meet the standard’s requirements for the loan to be recorded at amortised cost. Company E 
+renegotiates the terms of the loan with the lender to a new fixed market rate of interest. The renegotiation is 
+assumed not to be considered as a substantial modification. 
+How we see it 
+The standard is unclear on how to treat this fact pattern. In such circumstances, in our view the lender may 
+apply its judgement and select an appropriate accounting policy, as shown in the analysis below. 
+ 
+ 
+ 
+ 
+ 
+9 
+This assumes that the loan was not purchased or originated at a premium or discount. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3723 
+Analysis: 
+Derecognition: The revision of the rate is in substance a settlement of the existing loan through the exercise of 
+the prepayment option to prepay at fair value and commencement of a new loan at the market rate of interest. 
+The cash flows of the original loan are deemed to have expired and should be derecognised with a 
+corresponding new loan recognised at fair value on initial recognition. 
+Modification - keeping the original EIR: The revision does not represent an expiry of the contractual cash flows 
+and there was no actual prepayment of the loan. In addition, the rate reset is not specifically detailed in the 
+contract at inception and the prepayment amount requires compensation for the change in rates which differs 
+from Fact pattern 2 above whereby it prepays at par with no penalty. Consequently, the loan cannot be 
+analogised to a loan with an option to reset the interest rate to the then prevailing market rate. The revision 
+should therefore be treated as a modification in accordance with IFRS 9.5.4.3. This would mean retaining the 
+original fixed rate EIR, resulting in the computation and recognition of a gain or loss based on the change of 
+rate discounted at the original fixed EIR. [IFRS 9.5.4.3]. Note that if the maturity of the renegotiated loan is at 
+the same time extended compared to the original loan (for example from 10 years to 15 years), the penalty 
+paid to compensate the lender for the movements in market rate over the residual maturity of the original 10-
+year loan should be amortised over this remaining period only and not over the extended maturity from years 
+11 to 15, consistently with the guidance on EIR and amortisation periods (see section 3.1.1 above). 
+In some instances, new legislation may be enacted that modifies the contractual cashflows of a financial 
+asset or liability. If the change in the contractual cash flows does not result in derecognition, the 
+modification is accounted for as follows: 
+• 
+If the legislation is enforceable automatically, then the modification of the contractual cashflows is 
+accounted for when the legislation is enacted. [IFRS 9.5.4.3]. 
+Or 
+• 
+If the change in law allows the customer a choice in whether or not they want to participate, then the 
+cashflows under the new legislation are estimated, and any resulting changes are treated as a 
+modification. [IFRS 9.5.4.3]. Over time the estimated cashflows are reassessed, and any revisions to the 
+cashflow estimates are treated as a change in estimate as outlined in section 3.4.1 above. 
+[IFRS 9.B5.4.6]. 
+Under both scenarios described above, the modification of the cashflows as a result of the new legislation is 
+treated in line with IFRS 9.5.4.3. However, in the second scenario, as the legislation is not automatically 
+enforced, the impact on the cashflows will be estimated based on an assessment of the timing and number 
+of customers that will take up the changes, and this estimate is subsequently re-assessed to determine any 
+revisions required. 
+3.8.2 
+Treatment of modification fees 
+Assuming that the modification does not result in the derecognition of the financial asset, IFRS 9 requires 
+that changes in the contractual cash flows of the asset are recognised in profit or loss and any costs or fees 
+incurred adjust the carrying amount of the modified financial asset and are amortised over the remaining 
+term of the modified financial asset together with any pre-existing unamortised fees (see Chapter 48 at 
+section 6.2.5 for further discussions and examples). [IFRS 9.5.4.3]. Therefore, once the calculation of the 
+modification gain or loss has been performed, the original EIR determined at initial recognition will be 
+revised to reflect any new costs or fees incurred. 
+Illustration 3-15: 
+Accounting treatment of modification fees 
+The terms of a loan are modified and the revised contractual cash flows discounted at the original EIR, 
+determined at initial recognition, are CU5,000 (CU6,050 receivable in two years discounted at 10% per 
+annum). If the bank incurs external costs related to the modification of CU50, e.g., for valuation of collateral 
+and legal services, the original EIR of 10% will be revised to approximately 9%, i.e., the discount rate that 
+discounts CU6,050 receivable in two years to a present value of CU5,050. 
+For modified financial assets, while the standard deals with ‘costs and fees incurred’, it is not as clear as to 
+the appropriate treatment by the lender when modification fees are charged to the borrower. One view 
+could be that they should be included in the modification gain or loss as they are part of the modified 
+contractual cash flows and do not represent ‘fees incurred’. 
+Alternatively, one might argue that the fees charged to the borrower would adjust the carrying amount of 
+the loan. As a variation to the above Illustration, assume there are no external fees incurred by the lender, 
+rather CU60 of fees are charged to the customer. The effect of this approach would be to revise the 
+carrying amount of the loan to CU4,940 (CU5,000 - 60) and the EIR to 11%. This would be consistent with 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3724 
+the principle in IFRS 9.B5.4.2, which explains that origination and commitment fees are an integral part of 
+the EIR and, therefore, amortised over the term of the financial asset in accordance with the effective 
+interest method. [IFRS 9.B5.4.2]. 
+With respect to the accounting by a borrower of modification fees paid by a borrower, IFRS 9 requires that 
+any transaction costs or fees incurred adjust the carrying amount of the liability and are amortised over the 
+remaining term of the modified liability. [IFRS 9.B3.3.6]. This results in a revision of the original EIR, as 
+explained above. This is in line with IFRS 9.BC4.253 that explains that the amortised cost of a financial 
+liability should be adjusted in the same way that the gross carrying amount of a financial asset is adjusted 
+when a modification does not result in the derecognition of the financial asset. [IFRS 9.BC4.253, IFRS 9.5.4.3]. 
+Since costs and fees paid to the lender are amortised over the remaining term of the modified liability, while 
+changes to future cash flows paid to the lender are recognised immediately in profit or loss, it is necessary 
+to consider whether the substance of a payment is different from its form. This is discussed in more detail 
+in Chapter 48 at section 6.2.6. 
+3.8.3 
+Interbank Offered Rate (IBOR) reform 
+As a result of the reforms mandated by global regulators following the financial crisis, benchmark interbank 
+offered rates (IBORs) have largely been replaced by new benchmark rates known as Risk Free Rates 
+(RFRs).10 In 2018, the IASB commenced a project to consider the accounting implications of the reform and 
+divided its work into two phases: 
+• 
+Phase 1: addressed issues affecting financial reporting in the period before replacement of an existing 
+IBOR. 
+And 
+• 
+Phase 2: focused on issues that affect financial reporting when an existing interest rate benchmark is 
+replaced with an RFR. 
+The IASB completed its project and published the amendments to several standards, including IAS 39 and 
+IFRS 9, corresponding to Phase 1 and Phase 2 in September 2019 and August 2020 respectively. More 
+information about how the amendments are applied in practise and their accounting implications is 
+provided in Supplement: IBOR Reform. 
+3.8.4 
+Post implementation review 
+The IASB completed the post implementation review of the classification and measurement requirements of 
+IFRS 9 in 2022. In December 2022, the IASB issued a report11 containing feedback from the classification 
+and measurement PIR and noted the requirements are working as intended, however they noted that 
+clarification was needed in certain areas to improve the understandability of the requirements. The 
+feedback on the requirements for the modification of financial assets and financial liabilities was that there 
+is diversity in practice in applying the requirements. Respondents recommended that additional application 
+guidance be provided to improve consistency of application, including guidance on: 
+• 
+What constitutes a modification 
+• 
+When a modification leads to derecognition, including how to assess whether a modification is 
+substantial, and when to use quantitative or qualitative factors (or both) 
+• 
+What the difference between partial derecognition and a modification is, and what the subsequent 
+accounting is for the remaining modified instrument 
+• 
+Calculating and recognising a modification gain or loss (including where this should be recognised) 
+• 
+The effect on the EIR of a modification (for example, when the interest changes from fixed to floating 
+or vice versa) 
+• 
+The accounting for unamortised transaction costs and any fees received as part of the modification 
+And 
+• 
+The meaning of ’fees and costs incurred’ in IFRS 9.5.4.3 
+ 
+10 
+The transition for all GBP, EUR, CHF and JPY LIBOR settings and the one week and two-month USD LIBOR settings was 
+31 December 2021. The transition for overnight and 12-month USD LIBOR was 30 June 2023, with remaining synthetic USD 
+LIBOR settings (1-month, 3-month and 6-month) set to cease on 30 September 2024. 
+11 
+Project Report and Feedback Statement: Post-implementation Review, IFRS 9 Financial Instruments-Classification and 
+Measurement, IASB, December 2022. Available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3725 
+Respondents also noted it would be helpful if the IASB provides further guidance on the requirements for 
+the modification of financial assets and in particular: 
+• 
+To what extent the reason for the modification (for example, forbearance versus on market-
+negotiations) affects whether a modification results in derecognition 
+• 
+The relationship between modifications, the application of the EIR method and the expected credit loss 
+requirements 
+The IASB acknowledged the potential intersection of the application of amortised cost accounting, 
+modification accounting and expected credit losses. The IASB decided to add to its research project pipeline 
+the “Amortised Cost Measurement” project which will consider whether the requirements for accounting for 
+the modification of financial assets and financial liabilities, can be clarified in an effective manner. As 
+discussed in section 3.1.3 above, the IASB has also completed the PIR of IFRS 9 impairment and decided to 
+explore whether it can clarify the requirements for modification, derecognition and write-off of financial 
+instruments and the consequential effect on recognition of expected credit losses as part of its project on 
+Amortised Cost Measurement.12 
+ 
+12 
+IASB Staff Paper 27C: Project: Post-implementation Review of IFRS 9-Impairment, Topic: Interaction of impairment requirements 
+with other requirements, IASB meeting, April 2024. Available on the IFRS Foundation’s website. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3726 
+4 
+Foreign currencies 
+4.1 
+Foreign currency instruments 
+The provisions of IAS 21 apply to transactions involving financial instruments in just the same way as they 
+do for other transactions, although the manner in which certain hedges are accounted for can override its 
+general requirements. 
+Consequently, the statement of financial position measurement of a foreign currency financial instrument is 
+determined as follows: 
+• 
+First, it is recorded and measured in the foreign currency in which it is denominated, whether it is 
+carried at fair value, cost, or amortised cost. 
+• 
+Second, that amount is retranslated to the entity’s functional currency using the closing rate. 
+[IAS 21.23]. 
+Profit and loss items associated with financial instruments, e.g., dividends receivable, interest payable or 
+receivable and impairments, are recorded at the spot rate ruling when they arise (although average rates 
+may be used when they represent an appropriate approximation to spot rates throughout the period). 
+The reporting of exchange differences in profit or loss or in other comprehensive income depends on 
+whether the instrument is a monetary item (e.g., debt instruments) or a non-monetary item (e.g., an equity 
+investment), and whether it is designated as part of a foreign currency cash flow hedge. (This excludes the 
+translation of foreign entities which is addressed in section 4.2 below.) 
+Foreign exchange differences arising on retranslating monetary items, including debt instruments 
+measured at fair value through other comprehensive income, are generally recognised in profit or loss. 
+However, those exchange differences must be recognised in other comprehensive income for instruments 
+designated as a hedging instrument in a cash flow hedge or in a hedge of a net investment in a foreign 
+operation (except to the extent that there is hedge ineffectiveness). Exchange differences must also be 
+recorded in other comprehensive income for a fair value hedge of an equity instrument for which an entity 
+has elected to present changes in fair value in other comprehensive income (see section 2.5 above and 
+Chapter 49). [IFRS 9.B5.7.2, IFRS 9.B5.7.2A]. 
+Any changes in the carrying amount of a non-monetary item are recognised in profit or loss or in other 
+comprehensive income in accordance with IFRS 9. For example, for an instrument that is measured at fair 
+value through profit or loss, all subsequent fair value changes, including the effect of foreign exchange, are 
+recognised in profit or loss. Similarly, for an investment in an equity instrument where an entity has made 
+an irrevocable election to present in other comprehensive income subsequent changes in the fair value of 
+the investment, the entire change in the carrying amount, including the effect of changes in foreign 
+currency rates, is presented in other comprehensive income. [IFRS 9.5.7.5, IFRS 9.B5.7.3, IFRS 9.IG E.3.4]. 
+In cases where some portion of the change in carrying amount is recognised in profit or loss and some in 
+other comprehensive income, e.g., if the amortised cost of a foreign currency bond measured at fair value 
+through other comprehensive income has increased in the foreign currency (resulting in a gain in profit or 
+loss) but its fair value has decreased in the foreign currency (resulting in a loss recognised in other 
+comprehensive income), those two components cannot be offset for the purposes of determining gains or 
+losses that should be recognised in profit or loss or in other comprehensive income. [IFRS 9.IG E.3.4]. 
+The Board developed the example below to illustrate the separation of the currency component for a 
+financial asset that is measured at fair value through other comprehensive income in accordance with 
+IFRS 9.4.1.2A. To simplify the example, the Board did not reflect the need to record expected credit losses. 
+[IFRS 9.IG E.3.2]. A more complex illustration, including expected credit losses is included in Illustration 9-2 in 
+Chapter 47 at section 9.2. 
+Illustration 4-1: 
+Foreign currency debt security measured at fair value through other 
+comprehensive income (separation of currency component) 
+On 31 December 20X1, Company A, whose functional currency is the euro, acquires a dollar bond for its fair 
+value of $1,000. The bond has five years to maturity and a $1,250 principal, carries fixed interest of 4.7% paid 
+annually ($1,250 × 4.7% = $59 per year), and has an effective interest rate of 10%. 
+A classifies the bond as subsequently measured at fair value through other comprehensive income in 
+accordance with IFRS 9.4.1.2A, and thus recognises gains and losses in other comprehensive income. The 
+exchange rate is initially $1 to €1.50 and the carrying amount of the bond is €1,500 ($1,000 × 1.50). 
+ 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3727 
+ 
+  
+  
+€ 
+€ 
+Dr 
+Bond 
+1,500 
+  
+  
+Cr 
+Cash 
+  
+1,500 
+On 31 December 20X2, the dollar has appreciated and the exchange rate is $1 to €2.00. The fair value of the 
+bond is $1,060 and therefore its carrying amount is €2,120 ($1,060 × 2.00). Its amortised cost is $1,041 (or 
+€2,082 = $1,041 × 2.00) and the cumulative gain or loss to be included in other comprehensive income is the 
+difference between its fair value and amortised cost, i.e., a gain of €38 (€2,120 - €2,082; or, alternatively, 
+[$1,060 - $1,041] × 2.00). 
+Interest received on the bond on 31 December 20X2 is $59 (or €118 = $59 × 2.00). Interest revenue 
+determined in accordance with the effective interest method is $100 ($1,000 × 10%) of which $41 ($100 - 
+$59) is the accretion of the initial discount. 
+It is assumed that the average exchange rate during the year is $1 to €1.75 and that the use of an average 
+exchange rate provides a reliable approximation of the spot rates applicable to the accrual of interest during 
+the year. Therefore, reported interest revenue is €175 ($100 × 1.75) including accretion of the initial discount 
+of €72 ($41 × 1.75). 
+The exchange difference recognised in profit or loss is €525, which comprises three elements: a €500 gain 
+from the retranslation of the initial amortised cost ($1,000 × [2.00 - 1.50]); a €15 gain from the retranslation 
+of interest revenue received ($59 × [2.00 - 1.75]) and a €10 gain on the retranslation of the interest revenue 
+accreted ($41 × [2.00 - 1.75]). 
+  
+  
+€ 
+€ 
+Dr 
+Bond 
+620 
+  
+Dr 
+Cash 
+118 
+  
+  
+Cr 
+Interest revenue (P&L) 
+  
+175 
+  
+Cr 
+Exchange gain (P&L) 
+  
+525 
+  
+Cr 
+Fair value change in other 
+comprehensive income (equity) 
+  
+38 
+On 31 December 20X3, the dollar has appreciated further and the exchange rate is $1 to €2.50. The fair value 
+of the bond is $1,070 and therefore its carrying amount is €2,675 ($1,070 × 2.50). Its amortised cost is 
+$1,086 (or €2,715 = $1,086 × 2.50) and the cumulative gain or loss to be included in other comprehensive 
+income is the difference between its fair value and the amortised cost, i.e., a loss of €40 (€2,675 - €2,715; or, 
+alternatively, [$1,070 - $1,086] × 2.50). Therefore, there is a debit to other comprehensive income equal to 
+the change in the difference during 20X2 of €78 (€40 + €38). 
+Interest received on the bond on 31 December 20X3 is $59 (or €148 = $59 × 2.50). Interest revenue 
+determined in accordance with the effective interest method is $104 ($1,041 × 10%), of which $45 ($104 - 
+$59) is the accretion of the initial discount. 
+Using the same assumptions as in the previous year, interest income is €234 ($104 × 2.25) including 
+accretion of the initial discount of €101 ($45 × 2.25). 
+The exchange difference recognised in profit or loss is €547, which again comprises three elements: a €521 
+gain from the retranslation of the opening amortised cost ($1,041 × [2.50 - 2.00]); a €15 gain from the 
+retranslation of interest income received ($59 × [2.50 - 2.25]) and an €11 gain on the retranslation of the 
+interest income accreted ($45 × [2.50 - 2.25]). 
+  
+  
+€ 
+€ 
+Dr 
+Bond 
+555 
+  
+Dr 
+Cash 
+148 
+  
+Dr 
+Fair value change in other comprehensive 
+income (equity) 
+78 
+  
+  
+Cr 
+Interest revenue (P&L) 
+  
+234 
+  
+Cr 
+Exchange gain (P&L) 
+  
+547 
+ 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3728 
+4.2 
+Foreign entities 
+IFRS 9 did not amend the application of the net investment method of accounting for foreign entities set 
+out in IAS 21 (see Chapter 16 at section 6.3.1). Therefore, for the purpose of preparing its own accounts 
+for inclusion in consolidated accounts, a foreign entity that is part of a group applies the principles in 
+section 4.1 above by reference to its own functional currency. Consequently, the treatment of gains and 
+losses on, say, trading assets held by a foreign entity should follow the treatment in the Illustration below, 
+adapted from the Implementation Guidance of IFRS 9. [IFRS 9.IG E.3.3]. 
+Illustration 4-2: 
+Interaction of IAS 21 and IFRS 9: foreign currency debt investment 
+Company A is domiciled in the US and its functional currency and presentation currency is the US dollar. A has 
+a UK domiciled subsidiary, B, whose functional currency is sterling. B is the owner of a debt instrument which 
+is held for trading and is therefore carried at fair value through profit or loss in accordance with IFRS 9. 
+In B’s financial statements for 20X1, the fair value and carrying amount of the debt instrument is £100. In A’s 
+consolidated financial statements, the asset is translated into US dollars at the spot exchange rate applicable 
+at the end of the reporting period, say 2.0, and the carrying amount is US$200 (£100 × 2.0). 
+At the end of 20X2, the fair value of the debt instrument has increased to £110. B reports the trading asset at 
+£110 in its statement of financial position and recognises a fair value gain of £10 in profit or loss. During the 
+year, the spot exchange rate has increased from 2.0 to 3.0 resulting in an increase in the fair value of the 
+instrument from US$200 to US$330 (£110 × 3.0). Therefore, A reports the trading asset at US$330 in its 
+consolidated financial statements. 
+Since B is classified as a foreign entity, A translates B’s statement of comprehensive income ‘at the exchange 
+rates at the dates of the transactions’. Since the fair value gain has accrued through the year, A uses the 
+average rate of 2.5 (= [3.0 + 2.0] ÷ 2) as a practical approximation. Therefore, while the fair value of the 
+trading asset has increased by US$130 (US$330 - US$200), A recognises only US$25 (£10 × 2.5) of this 
+increase in profit or loss. The resulting exchange difference, i.e., the remaining increase in the fair value of the 
+debt instrument of US$105 (US$130 - US$25), is recognised in other comprehensive income until the disposal 
+of the net investment in the foreign entity. 
+Another situation where foreign exchange differences on monetary items are recognised in other 
+comprehensive income is when the long-term debt is considered to form part of the net investment in the 
+foreign entity. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3729 
+5 
+Future developments 
+In 2022 the IASB concluded its post implementation review of the classification and measurement 
+requirements of IFRS 9 and decided to add to its project pipeline, the “Amortised Cost Measurement” 
+project. The project will aim to review matters raised as part of the post implementation review, relating to 
+the modification of financial assets and financial liabilities, the application of the effective interest rate 
+method to floating rate instruments, and the interaction between these areas. Refer to section 3.1.3 above 
+for more information. 
+The Amortised Cost Measurement project will also consider the related findings from the post 
+implementation review of the impairment requirements of IFRS 9 (which was concluded in July 2024). In 
+particular, it will consider the interaction between the requirements for modification, derecognition and 
+write-off of financial instruments and the requirements for impairment. Refer to section 3.8.4 above for 
+more information. 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3730 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Estimating the change in fair value of an instrument attributable to its 
+credit risk 
+3697 
+Illustration 2-2: 
+Liabilities at fair value through profit or loss: accounting mismatch in profit 
+or loss 
+3698 
+Illustration 2-3: 
+Liabilities at fair value through profit or loss: no accounting mismatch in 
+profit or loss 
+3699 
+Illustration 3-1: 
+Effective interest method - amortisation of discount arising from credit 
+downgrade 
+3707 
+Illustration 3-2: 
+Fixed rate mortgage which reprices to market interest rate 
+3707 
+Illustration 3-3: 
+Bargain rate mortgage which reprices to market interest rate 
+3708 
+Illustration 3-4: 
+Effective interest method - amortisation of premium or discount on 
+acquisition 
+3710 
+Illustration 3-5: 
+Effective interest method - stepped interest rates 
+3711 
+Illustration 3-6: 
+Effective interest method - variable rate loan 
+3712 
+Illustration 3-7: 
+Effective interest rate - embedded prepayment options 
+3712 
+Illustration 3-8: 
+Effective interest method - revision of estimates 
+3713 
+Illustration 3-9: 
+Amortised cost - perpetual debt with interest payments over a limited 
+amount of time 
+3714 
+Illustration 3-10: 
+Application of the effective interest method to inflation-linked debt 
+instruments 
+3715 
+Illustration 3-11: 
+Loan repayable on demand due to breach of a covenant 
+3719 
+Illustration 3-12: 
+Changes in credit spread 
+3721 
+Illustration 3-13: 
+Modification - troubled debt restructuring 
+3721 
+Illustration 3-14: 
+Modification - renegotiation of a fixed rate loan 
+3722 
+Illustration 3-15: 
+Accounting treatment of modification fees 
+3723 
+Illustration 4-1: 
+Foreign currency debt security measured at fair value through other 
+comprehensive income (separation of currency component) 
+3726 
+Illustration 4-2: 
+Interaction of IAS 21 and IFRS 9: foreign currency debt investment 
+3728 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3731 
+Appendix B - Index of Frequently asked questions 
+Question 2-1: 
+How should fees received (or paid) upfront to secure a loan commitment be 
+accounted for in the Statement of Comprehensive Income? 
+3702 
+Question 2-2: 
+How should fees received (or paid) to secure a loan commitment be accounted 
+for when management initially expects only a portion of the loan commitment 
+to be utilised? 
+3702 
+Question 2-3: 
+How should fees received (or paid) to secure a loan commitment be accounted 
+for when management does not expect any of the loan commitment to be 
+utilised? 
+3703 
+Question 2-4: 
+How should fees received (or paid) to secure a loan commitment be accounted 
+for when the loan commitment does not expire after being utilised? 
+3703 
+Question 3-1: 
+Does ‘subsequent reporting period’ refer only to annual periods or does it also 
+extend to interim reporting periods? 
+3709 
+Question 3-2: 
+IAS 34.28 requires that the frequency of an entity’s reporting shall not affect 
+the measurement of its annual results. If interim reporting periods are 
+‘reporting periods’, are the IFRS 9 requirements to give effect to changes 
+between gross and net interest calculation in the ‘subsequent reporting 
+period’ inconsistent with the requirement in IAS 34.28, and in that case, 
+which standard’s guidance should be followed? 
+3709 
+Question 3-3: 
+Are entities allowed to perform the impairment assessments, with the 
+resulting changes to the interest calculation, more frequently than their 
+interim reporting periods, for example, monthly? 
+3709 
+ 
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3732 
+Appendix C - Defined terms 
+Extract from IFRS standards - Definitions 
+amortised cost of a financial 
+asset or financial liability 
+The amount at which the financial asset or financial liability is 
+measured at initial recognition minus the principal repayments, plus or 
+minus the cumulative amortisation using the effective interest method 
+of any difference between that initial amount and the maturity amount 
+and, for financial assets, adjusted for any loss allowance. [IFRS 9 
+Appendix A]. 
+credit-impaired financial 
+asset 
+A financial asset is credit-impaired when one or more events that have 
+a detrimental impact on the estimated future cash flows of that 
+financial asset have occurred. Evidence that a financial asset is credit-
+impaired include observable data about the following events: 
+(a) significant financial difficulty of the issuer or the borrower; 
+(b) a breach of contract, such as a default or past due event; 
+(c) the lender(s) of the borrower, for economic or contractual reasons 
+relating to the borrower’s financial difficulty, having granted to the 
+borrower a concession(s) that the lender(s) would not otherwise 
+consider; 
+(d) it is becoming probable that the borrower will enter bankruptcy or 
+other financial reorganisation; 
+(e) the disappearance of an active market for that financial asset 
+because of financial difficulties; or 
+(f) the purchase or origination of a financial asset at a deep discount 
+that reflects the incurred credit losses. 
+It may not be possible to identify a single discrete event- instead, the 
+combined effect of several events may have caused financial assets to 
+become credit-impaired. [IFRS 9 Appendix A]. 
+credit risk 
+The risk that one party to a financial instrument will cause a financial 
+loss for the other party by failing to discharge an obligation. [IFRS 7 
+Appendix A]. 
+dividends  
+Distributions of profits to holders of equity instruments in proportion 
+to their holdings of a particular class of capital. [IFRS 9 Appendix A]. 
+effective interest method 
+The method that is used in the calculation of the amortised cost of a 
+financial asset or a financial liability and in the allocation and 
+recognition of the interest revenue or interest expense in profit or loss 
+over the relevant period. [IFRS 9 Appendix A]. 
+effective interest rate 
+The rate that exactly discounts estimated future cash payments or 
+receipts through the expected life of the financial asset or financial 
+liability to the gross carrying amount of a financial asset or to the 
+amortised cost of a financial liability. When calculating the effective 
+interest rate, an entity shall estimate the expected cash flows by 
+considering all the contractual terms of the financial instrument (for 
+example, prepayment, extension, call and similar options) but shall not 
+consider the expected credit losses. The calculation includes all fees 
+and points paid or received between parties to the contract that are an 
+integral part of the effective interest rate (see paragraphs B5.4.1-
+B5.4.3), transaction costs, and all other premiums or discounts. There 
+is a presumption that the cash flows and the expected life of a group of 
+similar financial instruments can be estimated reliably. However, in 
+those rare cases when it is not possible to reliably estimate the cash 
+flows or the expected life of a financial instrument (or group of 
+financial instruments), the entity shall use the contractual cash flows 
+over the full contractual term of the financial instrument (or group of 
+financial instruments). [IFRS 9 Appendix A]. 
+  
+
+
+ 
+International GAAP® 2025 
+ 
+Chapter 46 
+Financial instruments: Subsequent measurement 
+3733 
+gross carrying amount of a 
+financial asset 
+The amortised cost of a financial asset, before adjusting for any loss 
+allowance. [IFRS 9 Appendix A]. 
+reclassification date 
+The first day of the first reporting period following the change in 
+business model that results in an entity reclassifying financial assets. 
+[IFRS 9 Appendix A]. 
+purchased or originated 
+credit-impaired financial 
+asset 
+Purchased or originated financial asset(s) that are credit-impaired on 
+initial recognition. [IFRS 9 Appendix A]. 
+ 

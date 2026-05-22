@@ -1,0 +1,948 @@
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2918 
+ 
+Chapter 34 
+Events after the reporting 
+period 
+ 
+Contents 
+Overview 
+2919 
+1 
+Introduction 
+2920 
+2 
+Requirements of IAS 10 
+2921 
+2.1 
+Objective, scope and definitions 
+2921 
+2.1.1 
+Date when financial statements are authorised for issue 
+2921 
+2.1.1.A 
+Impact of preliminary reporting 
+2923 
+2.1.1.B 
+Re-issuing (dual dating) financial statements 
+2923 
+2.1.2 
+Adjusting events 
+2924 
+2.1.3 
+Non-adjusting events 
+2925 
+2.1.3.A 
+Dividend declaration 
+2927 
+2.2 
+The treatment of adjusting events 
+2928 
+2.2.1 
+Events requiring adjustment to the amounts recognised, or disclosures, in the 
+financial statements 
+2928 
+2.2.2 
+Events indicating that the going concern basis is not appropriate 
+2928 
+2.3 
+The treatment of non-adjusting events 
+2928 
+2.3.1 
+Declaration to distribute non-cash assets to owners 
+2930 
+2.3.2 
+Breach of a long-term loan arrangement and its subsequent rectification 
+2931 
+2.4 
+Other disclosure requirements 
+2931 
+3 
+Practical issues 
+2932 
+3.1 
+Valuation of inventory 
+2932 
+3.2 
+Over time measurement of progress 
+2932 
+3.3 
+Insolvency of a debtor and IFRS 9 expected credit losses 
+2933 
+3.4 
+Discovery of fraud after the reporting period 
+2933 
+3.5 
+Changes to estimates of uncertain tax treatments 
+2933 
+Appendix A - Index of Illustrations 
+2935 
+Appendix B - Index of Frequently asked questions 
+2936 
+Appendix C - Defined terms 
+2937 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2919 
+Overview 
+IAS 10 Events after the Reporting Period1 sets out the circumstances in which financial statements must 
+be adjusted for events which have happened after the reporting period, the disclosures an entity must give 
+about the date on which the financial statements were authorised for issue, and the required disclosures 
+relating to events after the reporting period. 
+Events after the reporting period are those events, both favourable and non-favourable, which occur 
+between the last day of the reporting period and the date on which the financial statements are authorised 
+for issue. IAS 10 divides such events into two categories: adjusting and non-adjusting events. Adjusting 
+events provide evidence of conditions which existed at the end of the reporting period and, consequently, 
+an entity is required to adjust the amounts recognised in its financial statements to reflect those events. 
+This may require the recognition of a previously unrecognised item. Conversely, no adjustment is made for 
+non-adjusting events, though disclosure is required for such events, to the extent that the events are 
+material to the financial statements. [IAS 10.21]. 
+IAS 10 does not permit an entity to prepare its financial statements on a going concern basis if events after 
+the reporting period indicate that the going concern assumption is no longer appropriate. 
+What you need to know 
+• 
+IAS 10 identifies two types of events after the reporting period: adjusting and non-adjusting. 
+• 
+Adjusting events are events which provide evidence of conditions which existed at the end of the 
+reporting period; amounts recognised in financial statements are adjusted for such events. 
+• 
+Non-adjusting events are indicative of conditions which arose after the reporting period, but before 
+the financial statements were authorised for issue; amounts recognised in the financial statements 
+are not adjusted for such events, but those events are required to be disclosed, to the extent 
+material. 
+• 
+When the going concern basis of accounting becomes inappropriate after the end of the reporting 
+period, an entity is required to change its basis of accounting. 
+ 
+ 
+1 
+IFRS 18 Presentation and Disclosure in Financial Statements, which supersedes IAS 1 Presentation of Financial Statements for 
+reporting periods beginning on or after 1 January 2027 (with earlier application permitted), was issued by the IASB in April 
+2024, which incorporates amendments to paragraphs 13 and 16 of IAS 10, which merely entails replacing references from IAS 1 
+to the appropriate updated IFRS 18 and IAS 8(2027) Basis of Preparation of Financial Statements references. An entity shall 
+apply these amendments when it applies IFRS 18. See Chapter 4 for further details on the new concepts and requirements of 
+IFRS 18. [IAS 10(2027).13, IAS 10(2027).16, IAS 10(2027).23D]. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2920 
+1 
+Introduction 
+IAS 10 deals with accounting for, and disclosure of “those events, favourable and unfavourable, that occur 
+between the end of the reporting period and the date when the financial statements are authorised for 
+issue”. [IAS 10.2, IAS 10.3, IAS 10.7]. This definition includes all events occurring between those dates [IAS 10.7]. 
+The principal issue is determining which of these events are required to be reflected in the financial 
+statements as adjustments, which are material enough to require additional disclosure, and which require 
+neither adjustment nor disclosure. 
+The following timeline illustrates events after the end of the reporting period that are within the scope of 
+IAS 10 for an entity with a 31 December year-end: 
+ 
+The financial statements of an entity present, among other things, its financial position at the end of the 
+reporting period. Therefore, it is appropriate to adjust the financial statements for all events that offer 
+greater clarity about conditions that existed at the end of the reporting period (reporting date), and which 
+occur prior to the date the financial statements are authorised for issue. The standard, therefore, requires 
+entities to adjust the amounts recognised in the financial statements for ‘adjusting events’, events that 
+provide evidence of conditions that existed at the end of the reporting period. [IAS 10.3(a), IAS 10.8]. By the 
+same reasoning an entity does not recognise in the financial statements those events that relate to 
+conditions that arose after the reporting period (‘non-adjusting events’). However, if non-adjusting events 
+are material (that is, non-disclosure of the event could reasonably be expected to influence decisions that 
+the primary users of general purpose financial statements make on the basis of those financial statements), 
+certain disclosures are required. [IAS 10.3(b), IAS 10.10, IAS 10.21, IAS 1.7, IFRS 18 Appendix A, IAS 8.5, IAS 8(2027).5]. 
+One exception to the general rule for non-adjusting events is when the going concern basis becomes 
+inappropriate. This is always treated as an adjusting event. [IAS 10.1, IAS 10.14, IAS 10.15]. 
+The requirements of IAS 10 and some practical issues resulting from these requirements are dealt with in 
+section 2 and section 3 below, respectively. 
+Differences between the IFRS accounting standards and US GAAP guidance on this topic are not addressed 
+in this chapter as the standards are not converged. Therefore, differences between IFRS accounting 
+standards and US GAAP may exist that are not discussed in this chapter. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2921 
+2 
+Requirements of IAS 10 
+2.1 
+Objective, scope and definitions 
+Extract from IAS 10 
+Objective 
+1 
+The objective of this Standard is to prescribe: 
+(a) 
+when an entity should adjust its financial statements for events after the reporting 
+period; and 
+(b) 
+the disclosures that an entity should give about the date when the financial statements 
+were authorised for issue and about events after the reporting period. 
+The Standard also requires that an entity should not prepare its financial statements on a going 
+concern basis if events after the reporting period indicate that the going concern assumption is 
+not appropriate. 
+The standard does not permit an entity to prepare its financial statements on a going concern basis if 
+events after the reporting period indicate that the going concern assumption is not appropriate. [IAS 10.1, 
+IAS 10.14]. This requirement is discussed further in section 2.2.2 below. The going concern basis is discussed 
+in Chapter 3 at section 4.1.2. 
+IAS 10 defines events after the reporting period as “those events, favourable and unfavourable, that occur 
+between the end of the reporting period and the date when the financial statements are authorised for 
+issue”. [IAS 10.3]. This definition includes events that provide additional evidence about conditions that 
+existed at the end of the reporting period, as well as those that provide evidence of conditions that only 
+existed after the end of the reporting period. The former are adjusting events, the latter are non-adjusting 
+events. [IAS 10.3]. Adjusting and non-adjusting events are discussed further in section 2.1.2 and 
+section 2.1.3 below, respectively. 
+2.1.1 
+Date when financial statements are authorised for issue 
+Given the definition above, the meaning of “the date when the financial statements are authorised for 
+issue” is important. The standard observes that the process for authorising financial statements for issue 
+varies depending upon the management structure, statutory requirements and procedures followed in 
+preparing and finalising the financial statements. [IAS 10.4]. 
+The standard sets out two particular examples of different meanings of ‘authorised for issue’ as follows: 
+(a) An entity may be required to submit its financial statements to its shareholders for approval after the 
+financial statements have been issued. In such cases, the financial statements are authorised for issue 
+on the date of issue, not the date when shareholders approve them. [IAS 10.5]. 
+(b) The management of an entity may be required to issue its financial statements to a supervisory board 
+(made up solely of non-executives) for approval. Such financial statements are authorised for issue 
+when management authorises them for issue to the supervisory board. [IAS 10.6]. 
+These two meanings are shown in the following two Illustrations, which are based on the illustrative 
+examples in IAS 10. [IAS 10.5, IAS 10.6]. 
+Illustration 2-1: 
+Financial statements required to be approved by shareholders 
+The management of an entity completes draft financial statements for the year to 31 December 20X1 on 28 
+February 20X2. On 17 March 20X2, the board of directors reviews the financial statements and authorises 
+them for issue. The entity announces its profit and certain other financial information on 18 March 20X2. The 
+financial statements are made available to shareholders and others on 1 April 20X2. The shareholders approve 
+the financial statements at their annual meeting on 11 May 20X2 and the approved financial statements are 
+then filed with a regulatory body on 13 May 20X2. 
+The financial statements are authorised for issue on 17 March 20X2 (date of board authorisation for issue). 
+ 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2922 
+Illustration 2-2: 
+Financial statements required to be approved by supervisory board 
+On 17 March 20X2, the management of an entity authorises for issue to its supervisory board financial 
+statements for the year ended 31 December 20X1. The supervisory board consists solely of non-executives 
+and may include representatives of employees and other outside interests. The supervisory board approves 
+the financial statements on 25 March 20X2. The financial statements are made available to shareholders and 
+others on 1 April 20X2. The shareholders approve the financial statements at their annual meeting on 11 May 
+20X2 and the financial statements are filed with a regulatory body on 13 May 20X2. 
+The financial statements are authorised for issue on 17 March 20X2 (date of management authorisation for 
+issue to the supervisory board). 
+An uncommon, but possible, situation that can occur is that the financial statements are changed after they 
+are authorised for issue to the supervisory board. The following Illustration demonstrates such a situation. 
+Illustration 2-3: 
+Financial statements required to be approved by supervisory board - changes 
+are made by supervisory board 
+This Illustration assumes the same facts as in Illustration 2-2 above, except that the supervisory board reviews 
+the financial statements on 25 March 20X2 and proposes changes to certain note disclosures. The 
+management of the entity incorporates the suggested changes and re-authorises those financial statements 
+for issue to the supervisory board on 27 March 20X2. The supervisory board then approves the financial 
+statements on 30 March 20X2. 
+The financial statements are authorised for issue on 27 March 20X2 (date of management re-authorisation for 
+issue to the supervisory board). The financial statements were originally authorised for issue on 17 March 
+20X2 but have been amended and re-authorised on 27 March 20X2. This later date supersedes the original 
+date.  
+As governance structures vary by jurisdiction, entities may be allowed to organise their procedures 
+differently and adjust the financial reporting process accordingly. 
+An example of a company which is required to submit its financial statements to its shareholders for 
+approval is Holcim Ltd, as illustrated in the following Practical example: 
+Practical example 2-1: 
+Holcim Ltd (2023) 
+Switzerland 
+2023 INTEGRATED ANNUAL REPORT [extract] 
+FINANCIAL INFORMATION [extract] 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS [extract] 
+ 
+ 
+As discussed above, an entity may be required to issue its financial statements to a supervisory board 
+(made up solely of non-executives) for approval. The phrase ‘made up solely of non-executives’ is not 
+defined by the standard, but it is clear from an illustrative example in the standard that it contemplates 
+representatives of employees and other outside interests. The standard also seems to draw a distinction 
+between those responsible for the executive management of an entity (and the preparation of its financial 
+statements) and those in a position of high-level oversight (including reviewing and approving the financial 
+statements). This situation seems to describe the typical two-tier board system seen in some jurisdictions. 
+An example of a company with this structure is Bayer Aktiengesellschaft, as illustrated in the following 
+Practical example. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2923 
+Practical example 2-2: 
+Bayer Aktiengesellschaft (2023) 
+Germany 
+Annual Report 2023 [extract] 
+A/Combined Management Report [extract] 
+4. Corporate Governance Report [extract] 
+4.1 Declaration by Corporate Management Pursuant to Sections 289f and 315d of the German 
+Commercial Code [extract] 
+ 
+… 
+Supervisory Board [extract] 
+ 
+… 
+Report of the Supervisory Board [extract] 
+Financial Statements and Audits [extract] 
+ 
+… 
+2.1.1.A 
+Impact of preliminary reporting 
+The Illustration below discusses the date of authorisation, in situations where the entity releases 
+preliminary information, but not complete financial statements, before the date of the authorisation for 
+issue. 
+Illustration 2-4: 
+Release of financial information before date of authorisation for issue 
+The management of an entity completes the primary financial statements for the year to 31 December 20X1 on 
+21 January 20X2, but has not yet completed the explanatory notes. On 26 January 20X2, the board of directors 
+(which includes management and non-executives) reviews the primary financial statements and authorises them 
+for public media release. The entity announces its profit and certain other financial information on 28 January 
+20X2. On 11 February 20X2, management issues the financial statements (with full explanatory notes) to the 
+board of directors, which approves the financial statements for filing on 18 February 20X2. The entity files the 
+financial statements with a regulatory body on 21 February 20X2. 
+The financial statements are authorised for issue on 18 February 20X2 (date the board of directors approves 
+the financial statements for filing). 
+Illustration 2-4 shows that events after the reporting period include all events up to the date when the 
+financial statements are authorised for issue, even if those events occur after the public announcement of 
+profit or of other selected financial information. [IAS 10.7]. Accordingly, the information in the financial 
+statements might differ from the equivalent information in a preliminary announcement. 
+2.1.1.B 
+Re-issuing (dual dating) financial statements 
+IFRS accounting standards do not address whether and how an entity may amend its financial statements 
+after they have been authorised for issue. Generally, such matters are dealt with in local laws or 
+regulations. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2924 
+If an entity re-issues financial statements (whether to correct an error or to include events that occurred 
+after the financial statements were originally authorised for issue), there is a new date of authorisation for 
+issue. The financial statements must then reflect, up to the new date of authorisation for issue: 
+• 
+All adjusting events, by updating the amounts recognised in the financial statements 
+• 
+Non-adjusting events, through additional disclosure 
+However, in certain circumstances, the re-issuing of previously issued financial statements is required by 
+local regulators, particularly for inclusion in public offering and similar documents. In November 2012, the 
+IFRS IC was asked to clarify the accounting implications of applying IAS 10 when previously issued financial 
+statements are re-issued in connection with an offering document.2 
+In May 2013, the IFRS IC responded that: 
+• 
+The scope of IAS 10 is the accounting for, and disclosure of, events after the reporting period and that 
+the objective of this Standard is to prescribe both of the following: 
+(a) When an entity should adjust its financial statements for events after the reporting period 
+(b) The disclosures that an entity should give about the date when the financial statements were 
+authorised for issue and about events after the reporting period 
+• 
+Financial statements prepared in accordance with IAS 10 should reflect all adjusting and non-adjusting 
+events up to the date that the financial statements were authorised for issue. 
+• 
+IAS 10 does not address the presentation of re-issued financial statements in an offering document 
+when the originally issued financial statements have not been withdrawn, but the re-issued financial 
+statements are provided either as supplementary information or a re-presentation of the original 
+financial statements in an offering document in accordance with regulatory requirements. 
+The IFRS IC decided not to add this issue to its agenda on the basis of the response above and because the 
+issue arises in multiple jurisdictions, each with particular securities laws and regulations which may dictate 
+the form for re-presentations of financial statements.3 
+Accordingly, depending on the particular regulatory requirements in a given jurisdiction, there may be 
+variations in how re-issued financial statements are presented. 
+2.1.2 
+Adjusting events 
+Adjusting events are “those that provide evidence of conditions that existed at the end of the reporting 
+period.” [IAS 10.3(a)]. 
+Examples of adjusting events are as follows: 
+(a) The settlement after the reporting period of a court case that confirms that the entity had a present 
+obligation at the end of the reporting period. In this situation, an entity adjusts any previously 
+recognised provision related to this court case in accordance with IAS 37 Provisions, Contingent 
+Liabilities and Contingent Assets or recognises a new provision. Mere disclosure of a contingent liability 
+is not sufficient because the settlement provides additional evidence of conditions that existed at the 
+end of the reporting period that would give rise to a provision in accordance with IAS 37 (see 
+Chapter 27 at sections 3.1.1 and 3.2.1). 
+(b) The receipt of information after the reporting period indicating that an asset was impaired at the end of 
+the reporting period, or that the amount of a previously recognised impairment loss for that asset 
+needs to be adjusted. For example: 
+(i) The bankruptcy of a customer that occurs after the reporting period usually confirms that the 
+customer was credit-impaired at the end of the reporting period (this is discussed further in 
+section 3.3 below). 
+(ii) The sale of inventories after the reporting period may give evidence about their net realisable 
+value at the end of the reporting period. 
+(c) The determination after the reporting period of the cost of assets purchased, or the proceeds from 
+assets sold, before the end of the reporting period. 
+(d) The determination after the reporting period of the amount of profit-sharing or bonus payments, if the 
+entity had a present legal or constructive obligation at the end of the reporting period to make such 
+payments as a result of events before that date (see Chapter 31 at section 12.3). 
+(e) The discovery of fraud or errors that show that the financial statements are incorrect (see section 3.4 
+below). [IAS 10.9]. 
+ 
+2 
+IFRIC Update, November 2012, available on the IFRS Foundation’s website. 
+3 
+IFRIC Update, May 2013, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2925 
+In addition, IFRIC 23 Uncertainty over Income Tax Treatments requires entities to apply IAS 10 to 
+determine whether changes in facts and circumstances or new information after the reporting period gives 
+rise to an adjusting or non-adjusting event for reassessing a judgement or estimate of an uncertain tax 
+position. [IFRIC 23.14, IFRIC 23(2027).14]. An event would be considered adjusting if the change in facts and 
+circumstances or new information after the reporting period provided evidence of conditions that existed at 
+the end of the reporting period (see section 3.5 below). 
+Another standard which requires an adjustment for certain transactions after the reporting period is IAS 33 
+Earnings per Share. This standard requires an adjustment to earnings per share for certain share 
+transactions after the reporting period (such as bonus issues, share splits or reverse share splits (share 
+consolidations) as discussed in Chapter 33 at sections 4.3 and 4.5), even though the transactions 
+themselves are non-adjusting events (see section 2.1.3 below). [IAS 10.22(f)]. 
+2.1.3 
+Non-adjusting events 
+The standard states that non-adjusting events are “those that are indicative of conditions that arose after 
+the reporting period”. [IAS 10.3(b)]. 
+Examples of non-adjusting events after the reporting period are as follows: 
+(a) A major business combination (IFRS 3 Business Combinations requires specific disclosures in such 
+cases, see Chapter 10 at section 16.1.2) or disposing of a major subsidiary 
+(b) Announcing a plan to discontinue an operation 
+(c) Major purchases of assets, classification of assets as held for sale in accordance with IFRS 5 Non-
+current Assets Held for Sale and Discontinued Operations, other disposals of assets, or expropriation of 
+major assets by government (see Chapter 5 at section 5.1 for certain disclosures that are required to 
+be made) 
+(d) The destruction of a major production plant by a fire 
+(e) Announcing, or commencing the implementation of, a major restructuring (discussed in Chapter 27 at 
+section 6.1.2) 
+(f) Major ordinary share transactions and potential ordinary share transactions (although as noted in 
+section 2.1.2 above, some transactions in ordinary shares are adjusting events for the purposes of 
+computing earnings per share) 
+(g) Abnormally large changes in asset prices or foreign exchange rates 
+(h) Changes in tax rates or the enactment or announcement of tax laws that significantly affect current 
+and deferred tax assets and liabilities (discussed in Chapter 29 at sections 5.1.3 and 8.1.2) 
+(i) Entry into significant commitments or contingent liabilities, for example, by issuing significant 
+guarantees 
+(j) Start of major litigation arising solely out of events that occurred after the reporting period 
+(k) A decline in fair value of investments 
+(l) A declaration of dividends to holders of equity instruments (as defined in IAS 32 Financial Instruments: 
+Presentation discussed in Chapter 43 at section 4.1) 
+(m) A subsequent refinancing on a long-term basis of a liability classified as current 
+(n) A subsequent rectification of a breach of a long-term loan arrangement classified as current 
+(o) A subsequent granting by the lender of a period of grace to rectify a breach of a long-term loan 
+arrangement classified as current 
+(p) A subsequent settlement of a liability classified as non-current 
+(q) A contingent asset becoming virtually certain after the end of the reporting period (discussed in 
+Chapter 27 at section 3.2.2) [IAS 10.11, IAS 10.12, IAS 10.13, IAS 10(2027).13, IAS 10.22, IAS 1.76, IFRS 18.B105, 
+IAS 37.35] 
+The reference in (a) and (c) above to asset disposals as examples of non-adjusting events is not quite the 
+whole story as these may indicate an impairment of assets, which may be an adjusting event. Such events 
+would be considered an impairment indicator, if they provide additional evidence of conditions which 
+existed at the balance sheet date. In addition, (b) and (e) above regarding announcements of plans to 
+discontinue an operation or to restructure a business, respectively, may also lead to an impairment charge 
+(see Chapter 21 at section 5.1). 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2926 
+IFRS 5 makes it clear that the held for sale criteria must be met at the reporting date for a non-current 
+asset (or disposal group) to be classified as held for sale in those financial statements. However, if those 
+criteria are met after the reporting date but before the authorisation of the financial statements for issue, 
+IFRS 5 requires certain additional disclosures (see Chapter 5 at sections 2.1.2 and 5.1). [IFRS 5.12]. 
+Information provided under (i) above, will be in addition to the disclosures required by other standards of 
+commitments which exist at the reporting date. For example, IAS 16 Property, Plant and Equipment and 
+IAS 38 Intangible Assets require commitments for the acquisition of property, plant and equipment and 
+intangible assets to be disclosed (see Chapter 19 at section 8.1 and Chapter 18 at section 10.1). 
+[IAS 16.74(c), IAS 38.122(e)]. IFRS 16 Leases requires a lessee to disclose the amount of its lease commitments 
+for short-term leases if the portfolio of short-term leases to which it is committed at the end of the 
+reporting period is dissimilar to the portfolio of short-term leases for which current period short-term lease 
+expense disclosure is provided (see Chapter 24 at section 5.8.2). [IFRS 16.55]. 
+For declines in fair value of investments, as in (k) above, the standard notes that such declines do not 
+normally relate to the condition of the investments at the end of the reporting period, but reflects 
+circumstances that arose subsequently. Therefore, in those circumstances, the amounts recognised in 
+financial statements for the investments are not adjusted. Similarly, the standard states that an entity does 
+not update the amounts disclosed for the investments as at the end of the reporting period, although it may 
+need to give additional disclosure, if material, as discussed in section 2.3 below. [IAS 10.11]. 
+However, the assertion that a decline in fair value of investments does not normally relate to conditions at 
+the end of the reporting period is similar wording to that used for bankruptcy and the sale of inventories 
+(see section 2.1.2 above). Therefore, it requires an assessment of the circumstances in order to determine 
+which conditions actually existed at the end of the reporting period - although this can be difficult in 
+practice, particularly when fraud is involved (see section 3.4 below). 
+In addition to the examples of non-adjusting events in IAS 10, IFRIC 23 requires entities to apply IAS 10 to 
+determine whether changes in facts and circumstances or new information after the reporting period gives 
+rise to an adjusting or non-adjusting event when reassessing a judgement or estimate of an uncertain tax 
+position. [IFRIC 23.14, IFRIC 23(2027).14]. An event is only considered non-adjusting if the change in facts and 
+circumstances or new information after the reporting period is indicative of conditions that arose after the 
+reporting period (see section 3.5 below). 
+The subsequent rectification of a breach in a long-term loan arrangement (n) is not an adjusting event and 
+therefore, does not change the classification of the liability in the statement of financial position from 
+current to non-current (see section 2.3.2 below). [IAS 1.76(b), IFRS 18.B105(b)]. 
+In January 2020, the IASB issued amendments to IAS 1 Presentation of Financial Statements4, effective for 
+annual reporting periods beginning on or after 1 January 2024, to specify the requirements for classifying 
+liabilities as current or non-current. Paragraph 75A was added to clarify that the classification of a liability 
+is not affected by the likelihood that the entity will exercise its right to defer settlement of the liability for at 
+least twelve months after the reporting date [IAS 1.75A, IFRS 18.B104]. This applies even if settlement has 
+occurred between the end of the reporting period and the date the financial statements are authorised for 
+issue (see Chapter 3 at sections 3.1.4 and 3.1.4.A. Reflecting these amendments, the subsequent 
+settlement of a liability classified as non-current (p) was also included in the list of events in paragraph 76 
+of IAS 1 that may require disclosure in accordance with IAS 10 [IAS 1.76(d), IFRS 18.B105(d)]. At the same time, 
+the wording of the other examples of non-adjusting events was also amended to clarify that these events 
+(see (m), (n) and (o) in the list above) refer to liabilities classified as current. 
+Another example of a non-adjusting event not mentioned by IAS 10 is where a contingent asset becomes 
+virtually certain after the end of the reporting period. If the inflow of economic benefits from a contingent 
+asset has become virtually certain, IAS 37 indicates that the asset and the related income must be recognised 
+in the period in which the change occurs. The requirement to recognise the effect of changing circumstances 
+in the period in which the change occurs extends to the analysis of information available after the end of the 
+reporting period, but before the date when the financial statements are authorised for issue. In contrast to 
+contingent liabilities, adjustments must not be made to reflect the subsequent settlement of a legal claim in 
+favour of the entity, since the period in which the change occurs is after the end of the reporting period. An 
+asset can only be recognised if, the entity can show that, at the end of the reporting period, it was virtually 
+certain that its claim would succeed (see Chapter 27 at section 3.2.2). [IAS 37.35]. 
+ 
+4 
+IFRS 18 Presentation and Disclosure in Financial Statements, which supersedes IAS 1 for reporting periods beginning on or after 
+1 January 2027 (with earlier application permitted) was issued by the IASB in April 2024. See Chapter 4 for further details on the 
+new concepts and requirements of IFRS 18. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2927 
+2.1.3.A 
+Dividend declaration 
+Extract from IAS 10 
+Dividends 
+12 
+If an entity declares dividends to holders of equity instruments (as defined in IAS 32 Financial 
+Instruments: Presentation) after the reporting period, the entity shall not recognise those 
+dividends as a liability at the end of the reporting period. 
+13 
+If dividends are declared after the reporting period but before the financial statements are 
+authorised for issue, the dividends are not recognised as a liability at the end of the reporting 
+period because no obligation exists at that time. Such dividends are disclosed in the notes in 
+accordance with IAS 1 Presentation of Financial Statements. 
+In respect of dividend declarations, as in (l) in section 2.1.3 above, dividends are only recognised as a 
+liability if declared by the end of the reporting period. [IAS 10.12, IAS 10.13, IAS 10(2027).13]. 
+As a consequential amendment to IAS 10, the definition of ‘declared’ in this context was moved to IFRIC 17 
+Distributions of Non-cash Assets to Owners. IFRIC 17 did not change the principle regarding the appropriate 
+timing for the recognition of dividends payable. [IFRIC 17.BC18, IFRIC 17.BC19, IFRIC 17.BC20]. It states that an 
+entity recognises a liability to pay a dividend when the dividend is appropriately authorised and is no longer 
+at the discretion of the entity, which is the date: 
+• 
+When declaration of the dividend, e.g., by management or the board of directors, is approved by the 
+relevant authority, e.g., the shareholders, if the jurisdiction requires such approval 
+Or 
+• 
+When the dividend is declared, e.g., by management or the board of directors, if the jurisdiction does 
+not require further approval [IFRIC 17.10]. 
+How we see it 
+In many jurisdictions, the directors may keep discretion to cancel an interim dividend until such time as it 
+is paid. In this case, the interim dividend is not declared (within the meaning described above), and is, 
+therefore, not recognised until paid. Final dividends proposed by directors, in many jurisdictions, are only 
+binding when approved by shareholders in general meeting or by the members passing a written 
+resolution. Therefore, such a final dividend is only recognised as a liability when declared, i.e., approved 
+by the shareholders at the annual general meeting or through the passing of a resolution by the members 
+of an entity. 
+IAS 10 contains a reminder that an entity discloses dividends, both proposed and declared after the reporting 
+period but before the financial statements are authorised for issue, in the notes to the financial statements in 
+accordance with IAS 1 (see Chapter 3 at section 5.6). [IAS 1.137, IFRS 18.132, IAS 10.13, IAS 10(2027).13]. 
+Similar issues arise regarding the declaration of dividends by subsidiaries, associates and other equity 
+investments. Although IAS 10 does not specifically address such items, IFRS 9 Financial Instruments 
+requires a shareholder to recognise dividends when the shareholder’s right to receive payment is 
+established, it is probable that the economic benefits associated with the dividend will flow to the 
+shareholder and the dividend can be measured reliably (see Chapter 46 at section 2.5). [IFRS 9.5.7.1A]. 
+Similarly, IAS 27 Separate Financial Statements also contains this general principle in recognising in an 
+entity’s separate financial statements those dividends received from subsidiaries, joint ventures or 
+associates when its right to receive the dividend is established (see Chapter 9 at section 2.4.1). [IAS 27.12]. 
+Accordingly, a shareholder does not recognise such dividend income until the period in which the dividend 
+is declared. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2928 
+2.2 
+The treatment of adjusting events 
+2.2.1 
+Events requiring adjustment to the amounts recognised, or disclosures, in the 
+financial statements 
+IAS 10 requires that the amounts recognised in the financial statements be adjusted to take account of an 
+adjusting event. [IAS 10.8]. 
+The standard also notes that an entity may receive information after the reporting period about conditions 
+existing at the end of the reporting period relating to disclosures made in the financial statements but not 
+affecting the amounts recognised in them. [IAS 10.20]. In such cases, the standard requires the entity to 
+update the disclosures that relate to those conditions for the new information. [IAS 10.19]. 
+For example, evidence may become available after the reporting period about a contingent liability that 
+existed at the end of the reporting period. In addition to considering whether to recognise or change a 
+provision under IAS 37, IAS 10 requires an entity to update its disclosures about the contingent liability for 
+that evidence. [IAS 10.20]. 
+2.2.2 
+Events indicating that the going concern basis is not appropriate 
+If management determines after the reporting period (but before the financial statements are authorised 
+for issue) either that it intends to liquidate the entity or to cease trading, or that it has no realistic 
+alternative but to do so, the financial statements must not be prepared on a going concern basis. [IAS 10.14]. 
+Deterioration in operating results and financial position after the reporting period may indicate a need to 
+consider whether the going concern assumption is still appropriate. If the going concern assumption is no 
+longer appropriate, the standard states that the effect is so pervasive that it results in a fundamental 
+change in the basis of accounting, rather than an adjustment to the amounts recognised within the original 
+basis of accounting. [IAS 10.15]. As discussed in Chapter 3 at section 4.1.2.B, IFRS accounting standards 
+contains no guidance on this ‘fundamental change in the basis of accounting’. Accordingly, entities will need 
+to consider carefully their individual circumstances to arrive at an appropriate basis. 
+The standard also contains a reminder of the specific disclosure requirements under IAS 1: 
+(a) When the financial statements are not prepared on a going concern basis, that fact must be disclosed, 
+together with the basis on which the financial statements have been prepared and the reason why the 
+entity is not regarded as a going concern. 
+(b) When management is aware of material uncertainties related to events or conditions that may cast 
+significant doubt upon the entity’s ability to continue as a going concern, disclosure of those 
+uncertainties must be made. [IAS 10.16(a), IAS 10(2027).16(a), IAS 10.16(b), IAS 10(2027).16(b), IAS 1.25, 
+IAS 8(2027).6K, IAS 1.26, IAS 8(2027).6L]. 
+While IFRS accounting standards are generally written from the perspective that an entity is a going 
+concern, they are also applicable when another basis of accounting is used to prepare financial statements. 
+Various IFRS accounting standards acknowledge that financial statements may be prepared on either a 
+going concern basis or an alternative basis of accounting. [IAS 1.25, IAS 8(2027).6K, IAS 10.14, CF 3.9]. Such IFRS 
+accounting standards do not specifically exclude the application of IFRS accounting standards when an 
+alternative basis of accounting is used. As a result, financial statements prepared on a ‘non-going concern’ 
+basis of accounting may be described as complying with IFRS accounting standards as long as that other 
+basis of preparation is sufficiently described. [IAS 1.25, IAS 8(2027).6K]. This is further discussed in Chapter 3 
+at section 4.1.2.B. 
+Regarding the requirement in (b) above, the events or conditions requiring disclosure may arise after the 
+reporting period. [IAS 10.16(b), IAS 10(2027).16(b)]. 
+2.3 
+The treatment of non-adjusting events 
+IAS 10 prohibits the adjustment of amounts recognised in financial statements to reflect non-adjusting 
+events. [IAS 10.10]. It indicates that if non-adjusting events are material, non-disclosure could reasonably be 
+expected to influence decisions that the primary users of general purpose financial statements make on the 
+basis of those financial statements. Accordingly, an entity must disclose the following for each material 
+category of non-adjusting event: 
+(a) The nature of the event 
+(b) An estimate of its financial effect, or a statement that such an estimate cannot be made [IAS 10.21] 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2929 
+To illustrate how these requirements have been applied in practice, two Practical examples of disclosure for 
+commonly occurring types of non-adjusting events are given below. 
+Practical example 2-3 below contains an example of the disclosures required for a business combination 
+(example (a) in section 2.1.3 above). The requirement for the specific disclosures illustrated below is in 
+IFRS 3.B66 (see Chapter 10 at section 16.1.2): 
+Practical example 2-3: 
+Byggfakta Group Nordic HoldCo AB (publ) (2022) 
+Sweden 
+Byggfakta Group Annual & Sustainability Report [extract] 
+Notes to the consolidated financial statements [extract] 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2930 
+ 
+ 
+ 
+Practical example 2-4 below contains an example of the disclosure of major ordinary share transactions 
+after the reporting period (example (f) in section 2.1.3 above): 
+Practical example 2-4: 
+NP3 Fastigheter AB (publ) (2022) 
+Sweden 
+Annual Report 2022 [extract] 
+Notes [extract] 
+ 
+ 
+It is important to note that the list of examples of non-adjusting events in IAS 10, and summarised in 
+section 2.1.3 above, is not an exhaustive one; IAS 10 requires disclosure of any material non-adjusting event. 
+[IAS 10.21]. 
+2.3.1 
+Declaration to distribute non-cash assets to owners 
+When an entity declares a dividend to distribute a non-cash asset to owners after the end of a reporting period 
+but before the financial statements are authorised for issue, IFRIC 17 requires an entity to disclose: [IFRIC 17.17] 
+(a) The nature of the asset to be distributed 
+(b) The carrying amount of the asset to be distributed as of the end of the reporting period 
+(c) The fair value of the asset to be distributed as of the end of the reporting period, if it is different from its 
+carrying amount, and the following information about the method(s) used to measure that fair value: 
+(i) The level of the fair value hierarchy within which the fair value measurement is categorised (Level 
+1, 2 or 3). [IFRS 13.93(b)]. 
+(ii) For fair value measurements categorised within Level 2 and Level 3 of the fair value hierarchy, a 
+description of the valuation technique(s) and the inputs used in the fair value measurement. If 
+there has been a change in valuation technique (e.g., changing from a market approach to an 
+income approach or the use of an additional valuation technique), the entity must disclose that 
+change and the reason(s) for making it. For fair value measurements categorised within Level 3 of 
+the fair value hierarchy, quantitative information about the significant unobservable inputs used in 
+the fair value measurement must be provided. An entity is not required to create quantitative 
+information to comply with this disclosure requirement if quantitative unobservable inputs are not 
+developed by the entity when measuring fair value (e.g., when an entity uses prices from prior 
+transactions or third-party pricing information without adjustment). However, when providing this 
+disclosure, the quantitative unobservable inputs that are significant to the fair value measurement 
+and are reasonably available to the entity must not be ignored. [IFRS 13.93(d)]. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2931 
+(iii) For fair value measurements categorised within Level 3 of the fair value hierarchy, a description of 
+the valuation processes used by the entity (including, for example, how an entity decides its 
+valuation policies and procedures and analyses changes in fair value measurements from period to 
+period). [IFRS 13.93(g)]. 
+(iv) If the highest and best use of the non-financial asset differs from its current use, an entity must 
+disclose that fact and why the non-financial asset is being used in a manner that differs from its 
+highest and best use. [IFRS 13.93(i)]. 
+In the case of (c) above, any quantitative disclosures are required to be presented in a tabular format, unless 
+another format is more appropriate. [IFRS 13.99]. Fair value measurement is further discussed in Chapter 15. 
+2.3.2 
+Breach of a long-term loan arrangement and its subsequent rectification 
+When an entity breaches a provision of a long-term loan arrangement on or before the end of the reporting 
+period with the effect that the liability becomes payable on demand, it classifies the liability as current in its 
+statement of financial position (see Chapter 3 at sections 3.1.4 and 3.1.4.A). [IAS 1.74, IFRS 18.B102]. This 
+may also give rise to going concern uncertainties (see section 2.2.2 above). 
+It is not uncommon that such covenant breaches are subsequently rectified; however, a subsequent 
+rectification is not an adjusting event and therefore, does not change the classification of the liability in the 
+statement of financial position from current to non-current. 
+IAS 1 requires disclosure of the following events if they occur between the end of the reporting period and 
+the date the financial statements are authorised for issue: 
+• 
+Refinancing on a long-term basis of a liability classified as current 
+• 
+Rectification of a breach of a long-term loan arrangement classified as current 
+• 
+The granting by the lender of a period of grace to rectify a breach of a long-term loan arrangement 
+classified as current 
+• 
+Settlement of a liability classified as non-current (see Chapter 3 at section 5.6) [IAS 1.76, IFRS 18.B105] 
+The amendments to IAS 1 issued in January 2020 effective for annual reporting periods beginning on or 
+after 1 January 2024 included clarifications of the above list of subsequent events and added the 
+‘settlement of a liability classified as non-current’ to this list (see Chapter 3 at sections 3.1.4 and 5.6(b)). 
+2.4 
+Other disclosure requirements 
+The disclosures required in respect of non-adjusting events are discussed in section 2.3 above. As IAS 10 
+only requires consideration to be given to events that occur up to the date when the financial statements 
+are authorised for issue, it is important for users to know that date, since the financial statements do not 
+reflect events after that date. [IAS 10.18]. Accordingly, IAS 10 requires disclosure of the date the financial 
+statements were authorised for issue. Furthermore, it requires disclosure of who authorised the financial 
+statements for issue and, if the owners of the entity or others have the power to amend them after issue, 
+disclosure of that fact. [IAS 10.17]. In practice, this information can be presented in a number of ways: 
+(a) On the face of a primary statement (for example, entities that are required to have the statement of 
+financial position signed could include the information at that point) 
+(b) In the note dealing with other IAS 10 disclosures or another note (such as the summary of significant 
+accounting policies) 
+(c) In a separate statement such as a statement of directors’ responsibilities for the financial statements 
+(that is, outside of the financial statements as permitted in certain jurisdictions) 
+How we see it 
+Strictly speaking, this information is required to be presented within the financial statements. So, if (c) 
+above were chosen, either the whole statement of directors’ responsibilities would need to be part of the 
+financial statements or the information could be incorporated by way of a cross-reference. 
+In addition to the IAS 10 disclosure requirements, other standards may require disclosures to be provided 
+about future events, for example, IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors5 
+requires disclosure of the expected impact of new standards that are issued but are not yet effective at the 
+reporting date (see Chapter 3 at section 5.1.2.C). [IAS 8.30, IAS 8.31]. 
+ 
+5 
+The consequential amendments resulting from IFRS 18 Presentation and Disclosure in Financial Statements, once effective, 
+changes the title of IAS 8 to ‘Basis of Preparation of Financial Statements’ to better reflect the amended content of IAS 8. 
+See Chapter 4 for further details on the requirements of IFRS 18. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2932 
+3 
+Practical issues 
+The standard does address certain practical matters through examples of adjusting and non-adjusting 
+events. For example, the standard asserts that the bankruptcy of a customer that occurs after the 
+reporting period would usually be an adjusting event (see section 2.1.2 above). It also states that a decline 
+in fair value of investments after the reporting period does not normally relate to conditions at the end of 
+the reporting period and therefore, would be a non-adjusting event (see section 2.1.3 above). Judgement 
+of the facts and circumstances is required to determine whether an event that occurs after the reporting 
+period provides evidence about a condition that existed at the end of the reporting period, or whether the 
+condition arose subsequent to the reporting period. The following sections address some commonly 
+encountered practical issues. 
+3.1 
+Valuation of inventory 
+The sale of inventories after the reporting period is normally a good indicator of their net realisable value 
+(NRV) at that date. IAS 10 states that such sales “may give evidence about their net realisable value at the 
+end of the reporting period”. [IAS 10.9(b)(ii)]. However, in some cases, NRV decreases because of conditions 
+that did not exist at the end of the reporting period. 
+Therefore, it is important to determine why NRV decreased. Did it decrease because of circumstances that 
+existed at the end of the reporting period, which subsequently became known, or did it decrease because of 
+circumstances that arose after the end of the reporting period? A decrease in price is merely a response to 
+changing conditions so it is important to assess the reasons for, and timing of, these changes. 
+Some examples of changing conditions are as follows: 
+(a) Price reductions caused by a sudden increase in cheap imports 
+Whilst it is arguable that the ‘dumping’ of cheap imports after the reporting period is a condition that 
+arises subsequent to that date, it is more likely that this is a reaction to a condition that already existed 
+such as overproduction in other parts of the world. Thus, it might be more appropriate in such a 
+situation to adjust the value of inventories based on its subsequent NRV. 
+(b) Price reductions caused by increased competition 
+The reasons for price reductions and increased competition do not generally arise overnight but 
+normally occur over a period. For example, a competitor may have built up a competitive advantage by 
+investing in machinery that is more efficient. In these circumstances, it is appropriate for an entity to 
+adjust the valuation of its inventories because this situation existed at the end of the reporting period. 
+(c) Price reductions caused by the introduction of an improved competitive product 
+It is unlikely that a competitor developed and introduced an improved product overnight. Therefore, it 
+is appropriate to adjust the valuation of inventories held at the end of the reporting period to their NRV 
+after that introduction because the entity’s failure to maintain its competitive position in relation to 
+product improvements existed at the end of the reporting period. 
+Price reductions after the reporting period caused by increased competition are generally evidence of 
+conditions that existed at the end of the reporting period. For certain types of inventory, however, there 
+may be clear evidence of a price at the end of the reporting period. If this is the case, it is inappropriate to 
+adjust the NRV of that inventory to reflect a subsequent decline. An example is inventories for which there 
+is a price on an active commodities market. In addition, inventory may be physically damaged or destroyed 
+after the reporting period (e.g., by fire, flood, or other disaster). In these cases, the entity does not adjust 
+the financial statements. However, the entity may be required to disclose the subsequent decline in NRV of 
+the inventories if the impact is material (see section 2.3 above). 
+3.2 
+Over time measurement of progress 
+Events after the reporting period frequently give evidence about the profitability of contracts with customers, 
+which are in progress at the end of the reporting period and where revenue is recognised over time. 
+IFRS 15 Revenue from Contracts with Customers requires an assessment to be made of the progress 
+towards complete satisfaction of performance obligations satisfied over time (see Chapter 28 at 
+section 7.1.4). [IFRS 15.40]. In such an assessment, consideration must be given to events that occur after 
+the reporting period and a determination must be made as to whether they are adjusting or non-adjusting 
+events for which the financial effect is included in the method used to measure progress over time. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2933 
+3.3 
+Insolvency of a debtor and IFRS 9 expected credit losses 
+The insolvency of a debtor or inability to pay debts usually builds up over a period. IAS 10 states that the 
+bankruptcy of a customer that occurs after the reporting period usually confirms that the customer was 
+credit-impaired (Stage 3 under the IFRS 9 general approach - refer to Chapter 47 at section 3.1) at the end 
+of the reporting period. [IAS 10.9(b)(i)]. If, however, there is evidence to show that the insolvency of the 
+debtor resulted solely from an event occurring after the reporting period, then the event is a non-adjusting 
+event. If the impact is material, the entity will be required to disclose the nature and effect of the debtor’s 
+default (see section 2.3 above). 
+Frequently asked questions 
+Question 3-1: 
+Must an entity incorporate events and forecasts that occur between the reporting 
+date and the date the financial statements are authorised for issue, when applying the impairment 
+requirements of IFRS 9? 
+In April 2015, the IFRS Transition Resource Group for Impairment of Financial Instruments (ITG)6 
+discussed whether, and if so how, to incorporate events and forecasts that occur between the reporting 
+date and the date the financial statements are authorised for issue, when applying the impairment 
+requirements of IFRS 9 at the reporting date. The ITG noted that if new information becomes available 
+between the reporting date and the date of signing the financial statements, an entity needs to apply 
+judgement, based on the specific facts and circumstances, to determine whether it is an adjusting or 
+non-adjusting event in accordance with IAS 10. This is further discussed in Chapter 47 at section 5.9.4. 
+3.4 
+Discovery of fraud after the reporting period 
+The timing of when fraud is discovered will affect the accounting considerations. When fraud is discovered 
+after the end of the reporting period, but before the financial statements have been authorised for issue, 
+the discovery of fraud is often an adjusting event, i.e., an event that provides evidence of conditions that 
+existed at the reporting date (see section 2.1.2 above). [IAS 10.9]. However, the discovery of fraud may also 
+be a non-adjusting event. For example, for investments the discovery of fraud may affect the fair value of 
+the assets subsequent to the discovery of the fraud, but not their fair values on the reporting date. 
+When fraud is discovered after the financial statements have been authorised for issue this may indicate 
+prior period errors. Application of the IAS 8 definition of a ’prior period error’ (see Chapter 3 at section 4.6) 
+in the case of fraud requires the exercise of judgement. Facts and circumstances must be evaluated to 
+determine if the discovery of the fraud resulted from a previous failure to use, or misuse of, reliable 
+information, or from new information that was available at the time the financial statements were 
+authorised for issue and was reasonably expected to have been obtained and taken into account in the 
+preparation of the financial statements. [IAS 8.5, IAS 8(2027).5]. 
+3.5 
+Changes to estimates of uncertain tax treatments 
+IFRIC 23 addresses how to reflect uncertainty in accounting for income taxes. It requires an entity to 
+reassess any judgement or estimate relating to an uncertain tax treatment if the facts and circumstances 
+on which the judgement or estimate was based change, or as a result of new information that affects the 
+judgement or estimate. In cases where the change in facts and circumstances or new information occurs 
+after the reporting period, the interpretation requires an entity to apply IAS 10 to determine whether the 
+change gives rise to an adjusting or non-adjusting event, as set out in sections 2.1.2 and 2.1.3 above. 
+[IFRIC 23.13, IFRIC 23.14, IFRIC 23(2027).14]. 
+ 
+6 
+See Chapter 47 at section 1.4. 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2934 
+Examples of changes in facts and circumstances or new information that could result in the reassessment 
+of a judgement or estimate required by IFRIC 23 include, but are not limited to, the following: 
+(a) Examinations or actions by a taxation authority. For example: 
+(i) Agreement or disagreement by the taxation authority with the tax treatment or a similar tax 
+treatment used by the entity 
+(ii) Information that the taxation authority has agreed or disagreed with a similar tax treatment used 
+by another entity 
+(iii) Information about the amount received or paid to settle a similar tax treatment 
+(b) Changes in rules established by a taxation authority 
+(c) The expiry of a taxation authority’s right to examine or re-examine a tax treatment [IFRIC 23.A2] 
+A change in rules established by a taxation authority after the reporting period constitutes a non-adjusting 
+event (see section 2.1.3 above). [IAS 10.22(h)]. An entity must apply IAS 10 to determine whether any other 
+change that occurs after a reporting period is an adjusting or non-adjusting event. The requirements of 
+IFRIC 23 are further discussed in Chapter 29 at section 9. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2935 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Financial statements required to be approved by shareholders 
+2921 
+Illustration 2-2: 
+Financial statements required to be approved by supervisory board 
+2922 
+Illustration 2-3: 
+Financial statements required to be approved by supervisory board - 
+changes are made by supervisory board 
+2922 
+Illustration 2-4: 
+Release of financial information before date of authorisation for issue 
+2923 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2936 
+Appendix B - Index of Frequently asked questions 
+Question 3-1: 
+Must an entity incorporate events and forecasts that occur between the 
+reporting date and the date the financial statements are authorised for issue, 
+when applying the impairment requirements of IFRS 9? 
+2933 
+
+
+International GAAP® 2025 
+Chapter 34 
+Events after the reporting period 
+2937 
+Appendix C - Defined terms 
+Extract from IAS 10 
+3 
+The following terms are used in this Standard with the meanings specified: 
+Events after the reporting period are those events, favourable and unfavourable, that occur 
+between the end of the reporting period and the date when the financial statements are 
+authorised for issue. Two types of events can be identified: 
+(a) 
+those that provide evidence of conditions that existed at the end of the reporting period 
+(adjusting events after the reporting period); and 
+(b) 
+those that are indicative of conditions that arose after the reporting period (non-adjusting 
+events after the reporting period). 
+ 

@@ -1,0 +1,2871 @@
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3391 
+ 
+Chapter 41 
+Financial instruments: 
+Definitions and scope 
+ 
+Contents 
+Overview 
+3393 
+1 
+What is a financial instrument? 
+3394 
+1.1 
+Definitions 
+3394 
+1.2 
+Applying the definitions 
+3395 
+1.2.1 
+The need for a contract 
+3395 
+1.2.2 
+Simple financial instruments 
+3395 
+1.2.3 
+Contingent rights and obligations 
+3396 
+1.2.4 
+Leases 
+3397 
+1.2.5 
+Non-financial assets and liabilities and contracts thereon 
+3397 
+1.2.6 
+Payments for goods and services 
+3398 
+1.2.7 
+Equity instruments 
+3399 
+1.2.8 
+Derivative financial instruments 
+3399 
+1.2.9 
+Dividends payable 
+3400 
+1.2.10 
+Crypto-assets 
+3400 
+2 
+Scope 
+3401 
+2.1 
+Subsidiaries, associates, joint ventures and similar investments 
+3401 
+2.2 
+Leases 
+3402 
+2.3 
+Insurance and similar contracts 
+3402 
+2.3.1 
+Weather derivatives 
+3403 
+2.3.2 
+Contracts with discretionary participation features 
+3403 
+2.3.3 
+Separating financial instrument components including embedded derivatives from 
+insurance contracts 
+3404 
+2.3.4 
+Credit card contracts and similar arrangements which give rise to insurance risk 
+3404 
+2.3.5 
+Loan contracts that transfer significant insurance risk only on settlement of the 
+policyholder’s obligation created by the contract 
+3404 
+2.3.6 
+Amounts receivable from an intermediary 
+3404 
+2.4 
+Financial guarantee contracts 
+3405 
+2.4.1 
+Definition of a financial guarantee contract 
+3405 
+2.4.1.A 
+Reimbursement for loss incurred 
+3405 
+2.4.1.B 
+Debt instrument 
+3406 
+2.4.1.C 
+Form and existence of contract 
+3407 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3392 
+2.4.2 
+Issuers of financial guarantee contracts 
+3407 
+2.4.3 
+Holders of financial guarantee contracts 
+3408 
+2.4.4 
+Financial guarantee contracts between entities under common control 
+3408 
+2.5 
+Loan commitments 
+3409 
+2.5.1 
+Performance guarantees 
+3411 
+2.6 
+Equity instruments 
+3412 
+2.6.1 
+Equity instruments issued 
+3412 
+2.6.2 
+Equity instruments held 
+3413 
+2.7 
+Business combinations 
+3413 
+2.7.1 
+Contingent consideration in a business combination 
+3413 
+2.7.1.A 
+Payable by an acquirer 
+3413 
+2.7.1.B 
+Receivable by a vendor 
+3413 
+2.7.2 
+Contracts between an acquirer and a vendor in a business combination 
+3413 
+2.8 
+Contingent pricing of property, plant and equipment and intangible assets 
+3414 
+2.9 
+Employee benefit plans and share-based payment 
+3416 
+2.10 
+Reimbursement rights in respect of provisions 
+3416 
+2.11 
+Disposal groups classified as held for sale and discontinued operations 
+3417 
+2.12 
+Indemnification assets 
+3417 
+2.13 
+Rights and obligations within the scope of IFRS 15 
+3417 
+2.14 
+Commodity loans 
+3417 
+3 
+Contracts to buy or sell commodities and other non-financial items 
+3419 
+3.1 
+Decision process for contracts to buy or sell non-financial items 
+3420 
+3.2 
+Contracts that may be settled net 
+3422 
+3.3 
+Own use contracts 
+3422 
+3.3.1 
+Net settlement of similar contracts 
+3423 
+3.3.1.A 
+The meaning of ‘similar contracts’ 
+3424 
+3.3.1.B 
+The meaning of ‘offsetting’ 
+3424 
+3.3.1.C 
+Changes in the purpose for which contracts are being held 
+3424 
+3.3.1.D 
+Non-performance penalty clauses 
+3425 
+3.3.2 
+Commodity broker-traders and similar entities 
+3426 
+3.3.3 
+Written options that can be settled net 
+3428 
+3.3.4 
+Electricity and similar ‘end-user’ contracts 
+3428 
+3.3.5 
+Other contracts containing volume flexibility 
+3429 
+3.3.6 
+Fair value option 
+3430 
+3.3.7 
+Proposed amendments to IFRS 9 and IFRS 7 - Renewable Energy Contracts 
+3430 
+3.3.7.A 
+Introduction 
+3430 
+3.3.7.B 
+Scope of proposed amendments 
+3431 
+3.3.7.C 
+Proposed amendments to the own-use exception 
+3431 
+3.3.7.D 
+Transition and effective date 
+3432 
+Appendix A - Index of Illustrations 
+3433 
+Appendix B - Index of Frequently asked questions 
+3434 
+Appendix C - Defined terms 
+3435 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3393 
+Overview 
+The standards which address financial instruments are IAS 32 Financial Instruments: Presentation, IFRS 7 
+Financial Instruments: Disclosures and IFRS 9 Financial Instruments, which for most entities became 
+effective for periods beginning on or after 1 January 2018 and replaced substantially all of the 
+requirements relating to the recognition and measurement of financial instruments in IAS 39 Financial 
+Instruments: Recognition and Measurement. Insurers that met specified criteria were permitted to continue 
+with the application of IAS 39 for accounting periods that commenced before 1 January 2023. All insurers 
+are required to apply IFRS 9 for periods that commenced on or after 1 January 2023. As set out in 
+Chapter 49 at section 1.3, entities are permitted to elect an accounting policy choice to continue applying 
+the hedge accounting requirements of IAS 39 instead of those in IFRS 9. 
+In many cases, it will be clear whether an asset, liability, equity instrument, or other similar instrument 
+must be accounted for in accordance with one or more of these standards. However, at the margins, 
+determining whether these standards must be applied is not so easy. 
+Firstly, one needs to determine whether the definition of a financial instrument is met; secondly, not all 
+financial instruments are within the scope of each of these standards - some are within the scope of other 
+standards and some are not within the scope of any standard; and finally, certain contracts that do not 
+meet the definition of a financial instrument are within the scope of some of these standards. 
+In general, this chapter does not attempt to discuss differences between the IFRS and US GAAP guidance 
+on this topic as the standards are not converged. Therefore, differences between IFRS and US GAAP could 
+exist that are not discussed in this chapter. 
+What you need to know 
+This chapter addresses the definition and scope of financial instruments in three main sections covering 
+the following broad areas: 
+• 
+Application of the definitions used in IFRS, i.e., determining what a financial instrument actually is 
+(see section 1 below). 
+• 
+Determining which financial instruments are within the scope of which standards (see section 2 
+below). 
+And 
+• 
+Assessing whether a non-financial contract is to be accounted for as if it were a financial instrument 
+(see section 3 below). 
+ 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3394 
+1 
+What is a financial instrument? 
+1.1 
+Definitions 
+The main terms used in the standards that apply to financial instruments are defined in IAS 32 as follows: 
+[IAS 32.11] 
+Extract from IAS 32 
+11 
+The following terms are used in this Standard with the meanings specified: 
+A financial instrument is any contract that gives rise to a financial asset of one entity and a 
+financial liability or equity instrument of another entity. 
+A financial asset is any asset that is: 
+(a) 
+cash; 
+(b) 
+an equity instrument of another entity; 
+(c) 
+a contractual right: 
+(i) 
+to receive cash or another financial asset from another entity; or 
+(ii) 
+to exchange financial assets or financial liabilities with another entity under 
+conditions that are potentially favourable to the entity; or 
+(d) 
+a contract that will or may be settled in the entity’s own equity instruments and is: 
+(i) 
+a non-derivative for which the entity is or may be obliged to receive a variable 
+number of the entity’s own equity instruments; or 
+(ii) 
+a derivative that will or may be settled other than by the exchange of a fixed amount 
+of cash or another financial asset for a fixed number of the entity’s own equity 
+instruments. For this purpose the entity’s own equity instruments do not include 
+puttable financial instruments classified as equity instruments in accordance with 
+paragraphs 16A and 16B, instruments that impose on the entity an obligation to 
+deliver to another party a pro rata share of the net assets of the entity only on 
+liquidation and are classified as equity instruments in accordance with paragraphs 
+16C and 16D, or instruments that are contracts for the future receipt or delivery of 
+the entity’s own equity instruments. 
+A financial liability is any liability that is: 
+(a) 
+a contractual obligation: 
+(i) 
+to deliver cash or another financial asset to another entity; or 
+(ii) 
+to exchange financial assets or financial liabilities with another entity under 
+conditions that are potentially unfavourable to the entity; or 
+(b) 
+a contract that will or may be settled in the entity’s own equity instruments and is: 
+(i) 
+a non-derivative for which the entity is or may be obliged to deliver a variable 
+number of the entity’s own equity instruments; or 
+(ii) 
+a derivative that will or may be settled other than by the exchange of a fixed amount of 
+cash or another financial asset for a fixed number of the entity’s own equity 
+instruments. For this purpose, rights, options or warrants to acquire a fixed number of 
+the entity’s own equity instruments for a fixed amount of any currency are equity 
+instruments if the entity offers the rights, options or warrants pro rata to all of its 
+existing owners of the same class of its own non-derivative equity instruments. Also, 
+for these purposes the entity’s own equity instruments do not include puttable 
+financial instruments that are classified as equity instruments in accordance with 
+paragraphs 16A and 16B, instruments that impose on the entity an obligation to 
+deliver to another party a pro rata share of the net assets of the entity only on 
+liquidation and are classified as equity instruments in accordance with paragraphs 16C 
+and 16D, or instruments that are contracts for the future receipt or delivery of the 
+entity’s own equity instruments. 
+As an exception, an instrument that meets the definition of a financial liability is 
+classified as an equity instrument if it has all the features and meets the conditions 
+in paragraphs 16A and 16B or paragraphs 16C and 16D. 
+An equity instrument is any contract that evidences a residual interest in the assets of an entity 
+after deducting all of its liabilities. 
+… 
+For the purpose of these definitions, ‘entity’ includes individuals, partnerships, incorporated bodies, trusts and 
+government agencies. [IAS 32.14]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3395 
+1.2 
+Applying the definitions 
+1.2.1 
+The need for a contract 
+The terms ‘contract’ and ‘contractual’ are important to the definitions and refer to “an agreement between 
+two or more parties that has clear economic consequences that the parties have little, if any, discretion to 
+avoid, usually because the agreement is enforceable by law”. Such contracts may take a variety of forms 
+and need not be in writing. [IAS 32.13]. 
+Frequently asked questions 
+Question 1-1: 
+What constitutes a contract in the context of gaming transactions? 
+The IFRS IC examined the question of what constitutes a contract in the context of gaming transactions. 
+This is because, in some jurisdictions, a wager does not give rise to a contract that is enforceable under 
+local contract law. The IFRS IC staff noted that a gaming transaction constitutes an agreement between 
+two or more parties that has clear economic consequences for both. Furthermore, in most countries, 
+gambling is heavily regulated and only parties acting within a regulated framework are licensed to 
+operate gaming institutions, so that such entities cannot realistically fail to pay out on a good wager and 
+therefore, the gaming institution will have little or no discretion as to whether it pays out on the bet. 
+Consequently, the IFRS IC agreed that a wager should be treated as a contract.1 
+A contractual right or contractual obligation to receive, deliver or exchange financial instruments is itself a 
+financial instrument. Additionally, a chain of contractual rights or contractual obligations meets the 
+definition of a financial instrument if it will ultimately lead to the receipt or payment of cash or to the 
+acquisition or issue of an equity instrument. [IAS 32.AG7]. 
+Assets and liabilities relating to non-contractual arrangements that arise as a result of statutory 
+requirements imposed by governments, such as income taxes or levies are not financial liabilities or 
+financial assets because they are not contractual. [IAS 32.AG12]. Accounting for income taxes is dealt with in 
+more detail in another standard, IAS 12 Income Taxes (see Chapter 29), while levies are covered by 
+IFRIC 21 Levies (see Chapter 27 at section 6.8). 
+Similarly, constructive obligations as defined in IAS 37 Provisions, Contingent Liabilities and Contingent 
+Assets (see Chapter 27 at section 3.1.1) do not arise from contracts and are therefore not financial 
+liabilities. [IAS 32.AG12]. 
+1.2.2 
+Simple financial instruments 
+The most common and simplest form of financial instrument is cash. [IAS 32.AG3]. 
+Extract from IAS 32 
+AG3 
+Currency (cash) is a financial asset because it represents the medium of exchange and is 
+therefore the basis on which all transactions are measured and recognised in financial 
+statements. A deposit of cash with a bank or similar financial institution is a financial asset 
+because it represents the contractual right of the depositor to obtain cash from the institution 
+or to draw a cheque or similar instrument against the balance in favour of a creditor in payment 
+of a financial liability. 
+In addition to cash, the following common financial instruments give rise to financial assets representing a 
+contractual right to receive cash in the future, and corresponding financial liabilities representing a 
+contractual obligation to deliver cash in the future: 
+(a) Trade accounts receivable and payable 
+(b) Notes receivable and payable 
+(c) Loans receivable and payable 
+And 
+(d) Bonds receivable and payable 
+In each case, one party’s contractual right to receive (or obligation to pay) cash is matched by the other 
+party’s corresponding obligation to pay (or right to receive). [IAS 32.AG4]. 
+ 
+1 
+INFORMATION FOR OBSERVERS, IFRIC Meeting: May 2007, London, Project: Gaming Transactions (Agenda Paper 11(i)), IASB, 
+paras. 25 -27; and IFRIC Update, July 2007. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3396 
+Another type of financial instrument is one for which the economic benefit to be received or given up is a 
+financial asset other than cash. For example, a note payable in government bonds gives the holder the 
+contractual right to receive, and the issuer the contractual obligation to deliver, government bonds, not cash. 
+The bonds are financial assets because they represent obligations of the issuing government to pay cash. 
+Therefore, the note is a financial asset of the note holder and a financial liability of the note issuer. [IAS 32.AG5]. 
+Perpetual debt instruments (such as perpetual bonds, debentures and capital notes) normally provide the 
+holder with the contractual right to receive payments on account of interest at fixed dates extending 
+indefinitely, either with no right to receive a return of principal or a right to a return of principal under 
+terms that make it very unlikely or very far in the future. For example, an entity may issue a financial 
+instrument requiring it to make annual payments in perpetuity equal to a stated interest rate of 8% applied 
+to a stated par or principal amount of CU1,000. Assuming 8% is the market rate of interest for the 
+instrument when issued, the issuer assumes a contractual obligation to make a stream of future interest 
+payments having a net present value (or fair value) of CU1,000 on initial recognition. The holder and issuer 
+of the instrument have a financial asset and a financial liability, respectively. [IAS 32.AG6]. 
+1.2.3 
+Contingent rights and obligations 
+The ability to exercise a contractual right or the requirement to satisfy a contractual obligation may be 
+absolute (as in the examples in section 1.2.2 above), or it may be contingent on the occurrence of a future 
+event. A contingent right or obligation, e.g., to receive or deliver cash, meets the definition of a financial 
+asset or a financial liability. [IAS 32.AG8]. 
+For example, a financial guarantee is a contractual right of the lender to receive cash from the guarantor, 
+and a corresponding contractual obligation of the guarantor to pay the lender, if the borrower defaults. The 
+contractual right and obligation exist because of a past transaction or event (the assumption of the 
+guarantee), even though the lender’s ability to exercise its right and the requirement for the guarantor to 
+perform under its obligation are both contingent on a future act of default by the borrower. [IAS 32.AG8]. 
+Illustration 1-1: 
+Does contingent consideration arising from the sale of a business meet the 
+definition of a financial instrument? 
+An entity sells its entire shareholding in a subsidiary to a third party. The terms of the arrangement require the 
+buyer to transfer an additional amount of cash if a specified event occurs in the future. The question is 
+whether the seller accounts for this contingent consideration as a financial instrument. The following three 
+scenarios are considered. 
+Scenario 1 
+The additional consideration is contingent on the market price of the shares issued to affect the business 
+combination. This share price-based contingency meets the definition of a financial asset and a derivative 
+because the seller has a contractual right to receive an amount whose value changes in response to changes in 
+the market price of the shares. 
+Scenario 2 
+The additional consideration is contingent on the acquiree maintaining or achieving specified earnings levels in 
+future periods, such as revenue or EBITDA. This earnings-based contingency meets the definition of a financial 
+asset as it represents a contractual right to receive cash or other financial assets. Whether it meets the 
+definition of a derivative depends on whether the seller’s accounting policy is to view revenue / EBITDA as a 
+financial or non-financial variable (see Chapter 42 at section 1.1.3). If the seller’s policy is to view the 
+underlying earnings-based variable as a financial variable, then the contract meets the definition of a 
+derivative. If the seller’s policy is not to view the underlying earnings-based variable as a financial variable, 
+then the contract does not currently meet the definition of a derivative, because the variable is specific to a 
+party to the contract. In this case, it will still be accounted for at fair value through profit or loss as it will fail 
+the ‘contractual cash flow characteristics’ test due to the linkage of the cash flows to the acquiree’s earnings. 
+Scenario 3 
+The additional consideration is contingent on a favourable court ruling on a case initiated by the business prior 
+to its sale, and all the proceeds will be passed to the seller. This legal contingency does not meet the definition 
+of a derivative or a financial asset. Although a contract exists between the buyer and the seller, in this 
+circumstance, the buyer is not exposed to any risks or rewards arising from the contract. Generally, the buyer 
+acts as an agent for the seller and transfers any proceeds received from a favourable outcome in court to the 
+seller. In the consolidated financial statements of the seller, the contract is not a derivative but a right to 
+receive future contingent proceeds, which meets the definition of a contingent asset. Therefore, it must be 
+accounted for in accordance with the requirements of IAS 37. Therefore, if the acquiree recognised such a 
+contingent asset prior to the sale, and the buyer acts as an agent in a manner noted above, the seller would 
+not derecognise the contingent asset in its consolidated financial statements at the time of the sale. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3397 
+Even though contingent rights and obligations can meet the definition of a financial instrument, they are 
+not always recognised in the financial statements as such. For example, contingent rights and obligations 
+may be insurance contracts within the scope of IFRS 17 Insurance Contracts (see Chapter 51 at section 2.3 
+and section 3.7) or may otherwise be excluded from the scope of IFRS 9 (see section 2 below). [IAS 32.AG8]. 
+1.2.4 
+Leases 
+A lease typically creates an entitlement of the lessor to receive, and an obligation of the lessee to make, a 
+stream of payments that are substantially the same as blended payments of principal and interest under a 
+loan agreement. The lessor accounts for its investment in the amount receivable under a finance lease rather 
+than the underlying asset itself. Accordingly, a lessor regards a finance lease as a financial instrument. In 
+contrast, a lessor does not recognise its entitlement to receive lease payments under an operating lease. The 
+lessor continues to account for the underlying asset itself rather than any amount receivable in the future 
+under the contract. Accordingly, a lessor does not regard an operating lease as a financial instrument, except 
+as regards individual payments currently due and payable by the lessee. [IAS 32.AG9]. 
+IFRS 16 Leases requires a lessee to recognise a lease liability (with a corresponding right-of-use asset) at the 
+commencement date of the lease, at the present value of the lease payments that are not paid at that date. 
+[IFRS 16.22, IFRS 16.26]. Accordingly, under IFRS 16, a lessee regards a lease as giving rise to a financial liability. 
+Nevertheless, as discussed in more detail in section 2.2 below, whilst leases can give rise to financial 
+instruments for lessors and for lessees respectively, those financial instruments are not always accounted 
+for under IFRS 9. 
+1.2.5 
+Non-financial assets and liabilities and contracts thereon 
+Physical assets (e.g., inventories, property, plant and equipment), right-of-use assets and intangible assets 
+(e.g., patents and trademarks) are not financial assets. Control of such assets creates an opportunity to 
+generate an inflow of cash or another financial asset, but it does not give rise to a present right to receive 
+cash or another financial asset. [IAS 32.AG10]. For example, whilst gold bullion is highly liquid (and perhaps 
+more liquid than many financial instruments), it gives no contractual right to receive cash or another 
+financial asset, and so is therefore a commodity, not a financial asset. [IFRS 9.IG B.1]. 
+Assets like prepaid expenses, for which the future economic benefit is the receipt of goods or services 
+rather than the right to receive cash or another financial asset, are not financial assets. Similarly, items like 
+deferred revenue and most warranty obligations are not financial liabilities, because the outflow of 
+economic benefits associated with them is the delivery of goods and services rather than a contractual 
+obligation to pay cash or another financial asset. [IAS 32.AG11]. 
+Contracts to buy or sell non-financial items do not meet the definition of a financial instrument because the 
+contractual right of one party to receive a non-financial asset or service and the corresponding obligation of 
+the other party, do not establish a present right or obligation of either party to receive, deliver or exchange 
+a financial asset. For example, contracts that provide for settlement only by the receipt or delivery of a 
+non-financial item (e.g., an option, future or forward contract on silver and many similar commodity 
+contracts) are not financial instruments. However, as set out in section 3 below, certain contracts to buy or 
+sell non-financial items that can be settled net or by exchanging financial instruments, or in which the non-
+financial item is readily convertible into cash are included within the scope of IAS 32 and IFRS 9 
+respectively, essentially because they exhibit similar characteristics to financial instruments. [IAS 32.AG20]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3398 
+Frequently asked questions 
+Question 1-2: 
+Cash deposits in respect of returnable containers 
+In some industries, e.g., brewing and heating gas, entities distribute their products in returnable 
+containers. Often, these entities will collect a cash deposit for each container delivered, which they have an 
+obligation to refund on return of the container. The IFRS IC addressed the classification of these obligations 
+in November 2007, in particular whether they meet the definition of a financial instrument.2 It is easy to 
+jump to the conclusion (as the IFRS IC did initially)3 that such an arrangement represents a contract to 
+exchange a non-financial item (the container) for cash and is therefore outside the scope of IFRS 9. 
+However, the IFRS IC recognised that this analysis holds true only if, in accounting terms, the container 
+ceases to be an asset of the seller when the sale is made, i.e., it is derecognised. If the container is not 
+derecognised, the customer cannot be regarded as receiving the non-financial asset because the 
+accounting treatment regards the seller as retaining the asset. Instead, the deposit represents an 
+obligation for the seller to transfer cash and therefore, the seller classifies it as a financial liability.4 
+Some contracts are commodity-linked, but do not involve settlement through the physical receipt or 
+delivery of a commodity. Instead, they specify settlement through cash payments that are determined 
+according to a formula in the contract. For example, the principal amount of a bond may be calculated by 
+applying the market price of oil prevailing at the maturity of the bond to a fixed quantity of oil, but is settled 
+only in cash. Such a contract constitutes a financial instrument. [IAS 32.AG22]. 
+Financial instruments also include contracts that give rise to a non-financial asset or non-financial liability in 
+addition to a financial asset or financial liability. Such arrangements often give one party an option to 
+exchange a financial asset for a non-financial asset. For example, an oil-linked bond may give the holder the 
+right to receive a stream of fixed periodic interest payments and a fixed amount of cash on maturity, with 
+the option to exchange the principal amount for a fixed quantity of oil. The desirability of exercising this 
+option will vary over time depending on the fair value of oil relative to the exchange ratio of cash for oil (the 
+exchange price) inherent in the bond, but the intentions of the bondholder do not affect the substance of 
+the component assets. The financial asset of the holder and the financial liability of the issuer make the 
+bond a financial instrument, regardless of the other types of assets and liabilities also created. [IAS 32.AG23]. 
+1.2.6 
+Payments for goods and services 
+Where payment on a contract involving the receipt or delivery of physical assets is deferred past the date of 
+transfer of the asset, a financial instrument arises at the date of transfer. In other words, the sale or 
+purchase of goods on trade credit gives rise to a financial asset (a trade receivable) and a financial liability 
+(a trade payable) when the goods are transferred. This is the case even if an invoice is not issued at the 
+date of transfer. However, where required by IFRS 15 Revenue from Contracts with Customers, a financial 
+instrument would arise at an earlier date. [IAS 32.AG21]. 
+IAS 32 does not explain whether the same logic should apply to the delivery of other, less tangible, non-
+financial items, e.g., construction or other services. IFRIC 12 Service Concession Arrangements provides 
+guidance on how operators of service concessions over public infrastructure assets must account for 
+these arrangements. Where an operator obtains an unconditional contractual right to receive cash from 
+the grantor in exchange for construction or other services, the accrued revenue represents a financial 
+asset. This is the case even if payment is not due immediately and even if it is contingent on the operator 
+ensuring that the underlying infrastructure meets specified quality or efficiency requirements (see 
+Chapter 26 at section 4.2). [IFRIC 12.16]. 
+ 
+2 
+INFORMATION FOR OBSERVERS, IFRIC Meeting: November 2007, London, Project: Deposits on returnable containers (Agenda 
+Paper 7B), IASB, paras. 1 and 2. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+3 
+IFRIC Update, November 2007, available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+4 
+IFRIC Update, May 2008, available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3399 
+1.2.7 
+Equity instruments 
+Equity instruments include non-puttable ordinary shares, some puttable and similar instruments, some 
+types of preference shares and warrants or written call options that allow the holder to subscribe for or 
+purchase a fixed number of non-puttable ordinary shares in the issuing entity, in exchange for a fixed 
+amount of cash or another financial asset. [IAS 32.AG13]. The definition of equity instruments is considered in 
+more detail in Chapter 43 at section 4.1. 
+1.2.8 
+Derivative financial instruments 
+In addition to primary instruments such as receivables, payables and equity instruments, financial 
+instruments also include derivatives such as financial options, futures and forwards, interest rate swaps 
+and currency swaps. Derivatives normally transfer one or more of the financial risks inherent in an 
+underlying primary instrument between the contracting parties without any need to transfer the underlying 
+instruments themselves (either at inception of the contract or even, where cash settled, on termination). 
+[IAS 32.AG15, IAS 32.AG16]. 
+There are important accounting consequences for financial instruments that are considered to be derivatives, 
+and the defining characteristics of derivatives are covered in more detail in Chapter 42 at section 1. 
+As noted in section 1.2.5 above, certain derivative contracts on non-financial items are included within the 
+scope of IAS 32 and IFRS 9, even though they are not, strictly, financial instruments as defined. These 
+contracts are covered in more detail in section 3 below. 
+On inception, the terms of a derivative financial instrument generally give one party a contractual right (or 
+obligation) to exchange financial assets or financial liabilities with another party under conditions that are 
+potentially favourable (or unfavourable). Some instruments embody both a right and an obligation to make 
+an exchange and, as prices in financial markets change, those terms may become either favourable or 
+unfavourable. [IAS 32.AG16]. 
+A put or call option to exchange financial assets or financial liabilities gives the holder a right to obtain 
+potential future economic benefits associated with changes in the fair value of the underlying instrument. 
+Conversely, the writer of an option assumes an obligation to forgo such potential future economic benefits or 
+bear potential losses associated with the underlying instrument. The contractual right (or obligation) of the 
+holder (or writer) meets the definition of a financial asset (or liability). The financial instrument underlying an 
+option contract could be any financial asset, including shares in other entities and interest-bearing 
+instruments. An option may require the writer to issue a debt instrument, rather than transfer a financial 
+asset, but the instrument underlying the option would constitute a financial asset of the holder if the option 
+were exercised. The option-holder’s right (or writer’s obligation) to exchange the financial asset under 
+potentially favourable (or unfavourable) conditions is distinct from the underlying financial asset to be 
+exchanged upon exercise of the option. The nature of the holder’s right and of the writer’s obligation (which 
+characterises such contracts as a financial instrument) are not affected by the likelihood that the option will 
+be exercised. [IAS 32.AG17]. 
+Another common type of derivative is a forward contract. For example, consider a contract in which two 
+parties (the seller and the purchaser) promise in six months’ time to exchange CU1,000 cash (the purchaser 
+will pay cash) for CU1,000 face amount of fixed rate government bonds (the seller will deliver the bonds). 
+During those six months, both parties have a contractual right and a contractual obligation to exchange 
+financial instruments (cash in exchange for bonds). If the market price of the government bonds rises above 
+CU1,000, the conditions will be favourable to the purchaser and unfavourable to the seller, and vice versa if 
+the market price falls below CU1,000. The purchaser has a contractual right (a financial asset) similar to the 
+right under a call option held and a contractual obligation (a financial liability) similar to the obligation under a 
+put option written. The seller has a contractual right (a financial asset) similar to the right under a put option 
+held and a contractual obligation (a financial liability) similar to the obligation under a call option written. As 
+with options, these contractual rights and obligations constitute financial assets and financial liabilities 
+separate and distinct from the underlying financial instruments (the bonds and cash to be exchanged). Both 
+parties to a forward contract have an obligation to perform at the agreed time, whereas performance under 
+an option contract occurs only if and when the holder of the option chooses to exercise it. [IAS 32.AG18]. 
+Other types of derivative also embody a right or obligation to make a future exchange, including interest 
+rate and currency swaps, interest rate caps, collars and floors, loan commitments, note issuance facilities 
+and letters of credit. An interest rate swap contract can be seen as a variation of a forward contract in 
+which the parties agree to make a series of future exchanges of cash amounts, one amount calculated with 
+reference to a floating interest rate and the other with reference to a fixed interest rate. Futures contracts 
+are another variation of forward contracts, with the primary difference being that futures contracts are 
+standardised and traded on an exchange. [IAS 32.AG19]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3400 
+1.2.9 
+Dividends payable 
+As part of its project to provide authoritative accounting guidance for non-cash distributions (see Chapter 9 
+at section 2.4.2), the IFRS IC, in January 2008, found itself debating the seemingly simple question of how 
+to account for a declared but unpaid cash dividend (or, more accurately, which standard applies to such a 
+liability). Although there are clear indicators within IFRS accounting standards that an obligation to pay a 
+cash dividend is a financial liability, [IAS 32.AG13], the IFRS IC originally decided that it was appropriate to 
+apply the principles in IAS 37 to all dividends payable, [IFRIC 17.BC25], a decision that appeared to have been 
+made more on the grounds of expediency rather than using any robust technical analysis. By the time 
+IFRIC 17 Distributions of Non-cash Assets to Owners was published in November 2008, the IFRS IC had 
+modified its position slightly. Aside from standards dealing with the measurement of liabilities that are 
+clearly not relevant (e.g., IAS 12), they considered that others, except IAS 37 or IFRS 9,5 were not 
+applicable because they addressed liabilities arising only from exchange transactions. [IFRIC 17.BC22]. 
+IFRIC 17 specifies the accounting treatment to be applied to distributions without linking to any individual 
+standard. [IFRIC 17.BC27]. The IFRS IC concluded that it was not appropriate to conclude that all dividends 
+payable are to be regarded as financial liabilities.6 Therefore, entities will have to exercise judgement to 
+determine whether IAS 37 or IFRS 9 must be applied to declared but unpaid cash dividends. 
+1.2.10 
+Crypto-assets 
+Crypto-assets have diverse terms and conditions, and the purpose for holding them differs. As a result, the 
+holders and issuers of crypto-assets will need to evaluate their own facts and circumstances in determining 
+which IFRS accounting standards classification and measurement requirements need to be applied (see 
+Chapter 18 at section 11.6). Generally, crypto-assets are not considered to be financial instruments, as in 
+many cases, they do not give rise to a financial asset of one entity and a financial liability or equity 
+instrument of another entity. 
+It has been observed that certain crypto-assets may provide different rights to the holder, depending on 
+facts and circumstances. For example, a holder of a crypto-asset may have a right to convert the crypto-
+asset into cash only if the holder has a bank account with a particular party. In such case, the same crypto 
+asset may meet the definition of a financial asset for holders with a bank account but not for others. 
+The accounting for crypto-assets that meet the definition of intangible assets is discussed in Chapter 18 at 
+section 11.6. For crypto-assets that are classified as inventories refer to Chapter 23 at section 2.3.1.F. The 
+distinction between cryptocurrencies and Central Bank Digital Currencies, as well as considerations on 
+whether these are considered to meet the definition of cash and cash equivalents is discussed in Chapter 36 
+at section 3.1. 
+ 
+5 
+Paragraph BC 22 of IFRIC 17 refers to IAS 39. For the purpose of this paragraph the reference to IAS 39 has been superseded by 
+IFRS 9. 
+6 
+IFRIC Update, July 2008, available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3401 
+2 
+Scope 
+IAS 32, IFRS 7 and IFRS 9 apply to the financial statements of all entities that are prepared in accordance 
+with International Financial Reporting Standards. [IAS 32.4, IFRS 7.3, IFRS 9.2.1]. In other words, there are no 
+exclusions from the presentation, recognition, measurement, or even the disclosure requirements of these 
+standards based on the nature of the reporting entity, even for entities that do not have publicly traded 
+securities or those that are subsidiaries of other entities. 
+The standards do not, however, apply to all of an entity’s financial instruments, some of which are excluded 
+from their scope, for example, insurance contracts (see Chapter 51). These exceptions are considered in 
+more detail in sections 2.1 to 2.14 below. Conversely, certain contracts over non-financial items that 
+behave in a similar way to financial instruments but do not actually fall within the definition - essentially 
+some commodity contracts - are included within the scope of the standards and these are considered in 
+section 3 below. 
+2.1 
+Subsidiaries, associates, joint ventures and similar investments 
+Most interests in subsidiaries, associates, and joint ventures that are consolidated or equity accounted in 
+consolidated financial statements are outside the scope of IAS 32, IFRS 7 and IFRS 9. However, such 
+instruments must be accounted for in accordance with IFRS 9 and disclosed in accordance with IFRS 7 in 
+the following situations: [IAS 32.4(a), IFRS 7.3(a), IFRS 9.2.1(a)] 
+• 
+In separate financial statements of the parent or investor if the entity chooses not to account for those 
+investments at cost or using the equity method as described in IAS 28 Investments in Associates and 
+Joint Ventures (see Chapter 9 at section 2). [IAS 27.10, IAS 27.11, IAS 28.44]. 
+• 
+When investments in an associate or a joint venture held by a venture capital organisation, mutual 
+fund, unit trust or similar entity are classified as financial instruments at fair value through profit or 
+loss on initial recognition (see Chapter 12 at section 3.3). [IAS 28.18]. When an entity has an investment 
+in an associate, a portion of which is held indirectly through a venture capital organisation, mutual 
+fund, unit trust or similar entity including an investment-linked insurance fund, the entity may elect to 
+measure that portion of the investment in the associate at fair value through profit or loss regardless 
+of whether the venture capital organisation, mutual fund, unit trust or similar entity has significant 
+influence over that portion of the investment. If the election is made, the equity method must be 
+applied to any remaining portion of the investment. [IAS 28.19]. 
+And 
+• 
+An investment in a subsidiary by an investment entity that is measured at fair value through profit or 
+loss using the investment entity exception (see Chapter 7 at section 2.2.3). [IFRS 10.31]. 
+In January 2013, the IFRS IC concluded that impairments of investments in subsidiaries, associates and 
+joint ventures accounted for at cost in the separate financial statements of the investor are dealt with by 
+IAS 36 Impairment of Assets - not IFRS 9.7 
+Frequently asked questions 
+Question 2-1: 
+Which standard applies to impairment of long-term interests in an associate or joint 
+venture that, in substance, form part of the net investment in the associate or joint venture? 
+Whilst the scope of IFRS 9 excludes interests in associates and joint ventures accounted for using the 
+equity method, [IFRS 9.2.1(a)], it was initially unclear whether the scope also excludes long-term interests 
+in an associate or joint venture that, in substance, form part of the net investment in the associate or 
+joint venture (see Chapter 12 at section 10.3). However, in October 2017, the IASB issued an 
+amendment to IAS 28 clarifying that IFRS 9, including its impairment requirements, applies to the 
+measurement of long-term interests in an associate or a joint venture that form part of the net 
+investment in the associate or joint venture, but to which the equity method is not applied. [IAS 28.14A]. 
+IAS 32, IFRS 7 and IFRS 9 apply to most derivatives on interests in subsidiaries, associates and joint 
+ventures, irrespective of how the investment is otherwise accounted for. However, IFRS 9 does not apply to 
+instruments containing potential voting rights that, in substance, give access to the economic benefits 
+arising from an ownership interest which is consolidated or equity accounted (see Chapter 8 at section 2.2, 
+Chapter 12 at section 6.3.1 and Chapter 13 at section 4.2.2). [IFRS 10.B91]. 
+ 
+7 
+IFRIC Update, January 2013, available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3402 
+From the perspective of an entity issuing derivatives, the requirements of IFRS 9 and IFRS 7 do not apply if 
+such derivatives meet the definition of an equity instrument of the entity. [IFRS 7.3(a), IFRS 9.2.1(a)]. For 
+example, a written call option allowing the holder to acquire a subsidiary’s shares that can be settled only 
+by delivering a fixed number of those shares in exchange for a fixed amount of cash might meet the 
+definition of equity in the group’s consolidated financial statements (see section 2.6 below and Chapter 43 
+at section 5.1). 
+Sometimes an entity will make a strategic investment in the equity of another party. These are often made 
+with the intention of establishing or maintaining a long-term operating relationship with the investee. 
+Unless they are equity accounted as associates or joint ventures, these investments are within the scope of 
+IFRS 9. [IFRS 9.B2.3]. 
+2.2 
+Leases 
+Whilst all financial assets and liabilities arising from leases are within the scope of IAS 32 and IFRS 7, they 
+are only within the scope of IFRS 9 to the following extent: 
+• 
+Lease receivables and lease liabilities are subject to the derecognition provisions (see Chapter 48). 
+• 
+Lease receivables are subject to the ‘expected credit loss’ requirements (see Chapter 47 at sections 5 
+and 10.2). 
+And 
+• 
+The relevant provisions that apply to derivatives embedded within leases (see Chapter 42 at 
+section 4.3). 
+Otherwise the applicable standard is IFRS 16 (see Chapter 24), not IFRS 9. [IFRS 9.2.1(b)]. 
+In March 2022, the IFRS IC considered a rent concession in which a lessor legally released the lessee from 
+its obligation to make specifically identified lease payments, some of which are amounts contractually due 
+but not paid (which the lessor had recognised as an operating lease receivable).The IFRS IC concluded that, 
+in the period before the rent concession is granted, the lessor measures expected credit losses on the 
+operating lease receivable as required by IFRS 9, and must consider its expectations of forgiving lease 
+payments recognised as part of that receivable. [IFRS 9.5.5.17]. Furthermore, the IFRS IC concluded that the 
+derecognition requirements in IFRS 9 apply to forgiven lease payments that the lessor had included in an 
+operating lease receivable on the date the rent concession is granted; and the lease modification 
+requirements in IFRS 16 apply to forgiven lease payments that the lessor had not included in an operating 
+lease receivable. This issue is discussed in more detail in Chapter 24 at section 6.5.2. 
+In July 2024, the IASB issued amendments to IFRS 9 related to derecognition of lease liabilities. Paragraph 
+2.1(b)(ii) of IFRS 9 has been amended by adding a cross-reference to paragraph 3.3.3 of IFRS 9 to resolve 
+potential confusion for a lessee applying the derecognition requirements in IFRS 9. This is to clarify that, 
+when a lease liability (or part of a lease liability) is extinguished or transferred to another party, the 
+difference between the carrying amount and the consideration paid, including any non-cash assets 
+transferred or liabilities assumed, is recognised in profit or loss. A lessee is required to apply this 
+amendment for annual reporting periods beginning on or after 1 January 2026. Earlier application is 
+permitted. This amendment does not address how a lessee distinguishes between a lease modification as 
+defined in IFRS 16 and an extinguishment of a lease liability in accordance with IFRS 9. This is discussed 
+further in chapter 24 at sections 5.5.4.C and 6.5.2. 
+2.3 
+Insurance and similar contracts 
+Although insurance contracts as defined in IFRS 17 often satisfy the definition of a financial instrument, 
+they are generally excluded from the scope of IAS 32, IFRS 7 and IFRS 9. However, those standards apply 
+to certain embedded derivatives (see section 2.3.3 below), investment components (see section 2.3.3 
+below), financial guarantee contracts (see section 2.4 below), rights and obligations that are financial 
+instruments arising under credit card contracts (see section 2.3.4 below) and loan contracts that transfer 
+significant insurance risk only on settlement the policyholder’s obligation created by the contract (see 
+section 2.3.5 below). [IAS 32.4(d), IFRS 7.3(d), IFRS 9.2.1(e)]. IFRS 17 is discussed in Chapter 51. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3403 
+Extracts from IFRS 17 
+Appendix A 
+Defined terms 
+financial risk 
+The risk of a possible future change in one or more of a specified 
+interest rate, financial instrument price, commodity price, foreign 
+exchange rate, index of prices or rates, credit rating or credit index or 
+other variable, provided in the case of a non-financial variable that the 
+variable is not specific to a party to the contract. 
+insurance contract 
+A contract under which one party (the insurer or issuer) accepts 
+significant insurance risk from another party (the policyholder) by 
+agreeing to compensate the policyholder if a specified uncertain future 
+event (the insured event) adversely affects the policyholder. 
+insurance risk 
+Risk, other than financial risk, transferred from the holder of a 
+contract to the issuer 
+[IFRS 17 Appendix A]. 
+In many cases, it will be quite clear whether a contract is an insurance contract or not, although this will not 
+always be the case and IFRS 17 contains guidance on this definition (see Chapter 51 at section 3). 
+[IFRS 17.B2-B30]. 
+The application guidance makes it clear that insurers’ financial instruments that are not within the scope of 
+IFRS 17 must be accounted for under IFRS 9. [IFRS 9.B2.4]. 
+2.3.1 
+Weather derivatives 
+Contracts which require a payment based on climatic variables (often referred to as ‘weather derivatives’) 
+or on geological or other physical variables are within the scope of IFRS 9 unless they fall within the scope 
+of IFRS 17. [IFRS 9.B2.1]. Generic or standardised contracts will rarely meet the definition of insurance 
+contracts because the variable is unlikely to be specific to either party to the contract. [IFRS 17.B26(k), 
+IFRS 17.B27(g)]. This is shown in the following Illustration. 
+Illustration 2-1: 
+Rainfall contract - derivative financial instrument or insurance contract? 
+Company E has contracted to lease a stall at an open-air event from which it plans to sell goods to people 
+attending the event. The event will be held at a village approximately 100 km from Capital City. 
+Because E is concerned that poor weather may deter people from attending the event, it enters into a contract 
+with Financial Institution K, the terms of which are that, in return for a premium paid by E on inception of the 
+contract, K will pay a fixed amount of money to E if, during the day of the event, it rains for more than three 
+hours at the meteorological station in the centre of Capital City. 
+The non-financial variable in the contract, i.e., rainfall at the meteorological station, is not specific to E. E will 
+only suffer loss as a result of rainfall at the village, not at Capital City. Also, because the potential payment to 
+be received is for a fixed amount, it might not be possible to demonstrate that E has suffered a loss for which it 
+has been compensated. Therefore, E must account for the contract as a financial instrument under IFRS 9. 
+2.3.2 
+Contracts with discretionary participation features 
+IFRS 17 is clear that investment contracts that have the legal form of an insurance contract but do not 
+expose the insurer to significant insurance risk (see Chapters 51) are financial instruments and not 
+insurance contracts. [IFRS 17.B27(a)]. Investment contracts (normally taking the form of life insurance 
+policies) which contain what are called discretionary participation features, essentially rights of the holder 
+to receive additional benefits whose amount or timing is, contractually, at the discretion of the issuer are 
+accounted for under IFRS 17 if (and only if) the entity also issues insurance contracts, as the IASB believes 
+that applying IFRS 17 to these contracts in these circumstances would provide more relevant information 
+about the contracts than would be provided by applying other standards. [IFRS 17.3(c), IFRS 17.BC65(a)]. In rare 
+cases, where an entity issues contracts with discretionary participation features but does not issue any 
+insurance contracts, those contracts would fall within the scope of IAS 32 and IFRS 9. 
+If investment contracts with discretionary participation features are accounted for under IFRS 17, they 
+would be outside the scope of IAS 32, IFRS 9 and IFRS 7. [IAS 32.4(d), IFRS 9.2.1(e), IFRS 7.3(d)]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3404 
+2.3.3 
+Separating financial instrument components including embedded derivatives 
+from insurance contracts 
+IFRS 17 requires entities to apply IFRS 9 to determine whether a contract contains an embedded derivative 
+to be separated and to apply IFRS 9 to those components that are separated. [IFRS 9.2.1(e), IFRS 17.11(a)]. 
+IFRS 7 applies to all embedded derivatives that are separately accounted for. [IFRS 7.3(d)]. 
+IFRS 17 requires an entity to separate an investment component (amounts an insurance contract requires 
+the entity to repay to the policyholder in all circumstances, regardless of whether an insured event occurs 
+[IFRS 17 Appendix A]) from a host insurance contract if the component is ‘distinct’ (see Chapter 51 at 
+section 5.2). The separated component is accounted for and disclosed in accordance with IFRS 9 and IFRS 7 
+unless it is an investment contract with discretionary participation features within the scope of IFRS 17. 
+[IFRS 7.3(d), IFRS 9.2.1(e), IFRS 17.11(b)]. 
+2.3.4 
+Credit card contracts and similar arrangements which give rise to insurance risk 
+Credit card contracts or similar arrangements can in some circumstances meet the definition of an 
+insurance contract. For example, some credit cards, charge cards, consumer financing and bank account 
+contracts involve the lender providing guarantees to its customer in respect of products purchased using 
+the arrangement. IFRS 17 excludes such contracts from its scope if, and only if, the entity does not reflect 
+an assessment of the insurance risk associated with an individual customer in setting the price of the 
+contract with that customer. If excluded from IFRS 17, these contracts would be within the scope of IFRS 9. 
+However, if, and only if, the insurance coverage is a contractual term of such a financial instrument, the 
+entity shall separate that component and apply IFRS 17 to it (see Chapter 51 at section 2.3.1.D). 
+[IFRS 17.7(h), IFRS 9.2.1(e)(iv)]. Other IFRS accounting standards, such as IFRS 15 or IAS 37, might apply to 
+other components of the contract, such as other service components or insurance components required by 
+law or regulation. [IFRS 17.BC94C]. 
+2.3.5 
+Loan contracts that transfer significant insurance risk only on settlement of 
+the policyholder’s obligation created by the contract 
+Some contracts meet the definition of an insurance contract but limit the compensation for insured events 
+to the amount otherwise required to settle the policyholder’s obligation created by the contract. These 
+might include loans with death waivers such as lifetime or equity release mortgages in which the borrower’s 
+obligation on death or incapacitation is limited to the value of the property on which the loan is secured. If 
+such contracts are not otherwise excluded from the scope of IFRS 17, an entity can elect to apply either 
+IFRS 17 or IFRS 9 to such contracts that it issues. The choice must be made for each portfolio of insurance 
+contracts and the choice for such a portfolio is irrevocable (see Chapter 51 at section 2.3.3). [IFRS 17.8A]. 
+2.3.6 
+Amounts receivable from an intermediary 
+Most insurers use intermediaries as a link between them and a policyholder to arrange an insurance 
+contract. In many of these arrangements, the policyholder pays the cash premiums to the intermediary but 
+the contractual arrangement between the insurer and the intermediary allows the intermediary to pay the 
+premiums to the insurer at a later date. In some situations, when the policyholder has paid the premiums to 
+the intermediary, the policyholder has not discharged its obligation to the insurer. In other situations, when 
+the policyholder has paid the premiums to the intermediary, the policyholder has discharged its obligation 
+under the insurance contract and the insurer is obliged to provide insurance contract services to the 
+policyholder. Normally, if the policyholder has discharged its obligation under the insurance contract and 
+the intermediary fails to pay the premiums to the insurer, the insurer does not have the right to recover the 
+premiums from the policyholder, or to cancel the insurance contract. 
+In situations when the policyholder has paid the premiums to the intermediary and has discharged its 
+obligation under the insurance contract, the issue is whether the premiums receivable from the 
+intermediary are future cash flows within the boundary of an insurance contract and included in the 
+measurement of the group of insurance contracts applying IFRS 17 or are a separate financial asset 
+applying IFRS 9. IFRS 17 is silent on whether future cash flows within the boundary of an insurance 
+contract are removed from the measurement of a group of insurance contracts only when these cash flows 
+are recovered or settled in cash. This matter was discussed by the IFRS IC in September 2023 which 
+concluded that an insurer could determine that cash flows are removed from the measurement of a group 
+of insurance contracts and accounted for under IFRS 9 either when the cash flows are recovered or settled 
+in cash (View 1) or when the policyholder’s obligation under the insurance contract is discharged (View 2). 
+See Chapter 51 at section 9.12 for a detailed discussion. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3405 
+2.4 
+Financial guarantee contracts 
+Where a contract meets the definition of a financial guarantee contract (see section 2.4.1 below), the 
+issuer is normally required to apply specific accounting requirements within IFRS 9, which are different 
+from those that apply to other financial liabilities. Usually, the contract is measured at fair value on initial 
+recognition and subsequently at the higher of the amount of the loss allowance determined in accordance 
+with the impairment requirements of IFRS 9 (see Chapter 47 at section 11.2) and the amount initially 
+recognised less, when appropriate, the cumulative amount of income recognised in accordance with the 
+principles of IFRS 15 (see Chapter 46 at section 2.8). [IFRS 9.4.2.1]. There are exceptions to this general 
+requirement and these are dealt with in section 2.4.2 below. 
+2.4.1 
+Definition of a financial guarantee contract 
+Extract from IFRS 9 
+Appendix A 
+Defined terms 
+financial guarantee contract 
+A contract that requires the issuer to make specified payments to 
+reimburse the holder for a loss it incurs because a specified debtor fails 
+to make payment when due in accordance with the original or modified 
+terms of a debt instrument. 
+[IFRS 9 Appendix A]. 
+2.4.1.A 
+Reimbursement for loss incurred 
+Some credit-related guarantees (or letters of credit, credit derivative default contracts or credit insurance 
+contracts) do not, as a precondition for payment, require that the holder is exposed to, and has incurred a 
+loss on, the failure of the debtor to make payments on the guaranteed asset when due. An example of such 
+a guarantee is one that requires payments in response to changes in a specified credit rating or credit 
+index. Such guarantees are not financial guarantee contracts, as defined in IFRS 9, nor are they insurance 
+contracts within the scope of IFRS 17. Rather, they are derivatives and accordingly fall within the scope of 
+IFRS 9. [IFRS 9.B2.5(b), IFRS 17.B27(f), IFRS 17.B30]. 
+When a debtor defaults on a guaranteed loan a significant time period may elapse prior to full and final legal 
+settlement of the loss. Because of this, certain credit protection contracts provide for the guarantor to 
+make a payment at a fixed point after the default event using the best estimate of loss at the time. Such 
+payments typically terminate the credit protection contract with no party having any further claim under it 
+whilst ownership of the loan remains with the guaranteed party. In situations like this, if the final loss on the 
+debtor exceeds the amount estimated on payment of the guarantee, the guaranteed party will suffer an 
+overall financial loss; conversely, the guaranteed party may receive a payment under the guarantee but 
+eventually suffer a smaller loss on the loan. Therefore, such a contract will often not meet the essence of 
+the definition of a financial guarantee. However, if the payment is designed to be a reasonable estimate of 
+the loss actually incurred, such a feature (which is common in many conventional insurance contracts) will 
+sometimes allow the contract to be classified as a financial guarantee contract. This will particularly be the 
+case if such payments are agreed by both parties in order to settle the financial guarantee, as opposed to 
+being specified as part of the original contract. 
+Also, such a contract is likely to meet the definition of a guarantee if it was structured in either of the 
+following ways: 
+• 
+The contract requires the guarantor to purchase the defaulted loan for its nominal amount. 
+Or 
+• 
+On settlement of the final loss, the contract provides for a further payment between the guarantor and 
+guaranteed party for any difference between that amount and the initial loss estimate that was paid. 
+However, if there are circumstances in which the holder of the guarantee could be reimbursed for a loss 
+that it has not incurred, for example where the guarantee is traded separately from the underlying debt and 
+the holder could have acquired it without owning the underlying debt instrument, the guarantee does not 
+meet the definition of a financial guarantee contract. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3406 
+2.4.1.B 
+Debt instrument 
+Although the term ‘debt instrument’ is used extensively as a fundamental part of the definition of a 
+‘financial guarantee contract’, it is not defined within the financial instruments or insurance accounting 
+standards. 
+The term ‘debt instrument’ will typically be considered to include trade debts, overdrafts and other 
+borrowings, including mortgage loans and certain debt securities. Entities often provide guarantees of 
+payments due with respect to other items and determining whether they are consistent with the definition 
+of a ‘financial guarantee contract’ may not be straightforward. For example, there may be instances where 
+a guarantee is issued over an exposure which will only crystalise at a future date. An example is a 
+guarantee issued over an executory contract that is outside the scope of IFRS 9. Another example is a 
+guarantee over a debt instrument that may arise from a currently undrawn loan commitment, if the loan is 
+drawn at a future date. The issue is whether these guarantees are issued over debt instruments. 
+The IFRS IC received a request in 2024 about how an entity accounts for guarantees that it issues. The 
+request described three fact patterns in the context of an entity’s separate financial statements. In the fact 
+patterns, an entity issues several types of contractual guarantees on obligations of a joint venture. As part 
+of the analysis, the IFRS IC noted that the IASB, at its April 2024 meeting, discussed diversity in practice in 
+the interpretation of the term ‘debt instrument’ in the definition of a financial guarantee contract. The IASB 
+decided to consider during its next agenda consultation the broader application questions related to 
+financial guarantee contracts, including about the meaning of the term ‘debt instrument’ in the definition of 
+a financial guarantee contract. In September 2024, the IFRS IC tentatively concluded that an entity applies 
+judgement in interpreting the meaning of the term ‘debt instrument’ when determining whether a 
+guarantee is accounted for as a financial guarantee contract.8 
+How we see it 
+IFRS 9 does not explicitly require the debt instrument to exist when the guarantee is issued. If the 
+guarantee covers losses incurred due to failure to make specified payments by a specified debtor for 
+amounts that are due and payable at the point of the guarantee being called, we believe the guarantee is 
+over a debt instrument. As such, these types of guarantees would be financial guarantees if all other 
+criteria for financial guarantees are met. 
+ 
+Illustration 2-2: 
+Guarantee issued over a lessor’s receipts under a lease contract 
+Entity A leases an asset to Entity B. Entity A is concerned about the credit risk that may arise for lease 
+payments that become payable over the lease term. Entity C, an unrelated third party to Entity A and Entity B, 
+issues a guarantee to reimburse Entity A for losses that Entity A may incur for non-payment of amounts due 
+and payable under the lease agreement. For this guarantee to be considered a financial guarantee, the 
+guarantee must relate to losses arising from a debt instrument. 
+If the lease is classified as a finance lease, the guarantee issued by Entity C is considered a financial guarantee 
+since a finance lease, in substance, gives rise to a loan agreement (see section 1.2.4 above). 
+If the lease is classified as an operating lease, lease payments are only recognised by Entity A as financial 
+instruments, hence a debt instrument, when they are due. The issue is whether a guarantee over future debt 
+instruments would be considered a financial guarantee when it is issued. As discussed in section 2.4.1.B 
+above, IFRS 9 does not explicitly require the debt instrument to exist when the guarantee is issued. If the 
+guarantee covers losses incurred due to non-payment by a specified debtor for amounts that are due and 
+payable at the point of the guarantee being called, we believe that the guarantee is over a debt instrument. 
+Therefore, the guarantee issued by Entity C would be considered a financial guarantee, since it only covers 
+losses for amounts that are due at the time of the guarantee being called. 
+ 
+8 
+Guarantees Issued on Obligations of Other Entities; IFRIC update September 2024; agenda paper 2 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3407 
+An additional complexity arises in respect of guarantees issued over derivative contracts. In such contracts, 
+the issuer agrees to compensate the holder for losses incurred by the holder due to a default event on a 
+derivative contract that the holder is a party to. For such guarantees, it is important to consider whether 
+the guaranteed amount can be considered a debt instrument and whether the guarantee gives rise to 
+‘specified payments’. There are two broad views. Those who hold the view that the guaranteed amount is a 
+debt instrument argue that if such a guarantee covers losses due to non-payment of amounts under a 
+derivative contract that crystalise upon default, it is a guarantee over a debt instrument and it does give 
+rise to ‘specified payments’. They argue that the payments are specified when it matters, i.e., when the 
+guarantee is triggered. Those who argue that the guaranteed amount is not a debt instrument argue that a 
+guarantee over a derivative cannot be a financial guarantee contract because the nature of the derivative 
+exposure is transferring broader market risks which are inconsistent with the definition of a ‘debt 
+instrument’. In September 2023, the IFRS IC considered this question. However, its findings indicated that 
+the issue does not have widespread effects and it does not have (and nor is it expected to have) a material 
+effect on those affected. Consequently, the IFRS IC decided not to add a standard-setting project to the 
+work plan and it did not conclude on the matter in an agenda decision. 
+How we see it 
+In the absence of specific guidance in IFRS accounting standards, we believe that an entity has an 
+accounting policy choice to account for a guarantee over a derivative as either a financial guarantee 
+contract or not. This policy must be applied consistently. 
+Should one conclude that such a guarantee does not meet the definition of a financial guarantee contract, 
+one must still examine how the related obligations under the contract should be accounted for. This could 
+be either as a derivative financial instrument (accounted for at fair value through profit or loss under 
+IFRS 9) or as an insurance contract (accounted for under IFRS 17). This analysis depends on whether the 
+risk transferred by the guarantee (primarily credit risk) is considered a financial risk or an insurance risk 
+(see section 2.3 above). Other types of guarantees have similar complications - for example guarantees of 
+pension plan contributions to funded defined benefit schemes. Where such a guarantee is in respect of 
+discrete identifiable payments, the analysis above is equally applicable. 
+2.4.1.C 
+Form and existence of contract 
+The application guidance to IFRS 9 emphasises that, whilst financial guarantee contracts may have various 
+legal forms (such as guarantees, some types of letters of credit, credit default contracts or insurance 
+contracts), their accounting treatment does not depend on their legal form. [IFRS 9.B2.5]. 
+In some cases, guarantees arise, directly or indirectly, as a result of the operation of statute or regulation. 
+In such situations, it is necessary to examine whether the arrangement gives rise to a contract as that term 
+is used in IAS 32. For example, in some jurisdictions, a subsidiary may avoid filing its financial statements 
+or having them audited if its parent and fellow subsidiaries guarantee its liabilities by entering into a deed of 
+cross guarantee. In other jurisdictions, similar relief is granted if group companies elect to make a statutory 
+declaration of guarantee. In the first situation, it would seem appropriate for the issuer to regard the deed 
+as a contract and hence, any guarantee made under it would be within the scope of IFRS 9. The statutory 
+nature of the declaration in the second situation makes the analysis more difficult. Although the substance 
+of the arrangement is little different from the first situation, statutory obligations are not financial liabilities 
+and are therefore outside the scope of IFRS 9. 
+2.4.2 
+Issuers of financial guarantee contracts 
+In general, issuers of financial guarantees contracts must apply IAS 32, IFRS 9 and IFRS 7 to those 
+contracts even though they meet the definition of an insurance contract in IFRS 17 if the risk transferred is 
+significant. [IFRS 9.B2.5(a)]. However, if an entity has previously asserted explicitly that it regards such 
+contracts as insurance contracts and has used accounting applicable to insurance contracts, the issuer may 
+elect to apply either IFRS 9 or IFRS 17 (see Chapter 51 at section 2.3.1.B). That election may be made 
+contract by contract, but the election for each contract is irrevocable. [IAS 32.4(d), IFRS 7.3(d), IFRS 9.2.1(e), 
+IFRS 17.7(e)]. This concession does not extend to contracts that are similar to financial guarantee contracts 
+but are actually derivative financial instruments (see section 2.4.1.A above). 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3408 
+The IASB was concerned that entities other than credit insurers could elect to apply IFRS 4 Insurance 
+Contracts (the preceding insurance standard to IFRS 17) to financial guarantee contracts and consequently 
+(if their accounting policies permitted) recognise no liability on inception. Therefore, it imposed the 
+restrictions outlined in the previous paragraph. [IFRS 9.BCZ2.12]. The application guidance to IFRS 9 states 
+that assertions that an issuer regards contracts as insurance contracts are typically found throughout the 
+issuer’s communications with customers and regulators, contracts, business documentation as well as in 
+their financial statements. Furthermore, insurance contracts are often subject to accounting requirements 
+that are distinct from the requirements for other types of transactions, such as contracts issued by banks 
+or commercial companies. In such cases, an issuer’s financial statements would typically include a 
+statement that the issuer had used those accounting requirements, i.e., ones normally applied to insurance 
+contracts. [IFRS 9.B2.6]. This option had been intended as a temporary solution, pending the publication of 
+IFRS 17. However, the Board decided to carry forward to IFRS 17 the option to account for a financial 
+guarantee contract as if it were an insurance contract, without any substantive changes, because the 
+option has worked in practice and results in consistent accounting for economically similar contracts issued 
+by the same entity. [IFRS 17.BC93]. 
+Accounting for the revenue associated with financial guarantee contracts issued in connection with the sale 
+of goods is dealt with under IFRS 15 (see Chapter 28). [IFRS 9.B2.5(c)]. 
+2.4.3 
+Holders of financial guarantee contracts 
+Financial guarantee contracts held are not within the scope of IFRS 9 because they are insurance contracts 
+(see section 2.3 above). [IFRS 9.2.1(e)]. However, IFRS 17 does not apply to insurance contracts that an 
+entity holds (other than reinsurance contracts held) either. [IFRS 17.7(g)]. Therefore, financial guarantee 
+contracts held by an entity are not required to be recognised separately by IFRS 9 or IFRS 17. 
+For the purposes of measuring ECL, IFRS 9 requires the estimate of expected cash shortfalls to reflect the 
+cash flows expected from collateral and other credit enhancements that are part of the contractual terms 
+and are not recognised separately by the entity. [IFRS 9.B5.5.55]. This means that a financial guarantee 
+contract held which is considered to be an integral component of the guaranteed debt instrument will be 
+accounted for as part of the ECL on that debt instrument (see Chapter 47 at section 5.8.1). 
+However, the holder of a financial guarantee contract which is not considered to be integral to the 
+underlying debt instrument will need to develop an accounting policy in accordance with the ‘hierarchy’ in 
+IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors. The IAS 8 hierarchy specifies 
+criteria to use if no IFRS accounting standard applies specifically (see Chapter 3 at section 4). [IFRS 17.BC66]. 
+How we see it 
+In developing a policy for a financial guarantee contract which is not considered integral to the 
+underlying debt instrument, entities could look to the requirements of IAS 37 dealing with contingent 
+assets (see Chapter 27 at section 3.2.2) or reimbursement assets (see Chapter 47 at section 5.8.1.B), at 
+least as far as recoveries under the contract are concerned. In certain situations, it could also be 
+appropriate for the holder of a financial guarantee contract to account for it as an asset at fair value 
+through profit or loss. This might be the case if the guaranteed asset has itself been classified as at fair 
+value through profit or loss. 
+2.4.4 
+Financial guarantee contracts between entities under common control 
+There is no exemption from the measurement requirements of IFRS 9 for guarantees issued between 
+parents and their subsidiaries, between entities under common control nor by a parent or subsidiary on 
+behalf of a subsidiary or a parent (unlike an exemption under US GAAP). [IFRS 9.BCZ2.14]. 
+Therefore, for example, where a parent guarantees the borrowings of a subsidiary, the guarantee must be 
+accounted for as a standalone instrument in the parent’s separate financial statements. However, for the 
+purposes of the parent’s consolidated financial statements, such guarantees are normally considered an 
+integral part of the terms of the borrowing (see Chapter 43 at section 4.8) and therefore must not be 
+recognised independently of the borrowing. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3409 
+2.5 
+Loan commitments 
+Loan commitments are firm commitments to provide credit under pre-specified terms and conditions. 
+[IFRS 9.BCZ2.2]. The term can include arrangements such as offers to individuals in respect of residential 
+mortgage loans as well as committed borrowing facilities granted to a corporate entity. The definition of a 
+loan commitment requires that the terms and conditions are pre-specified. As such, all the terms and 
+conditions do not need to be fixed but rather they need to be specified at the time when the commitment is 
+entered into. For example, a commitment to provide a loan with a variable interest rate could meet the 
+definition of a loan commitment. 
+A loan commitment meets the definition of a derivative financial instrument since it represents a written 
+option for the potential borrower to obtain a loan at a specified rate (see section 1.2.8 above and 
+Chapter 42 at section 1). [IFRS 9.BCZ2.2]. However, a pragmatic decision has been taken by the IASB to 
+simplify the accounting for holders and issuers of many loan commitments. [IFRS 9.BCZ2.3]. Accordingly, loan 
+commitments that cannot be settled net - in practice, most loan commitments - may be excluded from the 
+scope of IFRS 9, with the exception of the impairment requirements and derecognition provisions (see 
+Chapters 47 and 48), but are included within the scope of IFRS 7. [IFRS 9.2.1(g), IFRS 7.4]. 
+How we see it 
+Although a loan commitment represents a written option to provide credit to the holder of the 
+commitment, we believe it is appropriate to apply the exclusion from IFRS 9 to non-optional loan 
+commitments provided the necessary conditions above are met. An example of a non-optional loan 
+commitment is where the holder is contractually obligated to take out credit at a future date. 
+However, the exclusion is available only for firm commitments to provide credit and therefore, it will be 
+applicable only where there is a commitment to lend funds. [IFRS 9.BCZ2.2]. Consider, for example, a contract 
+between entities A and B that gives B the right to sell a transferable (but unquoted) debt security to A 
+issued by entity C that B currently owns. Even if, on subsequent acquisition, A will measure the debt 
+security at amortised cost or fair value through other comprehensive income, the contract would not be 
+considered a loan commitment as it does not involve A providing credit to B. 
+Some loan commitments, however, are within the scope of IFRS 9, namely: [IFRS 9.2.1(g)] 
+• 
+Those that are designated as financial liabilities at fair value through profit or loss (this could be 
+appropriate if the associated risk exposures are managed on a fair value basis or because designation 
+eliminates an accounting mismatch) [IFRS 9.2.3(a), IFRS 9.4.2.2]. 
+• 
+Commitments that can be settled net in cash or by delivering or issuing another financial instrument 
+[IFRS 9.2.3(b)]. 
+• 
+All those within the same class where the entity has a past practice of selling the assets resulting from 
+its loan commitments shortly after origination. The IASB sees this as achieving net settlement 
+[IFRS 9.2.3(a)]. 
+And 
+• 
+Commitments to provide a loan at a below-market interest rate (see Chapter 45 Illustration 3-1) 
+[IFRS 9.2.3(c)]. 
+For loan commitments at a below-market interest rate, IFRS 9 contains specific measurement requirements 
+which are different from those applying to other financial liabilities. IFRS 9 requires the commitments to be 
+measured at fair value on initial recognition and subsequently amortised to profit or loss using the 
+principles of IFRS 15 (see Chapter 28) but requires the expected credit loss allowance to be used, if higher. 
+[IFRS 9.4.2.1(d)]. The reason for this accounting treatment is that the IASB was concerned that liabilities 
+resulting from such commitments might not be recognised in the statement of financial position because, 
+often, no cash consideration is received. [IFRS 9.BCZ2.7]. 
+IFRS 9 contains only limited guidance on what ‘net settlement’ means in respect of commitments that can 
+be settled net in cash. Clearly a fixed interest rate loan commitment that gives the lender and/or the 
+borrower an explicit right to settle the value of the contract (taking into account changes in interest rates 
+etc.) in cash or by delivery or issuing another financial instrument would be considered a form of net 
+settlement and therefore a derivative. However, paying out a loan in instalments (for example, a mortgage 
+construction loan where instalments are paid out in line with the progress of construction) is not regarded 
+as net settlement. [IFRS 9.2.3(b)]. Most loan commitments could be settled net by renegotiating the terms of 
+the contract. However, of more relevance is the question of whether one party has the practical ability to 
+settle net, e.g., because the terms of the contract allow net settlement or by the use of some market 
+mechanism. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3410 
+Illustration 2-3: 
+Is a loan commitment to a special purpose entity (SPE) scoped out of IFRS 9 if 
+the substance of the arrangement is different from a normal loan commitment?  
+Paragraphs 2.1(g) and 2.3 of IFRS 9 scope out some loan commitments from IFRS 9, although they indicate 
+that such loan commitments are still covered by the impairment and derecognition requirements of the 
+standard. The guidance provided in IFRS 9.2.3 seems to focus on straight forward loan commitments to 
+entities with a genuine business activity, which are normally provided on the basis that the borrower meets 
+certain conditions precedent prior to drawing. This raises the question of whether a loan commitment to an 
+SPE, even if it meets the scope exception criteria, should indeed be scoped out of IFRS 9 if the substance of 
+the arrangement is different from a normal loan commitment. 
+In practice, the following three scenarios can be found when a loan commitment has been provided to an SPE 
+that is not consolidated by the entity providing the loan commitment. The question is if these loan 
+commitments must be accounted for under IFRS 9 and measured at fair value through profit or loss, or if they 
+are subject only to the impairment and derecognition requirements of IFRS 9. 
+Scenario 1 
+An SPE has been established to act as the counterparty to a single derivative trade. The SPE will operate on 
+autopilot and the loan commitment will be drawn upon in the event there is a payment due under the terms of the 
+derivative (with the premium on the derivative being passed to the facility provider as the commitment fee). 
+Scenario 2 
+An SPE has been established to invest in a diversified portfolio of highly liquid instruments. Funding will be 
+provided to the SPE through subordinated loan notes, other loan financing and repurchase agreements. The 
+SPE will also enter into a revolving or static loan commitment with a bank; the primary purpose being to fund 
+its liquidity needs. When the SPE is unable to finance its operations through its current financing arrangements 
+it will draw on the loan commitment. This will be at the discretion of the SPE. 
+Scenario 3 
+Similar to the situation outlined in scenario 2, but the liquidity facility also supports the ‘first loss’ of the SPE 
+so that when there is a credit event or credit downgrade within the SPE, the loan commitment will be drawn 
+upon to fund the losses. 
+Conclusion 
+Consideration will need to be given to the nature and exact terms of the loan commitment. It is important to 
+emphasise that loan commitments on standard market terms will normally be provided on the basis that the 
+borrower meets certain conditions precedent prior to drawing. In particular, lenders will often withdraw the 
+loan commitments in the event there is a significant decline in the borrower’s credit rating. 
+In scenarios 1 and 3 above, the loan commitment provided to the SPE is akin to an equity instrument as it will 
+absorb the first loss of the vehicle. Whilst it is not explicitly stated in IFRS 9 or the Basis for Conclusions, we do 
+not believe that the Board would have considered a standard market loan commitment to include these and 
+similar facilities. Therefore, a loan facility provided to an SPE must be excluded from the scope of IFRS 9 if, 
+under normal operating conditions, it would be highly probable that the loan would be repaid if drawn. In other 
+words, loan commitments that are structured to give rise to an exposure that in substance is another financial 
+instrument, such as equity, need to be scoped into IFRS 9. This assessment must be made when an entity 
+becomes a party to the loan commitment. It does not need to be reassessed subsequently. Applying this to 
+each of the three scenarios: 
+Scenario 1 
+The commitment meets the definition of a loan commitment and does not meet the criteria of IFRS 9.2.3 to be 
+scoped within IFRS 9. However, as the SPE only holds one asset - the derivative - and it is prohibited from 
+owning any other assets, in substance, the transaction is the same as if the counterparty had entered into a 
+normal market credit derivative. We do not consider that this was the type of transaction the Board envisioned 
+when drafting the scope exemption and therefore it must be accounted for under IFRS 9 as a derivative. 
+Scenario 2 
+So long as the facility will be drawn to meet the financing requirements of the SPE and at the inception of the 
+commitment there was an expectation that there was a high probability that the funds will be re-paid by the 
+SPE, it would be excluded from the scope of IFRS 9. However, to carry out the assessment, it will be important 
+to perform a detailed review of the origination documents to understand the exact terms and conditions of the 
+facility. 
+Scenario 3 
+The facility will only be drawn when there is a credit event or downgrade, with the probability being that the 
+funds will not be returned to the finance provider. Therefore, we consider this must be included in the scope of 
+IFRS 9 and accounted for as a derivative, even though it might not meet the criteria of IFRS 9.2.3 to be scoped 
+into IFRS 9. [IFRS 9.2.1(g), IFRS 9.2.3]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3411 
+Where the entity has a past practice of selling the assets shortly after origination, no guidance is given on 
+what is meant by a class (although the Basis for Conclusions makes it clear that an entity can have more 
+than one). [IFRS 9.BCZ2.6]. Therefore, an assessment will need to be made based on individual circumstances. 
+Illustration 2-4: 
+Identifying classes of loan commitment 
+A banking group has two main operating subsidiaries, one in country A and the other in country B. Although 
+they share common functions (e.g., information systems) the two subsidiaries’ operations are clearly distinct. 
+Both subsidiaries originate similar loans under loan commitments. In country A there is an active and liquid 
+market for the assets resulting from loan commitments issued in that country. The subsidiary operating in that 
+country has a past practice of disposing of such assets in this market shortly after origination. There is no such 
+market in country B. 
+The fact that one subsidiary has a past practice of settling its loan commitments net (as the term is used in the 
+standard) would not normally mean that the loan commitments issued in country B are required to be 
+classified as at fair value through profit or loss. 
+The above example is relatively straightforward - in some circumstances it may be more difficult to define 
+the class. However, there is no reason why an individual entity (say a subsidiary of a group) cannot have 
+two or more classes of loan commitment, e.g., where they result in the origination of different types of 
+assets that are clearly managed separately. Any associated entitlement to fees must be accounted for in 
+accordance with IFRS 15 or IFRS 9 (see Chapter 28 and Chapter 46 at section 2.8, respectively). No 
+accounting requirements are specified for holders of loan commitments, but they will normally be 
+accounted for as executory contracts - essentially, this means that fees payable will be recognised as an 
+expense in a manner that is appropriate to the terms of the commitment. Any resulting borrowing will 
+obviously be accounted for as a financial liability under IFRS 9. 
+IFRS 9 contains no guidance on how to account for loan commitments that are originated with different 
+business models in mind. For example, an entity may enter into a loan commitment where it has the 
+intention to sell or sub-participate a portion of the loan immediately after origination and to hold the 
+remaining balance of the loan to collect contractual cash flows. As the entity has a past practice of selling 
+some of the resulting assets that arise from these commitments shortly after origination, it cannot consider 
+the entire loan commitment (if it is considered to be a single unit of account) to be outside the scope of 
+IFRS 9. However, it is unclear whether the single loan commitment can be split into separate units of 
+account and accounted for accordingly. 
+A similar challenge occurs when determining the classification of a loan that is originated with the intention 
+of sub-participating a portion and retaining the rest (see Chapter 44 at Illustration 4-12: Loans that are to 
+be sub-participated). 
+How we see it 
+An entity could consider the activities of originating loan commitments with an intention to (i) hold the 
+resulting drawn asset to collect its contractual cash flows and (ii) to sell or sub-participate it as two 
+separate business models and portfolios. A split approach to account for the loan commitment is likely to 
+be acceptable if the entity can forecast with reasonable confidence that a portion of the loan arising from 
+the commitment will be sold and a portion will not. The portion of the loan commitment where the 
+intention is to sell the resulting loan would be in scope of IFRS 9.2.3(a) and accounted for at fair value 
+through profit or loss. The portion of the loan commitment where the intention is to hold the resulting 
+loan will be out of the scope of IFRS 9.2.3(a). 
+2.5.1 
+Performance guarantees 
+Performance guarantees, sometimes referred to as surety bonds, fidelity bonds, performance bonds and bid 
+bonds, are contracts that provide compensation if another party fails to perform a contractual obligation, for 
+example an obligation to construct a building. IFRS 17 considers these to be examples of contracts that are 
+insurance contracts if the resulting transfer of insurance risk is significant (see Chapter 51 at section 3.7.1). 
+[IFRS 17.B26(f)]. These contracts differ from financial guarantee contracts in that financial guarantee contracts 
+are based on underlying financial obligations, rather than non-financial ones. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3412 
+In some cases, performance guarantees include, or are issued in conjunction with, indemnity agreements that 
+give the issuer of the performance guarantee the right to claim back any amounts paid out from the party 
+whose non-performance led to the guarantee being called. Judgement is required to determine whether such 
+arrangements are insurance contracts in the scope of IFRS 17 or financial instruments accounted for under 
+IFRS 9. It is particularly important to assess if the performance guarantee and the indemnity clause constitute 
+a single unit of account and, if they do, whether the resulting unit of account gives rise to a transfer of 
+significant insurance risk. A difficulty that arises in making the assessment is that this kind of contract is a 
+tripartite agreement and, therefore, it is not always clear from whose perspective the transfer of insurance 
+risk needs to be evaluated. Different conclusions could be reached depending on the angle from which this is 
+assessed. Therefore, a reporting entity has an accounting policy choice when evaluating from whose 
+perspective there is a transfer of insurance risk in a tripartite agreement. This policy must be applied 
+consistently. As such, for identical facts and circumstances, the same conclusion must be reached for all 
+transactions within a reporting entity and for all transactions included in a consolidated group. 
+Illustration 2-5: 
+Performance guarantees with an indemnity clause 
+Entity B, a builder, enters into a contract with Entity D, a developer, to construct a bridge. In order to reduce 
+the risk of the Entity B not performing on its obligation to build the bridge, Entity D requires Entity B to source 
+a performance guarantee from Entity F, a financial institution. 
+Entity B pays for, and Entity F duly issues, a performance guarantee under which Entity F agrees to 
+compensate Entity D for losses suffered due to Entity B’s failure to perform its non-financial obligations in 
+terms of the construction contract. 
+The performance guarantee also includes an indemnity clause whereby Entity F has the right to claim back 
+from Entity B any amounts paid out to Entity D as a result of Entity B’s non-performance. 
+In such cases, Entity F must exercise judgement based on the specific arrangement to assess if the 
+performance guarantee and the indemnity clause constitute a single unit of account and if the resulting unit(s) 
+of account give rise to a transfer of significant insurance risk. If Entity F determines that the performance 
+guarantee and the indemnity agreement are a single unit of account that does not give rise to a transfer of 
+significant insurance risk, this unit of account will be a financial instrument, accounted for under IFRS 9. If 
+Entity F determines that the unit(s) of account give rise to a transfer of significant insurance risk, they will be 
+accounted for in terms of IFRS 17. 
+See Chapter 2 at section 7.1.1, Chapter 42 at section 7, Chapter 51 at section 4 for further guidance on 
+determining the unit of account and Chapter 51 at section 3.5 for guidance on assessing the transfer of 
+significant insurance risk. 
+2.6 
+Equity instruments 
+2.6.1 
+Equity instruments issued 
+Financial instruments (including options and warrants) that are issued by the reporting entity and meet the 
+definition of equity instruments in IAS 32 (see section 1.1 above and Chapter 43 at sections 3 and 4) are 
+outside the scope of IFRS 9, unless the election in IAS 32.33A is applied. [IAS 32.33A, IFRS 9.2.1(d)]. Under 
+IAS 32.33A, where an entity reacquires its own equity to hold in an investment fund that provides investors 
+with benefits determined by units in the fund or as an underlying item for groups of insurance contracts 
+with direct participation features, it may elect on an instrument-by-instrument basis to continue to account 
+for the treasury share as issued equity. In such case, the reacquired instrument is accounted as if it were a 
+financial asset and measured at fair value through profit or loss in accordance with IFRS 9. For the 
+purposes of this election, insurance contracts include investment contracts with discretionary participation 
+features. For further details, see Chapter 43 at section 9.2. [IAS 32.33A]. 
+In principle, IFRS 7 applies to issued equity instruments except for those that are derivatives based on 
+interests in subsidiaries, associates or joint ventures (see section 2.1 above). [IFRS 7.3(a)]. However, this is of 
+largely academic interest because IFRS 7 specifies no disclosure requirements for issued equity instruments. 
+In fact, the scope of IFRS 7 for these types of instruments is even more curious. Firstly, it is explained that 
+derivatives over subsidiaries, associates and joint ventures that are equity instruments from the point of 
+view of the issuer are excluded from the scope of IFRS 7 because equity instruments are not remeasured 
+and hence do not expose the issuer to statement of financial position and income statement risk. Also, the 
+disclosures about the significance of financial instruments for financial position and performance are not 
+considered relevant for equity instruments. [IFRS 7.BC8]. Given the reasons quoted, it is not entirely clear 
+why the IASB did not exclude all instruments meeting the definition of equity in IAS 32 from the scope of 
+IFRS 7, e.g., non-puttable ordinary shares issued by the reporting entity. Secondly, it is very difficult to see 
+how a derivative over a reporting entity’s associate or joint venture could ever meet the definition of equity 
+from the perspective of the reporting entity. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3413 
+2.6.2 
+Equity instruments held 
+From the point of view of the holder, equity instruments are within the scope of IFRS 7 and IFRS 9 (unless 
+they meet the exception in section 2.1 above). [IFRS 7.3, IFRS 9.2.1(d)]. 
+2.7 
+Business combinations 
+2.7.1 
+Contingent consideration in a business combination 
+2.7.1.A 
+Payable by an acquirer 
+For business combinations accounted for under IFRS 3 Business Combinations, contingent consideration that 
+meets the definition of a financial asset or liability will be measured at fair value, with any resulting gain or 
+loss recognised in profit or loss in accordance with IFRS 9 (see Chapter 10 at section 7.1). [IFRS 3.58(b)(i)]. 
+Further, contingent consideration arising from an acquiree’s prior business combination that an acquirer 
+assumes in its subsequent acquisition of the acquiree does not meet the definition of contingent 
+consideration in the acquirer’s business combination. Rather, it is one of the identifiable liabilities assumed 
+in the subsequent acquisition. Therefore, to the extent that such arrangements are financial instruments, 
+they are within the scope of IAS 32, IFRS 9 and IFRS 7.9 
+2.7.1.B 
+Receivable by a vendor 
+IFRS 9 does not go on to explain whether the vendor should be accounting for the contingent consideration 
+in accordance with its provisions. 
+In most cases, the vendor will have a contractual right to receive cash or another financial asset from the 
+purchaser and, therefore, it is hard to avoid the conclusion that the contingent consideration meets the 
+definition of a financial asset and hence is within the scope of IFRS 9, not IAS 37. IFRS 10 Consolidated 
+Financial Statements requires consideration received on the loss of control of an entity or business to be 
+measured at fair value, which is consistent with the treatment required by IFRS 9 for financial assets. 
+[IFRS 10.B98, IFRS 9.5.1.1]. 
+2.7.2 
+Contracts between an acquirer and a vendor in a business combination 
+IFRS 9 does not apply to forward contracts between an acquirer and a selling shareholder to buy or sell an 
+acquiree that will result in a business combination (as defined in IFRS 3 Appendix A) at a future acquisition date. 
+In order to qualify for this scope exclusion, the term of the forward contract must not exceed a reasonable 
+period normally necessary to obtain any required approvals and to complete the transaction, for example to 
+accommodate the completion of necessary regulatory and legal processes. [IFRS 9.2.1(f), IFRS 9.BCZ2.39]. 
+How we see it 
+The scope exemption with regards to forward contracts to buy or sell an acquiree that will result in a 
+business combination applies to all types of business combinations. This is irrespective of whether the 
+business combination is structured to be achieved through a transfer of an equity interest, a transfer of 
+net assets or any other type of arrangement. 
+The scope exclusion under IFRS 9 applies only when completion of the business combination is not 
+dependent on further actions of either party. Option contracts allow one party to control the occurrence or 
+non-occurrence of future events depending on whether the option is exercised. Consequently, option 
+contracts that on exercise will result in the reporting entity obtaining control of another entity are within 
+the scope of IFRS 9, whether they are currently exercisable or not. [IFRS 9.BCZ2.40, IFRS 9.BCZ2.41]. 
+ 
+9 
+IASB Update, June 2009, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3414 
+It was suggested that ‘in-substance’ or ‘synthetic’ forward contracts, e.g., the combination of a written put 
+and purchased call where the strike prices, exercise dates and notional amounts are equal, or a deeply in- 
+or out-of-the-money option, should be excluded from the scope of IFRS 9. However, the IASB staff did not 
+agree with the notion that synthetic forward contracts (which do provide optionality to one or both parties) 
+are substantially identical to forward contracts (which commit both parties). The IASB staff accepted that in 
+normal financial instrument transactions, the economics of a synthetic forward will be favourable to one 
+party to the contract and would therefore result in its exercise, but a similar assumption does not 
+necessarily hold true in business combination transactions because one party may choose not to exercise 
+the option due to other factors. Therefore, it is not possible to assert that the contracts will always result in 
+a business combination.10 
+The acquisition of an interest in an associate represents the acquisition of a financial instrument, not an 
+acquisition of a business. Therefore, the scope exclusion does not apply by analogy to contracts to acquire 
+investments in associates and similar transactions. [IFRS 9.BCZ2.42]. 
+Another related issue is the treatment at a consolidated level of forward contracts to purchase an entity 
+that owns a single asset, such as a ship or building, which does not constitute a business. This type of 
+contract could be within the scope of IFRS 9, since the contract would not qualify for the scope exclusion 
+discussed above. [IFRS 9.2.1(f)]. The reason a contract for a business combination is normally considered to 
+be a financial instrument seems to be because there is often a substantive reason (for example related to 
+tax) to sell an asset within a ‘corporate wrapper’ and therefore it may be argued that the ‘corporate 
+wrapper’ changes the substance of the transaction, so that it represents a contract to purchase equity 
+instruments rather than the underlying asset. Consequently, it could be argued, even at a consolidated 
+level, that a contract to purchase a controlling interest in a single asset company meets the definition of a 
+financial instrument. 
+On the other hand, it could be argued that the substance of the contract is the purchase of the underlying 
+asset because, at a consolidated level, the entity will never recognise the shares but will recognise the 
+underlying asset. The implication of this argument is that the contract might qualify for the own use 
+exemption (see section 3 below) and therefore be scoped out of IFRS 9. 
+How we see it 
+Given the lack of clear guidance, entities have an accounting policy choice as to whether, at a 
+consolidated level, a forward contract to purchase all the shares in a single asset entity that does not 
+constitute a business is in substance an acquisition of equity instruments or the acquisition of the 
+underlying asset of the entity. 
+Although forward contracts between an acquirer and a vendor in a business combination are scoped out of 
+IFRS 9 and hence are not accounted for as derivatives, they are still within the scope of IFRS 7. 
+2.8 
+Contingent pricing of property, plant and equipment and intangible 
+assets 
+IAS 32 is clear that the purchase of goods on credit gives rise to a financial liability when the goods are 
+delivered (see section 1.2.6 above) and that a contingent obligation to deliver cash meets the definition of 
+a financial liability (see section 1.2.3 above). [IAS 32.AG8, IAS 32.AG21]. Consequently, it would seem that a 
+financial liability arises on the outright purchase of an item of property, plant and equipment or an 
+intangible asset, where the purchase contract involves variable or contingent consideration, for example 
+amounts based on the performance of the asset. Further, because there is no exemption from applying 
+IFRS 9 to such contracts, one might expect that such a liability would be accounted for in accordance with 
+IFRS 9, i.e., any measurement changes to that liability would flow through the statement of profit or loss. 
+This would be consistent with the accounting treatment for contingent consideration arising from a 
+business combination under IFRS 3 (see section 2.7.1.A above). [IFRS 3.58(b)(i)]. 
+ 
+10 
+INFORMATION FOR OBSERVERS, Board Meeting: March 2009, London, Project: Annual Improvements Project - Comment Letter 
+Analysis Subject: IAS 39 Financial Instruments: Recognition and Measurement - Scope exemption for business combination 
+contracts (IAS 39.2(g)) (Agenda Paper 10C), IASB, paras. 13 and 15. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3415 
+However, in practice, contracts can be more complex than suggested in the previous paragraph. The 
+variable or contingent payment for these types of transactions may be dependent on a number of factors. 
+Examples might include variable payments based on an index or rate, variable payments which are 
+dependent upon the purchaser’s future actions, variable or contingent payments related to the condition of 
+the asset itself or variable or contingent payments related to the asset’s performance. Some arrangements 
+may contain more than one source of variability. Further complexity can also arise when arrangements are 
+akin to profit sharing or collaboration agreements which are not addressed in any standard. 
+The topic of variable payments for an asset purchase was discussed by the IFRS IC between 2011 and 
+2016, and an agenda decision was published in March 2016. The IFRS IC’s discussions considered both the 
+accounting at the date of purchasing the asset and subsequently, and distinguished between those variable 
+payments that depend on the purchaser’s future activity and those that do not. The IFRS IC determined that 
+the issue was too broad for it to address within the confines of existing standards and recommended that 
+the IASB address the accounting for variable payments comprehensively.11 In May 2016, the IASB 
+tentatively agreed that this issue would be included in the research pipeline between 2017 and 2021. At 
+the time of writing this is not listed as an active research project on the IASB’s work plan. 
+A critical step in analysing the accounting for the purchase of an item of PP&E or an intangible asset in an 
+arrangement involving variable or contingent consideration is to fully understand the contractual 
+arrangements, including the nature of the contingent or variable payments. This includes developing a full 
+understanding of whether those contingent payments are linked to the initial value of the asset, or to its 
+future performance, whether the contingency or variability is within or outside of the purchasers’ control 
+and whether the variable payment is a payment for some other goods or services from the seller. In some 
+cases, the contract may establish an obligation for the contingent payment at the outset, whilst in others it 
+might be determined that the arrangement is an executory contract, and the liability to make the 
+contingent payments is only recognised later once either party fulfils its obligations under the contract. 
+The two key issues with regards to the accounting for variable consideration in an asset purchase are 
+1) whether and when to recognise a liability for that variable consideration, and 2) whether subsequent 
+changes to the estimate of variable or contingent consideration should be accounted for as part of the 
+cost of the acquired asset. 
+Looking at the first question of when a liability to make variable or contingent payments would be 
+recognised, if the arrangement is not considered to be an executory contract, one consideration is whether 
+those payments are dependent on the entity’s future activity, or not. IAS 32.25 stipulates that where the 
+contingency is outside the control of both the issuer and the holder, a contingent obligation to deliver cash 
+meets the definition of a financial liability (see Chapter 43 at section 4.3). Therefore, if the obligation to 
+make the variable payment does not depend on the acquiring entity’s future activity, it would seem 
+appropriate to recognise a financial liability in respect of the contingent amounts. [IAS 32.25]. However, it is 
+acknowledged that whilst this view was tentatively agreed during the course of the IFRS IC discussions on 
+the topic, ultimately, this was not clarified or confirmed as part of the final agenda decision. Furthermore, 
+the final agenda decision notes that there are questions about the accounting for variable payments 
+subsequent to the purchase of the asset, and in making that statement the IFRS IC did not distinguish 
+between the different types of variable payments. 
+How we see it 
+In light of the discussions held by the IFRS IC and the absence of clear guidance in the final agenda 
+decision, entities will need to develop and apply an accounting policy in respect of whether and when the 
+obligation to make contingent payments is recognised as a liability. The policy selected should result in 
+information that is relevant and reliable in the particular circumstances and must be consistently applied 
+to similar transactions. Different payments may have different types of variability. Therefore, it might be 
+appropriate for an entity to have different policies for dissimilar transactions. If information about the 
+selected accounting policy is expected to be material to users of the financial statements, that 
+accounting policy information should be disclosed. 
+ 
+11 
+IFRIC Update, March 2016, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3416 
+Examples of some accounting policies an entity may want to consider regarding initial recognition of the 
+asset include the following: 
+• The cost of the asset on initial recognition includes the fair value of all variable or contingent 
+consideration at the date of acquisition. A corresponding liability is recognised for the same amount. 
+• The cost of the asset on initial recognition excludes any variable or contingent payments. Accordingly, 
+no liability is recognised for those contingent or variable amounts. 
+If the accounting policy selected gives rise to a liability in scope of IFRS 9, depending on the classification 
+(see Chapter 44 at section 2), the liability should be subsequently measured at either amortised cost or fair 
+value though profit or loss (see Chapter 46 at section 2.4). For the second question on whether subsequent 
+changes to the estimate of variable or contingent consideration should be accounted for as part of the cost 
+of the acquired asset, see Chapter 18 at section 4.5. 
+Where contingent consideration arises on the sale of an asset that is within the scope of IAS 16 Property, 
+Plant and Equipment - or IAS 38 Intangible Assets - then the requirements of IFRS 15 apply in determining 
+the amount of consideration to be included in the gain or loss on derecognition of the asset (see Chapter 28 
+at section 2.6.3). [IAS 16.72, IAS 38.116]. IFRS 15 requires that variable consideration (which includes 
+contingent consideration) be estimated, using one of two methods, but requires that the amount of the 
+estimate included within the transaction price be constrained to avoid significant reversals in future periods 
+(see Chapter 28 at section 5.2). [IFRS 15.50]. During 2019 and 2020, the IFRS IC and the IASB discussed 
+whether IFRS 10 or IFRS 15 applies when an entity loses control of a single asset entity containing real 
+estate as part of its ordinary activities. In June 2022, the Board assessed this matter as a low priority and 
+concluded this topic could be explored if identified as a priority in the next agenda consultation.12 As noted 
+in section 2.7.1.B above, IFRS 10 requires consideration received on the loss of control of a subsidiary to 
+be measured at fair value. [IFRS 10.B98(b)(i)]. Therefore, depending on which standard is applied to the 
+disposal, the accounting outcome could be very different when contingent consideration is involved. This 
+issue is discussed in more detail in Chapter 8 at section 3.2 and Chapter 28 at Question 2-11. 
+2.9 
+Employee benefit plans and share-based payment 
+Employers’ rights and obligations under employee benefit plans, which are dealt with under IAS 19 
+Employee Benefits are excluded from the scope of IAS 32, IFRS 7 and IFRS 9. [IAS 32.4(b), IFRS 7.3(b), 
+IFRS 9.2.1(c)]. The IFRS IC noted in November 2005 that IAS 19 indicates that employee benefit plans include 
+a wide range of formal and informal arrangements and concluded it was clear that the exclusion of 
+employee benefit plans from IAS 32 (and by implication IFRS 7 and IFRS 9) includes all employee benefits 
+covered by IAS 19, for example a liability for long service leave.13 
+Similarly, most financial instruments, contracts and obligations arising from share-based payment 
+transactions, which are dealt with under IFRS 2 Share-based Payment are also excluded. However, IAS 32, 
+IFRS 7 and IFRS 9 do apply to contracts to buy or sell non-financial items in share-based transactions that 
+can be settled net (as that term is used in this context) unless they are considered to be ‘normal’ sales and 
+purchases (see section 3 below). [IAS 32.4(f)(i), IFRS 7.3(e), IFRS 9.2.1(h)]. For example, a contract to purchase a 
+fixed quantity of oil in exchange for issuing a fixed number of shares that could be settled net would be 
+excluded from the scope of IAS 32, IFRS 7 and IFRS 9 only if it qualified as a ‘normal’ purchase (which 
+would be unlikely). 
+In addition, IAS 32 applies to treasury shares (see Chapter 43 at section 9) that are purchased, sold, issued 
+or cancelled in connection with employee share option plans, employee share purchase plans, and all other 
+share-based payment arrangements. [IAS 32.4(f)(ii)]. 
+2.10 Reimbursement rights in respect of provisions 
+Most reimbursement rights in respect of provisions arise from insurance contracts and are therefore 
+outside the scope of IFRS 9 as set out in section 2.3 above. The scope of IFRS 9 is also restricted so as not 
+to apply to other financial instruments that are rights to payments to reimburse the entity for expenditure it 
+is required to make to settle a liability that it has recognised as a provision in accordance with IAS 37 in the 
+current or an earlier period. [IFRS 9.2.1(i)]. 
+ 
+12 
+Project Report and Feedback Statement: Post-implementation Review: IFRS 10 Consolidated Financial Statements, IFRS 11 Joint 
+Arrangements, IFRS 12 Disclosure of Interests in Other Entities, IASB, June 2022. 
+13 
+IFRIC Update, November 2005, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3417 
+However, a residual interest in a decommissioning or similar fund that extends beyond a right to 
+reimbursement, such as a contractual right to distributions once all the decommissioning has been 
+completed or on winding up the fund, could be an equity instrument within the scope of IFRS 7 and IFRS 9. 
+[IFRS 7.3, IFRIC 5.5]. 
+2.11 Disposal groups classified as held for sale and discontinued 
+operations 
+The disclosure requirements in IFRS 7 do not apply to financial instruments within a disposal group 
+classified as held for sale or within a discontinued operation, except for disclosures about the measurement 
+of those assets and liabilities (see Chapter 50 at section 4) if such disclosures are not already provided in 
+other notes to the financial statements. [IFRS 5.5B]. However, additional disclosures about such assets (or 
+disposal groups) may be necessary to comply with the general requirements of IAS 1 Presentation of 
+Financial Statements - particularly for financial statements to achieve a fair presentation and to disclose 
+information about assumptions made and the sources of estimation uncertainty (see Chapter 3 at 
+sections 4.1.1.A and 5.2.1 respectively). [IAS 1.15, IAS 1.125, IFRS 5.5B]. 
+2.12 Indemnification assets 
+IFRS 3 specifies the accounting treatment for ‘indemnification assets’, a term that is not defined but is 
+described as follows: [IFRS 3.27] 
+Extract from IFRS 3 
+27 
+The seller in a business combination may contractually indemnify the acquirer for the outcome 
+of a contingency or uncertainty related to all or part of a specific asset or liability. For example, 
+the seller may indemnify the acquirer against losses above a specified amount on a liability 
+arising from a particular contingency; in other words, the seller will guarantee that the 
+acquirer’s liability will not exceed a specified amount. As a result, the acquirer obtains an 
+indemnification asset. … 
+ 
+How we see it 
+From the perspective of the acquirer, an indemnification asset will normally meet the definition of a 
+financial asset within IAS 32. In some situations, the asset might be seen as similar to a reimbursement 
+right (see section 2.10 above). However, there will be cases where these assets are, strictly, within the 
+scope of IFRS 9, creating something of a tension with IFRS 3. This appears to be nothing more than an 
+oversight and, in our view, entities need to apply the more specific requirements of IFRS 3 when 
+accounting for these assets which are covered in more detail in Chapter 10 at section 5.6.4. 
+2.13 Rights and obligations within the scope of IFRS 15 
+An unconditional right to consideration (i.e., only the passage of time is required before the payment of 
+that consideration is due) in exchange for goods and services transferred to the customer (a receivable) is 
+accounted for in accordance with IFRS 9. [IFRS 9.2.1(j), IFRS 15.108]. A conditional right to consideration in 
+exchange for goods or services transferred to a customer (a contract asset) is accounted for in accordance 
+with IFRS 15, which requires an entity to assess contract assets for impairment in accordance with IFRS 9. 
+[IFRS 15.107]. Other rights and obligations within the scope of IFRS 15 are generally not accounted for as 
+financial instruments. 
+The credit risk disclosure requirements within IFRS 7.35A-35N apply to those rights that IFRS 15 specifies 
+are accounted for in accordance with IFRS 9 for the purposes of measurement of impairment gains and 
+losses (i.e., contract assets). [IFRS 7.5A]. 
+2.14 Commodity loans 
+Commodity loan transactions could be structured in many ways. The accounting for these transactions is 
+complex and small differences in fact patterns can affect the accounting outcome. As such, an entity must 
+apply judgement in accounting for commodity loans by considering the specific facts and circumstances in 
+the transaction. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3418 
+Frequently asked questions 
+Question 2-2: 
+How to account for a commodity loan transaction? 
+In March 2017, the IFRS IC considered a request on how to account for a commodity loan transaction.14 
+Specifically, the transaction they considered was one in which a bank (reporting entity) borrows gold 
+from a third party (contract 1) and then lends that gold to a different third party for the same term and 
+for a higher fee (contract 2). The bank enters into the two contracts in contemplation of each other, but 
+the contracts are not linked (i.e., the bank negotiates the contracts independently of each other). In each 
+contract, the borrower obtains legal title to the gold at inception and has an obligation to return, at the 
+end of the contract, gold of the same quality and quantity as that received. In exchange for the loan of 
+gold, each borrower pays a fee to the respective lender over the term of the contract but there are no 
+cash flows at inception of the contract. 
+The IFRS IC was asked whether, for the term of the two contracts, the bank that borrows and then lends 
+the gold recognises: 
+(a) An asset representing the gold (or the right to receive gold) 
+And 
+(b) A liability representing the obligation to deliver gold 
+The IFRS IC observed that the particular transaction in the submission might not be clearly captured 
+within the scope of any IFRS accounting standard. In the absence of a IFRS accounting standard that 
+specifically applies to a transaction, an entity applies paragraphs 10 and 11 of IAS 8 in developing and 
+applying an accounting policy to the transaction.15 
+The related Staff paper16 noted that in order to make the judgement described in IAS 8, the reporting 
+entity would first assess whether any of the requirements in IFRS accounting standards deal with ‘similar 
+and related issues’. The entity’s conclusion on which, if any, requirements deal with similar and related 
+issues could result in different accounting outcomes. For example: 
+‘Similar and related’ 
+issue in existing 
+IFRS accounting 
+standard 
+Accounting by Reporting Entity 
+Reporting Entity 
+recognises an asset 
+and a liability as a 
+result of the 
+transaction? 
+Securities lending 
+(IFRS 9) 
+Account for the transaction as if the gold is not 
+transferred from the Lender to the Reporting Entity. 
+No 
+Revenue 
+transaction/transfer 
+of inventory 
+(IFRS 15/IAS 2 
+Inventories) 
+Account for the purchase of gold and receipt of 
+inventory from the Lender, and a sale of gold and 
+transfer of inventory to the Borrower. 
+Yes 
+Lease 
+(IFRS 16) 
+Reporting Entity is the intermediate lessor in a 
+sublease. As such, the Reporting Entity recognises a 
+lease liability owing to the Lender and a lease 
+receivable from the Borrower. 
+Yes 
+None 
+If the transaction is analysed by applying the 
+principles in the Conceptual Framework, the 
+Reporting Entity would conclude that it has a liability 
+(the obligation to deliver gold to Lender in 12 months’ 
+time) and an asset (the right to receive gold from 
+Borrower in 12 months’ time) as a result of the 
+transaction. 
+Yes 
+  
+ 
+14 
+The IFRS IC analysis was primarily in the context of standards that were effective at the time of the discussion. 
+15 
+IFRIC Update, March 2017, available on the IFRS Foundation’s website. 
+16 
+IASB Staff paper 10, Project: Commodities, Paper topic: Commodity loans, IFRS IC Meeting, November 2016. Available on the 
+IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3419 
+3 
+Contracts to buy or sell commodities and other non-financial 
+items 
+Contracts to buy or sell non-financial items do not generally meet the definition of a financial instrument 
+(see section 1.2.5 above). However, many such contracts are standardised in form and traded on organised 
+markets in much the same way as some derivative financial instruments. The application guidance explains 
+that a commodity futures contract, for example, may be bought and sold readily for cash because it is listed 
+for trading on an exchange and may change hands many times. [IAS 32.AG20]. In fact, this is not strictly true 
+because such contracts are bilateral agreements that cannot be transferred in this way. Rather, the 
+contract would normally be ‘closed out’ (rather than sold) by entering into an offsetting agreement with the 
+original counterparty or with the exchange on which it is traded. 
+The ability to buy or sell such a contract for cash, the ease with which it may be bought or sold (or, more 
+correctly, closed out), and the possibility of negotiating a cash settlement of the obligation to receive or 
+deliver the commodity, do not alter the fundamental character of the contract in a way that creates a 
+financial instrument. The buying and selling parties are, in effect, trading the underlying commodity or 
+other asset. However, the IASB is of the view that there are many circumstances where they need to be 
+accounted for as if they were financial instruments. [IAS 32.AG20]. 
+Accordingly, the provisions of IAS 32, IFRS 7 and IFRS 9 are normally applied to those contracts to buy or 
+sell non-financial items that can be settled net in cash or another financial instrument or by exchanging 
+financial instruments or in which the non-financial instrument is readily convertible to cash, effectively as if 
+the contracts were financial instruments (see section 3.2 below). However, there is one exception for what 
+are commonly termed ‘normal’ purchases and sales or ‘own use’ contracts (these are considered in more 
+detail in section 3.3 below). [IAS 32.8, IFRS 7.5, IFRS 9.2.4]. 
+Typically, the non-financial item will be a commodity, but this is not necessarily the case. For example, an 
+emission right, which is an intangible asset (see Chapter 18 at section 11.2), is a non-financial item. 
+Therefore, these requirements would apply equally to contracts for the purchase or sale of emission rights 
+if they could be settled net. These requirements will also be appropriate for determining whether certain 
+commodity leases are within the scope of IFRS 9. Commodity leases generally do not fall within the scope of 
+IFRS 16 as they do not relate to a specific or identified asset (see section 2.14 above for commodity leases 
+accounting considerations). 
+A contract that qualifies for the own use exemption still needs to be assessed for the existence of 
+embedded derivatives, which would not disqualify the underlying contract from falling within the own use 
+exemption. An embedded derivative within a normal purchase or sale contract must be accounted for in 
+accordance with section 4.3 of IFRS 9 and bifurcated from the underlying purchase or sales contract if 
+required (see Chapter 42 at section 4). 
+A contract to buy or sell non-financial items that qualifies for the own-use exemption is accounted for as an 
+executory contract. IAS 37 defines an executory contract as a contract under which neither party has 
+performed any of its obligations or both parties have partially performed their obligations to an equal 
+extent. [IAS 37.3]. The costs associated with executory contracts are normally expensed as incurred using 
+accrual accounting, rather than requiring recognition of any liabilities or assets. Importantly, executory 
+contracts still need to be monitored on an ongoing basis because provisions would need to be recognised if 
+the contracts becomes onerous (see Chapter 27 at section 2.2.1.A). 
+In 2022, the IASB was asked to consider questions about contracts to buy and sell non-financial items as 
+part of the post implementation review of the classification and measurement requirements in IFRS 9. No 
+further actions were noted by the IASB because it considered the concerns not to be widespread or 
+expected to have a material effect.17 In 2023, specific questions relating to power purchase agreements 
+(PPAs) for renewable energy were submitted to the IFRS IC and escalated to the IASB.18 On 8 May 2024, 
+the IASB published the Exposure Draft (ED), Contracts for Renewable Electricity, Proposed amendments to 
+IFRS 9 and IFRS 7.19 See section 3.3.7 below for more details regarding the proposed amendments. 
+ 
+17 
+Project Report and Feedback Statement, Post-implementation Review IFRS 9 Financial Instruments-Classification and 
+Measurement, IASB, December 2022. Available on IASB’s website. 
+18 
+Application of the ‘Own-Use’ Exception in the Light of Current Market and Geopolitical Questions (IFRS 9 Financial Instruments); 
+IFRIC update June 2023; agenda paper 2 
+19 
+IASB proposes amendments for renewable electricity contracts. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3420 
+3.1 
+Decision process for contracts to buy or sell non-financial items 
+Extract from IFRS 9 
+2.4 
+This Standard shall be applied to those contracts to buy or sell a non-financial item that can 
+be settled net in cash or another financial instrument, or by exchanging financial 
+instruments, as if the contracts were financial instruments, with the exception of contracts 
+that were entered into and continue to be held for the purpose of the receipt or delivery of a 
+non-financial item in accordance with the entity’s expected purchase, sale or usage 
+requirements. However, this Standard shall be applied to those contracts that an entity 
+designates as measured at fair value through profit or loss in accordance with paragraph 2.5. 
+2.5 
+A contract to buy or sell a non-financial item that can be settled net in cash or another 
+financial instrument, or by exchanging financial instruments, as if the contract was a 
+financial instrument, may be irrevocably designated as measured at fair value through profit 
+or loss even if it was entered into for the purpose of the receipt or delivery of a non-financial 
+item in accordance with the entity’s expected purchase, sale or usage requirements. This 
+designation is available only at inception of the contract and only if it eliminates or 
+significantly reduces a recognition inconsistency (sometimes referred to as an ‘accounting 
+mismatch’) that would otherwise arise from not recognising that contract because it is 
+excluded from the scope of this Standard (see paragraph 2.4). 
+2.6 
+There are various ways in which a contract to buy or sell a non-financial item can be settled net 
+in cash or another financial instrument or by exchanging financial instruments. These include: 
+(a) when the terms of the contract permit either party to settle it net in cash or another 
+financial instrument or by exchanging financial instruments; 
+(b) when the ability to settle net in cash or another financial instrument, or by exchanging 
+financial instruments, is not explicit in the terms of the contract, but the entity has a practice of 
+settling similar contracts net in cash or another financial instrument or by exchanging financial 
+instruments (whether with the counterparty, by entering into offsetting contracts or by selling 
+the contract before its exercise or lapse); 
+(c) when, for similar contracts, the entity has a practice of taking delivery of the underlying and 
+selling it within a short period after delivery for the purpose of generating a profit from short 
+term fluctuations in price or dealer’s margin; and 
+(d) when the non-financial item that is the subject of the contract is readily convertible to cash. 
+A contract to which (b) or (c) applies is not entered into for the purpose of the receipt or 
+delivery of the non-financial item in accordance with the entity’s expected purchase, sale or 
+usage requirements and, accordingly, is within the scope of this Standard. Other contracts to 
+which paragraph 2.4 applies are evaluated to determine whether they were entered into and 
+continue to be held for the purpose of the receipt or delivery of the non-financial item in 
+accordance with the entity’s expected purchase, sale or usage requirements and, accordingly, 
+whether they are within the scope of this Standard. 
+[IFRS 9.2.4, IFRS 9.2.5, IFRS 9.2.6] 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3421 
+The figure below provides a summary of factors to consider in determining whether contracts to buy or sell 
+non-financial items are within the scope of IAS 32, IFRS 7 and IFRS 9. Section 3.2 and section 3.3 below 
+consider these factors in more detail. 
+Figure 3-1: 
+Contracts to buy or sell non-financial items scope decision chart 
+ 
+IFRS 9 must be applied to contracts to buy or sell a non-financial item that can be settled net in cash or 
+another financial instrument, or by exchanging financial instruments, as if the contracts were financial 
+instruments with the exception of contracts that were entered into and continue to be held for the purpose 
+of the receipt or delivery of a non-financial item in accordance with the entity’s expected purchase, sale or 
+usage requirements. Therefore, the first decision point in assessing the scoping of these contracts is to 
+understand whether the contract is capable of being net settled. IFRS 9.2.6 provides four examples of 
+factors that must be considered in determining whether the contract can be net settled (see section 3.2 
+below). If the contract cannot be net settled, the contract is accounted for as an executory contract. 
+If the contract can be net settled, the next decision point involves understanding the reason why it can be 
+net settled. According to IFRS 9.2.6, a contract to which IFRS 9.2.6(b) or IFRS 9.2.6(c) applies is not 
+entered into for the purpose of the receipt or delivery of the non-financial item in accordance with the 
+entity’s expected purchase, sale or usage requirements. [IFRS 9.2.4, IFRS 9.2.6]. Such contracts must be 
+accounted for as if they were derivatives under IFRS 9. 
+If the contract can be net settled as a result of IFRS 9.2.6(a) or (d), further assessment is required to 
+determine whether the contract is held for the purpose of the receipt or delivery of the non-financial item in 
+accordance with the entity’s expected purchase, sale or usage requirements. This is commonly referred to 
+as the own use exception (see section 3.3 below). [IFRS 9.2.4, IFRS 9.2.6]. 
+If it is held for own use, it is treated as an executory contract, provided the entity does not designate it as 
+measured at fair value through profit or loss (see section 3.3.6 below). [IFRS 9.2.5]. If it is not held for own 
+use purposes, the contract is accounted for as if it were a derivative. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3422 
+3.2 
+Contracts that may be settled net 
+IFRS 9 explains that there are various ways in which a contract to buy or sell a non-financial item can be 
+settled net, including when: [IAS 32.9, IFRS 9.2.6, IFRS 9.BCZ2.18] 
+(a) The terms of the contract permit either party to settle it net. 
+(b) The ability to settle the contract net is not explicit in its terms, but the entity has a practice of settling 
+similar contracts (see section 3.3.1 below) net (whether with the counterparty, by entering into 
+offsetting contracts or by selling the contract before its exercise or lapse). 
+(c) For similar contracts (see section 3.3.2 below), the entity has a practice of taking delivery of the 
+underlying and selling it within a short period after delivery for the purpose of generating a profit from 
+short-term fluctuations in price or dealer’s margin. 
+And 
+(d) The non-financial item that is the subject of the contract is readily convertible to cash. 
+There is no further guidance in IFRS 9 explaining what is meant by ‘readily convertible to cash’. 
+How we see it 
+Typically, a non-financial item would be considered readily convertible to cash if it consists of largely 
+fungible units and quoted spot prices are available in an active market that can absorb the quantity held 
+by the entity without significantly affecting the price. Entities must exercise significant judgement when 
+assessing whether a non-financial item is readily convertible to cash. 
+Whether there exists an active market for a non-financial item, particularly a physical one such as a 
+commodity, will depend on its quality, location or other characteristics such as size or weight. For example, 
+if a commodity is actively traded in London, this may have the effect that the same commodity located in, 
+say, Rotterdam is considered readily convertible to cash as well as if it was located in London. However, if it 
+were located in Siberia it might not be considered readily convertible to cash if more than a little effort 
+were required (often because of transportation needs) for it to be readily sold. Refer to Chapter 15 at 
+section 7.1.1 for factors to consider in determining whether an active market exists. 
+Like loan commitments, most contracts could as a matter of fact be settled net if both parties agreed to 
+renegotiate terms. 
+How we see it 
+Again, we do not believe the IASB intended the possibility of such renegotiations to be considered in 
+determining whether such contracts may be settled net. Of more relevance is the question of whether 
+one party has the practical ability to settle net, e.g., in accordance with the terms of the contract or 
+using some market mechanism. 
+3.3 
+Own use contracts 
+As indicated in section 3 above, the provisions of IAS 32, IFRS 9 and IFRS 7 are not normally applied to those 
+contracts to buy or sell non-financial items that can be settled net if they were entered into and continue to be 
+held for the purpose of the receipt or delivery of the non-financial item in accordance with the entity’s 
+expected purchase, sale or usage requirements (’own use’). [IAS 32.8, IFRS 7.5, IFRS 9.2.4]. However, an entity 
+may in certain circumstances be able to designate such a contract at fair value through profit or loss (see 
+section 3.3.6 below). It should be noted that this is a two-part test, i.e., in order to qualify as a normal 
+purchase or sale, the contract needs to both (a) have been entered into, and (b) continue to be held, for that 
+purpose. Consequently, a reclassification of an instrument can be only one way. [IAS 32.8, IFRS 9.2.4]. For 
+example, if a contract that was originally entered into for the purpose of delivery ceases to be held for that 
+purpose at a later date, it must subsequently be accounted for as a financial instrument under IFRS 9. 
+Conversely, where an entity holds a contract that was not originally held for the purpose of delivery and was 
+accounted for under IFRS 9, but subsequently its intentions change such that it is expected to be settled by 
+delivery, the contract remains within the scope of IFRS 9. The IASB views the practice of settling net or taking 
+delivery of the underlying and selling it within a short period after delivery as an indication that the contracts 
+are not normal purchases or sales. Therefore, contracts to which (b) or (c) in section 3.2 above apply cannot 
+be subject to the normal purchase or sale exception. Other contracts that can be settled net are evaluated to 
+determine whether this exception can apply. [IAS 32.9, IFRS 9.2.6, IFRS 9.BCZ2.18]. 
+The implications of this requirement are considered further in sections 3.3.1 and 3.3.2 below. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3423 
+The implementation guidance illustrates the application of the exception as follows: [IFRS 9.IG A.1] 
+Illustration 3-1: 
+Determining whether a copper forward is within the scope of IFRS 9 
+Company XYZ enters into a fixed-price forward contract to purchase 1,000 kg of copper in accordance with its 
+expected usage requirements. The contract permits XYZ to take physical delivery of the copper at the end of 
+twelve months, or to pay or receive a net settlement in cash, based on the change in fair value of copper. 
+The contract is a derivative instrument because there is no initial net investment, the contract is based on the 
+price of copper, and it is to be settled at a future date. However, if XYZ intends to settle the contract by taking 
+delivery and has no history of settling similar contracts net in cash, or of taking delivery of the copper and 
+selling it within a short period after delivery for the purpose of generating a profit from short-term fluctuations 
+in price or dealer’s margin, the contract is accounted for as an executory contract rather than as a derivative. 
+The Illustration below considers whether a prepayment for a commodity that is readily convertible to cash 
+is within the scope of IFRS 9. 
+Illustration 3-2: 
+Prepayment of a commodity that is readily convertible to cash 
+Company Z makes a prepayment of CU1 million to Company Y for a commodity. The prepayment will be 
+settled by Company Y physically delivering 1000kg of the commodity to Company Z at a future date. The 
+commodity is readily convertible to cash. 
+The accounting for this contract by Company Z depends on facts and circumstances. Despite the commodity 
+being readily convertible to cash, if Company Z entered into the prepaid contract in accordance with its 
+expected purchase, sale or usage requirements for that commodity, as per IFRS 9.2.4 and IFRS 9.2.6 the 
+prepaid contract is held for own use purposes. As such, the prepayment will not be in scope of IFRS 9, unless 
+Entity Z designates the contact at fair value through profit or loss in accordance with IFRS 9.2.5 (see 
+section 3.3.6 below). If the contract is not accounted for within the scope of IFRS 9, the prepayment will be 
+accounted for as a non-financial asset to reflect Company Z’s right to receive the commodity. Furthermore, 
+Entity Z must consider whether the prepayment includes a significant financing component that must be 
+accounted for separately (see chapter 28 at section 5.5). 
+In accordance with IFRS 9.2.4 and IFRS 9.2.6, if the prepaid contract is not held for own use purposes by 
+Company Z, the prepaid contract can be settled net in cash since it is readily convertible to cash. As such, the 
+prepayment will be within the scope of IFRS 9 and accounted for as if it were a derivative at fair value through 
+profit or loss. 
+Sometimes a market design or process imposes a structure or intermediary that prevents the producer of a 
+non-financial item from physically delivering it to the customer. For example, a gold miner may produce 
+gold bars (doré) that are physically delivered to a mint for refining and, whilst remaining at the mint, the 
+gold could be credited to either the producer’s or a counterparty’s ‘gold account’. Where the producer 
+enters into a contract for the sale of gold which is settled by allocating gold to the counterparty’s gold 
+account, this may constitute ‘delivery’ as that term is used in the standard. Accordingly, a contract that is 
+expected to be settled in this way could potentially be considered a normal sale (although of course it would 
+need to meet all the other requirements). However, if the gold is credited to the producer’s account and the 
+sale contract was settled net in cash, this would not constitute delivery. In these circumstances, treating 
+the contract as a normal sale would, in effect, link a non-deliverable contract entered into with a customer 
+with a transaction to buy or sell through an intermediary as a single synthetic arrangement, contrary to the 
+general requirements on linking contracts discussed in Chapter 42 at section 7.20 
+3.3.1 
+Net settlement of similar contracts 
+If the terms of a contract to buy or sell a non-financial item do not explicitly provide for net settlement 
+but an entity has a practice of settling similar contracts net (see section 3.3.1.A below), that contract 
+must be considered as capable of being settled net (see section 3.2 above). Net settlement could be 
+achieved either by entering into offsetting contracts (see section 3.3.1.B below) with the original 
+counterparty or by selling the contract before its maturity. In these circumstances the contract cannot be 
+considered a normal sale or purchase and is accounted for in accordance with IFRS 9 (see section 3.2 
+above). [IAS 32.9, IFRS 9.2.6, IFRS 9.BCZ2.18]. 
+ 
+20 
+IFRIC Update, August 2005, available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3424 
+3.3.1.A 
+The meaning of ‘similar contracts’ 
+‘Similar contracts’ is not a defined term in IFRS accounting standards. However, in plain English, it refers to 
+contracts which are almost, but not exactly, the same. At face value, this could be assessed by comparing 
+the nature of the rights and obligations that the counterparties are exposed to as a result of the contracts’ 
+terms. However, such an interpretation of ‘similar contracts’ could be particularly troublesome. For 
+example, it is common for entities in, say, the energy sector to have a trading arm that is managed 
+completely separately from their other operations. These trading operations commonly trade in contracts 
+on non-financial assets, the terms of which are similar, if not identical, to those used by the entity’s other 
+operations for the purpose of physical supply. Accordingly, the standard might suggest that the own use 
+exemption is unavailable to any entity that has a trading operation that trades in similar contracts. 
+However, generally, under IFRS 9, contracts could be dissimilar, even if they are identical in form, when 
+management enters into the contracts with different intentions. An example is the classification of a 
+financial asset between the different categories. An entity might own two identical bonds issued by the 
+same entity and classify one bond as fair value through profit or loss and the other bond as amortised cost. 
+In such a situation, classification is not solely based on the legal form of the contract but also on 
+management’s intention for the contract. 
+We believe that this distinction must also be made in interpreting ‘similar contract’ for the purposes of applying 
+IFRS 9.2.6(b). Therefore, both the nature of the rights and obligations arising from the contractual terms and 
+the business within which the contract will be used (e.g., trading or physical supply) must be considered. 
+How we see it 
+For the purposes of IFRS 9.2.6(b), contracts are ‘similar’ if the nature of the rights and obligations arising 
+from their contractual terms is similar and the entity intends to use them within the same business 
+(e.g., for trading or physical supply). 
+3.3.1.B 
+The meaning of ‘offsetting’ 
+The reference in IFRS 9.2.6(b) to ‘offsetting’ raises the question of whether the offsetting contract must 
+offset all risks including credit risk in order for the practice of entering into offsetting contracts to be 
+considered ‘net settlement’. IFRS 9 does not contain guidance on the meaning of the term ‘offsetting’ in the 
+context of the application of IFRS 9.2.6. 
+How we see it 
+Offsetting can be interpreted as matching positions with equal and opposite movements in risk, for the 
+purpose of limiting or eliminating risk. When an entity purchases a non-financial item and sells the item 
+within a short period after delivery, the entity will normally have credit risk on the gross amount. Paragraph 
+2.6(b) of IFRS 9 indicates that offsetting can occur with the counterparty, by entering into offsetting 
+contracts or by selling the contract before its maturity. The word ‘or’ implies that it is not necessary to 
+offset the credit risk component of the contract as in the latter situation, the counterparty may not be the 
+same counterparty as in the original contract. It would, accordingly, be inconsistent to require that all risks, 
+including credit risk, must be offset for a contract to be considered offsetting under IFRS 9.2.6(b). 
+Consequently, in our view, for a contract to be considered net settled by entering into offsetting 
+contracts in accordance with IFRS 9.2.6(b), the new contract must offset all risks other than credit risk. 
+3.3.1.C 
+Changes in the purpose for which contracts are being held 
+It is possible that a contract is entered into entirely for own use requirements and during the life of the 
+contract these expectations change. The standard is clear that, in order to qualify for the own use 
+exemption, the contract needs to both (a) have been entered into, and (b) continue to be held, for own use 
+requirements. [IAS 32.8, IFRS 9.2.4]. Consequently, a reclassification of a contract can only be one way. If 
+some or all of a contract that was originally entered into for own use at a later date ceases to be held for 
+own use purposes, the entire contract will no longer qualify for the own use exemption and must 
+subsequently be accounted for as a financial instrument under IFRS 9. Once scoped into IFRS 9 these 
+contracts will, in most cases, meet the definition of a derivative and will therefore be measured at fair value 
+through profit or loss. This will result in immediate recognition of the cumulative fair value gain or loss on 
+the entire contract in profit or loss, including the portion which relates to any part that is still held for own 
+use. Conversely, where an entity holds a contract that was not originally held for own use and was 
+therefore accounted for under IFRS 9, but subsequently the contract begins to be held for own use, the 
+contract remains within the scope of IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3425 
+The standard contains no further guidance on what degree of net settlement would be necessary to create 
+a practice of net settlement that would prevent an entity from treating similar contracts as own use. 
+How we see it 
+We do not believe that any net settlement automatically taints an entity’s ability to apply the own use 
+exemption to similar contracts, as long as it is isolated and infrequent. For example, if an entity is 
+required to net settle a number of contracts as a result of an exceptional disruption arising from external 
+events at a production facility, this isolated net settlement would not constitute a practice of net 
+settlement, and would therefore not taint the entity’s ability to use the exemption for other similar 
+contracts. However, judgement will need to be applied based on the facts and circumstances of each 
+individual case. 
+It stands to reason that regular revisions of own use requirements that result in the inability to continue 
+applying the own use exemption for the respective contracts, could jeopardise the exemption for similar 
+contracts in future, because the entity does not appear to be able to forecast its own use requirements 
+reliably. This is similar to the situation under hedge accounting when ‘highly probable’ forecast transactions 
+frequently fail to take place as forecast. For this reason, if an entity operates an own use and a trading 
+business, it is important that the two businesses are clearly distinguished. 
+3.3.1.D 
+Non-performance penalty clauses 
+It is common for commodity contracts to have penalty clauses relating to non-delivery or incomplete 
+delivery (by the seller) and non-acceptance of all, or part of, the delivery (by the buyer) of the minimum 
+contracted quantities. 
+Commodity contracts could be within the scope of IFRS 9 if they can be settled net in cash. [IFRS 9.2.4, 
+IFRS 9.2.6]. A non-performance penalty clause in a fixed-price commodity supply contract could provide the 
+entity with the ability to settle that contract net in cash. The following scenarios arise: 
+Scenario 1 - Fixed Penalty 
+The buyer (seller) will pay a fixed penalty to the seller (buyer) if it accepts (delivers) less than the minimum 
+contracted quantity. An alternative to Scenario 1 would be where either of the parties must pay for the 
+quantities not delivered or not accepted at the fixed contracted price. 
+Scenario 2 - Asymmetrical default clause 
+The buyer will pay a penalty for the minimum quantities it fails to take delivery of, being the difference 
+between the fixed contract price and the market price, if the market price is lower than the contract price. 
+The seller will pay a penalty for the minimum quantities it fails to deliver, being the difference between the 
+fixed contract price and the market price, if the market price is higher than the contract price. 
+Scenario 3 - Symmetrical default clause 
+The buyer will pay a penalty for the minimum quantities it fails to take delivery of, being the difference 
+between the fixed contract price and the market price, if the market price is lower than the contract 
+price. However, if the market price is higher than the fixed contract price the seller must pay the 
+difference to the buyer. 
+How we see it 
+Neither a fixed penalty nor an asymmetrical variable penalty meets the criteria to be treated as net 
+settled in cash per IFRS 9.2.6(a), and therefore will not cause the contract to be within the scope of 
+IFRS 9. 
+A symmetrical variable penalty does meet the criteria of net settled in cash per IFRS 9.2.6(a). However, 
+the contract could still be outside the scope of IFRS 9 because of the ‘own use’ exemption. This 
+exemption will not apply if the entity has a practice of net cash settlement in accordance with 
+IFRS 9.2.6(b) (i.e., the symmetrical default clause is exercised on non-delivery). 
+A fixed price penalty (Scenario 1) does not reflect changes in market value and is not always economically 
+beneficial to the defaulting party. Accordingly, a fixed price penalty does not meet the net cash settlement 
+criteria in IFRS 9.2.6(a). [IFRS 9.2.6]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3426 
+For the asymmetrical variable penalty clause (Scenario 2), the defaulting party has an obligation to 
+compensate the counterparty for the loss the counterparty incurs due to unfavourable market prices at the 
+time of the default. It does not give the defaulting party the right to demand any potential gain the 
+counterparty realises because of the default. Such clauses are designed to compensate the non-defaulting 
+counterparty for losses incurred. Generally, the amount of the penalty represents the loss incurred. 
+Accordingly, asymmetrical variable non-performance penalties do not represent net cash settlement 
+provisions for the purpose of applying IFRS 9.2.6(a). [IFRS 9.2.6]. 
+For the symmetrical variable penalty clause (Scenario 3), the defaulting party has both an obligation to 
+compensate the counterparty for the loss the counterparty suffers as a consequence of the default and a 
+right to receive any gain the counterparty realises as a consequence of the default. Such clauses are 
+considered net-settlement clauses. In this case, the seller may be acting as the buyer’s broker. For example, 
+if the buyer takes less than the minimum quantity per the contract, the seller is effectively selling it on the 
+market on the buyer’s behalf. If the buyer took the minimum quantity and sold the unwanted quantity on 
+the market, this would constitute net-settlement. Symmetrical variable penalty clauses are often exercised 
+by counterparties that enter into the commodity contract for speculative purposes. 
+While a symmetrical variable penalty meets the criteria of net settled in cash per IFRS 9.2.6(a), the contract 
+is outside the scope of IFRS 9 if the ‘own use’ exemption in IFRS 9.2.4 above applies. If the entity has a 
+practice of settling these contracts net in cash, as contemplated in IFRS 9.2.6(b), the ‘own use’ exemption 
+will not apply and the contract will, therefore, be in the scope of IFRS 9. [IFRS 9.2.4, IFRS 9.2.6]. 
+3.3.2 
+Commodity broker-traders and similar entities 
+To be exempted from the scope of IFRS 9, a contract for the purchase or sale of a non-financial item that 
+can be settled net in cash or another financial instrument or by exchanging financial instruments, must be 
+transacted in accordance with the entity’s expected purchase, sale or usage requirements. [IFRS 9.2.4, 
+IFRS 9.2.6]. 
+An entity’s ‘expected purchase, sale or usage requirements’ is not defined within IFRS accounting 
+standards, therefore its intentions and actual behaviour must be considered when making an assessment. 
+How we see it 
+IFRS 9 contains no further guidance on what degree of net settlement (or trading) is necessary to make 
+the normal sale or purchase exemption inapplicable, but in many cases, it will be reasonably clear. For 
+example, in our view, the presumption must be that contracts entered into by a commodity broker-trader 
+that measures its inventories at fair value less costs to sell in accordance with IAS 2 (see Chapter 23 at 
+section 2.3) fall within the scope of IFRS 9. However, there will be situations that are much less clear-cut, 
+and the application of judgement will be necessary. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3427 
+The following factors may be considered when making an assessment to determine whether the entity 
+enters into contracts with the intention of making a profit from trading activities and/or whether it enters 
+into non-trading contracts in accordance with its expected purchase, sale or usage requirements: 
+Factor 
+Indicator of trading activities 
+Indicator of transactions in accordance 
+with expected purchase, sale or usage 
+requirements 
+How the entity 
+intends to profit 
+from the contract 
+The entity seeks to profit from short 
+term price fluctuations or by making a 
+margin between the bid and ask prices. 
+This may involve taking price exposure 
+and actively monitoring movements in 
+price and closing out positions to capture 
+more profit from such movements. 
+Generation of a profit margin by creating a 
+market between normal buyers and sellers of 
+a commodity, by entering into back-to-back 
+sales and purchase contracts with a stable 
+customer base, at a relatively consistent 
+spread such that the current spot or future 
+price is less relevant. 
+Customer 
+base/contract 
+counterparty 
+Counterparties vary based on market 
+conditions as, typically, the entity or the 
+customer initiates the trade due to 
+market opportunity. 
+Trades are usually with a stable customer 
+base who are normally producers or users 
+within the value chain (refer to the value 
+chain indicator below). 
+How an entity 
+manages its 
+business 
+Business is managed based on a ‘mark to 
+market’ profit reflecting the fair value 
+changes of contracts. 
+Business is managed based on a planned 
+production or sale process and customer 
+supply and demand and is measured based on 
+gross margin. 
+How staff are 
+remunerated 
+Remuneration includes a significant 
+bonus component, based on mark to 
+market profits of the forward contracts. 
+Remuneration is unlikely to include significant 
+bonuses based on mark to market profits of 
+the forward contracts. 
+Whether value is 
+added by linking 
+parties in the 
+value chain. 
+Sales and purchases contracts made with 
+counterparties that also trade and/or are 
+not end users of the commodity 
+themselves may indicate that the entity 
+intends to profit from trading rather than 
+from creating links between various 
+counterparties in the commodity value 
+chain. 
+The entity enters into purchase and sales 
+contracts with producers and users of the 
+commodity creating links within the value 
+chain for the commodity. This may include 
+repackaging but it is not necessary to 
+repackage the commodity to be eligible for 
+the expected purchase, sale or usage 
+expectation. 
+Settlement of the 
+contracts 
+Contracts are regularly settled net, for 
+example, by entering into offsetting 
+contracts with the same counterparty 
+and physically delivering the net 
+difference between the contracts (note 
+that this would automatically bring such 
+contracts into the scope of IFRS 9). 
+Contracts are always settled by physical 
+delivery. 
+This is not an exhaustive list and the weight applied to each factor requires the application of judgement as, 
+in many situations, mixed factors may be present. Consideration of an entity’s control environment may be 
+warranted where seemingly similar contracts are entered into for different purposes. This analysis can be 
+made at a consolidated level or separately by business activity/unit (i.e., it is possible for management to 
+deem one business activity as trading while another may be within expected purchase, sale or usage 
+requirements, depending on the specific facts and circumstances of each business activity). 
+Entities could irrevocably designate a purchase or sale of a non-financial item at fair value through profit or 
+loss, even if the purchase or sale of a non-financial item would otherwise be outside the scope of IFRS 9 
+(see section 3.3.6 below). [IFRS 9.2.5]. 
+Again, the reference in the standard to ‘similar contracts’ in this context may be troublesome for certain 
+entities. However, as noted in section 3.3.1.A above, we believe contracts must be ‘similar’ as to their 
+purpose within the business (e.g., for trading or for physical supply) not just as to their contractual terms. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3428 
+3.3.3 
+Written options that can be settled net 
+The IASB do not believe that a written option to buy or sell a non-financial item that can be settled net can 
+be regarded as being for the purpose of receipt or delivery in accordance with the entity’s expected sale or 
+usage requirements. Essentially, this is because the entity cannot control whether or not the purchase or 
+sale will take place. Accordingly, IAS 32, IFRS 7 and IFRS 9 apply to written options that can be settled net 
+according to the terms of the contract or where the underlying non-financial item is readily convertible to 
+cash (see (a) and (d) in section 3.2 above). [IAS 32.10, IFRS 9.2.7, IFRS 9.BCZ2.18]. 
+Illustration 3-3: 
+Determining whether a put option on an office building is within the scope of 
+IFRS 9 
+Company XYZ owns an office building. It enters into a put option with an investor, which expires in five years 
+and permits it to put the building to the investor for CU150 million. The current value of the building is CU175 
+million. The option, if exercised, may be settled through physical delivery or net cash, at XYZ’s option. 
+XYZ’s accounting depends on its intention and past practice for settlement. Although the contract meets the 
+definition of a derivative, XYZ does not account for it as a derivative if it intends to settle the contract by 
+delivering the building in the event of exercise and there is no past practice of settling net. 
+The investor, however, cannot conclude that the option was entered into to meet its expected purchase, sale, 
+or usage requirements because it does not have the ability to require delivery. The contract could be settled 
+net and is a written option. Regardless of past practices, its intention does not affect whether settlement is by 
+delivery or in cash. Accordingly, the investor accounts for the contract as a derivative. As noted in Chapter 46 
+at section 2.4, this will involve remeasuring the derivative to its fair value each reporting period with any 
+associated gains and losses recognised in profit or loss. 
+However, if the contract were a forward contract rather than an option, required physical delivery and the 
+investor had no past practice of settling net (either in cash or by way of taking delivery and subsequently 
+selling within a short period), the contract would not be accounted for as a derivative. [IFRS 9.IG A.2]. 
+3.3.4 
+Electricity and similar ‘end-user’ contracts 
+There have been problems in determining whether IAS 32, IFRS 7 and IFRS 9 apply to contracts to sell non-
+financial items (for example electricity or natural gas) to ‘end-users’ such as retail customers. The non-
+financial items will often be considered readily convertible to cash (see section 3.2 above), at least by the 
+supplier. Accordingly, contracts to supply such items might be considered contracts that can be settled net. 
+Furthermore, end-user contracts often enable the customer to purchase as much of the non-financial item 
+as needed at a given price to satisfy its usage requirements, i.e., the supplier does not have the contractual 
+right to control whether or not the sale will take place. This might suggest that, from the perspective of the 
+supplier, the contract is a written option with the consequence that it could not regard it as meeting the 
+normal sale and purchase exemption (see section 3.3.3 above). 
+However, many argued that this was not necessarily the case, particularly in the following circumstances: 
+• 
+The non-financial item is an essential item for the customer. 
+• 
+The customer does not have access to a market where the non-financial item can be resold. 
+• 
+The non-financial item is not easily stored in any significant amounts by the customer. 
+And 
+• 
+The supplier is the sole provider of the non-financial item for a certain period of time. 
+In circumstances such as these, the apparent optionality within the contract is not exercisable by the retail 
+customer in any economic sense. The customer will purchase volumes required whether the terms in the 
+contract are advantageous or not and would not have the practical ability to sell any excess amounts 
+purchased. Such a contract can have both a positive value and a negative value for the supplier when 
+compared with market conditions and therefore fails to exhibit one of the key characteristics of an option, 
+i.e., that it has only a positive value for the holder (the customer) and only a negative value for the writer 
+(the supplier). In many respects, the positive value stems from an intangible, rather than financial, aspect 
+of the contract, being the likelihood that the customer will exercise the option. Accordingly, it was often 
+argued that such contracts must not be considered written options (and therefore not within the scope of 
+IFRS 9). 
+Even if contracts such as these are considered to be within the scope of IFRS 9, it is common for the 
+supplier to have the ability to increase the price charged at relatively short notice. Also, the customer may 
+be able to cancel the contract without penalty and switch to another supplier. Features such as these are 
+likely to reduce any fair value that the contract can have. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3429 
+Only a small number of energy suppliers appeared to regard these contracts as falling within the scope of 
+IFRS 9. The IFRS IC noted that the guidance already explains what constitutes a written option, essentially 
+confirming that in this context a written option arises where a supplier does not have the contractual right 
+to control whether or not a sale will take place.21 
+The IFRS IC also noted that “in many situations these contracts are not capable of net cash settlement”, and 
+therefore would not be within the scope of IFRS 9. No detailed explanation was provided of why the ability of 
+the supplier to readily realise the non-financial item for cash does not enable it to settle the contract net (as 
+that term is used in IFRS 9).22 However, we understand the reason underlying the comment to be the inability 
+of the counterparty to realise the non-financial item (and hence the contract) for cash. This establishes a 
+useful principle that may be applied in similar situations, i.e., a contract is not capable of net settlement if the 
+contract is an option and the option holder cannot readily realise the non-financial item for cash. 
+How we see it 
+End user commodity contracts are not within the scope of IFRS 9.2.7 when: 
+• 
+The non-financial item is a ‘necessity’ and the purchaser (e.g., a retail customer such as a consumer 
+or small enterprise) does not have access to a market where the non-financial item can be resold. 
+• 
+The non-financial item is not easily stored in any significant amounts by the purchaser, and the 
+supplier is the sole provider of the non-financial item for a certain period (i.e., there is an exclusivity 
+agreement between seller and the purchaser). 
+• 
+The contract cannot be cash settled and the purchaser can be expected to purchase the volume it 
+requires whether the terms in the contract are advantageous or not. 
+Such contracts can have either a positive or a negative value for the supplier when compared with its costs 
+to produce. Accordingly, these contracts do not meet the definition of an option or a written option in 
+accordance with IFRS 9, because such options can only have a positive value for the holder and only a 
+negative value for the supplier. Therefore, they are not within the scope of IFRS 9.2.7. 
+End user-commodity contracts could meet the definition of options and written options, in whole or part, 
+and be within the scope of IFRS 9.2.7 when the purchaser has access to the market or to other distributors 
+through supply contracts that the purchaser only exercises if the contract terms are advantageous for the 
+purchaser. Such contracts will only have a negative value for the supplier and are within the scope of IFRS 9 
+when the non-financial item is readily convertible to cash or the contract can otherwise be settled net in 
+cash in accordance with IFRS 9.2.6. [IFRS 9.2.6, IFRS 9.2.7]. 
+3.3.5 
+Other contracts containing volume flexibility 
+It is not uncommon for other sales contracts, such as those with large industrial customers, to contain volume 
+flexibility features. For example, a supplier might enter into a contract requiring it to deliver 100,000 units at 
+a given price, as well as giving the counterparty the option to purchase a further 20,000 units at the same 
+price. The customer has access to markets to readily convert the non-financial item to cash and, following the 
+guidance of the IFRS IC (see section 3.3.4 above), the supplier might consider such a contract to be within the 
+scope of IFRS 9 as it contains a written option. 
+However, the supplier could split the contract into two separate components for accounting purposes: a 
+forward contract to supply 100,000 units (which may qualify as a normal sale) and a written option to 
+supply 20,000 units (which would not). Arguments put forward include: 
+• 
+The parties could easily have entered into two separate contracts, a forward contract and a written 
+option. 
+And 
+• 
+It is appropriate to analogise to the requirements for embedded derivatives and separate a written 
+option from the normal forward sale or purchase contract because it is not closely related (see 
+Chapter 42 at section 4). 
+ 
+21 
+IFRIC Update, March 2007; and INFORMATION FOR OBSERVERS, IFRIC meeting: January 2007, London, Project: IAS 39 
+Financial Instruments: Recognition and Measurement - Written options in retail energy contracts (Agenda Paper 14(iv)), IASB, 
+paras. 9-11. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+22 
+IFRIC Update, March 2007; and INFORMATION FOR OBSERVERS, IFRIC meeting: January 2007, London, Project: IAS 39 
+Financial Instruments: Recognition and Measurement - Written options in retail energy contracts (Agenda Paper 14(iv)), IASB, 
+para. 15. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3430 
+The IFRS IC was asked to consider the appropriate treatment of such contracts but in spite of noting 
+significant diversity in practice the issue has not been addressed.23 
+How we see it 
+Entities could apply either of these interpretations as an accounting policy choice. The contract can be 
+considered a written option in its entirety or the option contained in the contract can be considered 
+separate from the fixed quantity sale contract. 
+If the option is considered separate from the fixed quantity sale contract, the components of the contract 
+are accounted for separately as an executory contract for the fixed quantity of sales and a written option 
+(within the scope of IFRS 9) for the additional quantity that may be delivered. Each component is 
+evaluated individually based on the terms of the contract to determine whether the non-financial item 
+scope exemption set out in IFRS 9.2.4 to 2.7 is met. 
+However, the entity must adopt a consistent accounting policy for similar contracts. 
+3.3.6 
+Fair value option 
+Own use contracts are accounted for as executory contracts, with the idea that any fair value change of the 
+contract is not relevant given that the contract is used for the entity’s own use. However, participants in 
+several industries often enter into similar contracts both for own use and for trading purposes and manage all 
+the contracts together with derivatives on a fair value basis (so as to manage the fair value risk to close to nil). 
+In such a situation, own use accounting leads to an accounting mismatch, as the fair value change of the 
+derivatives and the trading positions cannot be offset against fair value changes of the own use contracts. 
+To eliminate the accounting mismatch, an entity could apply hedge accounting by designating own use 
+contracts as hedged items in a fair value hedge relationship. However, hedge accounting in these 
+circumstances is administratively burdensome and often produces less meaningful results than fair value 
+accounting. Furthermore, entities enter into large volumes of commodity contracts and, within the large 
+volume of contracts, some positions may naturally offset each other. An entity would therefore typically 
+hedge on a net basis. [IFRS 9.BCZ2.24]. 
+Alternatively, IFRS 9 provides a ‘fair value option’ for own use contracts. At inception of a contract, an 
+entity may make an irrevocable designation to measure an own use contract at fair value through profit or 
+loss in spite of it being entered into for the purpose of the receipt or delivery of a non-financial item in 
+accordance with the entity’s expected purchase, sale or usage requirement. However, such designation is 
+only allowed if it eliminates or significantly reduces an accounting mismatch that would otherwise arise 
+from not recognising that contract because it is excluded from the scope of IFRS 9. [IFRS 9.2.5]. 
+3.3.7 
+Proposed amendments to IFRS 9 and IFRS 7 - Renewable Energy Contracts 
+3.3.7.A 
+Introduction 
+On 8 May 2024, the IASB published the ED, Contracts for Renewable Electricity, which proposes 
+amendments to IFRS 9 and IFRS 7.24 The ED contains proposed amendments to: 
+• 
+Include factors that entities need to consider when applying the ‘own-use’ requirements in IFRS 9.2.4 
+to certain contracts for renewable electricity. 
+• 
+Permit hedge accounting where a contract for renewable electricity with specific characteristics is used 
+as a hedging instrument. 
+And 
+• 
+Add disclosure requirements to enable investors to understand the effects of these contracts on a 
+company’s financial performance and future cash flows. 
+The scope of contracts to which the amendments apply is limited to purchase contracts for renewable 
+electricity that meet specified criteria. 
+ 
+23 
+IASB Staff paper 16, Project: Tentative agenda decisions, Topic: IAS 39 - Forward contracts with volumetric optionality on non-
+financial items that are readily convertible to cash, IFRS IC Meeting, January 2010. Available on the IFRS Foundation’s website.  
+Whilst the IFRS IC discussion was held in the context of IAS 39, the discussion also holds true under IFRS 9. 
+24 
+IASB proposes amendments for renewable electricity contracts. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3431 
+The comment period closed on 7 August 2024. The IASB aims to finalise any changes by the end of 2024, 
+with the proposal that the new requirements will be available for companies to apply as soon as possible 
+after they are finalised. At the time of writing this publication, the amendments and transition date have 
+not been finalised. Please refer to the IASB website for further information on new developments with 
+respect to the proposed amendments. 
+The ED is the culmination of work to date which began with a submission to the IFRS IC in 2023 dealing with 
+specific questions relating to power purchase agreements (PPAs).25 As a result of the submission, the IASB 
+added a maintenance project to the work plan to explore narrow-scope amendments to IFRS 9 to better 
+reflect how financial statements are affected by PPAs.26 
+The narrow-scope proposed amendments cover both physical PPAs (which require physical delivery of the 
+electricity produced) and virtual PPAs (which require net settlement of the difference between the 
+prevailing market price, and the contractually agreed price for the volume of electricity produced from a 
+referenced production facility). This is in response to stakeholders highlighting that the objective of both 
+physical PPAs and virtual PPAs is to ensure access to renewable electricity, and to fix the price per unit of 
+electricity purchased or sold. The economic outcomes are the same, but, in many cases, the design and 
+operation of the electricity market determines the types of contracts entities can enter into. 
+See Chapter 49 at section 3.2.6.A for details regarding the proposed amendments for hedge accounting. 
+See Chapter 50 at section 10 for details regarding the proposed disclosure amendments. 
+3.3.7.B 
+Scope of proposed amendments 
+The proposed amendments only apply to a contract for renewable electricity with both of the following 
+characteristics: 
+• 
+The source of production of the renewable electricity is nature-dependent so that the supply cannot be 
+guaranteed at specified times or for specified volumes. Examples of such sources of production include 
+wind, sun and water. 
+• 
+The contract exposes the purchaser to substantially all the volume risk under the contract through 
+‘pay-as-produced’ features. Volume risk is the risk that the volume of electricity produced does not 
+align with the purchaser’s demand for electricity at the time of production. 
+The IASB emphasises that the proposed amendments cannot be applied by analogy to other contracts, 
+items or transactions. 
+The IASB intended the scope of the proposed amendments to be narrow enough to minimise the risk of 
+unintended consequences. Also, the proposed amendments do not cover the accounting for renewables 
+energy certificates (RECs). 
+3.3.7.C 
+Proposed amendments to the own-use exception 
+IFRS 9 must be applied to contracts to buy or sell a non-financial item that can be settled net in cash or 
+another financial instrument, or by exchanging financial instruments, as if the contracts were financial 
+instruments, with the exception of contracts that were entered into, and continue to be held, for the 
+purpose of the receipt or delivery of a non-financial item, in accordance with the entity’s expected 
+purchase, sale or usage requirements (see section 3 above). 
+The proposed amendments provide guidance for the application of the own-use exception to contracts that 
+meet the scoping characteristics outlined above in section 3.3.7.B. Where the scoping characteristics are 
+met, when assessing if the own-use exception is applicable, an entity considers at inception of the contract, 
+and at each subsequent reporting date: 
+• 
+The purpose, design and structure of the contract, including the expected delivery of electricity over 
+the remaining duration of the contract. 
+And 
+• 
+The reasons for past and expected sales of unused renewable electricity within a short period after 
+delivery, and whether such sales are in accordance with the entity’s expected purchase or usage 
+requirements. 
+ 
+25 
+Application of the ‘Own-Use’ Exception in the Light of Current Market and Geopolitical Questions (IFRS 9 Financial Instruments); 
+IFRIC update June 2023; agenda paper 2 
+26 
+Application of the Own-use Exception to Some Physical Power Purchase Agreements-Exploring possible narrow-scope 
+amendments to IFRS 9; IASB update July 2023; Agenda Paper 12A 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3432 
+A sale of unused renewable electricity is in accordance with the entity’s expected purchase or usage 
+requirements only if all the criteria below are met: 
+• 
+The sale arises from the entity’s exposure to volume risk, giving rise to mismatches between the 
+renewable electricity delivered, and the entity’s electricity demand at the time of delivery. 
+• 
+The design and operation of the market in which the electricity is sold results in the entity not having 
+the practical ability to determine the timing, or price, of the sale of unused electricity. 
+And 
+• 
+The entity expects to purchase at least an equivalent volume of electricity, within a reasonable time 
+(for example, one month) after the sale, i.e., the entity remains a net-purchaser over a reasonable 
+amount of time. 
+When assessing if the volumes expected to be delivered are in accordance with the entity’s expected 
+purchase or usage requirements, an entity doesn’t need to make detailed estimates for extended periods in 
+the future. Rather, an entity may extrapolate projections from reasonable and supportable information 
+available at the reporting date. 
+The IASB’s objective here is to align the proposals with the underlying principle in IFRS 9 that the distinction 
+when assessing the own-use exception is management’s intention (evidenced by facts and circumstances) 
+when entering into a contract. Importantly, the IASB notes that if an entity enters into a contract that is 
+expected to continuously deliver more electricity than the entity needs, such an ‘oversized’ contract would 
+not be in accordance with the entity’s expected usage requirements. 
+The net-purchaser criteria could allow application of the own-use exemption when an entity has frequent and 
+substantial sales during the contract, but only on condition that it remains a net-purchaser over a reasonable 
+amount of time. The latter may preclude contracts for renewable electricity set-up for sites on a ramp-up 
+phase where structural excesses are expected over a time horizon which is longer than a reasonable amount 
+of time. In such cases, applying hedge accounting to a wider scope of forecasted purchases (involving other 
+sites) may be an option to reduce the volatility arising from fair valuing the contract. 
+The proposed amendments to IFRS 9 balance the need to ensure that the new requirements uphold the 
+underlying principles behind the own-use exception while reflecting management’s intention in entering into 
+the contract. Ongoing assessment based on reasonable and supportable information available at the 
+reporting date about changes in the entity’s purchase or usage requirements aim to ensure that contracts 
+are reclassified as derivatives in a timely manner if the own-use exception requirements are no longer met. 
+3.3.7.D 
+Transition and effective date 
+The proposed effective date for the amendments is not stated in the exposure draft. However, in the 
+questions for comment,27 the IASB has asked whether an effective date of ‘annual reporting periods 
+beginning on or after 1 January 2025’ would be appropriate and if it would allow entities enough time to 
+prepare to apply the amendments. They also indicate that early adoption will be permitted. 
+Transition for the amendments to the own-use requirements will be retrospective. However, an entity is not 
+required to restate prior periods and it is only permitted to do so if it can be done without using hindsight. If 
+an entity does not restate prior periods, it must recognise any difference between the previous carrying 
+amount, and the carrying amount at the beginning of the reporting period in which the amendments are 
+first applied, in opening retained earnings of that reporting period. 
+ 
+27 
+IASB proposes amendments for renewable electricity contracts. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3433 
+Appendix A - Index of Illustrations 
+Illustration 1-1: 
+Does contingent consideration arising from the sale of a business meet the 
+definition of a financial instrument? 
+3396 
+Illustration 2-1: 
+Rainfall contract - derivative financial instrument or insurance contract? 
+3403 
+Illustration 2-2: 
+Guarantee issued over a lessor’s receipts under a lease contract 
+3406 
+Illustration 2-3: 
+Is a loan commitment to a special purpose entity (SPE) scoped out of IFRS 9 
+if the substance of the arrangement is different from a normal loan 
+commitment? 
+3410 
+Illustration 2-4: 
+Identifying classes of loan commitment 
+3411 
+Illustration 2-5: 
+Performance guarantees with an indemnity clause 
+3412 
+Illustration 3-1: 
+Determining whether a copper forward is within the scope of IFRS 9 
+3423 
+Illustration 3-2: 
+Prepayment of a commodity that is readily convertible to cash 
+3423 
+Illustration 3-3: 
+Determining whether a put option on an office building is within the scope 
+of IFRS 9 
+3428 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3434 
+Appendix B - Index of Frequently asked questions 
+Question 1-1: 
+What constitutes a contract in the context of gaming transactions? 
+3395 
+Question 1-2: 
+Cash deposits in respect of returnable containers 
+3398 
+Question 2-1: 
+Which standard applies to impairment of long-term interests in an associate 
+or joint venture that, in substance, form part of the net investment in the 
+associate or joint venture? 
+3401 
+Question 2-2: 
+How to account for a commodity loan transaction? 
+3418 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3435 
+Appendix C - Defined terms 
+Extract from IFRS standards - Definitions 
+contract assets 
+Those rights that IFRS 15 Revenue from Contracts with Customers 
+specifies are accounted for in accordance with this Standard for the 
+purposes of recognising and measuring impairment gains or losses. 
+[IFRS 9 Appendix A]. 
+credit risk 
+The risk that one party to a financial instrument will cause a financial loss 
+for the other party by failing to discharge an obligation. [IFRS 7 Appendix A]. 
+derivative 
+A financial instrument or other contract within the scope of this 
+Standard with all three of the following characteristics. 
+(a) its value changes in response to the change in a specified interest 
+rate, financial instrument price, commodity price, foreign 
+exchange rate, index of prices or rates, credit rating or credit 
+index, or other variable, provided in the case of a non-financial 
+variable that the variable is not specific to a party to the contract 
+(sometimes called the ‘underlying’). 
+(b) it requires no initial net investment or an initial net investment 
+that is smaller than would be required for other types of contracts 
+that would be expected to have a similar response to changes in 
+market factors. 
+(c) it is settled at a future date. [IFRS 9 Appendix A]. 
+dividends 
+Distributions of profits to holders of equity instruments in proportion 
+to their holdings of a particular class of capital. [IFRS 9 Appendix A]. 
+equity instrument 
+An equity instrument is any contract that evidences a residual interest 
+in the assets of an entity after deducting all of its liabilities. [IAS 32.11]. 
+fair value 
+The price that would be received to sell an asset or paid to transfer a 
+liability in an orderly transaction between market participants at the 
+measurement date. [IFRS 13 Appendix A]. 
+financial asset 
+A financial asset is any asset that is: 
+(a) cash; 
+(b) an equity instrument of another entity; 
+(c) a contractual right: 
+(i) to receive cash or another financial asset from another 
+entity; or 
+(ii) to exchange financial assets or financial liabilities with 
+another entity under conditions that are potentially 
+favourable to the entity; or 
+(d) a contract that will or may be settled in the entity’s own equity 
+instruments and is: 
+(i) a non-derivative for which the entity is or may be obliged to 
+receive a variable number of the entity’s own equity 
+instruments; or 
+(ii) a derivative that will or may be settled other than by the 
+exchange of a fixed amount of cash or another financial 
+asset for a fixed number of the entity’s own equity 
+instruments. For this purpose the entity’s own equity 
+instruments do not include puttable financial instruments 
+classified as equity instruments in accordance with 
+paragraphs 16A and 16B, instruments that impose on the 
+entity an obligation to deliver to another party a pro rata 
+share of the net assets of the entity only on liquidation and 
+are classified as equity instruments in accordance with 
+paragraphs 16C and 16D, or instruments that are contracts 
+for the future receipt or delivery of the entity’s own equity 
+instruments. [IAS 32.11]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3436 
+financial guarantee contract 
+A contract that requires the issuer to make specified payments to 
+reimburse the holder for a loss it incurs because a specified debtor fails 
+to make payment when due in accordance with the original or modified 
+terms of a debt instrument. [IFRS 9 Appendix A]. 
+financial instrument 
+A financial instrument is any contract that gives rise to a financial 
+asset of one entity and a financial liability or equity instrument of 
+another entity. [IAS 32.11]. 
+financial liability 
+A financial liability is any liability that is: 
+(a) a contractual obligation: 
+(i) to deliver cash or another financial asset to another entity; 
+or 
+(ii) to exchange financial assets or financial liabilities with 
+another entity under conditions that are potentially 
+unfavourable to the entity; or 
+(b) a contract that will or may be settled in the entity’s own equity 
+instruments and is: 
+(i) a non-derivative for which the entity is or may be obliged to 
+deliver a variable number of the entity’s own equity 
+instruments; or 
+(ii) a derivative that will or may be settled other than by the 
+exchange of a fixed amount of cash or another financial 
+asset for a fixed number of the entity’s own equity 
+instruments. For this purpose, rights, options or warrants to 
+acquire a fixed number of the entity’s own equity 
+instruments for a fixed amount of any currency are equity 
+instruments if the entity offers the rights, options or 
+warrants pro rata to all of its existing owners of the same 
+class of its own non-derivative equity instruments. Also, for 
+these purposes the entity’s own equity instruments do not 
+include puttable financial instruments that are classified as 
+equity instruments in accordance with paragraphs 16A and 
+16B, instruments that impose on the entity an obligation to 
+deliver to another party a pro rata share of the net assets of 
+the entity only on liquidation and are classified as equity 
+instruments in accordance with paragraphs 16C and 16D, or 
+instruments that are contracts for the future receipt or 
+delivery of the entity’s own equity instruments. 
+As an exception, an instrument that meets the definition of 
+a financial liability is classified as an equity instrument if it 
+has all the features and meets the conditions in paragraphs 
+16A and 16B or paragraphs 16C and 16D. [IAS 32.11]. 
+financial liability at fair 
+value through profit or loss 
+A financial liability that meets one of the following conditions: 
+(a) it meets the definition of held for trading. 
+(b) upon initial recognition it is designated by the entity as at fair 
+value through profit or loss in accordance with paragraph 4.2.2 or 
+4.3.5. 
+(c) it is designated either upon initial recognition or subsequently as 
+at fair value through profit or loss in accordance with paragraph 
+6.7.1. [IFRS 9 Appendix A]. 
+finance lease 
+A lease that transfers substantially all the risks and rewards incidental 
+to ownership of an underlying asset. [IFRS 16 Appendix A]. 
+firm commitment 
+A binding agreement for the exchange of a specified quantity of resources 
+at a specified price on a specified future date or dates. [IFRS 9 Appendix A]. 
+forecast transaction 
+An uncommitted but anticipated future transaction. [IFRS 9 Appendix A]. 
+
+
+International GAAP® 2025 
+Chapter 41 
+Financial instruments: Definitions and scope 
+3437 
+lease 
+A contract, or part of a contract, that conveys the right to use an asset 
+(the underlying asset) for a period of time in exchange for 
+consideration. [IFRS 16 Appendix A]. 
+lessee 
+An entity that obtains the right to use an underlying asset for a period 
+of time in exchange for consideration. [IFRS 16 Appendix A]. 
+lessor 
+An entity that provides the right to use an underlying asset for a 
+period of time in exchange for consideration. [IFRS 16 Appendix A]. 
+loans payable 
+Loans payable are financial liabilities, other than short-term trade 
+payables on normal credit terms. [IFRS 7 Appendix A]. 
+operating lease 
+A lease that does not transfer substantially all the risks and rewards 
+incidental to ownership of an underlying asset. [IFRS 16 Appendix A]. 
+puttable instrument 
+A puttable instrument is a financial instrument that gives the holder 
+the right to put the instrument back to the issuer for cash or another 
+financial asset or is automatically put back to the issuer on the 
+occurrence of an uncertain future event or the death or retirement 
+of the instrument holder. [IAS 32.11]. 
+  
+ 

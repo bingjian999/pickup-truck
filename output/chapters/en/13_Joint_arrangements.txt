@@ -1,0 +1,3058 @@
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+910 
+ 
+Chapter 13 
+Joint arrangements 
+ 
+Contents 
+Overview 
+913 
+1 
+Introduction 
+914 
+2 
+Objective and scope of IFRS 11 
+915 
+2.1 
+Objective 
+915 
+2.2 
+Scope 
+915 
+2.2.1 
+Application by venture capital organisations and similar entities 
+915 
+2.2.2 
+Application to joint arrangements held for sale 
+915 
+2.2.3 
+Accounting by a joint operation 
+915 
+3 
+Joint arrangement 
+917 
+3.1 
+Unit of account 
+917 
+4 
+Joint control 
+919 
+4.1 
+Assessing control 
+920 
+4.1.1 
+Sequential activities 
+920 
+4.2 
+Rights to control collectively 
+921 
+4.2.1 
+Protective rights, including some veto rights 
+921 
+4.2.2 
+Potential voting rights and joint control 
+922 
+4.2.3 
+Other evidence of joint control 
+922 
+4.2.4 
+Delegated decision-making 
+922 
+4.2.5 
+Related parties and de facto agents 
+923 
+4.2.6 
+Role of a government 
+923 
+4.3 
+Unanimous consent 
+923 
+4.3.1 
+Arrangements involving parties without joint control 
+924 
+4.3.2 
+Ultimate voting authority (tie-breakers) 
+924 
+4.3.3 
+Arbitration 
+925 
+4.3.4 
+Statutory mechanisms 
+925 
+4.4 
+Other practical issues with assessing joint control 
+925 
+4.4.1 
+Undivided interests or a joint arrangement 
+925 
+4.4.2 
+Evaluating multiple agreements together 
+926 
+5 
+Classification of a joint arrangement: joint operations and joint ventures 
+927 
+5.1 
+Separate vehicle or not 
+929 
+5.2 
+Legal form of the separate vehicle 
+929 
+5.3 
+Contractual terms 
+930 
+5.3.1 
+Guarantees 
+932 
+5.3.2 
+Contractual terms upon liquidation or dissolution of joint arrangement 
+932 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+911 
+5.4 
+Other facts and circumstances 
+932 
+5.4.1 
+How and why particular facts and circumstances create rights and obligations 
+933 
+5.4.2 
+Facts and circumstances indicating rights to assets 
+935 
+5.4.2.A 
+Output not taken in proportion to ownership 
+935 
+5.4.2.B 
+Substantially all of the output 
+935 
+5.4.3 
+Facts and circumstances indicating obligations for liabilities 
+936 
+5.4.3.A 
+Assessing the obligation related to cash calls or capital contributions 
+936 
+5.4.3.B 
+Assessing the obligation to purchase all the output produced by the joint 
+arrangement 
+937 
+5.4.4 
+Comprehensive example illustrating evaluation of facts and circumstances 
+937 
+5.5 
+Illustrative examples accompanying IFRS 11 
+938 
+6 
+Accounting for joint operations 
+944 
+6.1 
+Joint arrangements not structured through a separate vehicle 
+944 
+6.2 
+Accounting for rights and obligations 
+944 
+6.3 
+Determining the relevant IFRS accounting standard 
+945 
+6.3.1 
+Right of use 
+945 
+6.3.2 
+Liability for entire balance of certain liabilities 
+945 
+6.3.3 
+Jointly and severally liable 
+946 
+6.3.4 
+Obligation to reimburse other parties 
+946 
+6.3.5 
+Sales to other joint operators 
+946 
+6.3.6 
+Sales by a joint operation to a joint operator 
+946 
+6.4 
+Interest in a joint arrangement without joint control 
+947 
+6.5 
+Joint operation with a party without joint control 
+947 
+6.6 
+Transactions between a joint operator and a joint operation 
+947 
+6.7 
+Accounting for a joint operation in separate financial statements 
+948 
+7 
+Accounting for joint ventures 
+949 
+7.1 
+Interest in a joint venture without joint control 
+949 
+7.2 
+Contributions of non-monetary assets to a joint venture 
+949 
+7.3 
+Accounting for a joint venture in separate financial statements 
+949 
+7.4 
+Accounting by the joint venture in its financial statements 
+950 
+8 
+Continuous assessment 
+951 
+8.1 
+When to reassess under IFRS 11 
+951 
+8.1.1 
+Changes in classification 
+951 
+8.2 
+Changes in ownership of a joint venture that constitutes a business 
+952 
+8.2.1 
+Acquisition of an interest in a joint venture 
+952 
+8.2.2 
+Gaining control over a former joint venture 
+952 
+8.2.3 
+Former subsidiary becomes a joint venture 
+953 
+8.2.4 
+Joint venture becomes an associate (or vice versa) 
+953 
+8.2.5 
+Joint venture becomes a financial asset (or vice versa) 
+953 
+8.2.6 
+Disposal of its interest in a joint venture 
+954 
+8.2.7 
+Interest in a joint venture held for sale 
+954 
+8.3 
+Changes in ownership of a joint operation that is a business 
+954 
+8.3.1 
+Acquisition of an interest in a joint operation 
+954 
+8.3.2 
+Obtaining control or joint control over a joint operation that is a business 
+955 
+8.3.3 
+Former subsidiary becomes a joint operation 
+955 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+912 
+8.3.4 
+Joint operation becomes an associate or a financial instrument and vice versa 
+955 
+8.3.5 
+Disposal of interest in a joint operation 
+955 
+8.3.6 
+Interest in a joint operation held for sale 
+956 
+8.4 
+Changes in ownership of a joint arrangement that does not constitute a business 
+956 
+8.4.1 
+Joint operator obtains control or parties without joint control obtain joint control 
+956 
+8.5 
+Changes in classification of a joint arrangement 
+956 
+8.5.1 
+Equity method joint venture becomes a joint operation and vice versa 
+956 
+8.5.2 
+The rights to assets or obligations for liabilities of a joint operation change 
+956 
+9 
+Disclosures 
+957 
+10 Future developments 
+958 
+Appendix A - Index of Illustrations 
+959 
+Appendix B - Index of Frequently asked questions 
+960 
+Appendix C - Defined terms 
+961 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+913 
+Overview 
+This chapter deals with joint arrangements. An entity might pursue an economic activity with another 
+entity (or entities) and share decision-making relating to those activities. IFRS 11 Joint Arrangements 
+applies when the arrangement establishes joint control over an activity between two or more of the 
+parties involved. 
+IFRS 11 classifies joint arrangements into one of two types: joint operations and joint ventures. Parties that 
+jointly control a joint operation have rights to the assets and obligations for the liabilities of the operation. 
+By contrast, parties that jointly control a joint venture have rights to the net assets of the arrangement. 
+The accounting for joint operations is set out in IFRS 11 and involves the joint operator recognising the 
+assets it has a right to and the obligations it incurs as a result of the joint operation and its share of the joint 
+operation’s assets held and liabilities incurred jointly. It also recognises its share of revenue and expenses. 
+An investor that jointly controls a joint venture applies the equity method of accounting to its investment as 
+described in IAS 28 Investments in Associates and Joint Ventures, which is discussed in Chapter 12. 
+What you need to know 
+• 
+A joint arrangement is classified as either a joint operation or a joint venture; this determination 
+might require significant judgement depending on the nature of the arrangement. 
+• 
+If facts and circumstances change, a joint operator/joint venturer in a joint arrangement reassesses 
+whether it still has joint control of the arrangement and whether the classification of the joint 
+arrangement has changed. 
+• 
+The equity method of accounting is applied to investments in joint ventures in the consolidated 
+financial statements of the joint venturers. 
+• 
+A joint venturer has an accounting policy choice for the measurement of joint ventures in its 
+separate financial statements at cost, in accordance with IFRS 9 Financial Instruments or using the 
+equity method. 
+• 
+In both consolidated and separate financial statements, a joint operator recognises its share of 
+assets, liabilities, revenue and expenses, each of which are accounted for by applying the relevant 
+IFRS accounting standard. 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+914 
+1 
+Introduction 
+A joint arrangement is an arrangement that has the following characteristics: 
+• 
+The parties are bound by a contractual arrangement. 
+• 
+The contractual arrangement gives two or more of those parties joint control of the arrangement. [IFRS 11.5]. 
+A joint arrangement is classified as either a joint operation or a joint venture. [IFRS 11.6]. Joint operators 
+have rights to the assets of the operation and obligations for its liabilities. Joint venturers have rights to 
+the net assets of the arrangement. [IFRS 11 Appendix A, IFRS 11.BC24]. 
+The terms ‘joint arrangement’, ‘joint control’, ‘joint operation’ and ‘joint venture’ are specifically defined by 
+IFRS 11 (see Appendix C below) and have important accounting consequences. However, these terms are 
+often used loosely in practice and might appear in legal documents and public statements by management 
+with a different meaning from the IFRS 11 terms. 
+How we see it 
+No matter the terminology used to describe the arrangement, or its purpose, management needs to 
+evaluate the terms of the arrangement, and the relevant facts and circumstances, to determine whether 
+it is a joint arrangement as defined in IFRS 11. 
+ 
+ FASB differences 
+IFRS 11 is not converged with US GAAP. The characteristics of a joint venture in US GAAP are similar to 
+those in IFRS accounting standard, but certain differences exist. Key differences are highlighted in this 
+section, but this is not an exhaustive list of possible differences. Further detail can be found in the US 
+GAAP/IFRS accounting differences identifier tool.1 
+• 
+Joint control is defined in IFRS 11, but not in US GAAP. In contrast to US GAAP, joint control can be 
+established through means other than an equity interest. 
+• 
+US GAAP does not contain the concept of a joint operation, although proportionate consolidation is 
+permitted to account for interests in unincorporated entities in certain industries. Proportionate 
+consolidation is not permitted by IFRS 11, however, a joint operator recognises its share of assets, 
+liabilities, revenue and expenses (a methodology similar to proportionate consolidation). 
+• 
+In US GAAP, joint ventures are entities whose operations and activities are jointly controlled by their 
+equity investors and have certain other characteristics. In IFRS accounting standards, joint ventures 
+are separate vehicles and the joint venturers have rights to the vehicle’s net assets. 
+• 
+In IFRS accounting standards, joint venturers cannot have direct rights and obligations with respect 
+to the underlying assets and liabilities of the joint venture, but this is not relevant to the 
+determination of whether an investment is a joint venture under US GAAP. 
+• 
+Joint venturers generally measure their investment using the equity method of accounting under 
+both IFRS and US GAAP. However, US GAAP provides an accounting policy choice to measure 
+joint ventures at fair value, whereas this election is restricted to certain entities under IFRS 
+accounting standards.  
+ 
+1 
+US GAAP/IFRS accounting differences identifier tool, EY, December 2024, available on ey.com. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+915 
+2 
+Objective and scope of IFRS 11 
+2.1 
+Objective 
+The objective of IFRS 11 is to establish principles for financial reporting by entities that have an interest in 
+a joint arrangement. [IFRS 11.1]. As a result, the standard defines and provides guidance on: 
+• 
+What a joint arrangement is and when joint control is present (see sections 3 and 4 below). 
+• 
+The two types of joint arrangements and how to classify an arrangement (see section 5 below). 
+• 
+How to account for each type of joint arrangement in the financial statements of a party to a joint 
+arrangement (see sections 6, 7 and 8 below). [IFRS 11.2]. 
+2.2 
+Scope 
+IFRS 11 applies to all entities that are a party to a joint arrangement. [IFRS 11.3]. A ‘party to a joint 
+arrangement’ is defined as “An entity that participates in a joint arrangement, regardless of whether that 
+entity has joint control of the arrangement.” [IFRS 11 Appendix A]. Therefore, an entity could be required to 
+apply IFRS 11 to an arrangement even though it does not have joint control of it (see section 6.4 below). 
+2.2.1 
+Application by venture capital organisations and similar entities 
+IFRS 11 applies to all entities that are party to a joint arrangement, including venture capital organisations, 
+mutual funds, unit trusts, investment-linked insurance funds and similar entities (referred to hereafter as 
+‘venture capital organisations’). However, venture capital organisations can choose to measure 
+investments in joint ventures at fair value under the measurement exemption in IAS 28 (see Chapter 12 at 
+section 3.3), but remain subject to the disclosure requirements of IFRS 12 Disclosure of Interests in Other 
+Entities (see Chapter 14 at section 5). [IFRS 11.BC15-BC18]. 
+A venture capital organisation that is an ‘investment entity’ as defined in IFRS 10 Consolidated Financial 
+Statements and holds investments in subsidiaries and associates/joint ventures measures its investments in 
+associates/ joint ventures at fair value through profit or loss. [IFRS 10.B85L(b)]. Investment entities are 
+discussed in Chapter 7 at section 10. 
+2.2.2 
+Application to joint arrangements held for sale 
+As discussed in section 8.2.7 below, an investment in a joint venture (or portion thereof) that is classified 
+as held for sale under IFRS 5 Non-current Assets Held for Sale and Discontinued Operations is accounted for 
+under IFRS 5. [IAS 28.20]. Similarly, a joint operation that is held for sale under IFRS 5 is accounted for under 
+IFRS 5, see section 8.3.6 below. [IFRS 11.21, IFRS 5.2]. 
+2.2.3 
+Accounting by a joint operation 
+The scope of IFRS 11 does not address the accounting by the joint operation itself. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+916 
+Frequently asked questions 
+Question 2-1: 
+How does a joint operation that is a separate vehicle account for the assets and 
+liabilities of the joint operation in its financial statements? 
+In March 2015, the IFRS IC published its agenda decision2 on the accounting by a joint operation that is a 
+separate vehicle in its financial statements. Joint operators recognise their share of assets and liabilities 
+held by the joint operation, which leads to the question of whether those same assets and liabilities are 
+also recognised in the financial statements of the joint operation itself. The IFRS IC decided not to add 
+the issue to its agenda, because the following guidance exists: 
+• 
+IFRS 11 applies only to the accounting by the joint operators and not to the accounting by a 
+separate vehicle that is a joint operation. 
+• 
+The financial statements of the separate vehicle would therefore be prepared in accordance with 
+applicable IFRS accounting standards. Note that IFRS 3 Business Combinations does not apply to 
+“the accounting for the formation of a joint arrangement in the financial statements of the joint 
+arrangement itself.” (see Chapter 10 at section 2.2.1). [IFRS 3.2(a)]. 
+• 
+Company law often requires a legal entity or separate vehicle to prepare financial statements. 
+Consequently, the financial statements would include the assets, liabilities, revenues and expenses 
+of that legal entity or separate vehicle. The determination of which assets and liabilities to recognise 
+and their measurement will depend on rights and obligations of the separate vehicle and specific 
+facts and circumstances. 
+ 
+2 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+917 
+3 
+Joint arrangement 
+IFRS 11 defines a joint arrangement as “An arrangement of which two or more parties have joint control.” 
+[IFRS 11 Appendix A]. 
+The contractual arrangement that binds the parties together is often, but not always, in writing. Unwritten 
+agreements are rare in practice. Laws can also create enforceable arrangements, with or without a 
+contract. [IFRS 11.B2]. A joint arrangement can be structured through a separate vehicle (see section 5.1 
+below). That entity’s articles, charter or by-laws also might include aspects of the contractual arrangement. 
+[IFRS 11.B3]. 
+Contractual arrangements generally specify the following: 
+• 
+Purpose, activity and duration of the joint arrangement 
+• 
+Appointment of members of the board of directors (or equivalent governing body) 
+• 
+Decision-making processes 
+• 
+Matters requiring decisions from the parties 
+• 
+Voting rights of the parties 
+And 
+• 
+Required level of agreement for those matters 
+• 
+Capital or other contribution requirements 
+• 
+Sharing of assets, liabilities, revenues, expenses or profit or loss relating to the joint arrangement 
+[IFRS 11.B4] 
+How we see it 
+Understanding the terms of the contractual arrangement is crucial in determining whether joint control 
+exists (see section 4 below) and, if so, in deciding whether the joint arrangement is a joint operation or 
+joint venture (see section 5 below).  
+In addition, a contract to receive goods or services might be entered into by a joint arrangement or on 
+behalf of a joint arrangement. The terms and conditions of the joint arrangement could impact how the 
+contract to receive goods or services is accounted for. See Chapter 24 at section 3.1.1. 
+3.1 
+Unit of account 
+The unit of account of a joint arrangement is the activity that two or more parties have agreed to control 
+jointly. A party to the arrangement assesses its rights to the assets and obligations for the liabilities relating to 
+that activity, regardless of whether the activity is conducted in a separate vehicle. [IFRS 11.BC20, IFRS 11.BC35]. 
+The purpose and design of an arrangement might provide insight into how to identify the unit of account. 
+For example, a framework agreement can establish multiple joint arrangements of different types. 
+[IFRS 11.18]. The possibility also exists that, within the same separate vehicle, parties to the arrangement 
+might undertake different activities in which they have different rights to the assets, and obligations for the 
+liabilities, resulting in different types of joint arrangements conducted within the same separate vehicle. 
+The IASB believes such situations would be rare in practice. [IFRS 11.BC36]. Scenarios in which the activity is 
+larger than a single entity or separate vehicle are referred to as ‘layered agreements’ in this chapter and 
+are discussed in Illustration 4-9 in section 4.4.2 below. 
+Illustration 3-1 below describes a case in which a master agreement is accounted for as several distinct 
+joint arrangements, each of which is classified as either a joint operation or a joint venture. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+918 
+Illustration 3-1: 
+Master agreement for manufacturing and distribution 
+A single contract between two parties specifies the terms and conditions related to manufacturing and 
+distribution activities and dictates how these activities are carried out in various jurisdictions through several 
+entities. The activities are carried out concurrently and not sequentially (see section 4.1.1 below). In each 
+entity, the parties jointly control the relevant activities. 
+ 
+The parties determine that the master agreement contains several discrete joint arrangements (one for each 
+activity in each jurisdiction, which corresponds to an entity). If the terms and conditions relating to each 
+activity are distinct for each separate vehicle then each entity would be classified as a joint venture or joint 
+operation in accordance with IFRS 11. 
+In some cases, multiple contractual agreements between parties relate to the same activities, which 
+would need to be analysed together to determine whether a joint arrangement exists and, if so, the type 
+of joint arrangement. 
+In other cases, there might be a single master agreement between two parties that covers several different 
+activities. Some of these activities might be controlled solely by one of the two parties, while the parties 
+might jointly control other activities. 
+How we see it 
+IFRS 11 does not define ‘activity’. Therefore, careful analysis is required to determine the unit of account 
+and to assess whether any of the arrangements are jointly controlled. 
+Illustration 3-2 below illustrates a contract that contains multiple agreements, only some of which are joint 
+arrangements. 
+Illustration 3-2: 
+Agreements with control and joint control 
+Assume the same information as in Illustration 3-1 above with the following variation: One party has the ability 
+to direct the manufacturing activities of the entity in Country A and the other party to direct those in Country 
+B. As in Illustration 3-1, in Countries C and D the parties jointly control the relevant activities. 
+In this case, each party controls its respective entities in Countries A and B and therefore these entities are not 
+joint arrangements. The distribution activities conducted in the entities in Countries C and D are still joint 
+arrangements and each is classified as either a joint operation or a joint venture. See Illustration 5-6 in 
+section 5.5 below for a case when two parties have two joint arrangements and each joint arrangement relates 
+to a specific activity. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+919 
+4 
+Joint control 
+A crucial element in a joint arrangement is joint control. 
+Joint control is defined as: [IFRS 11.7, IFRS 11 Appendix A] 
+Extract from IFRS 11 
+7 
+Joint control is the contractually agreed sharing of control of an arrangement, which exists 
+only when decisions about the relevant activities require the unanimous consent of the 
+parties sharing control. 
+[IFRS 11.7]. 
+As discussed in section 2.2 above, not all the parties to the joint arrangement need to have joint control of 
+the relevant activities for the arrangement to be classified as a joint arrangement. Therefore, IFRS 11 
+distinguishes between parties that have joint control of a joint arrangement and those that do not. 
+[IFRS 11.11]. A joint operator and a joint venturer refer to parties that have joint control of a joint operation 
+and joint venture respectively. [IFRS 11 Appendix A]. IFRS 11 does not explicitly define a party that participates 
+in, but does not have joint control of, a joint arrangement. We refer to these parties as ‘parties without joint 
+control’. IFRS 11 specifies the accounting for parties without joint control (see sections 6.4 and 7.1 below). 
+The following flowchart provided in IFRS 11 illustrates how a party to a joint arrangement evaluates 
+whether joint control exists. [IFRS 11.B10]. 
+ 
+† 
+The reference to ‘a group of the parties’ refers to a situation in which there is joint control between two or more parties, but there 
+are other parties to the joint arrangement that do not participate in joint control. 
+We discuss key aspects of joint control within this chapter, as follows: 
+• 
+Contractual arrangement - See section 3 above 
+• 
+Assessing control - See section 4.1 below 
+• 
+Rights to control collectively - See section 4.2 below 
+• 
+Unanimous consent - See section 4.3 below 
+• 
+Other practical issues with assessing joint control - See section 4.4 below 
+All facts and circumstances are considered when assessing whether all the parties, or a group of the 
+parties, have joint control of an arrangement and judgement is required. [IFRS 11.12]. 
+In some cases, it will be clear that there is no collective control, or no unanimous consent. If neither 
+criterion is met, the activity is not a joint arrangement. For example, an advertising cost-sharing agreement 
+between a retailer and a wholesaler that does not establish joint control over the advertising activities 
+would not meet the definition of a joint arrangement. 
+How we see it 
+We believe that it would be rare for a publicly listed entity to be subject to joint control, since it would 
+be unusual to have a contractual agreement among all the shareholders to direct the activities of such 
+an entity. 
+When it is not clear whether joint control exists, a party to a joint arrangement needs to exercise judgement to 
+determine whether there is joint control. [IFRS 11.12]. In such cases, IFRS 12 requires an entity to disclose 
+information about the significant judgements and assumptions made (see Chapter 14 at section 3). [IFRS 12.7]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+920 
+When an arrangement is outside the scope of IFRS 11, an entity accounts for its interest in the 
+arrangement in accordance with relevant IFRS accounting standard, such as IFRS 10, IAS 28 or IFRS 9 
+Financial Instruments. [IFRS 11.B11]. 
+4.1 
+Assessing control 
+The first step in evaluating joint control is to assess whether the contractual arrangement gives a single 
+party control of the arrangement. [IFRS 11.10]. The IASB believes that the definition of control and the 
+application requirements to assess control in IFRS 10 will assist an entity in determining whether it 
+unilaterally controls an arrangement or whether it jointly controls an arrangement along with other parties. 
+[IFRS 11.BC14]. Therefore, if one of the parties to the arrangement is exposed, or has rights, to variable 
+returns from its involvement in the arrangement and has the ability to affect those returns through its 
+power, it controls the arrangement and joint control is not possible. [IFRS 11.10, IFRS 11.B5]. 
+In assessing control, the following factors within IFRS 10 are considered: 
+• 
+The purpose and design of the arrangement (see Chapter 7 at section 3.2) 
+• 
+What the relevant activities of the arrangement are and how decisions about those activities are made 
+(see Chapter 7 at section 4.1) 
+• 
+Whether the rights of the party give it the current ability to direct the relevant activities (see Chapter 7 
+at sections 4.2 to 4.6) 
+• 
+Whether the party is exposed, or has rights, to variable returns from its involvement with the 
+arrangement (see Chapter 7 at section 5) 
+• 
+Whether the party has the ability to use its power over the investee to affect the amount of its returns 
+(see Chapter 7 at section 6). [IFRS 10.B3]. 
+4.1.1 
+Sequential activities 
+The determination of the relevant activities of an arrangement might be complicated when the 
+arrangement includes different activities that occur at different times. For example, some joint 
+arrangements operate in sequential production phases, such as those in the mining, construction, real 
+estate, and life-sciences industries. These arrangements generally fall into two types of situations: 
+• 
+Parties have rights to direct different activities 
+Or 
+• 
+Parties collectively direct all of the activities 
+In the first situation, each party assesses whether it has the rights to direct the activities that most 
+significantly affect returns, and therefore whether it controls the arrangement (see Chapter 7 at 
+section 4.1.1). This assessment is reconsidered if relevant facts or circumstances change. [IFRS 11.13]. 
+Illustrations 4-1 and 4-2 below illustrate the above principles. They are based on an example taken from 
+IFRS 10. [IFRS 10.B13 Example 1]. 
+Illustration 4-1: 
+Directing sequential activities separately 
+Companies A and B enter into an arrangement, structured through a separate vehicle, to develop and 
+market a medical product. A is responsible for developing and obtaining regulatory approval for the medical 
+product. This includes having the unilateral ability to make all decisions relating to the development of the 
+product and to obtain regulatory approval. Once the regulator has approved the product, B will manufacture 
+and market it and has the unilateral ability to make all decisions about the manufacturing and marketing of 
+the project. All of the activities - developing and obtaining regulatory approval as well as manufacturing and 
+marketing of the medical product - are relevant activities. A and B determine that the activity that most 
+significantly affects returns at the time of the assessment is the developing and obtaining regulatory 
+approval of the medical product. 
+In Illustration 4-1 above, there is no joint control because the parties to the arrangement do not collectively 
+direct the activity that most significant affects returns of the arrangement. Rather, one party directs each 
+activity. However, if the fact pattern were different such that they collectively directed that activity, then 
+there would be joint control. This is described in Illustration 4-2 below. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+921 
+Illustration 4-2: 
+Directing sequential activities jointly 
+Companies A and B enter into an arrangement, structured through a separate vehicle, to develop and market a 
+medical product. A and B are responsible for developing and obtaining regulatory approval for the medical 
+product. The arrangement establishes joint control over the decisions relating to the development of the 
+product and to obtain regulatory approval. Once the regulator has approved the product, B will manufacture 
+and market it and have the unilateral ability to make all decisions about the manufacturing and marketing of 
+the project. All of the activities - developing and obtaining regulatory approval as well as manufacturing and 
+marketing of the medical product - are relevant activities. A and B determine that the activity that most 
+significantly affects returns at the time of the assessment is the developing and obtaining regulatory approval 
+of the medical product. 
+4.2 
+Rights to control collectively 
+Joint control can exist only when the parties collectively control the arrangement. [IFRS 11.B5]. 
+Extract from IFRS 11 
+8 
+An entity that is a party to an arrangement shall assess whether the contractual arrangement 
+gives all the parties, or a group of the parties, control of the arrangement collectively. All the 
+parties, or a group of the parties, control the arrangement collectively when they must act 
+together to direct the activities that significantly affect the returns of the arrangement (ie the 
+relevant activities). 
+Acting together to direct the relevant activities is referred to as ‘collective control’ and is discussed further 
+in the following sections. [IFRS 11.8]. 
+4.2.1 
+Protective rights, including some veto rights 
+IFRS 10 defines protective rights as “Rights designed to protect the interest of the party holding those 
+rights without giving that party power over the entity to which those rights relate”. [IFRS 10 Appendix A]. 
+Protective rights relate to fundamental changes to the activities of the arrangement or apply in exceptional 
+circumstances. Since power is an essential element of control, protective rights do not give a party control 
+over the arrangement. Holding protective rights cannot prevent another party from having power over an 
+arrangement (see Chapter 7 at section 4.2.2). [IFRS 10.B26, IFRS 10.B27]. 
+Accordingly, when assessing whether a group of the parties collectively control an arrangement, 
+consideration must be given to whether rights held by any of the parties are: 
+• 
+Protective - in which case, the other parties might collectively control the arrangement, and those 
+parties might have joint control 
+Or 
+• 
+Substantive - in which case, such rights could prevent the other parties from having joint control, and 
+possibly give the holder of those rights control 
+Illustration 4-3 below illustrates this point with veto rights, which are often protective rights. 
+Illustration 4-3: 
+Protective rights and joint control 
+Companies A, B and C enter into a joint arrangement to conduct an activity in Entity Z. The contractual 
+agreement between A and B states that they must agree to direct all the activities of Z. The agreement of 
+C is not required, except that C has the right to veto the issuance of debt or equity instruments by Z. The 
+ability to veto the issuance of equity and debt instruments is considered a protective right because the 
+right is designed to protect C’s interest without giving C the ability to direct the activities that most 
+significantly affect Z’s returns. 
+In this fact pattern, A and B have joint control over Z because collectively they have the ability to direct Z and 
+the contractual agreement requires their unanimous consent. Although C is a party to the joint arrangement, C 
+does not have joint control because C holds only a protective right with respect to Z. 
+An arrangement might be structured such that, rather than giving some parties protective rights, one party 
+has the deciding vote in case of a tie or disagreement (see section 4.3.2 below). 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+922 
+4.2.2 
+Potential voting rights and joint control 
+Common examples of potential voting rights include options, forward contracts, and conversion features 
+of a convertible instrument that, if exercised, would change the decision-making rights of the parties to 
+the arrangement. 
+How we see it 
+IFRS 11 does not explicitly address how to deal with potential voting rights when assessing whether there 
+is joint control. However, since joint control requires the parties collectively to have ‘control’ as defined 
+in IFRS 10, a party to a joint arrangement must consider the requirements of IFRS 10 regarding potential 
+voting rights. 
+To evaluate whether a potential voting right is substantive, and whether joint control exists, it is necessary 
+to understand the purpose and design of the potential voting right and the context in which it was issued or 
+granted. Guidance on how to assess whether a potential voting right is substantive is discussed further in 
+Chapter 7 at section 4.3.4. 
+If the potential voting right is substantive, then the holder could have joint control together with the other 
+parties, if the terms of the contractual arrangement confer joint control. 
+4.2.3 
+Other evidence of joint control 
+In some cases, it might be difficult to determine whether the rights of a group of the parties give them 
+collective power over an arrangement. In such cases, the parties consider other evidence to indicate 
+whether they have the current ability to direct the relevant activities collectively. IFRS 10 lists several 
+examples of this evidence (see Chapter 7 at section 4.5). 
+How we see it 
+Whether the parties can obtain the financial information needed to account for the arrangement (e.g., to 
+apply the equity method in the case of a joint venture) and to provide the required disclosures might also 
+be relevant when determining whether the parties have joint control. If the group of the parties cannot 
+obtain information regarding an arrangement (e.g., because management of that arrangement refuses to 
+provide it), this might indicate that the parties do not have collective control (and therefore, no joint 
+control) over that arrangement. 
+4.2.4 
+Delegated decision-making 
+In some cases, one of the parties might be appointed as the operational manager of the arrangement. This 
+commonly occurs in the extractive and real estate industries, for example, when one of the parties has 
+extensive experience in the type of activities conducted. The operational manager is frequently referred to 
+as the ‘operator’, but since IFRS 11 uses the terms ‘joint operation’ and ‘joint operator’ with specific 
+meaning, to avoid confusion we refer to such a party as the ‘manager’. The other parties to the 
+arrangement might delegate some or all the decision-making rights to this manager. 
+To evaluate joint control, a party to the arrangement assesses whether the contractual arrangement gives 
+the manager control of the arrangement (see section 4.1 above). IFRS 10 also describes how to assess 
+whether the manager is acting as a principal or an agent on behalf of all, or a group of, the parties to the 
+arrangement. Careful consideration of the following is required (see Chapter 7 at section 6): 
+• 
+The scope of the manager’s decision-making authority 
+• 
+The rights held by others (e.g., protective rights and removal rights) 
+• 
+The manager’s exposure to the variable returns of the arrangement through management fees earned 
+• 
+The manager’s exposure to the variable returns of the arrangement through other interests, for 
+example, a direct investment held by the manager in the joint arrangement [IFRS 10.B60] 
+See Chapter 39 at section 7.1 for discussion of the application of IFRS 11 to entities in the extractive 
+industries where this situation is more common. 
+Therefore, depending on the facts and circumstances, it is possible that joint control exists even when a 
+manager is appointed if the arrangement requires contractually agreed unanimous consent for decisions 
+about the relevant activities. Accordingly, arrangements in which the manager appears to have power over 
+the relevant activities must be analysed carefully to determine whether joint control exists and, if so, which 
+parties share in the joint control. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+923 
+4.2.5 
+Related parties and de facto agents 
+One party to an arrangement might act as a de facto agent for another party (see Chapter 7 at section 7). 
+De facto agents can include related parties (as defined in IAS 24 Related Party Disclosures). Determining 
+whether joint control is established includes assessing whether any of the parties to the arrangement is 
+acting as a de facto agent of another party. Illustration 4-4 below illustrates this point. 
+Illustration 4-4: 
+De facto agents in joint control 
+A contractual arrangement has three parties: A has 50% of the voting rights and B and C each have 25%. The 
+contractual arrangement between A, B and C specifies that at least 75% of the voting rights are required to 
+make decisions about the relevant activities of the arrangement. 
+Analysis 
+A, B and C collectively control the relevant activities of the arrangement. However, there is neither control 
+nor joint control, because more than one combination of parties can reach 75% and therefore direct the 
+relevant activities. 
+Variation 
+If the facts and circumstances changed, such that C is a de facto agent of B, then A and B would have joint 
+control, because effectively B would direct 50% (in combination with C’s 25%) and A would need B to agree to 
+direct the relevant activities. 
+ 
+How we see it 
+Identifying de facto agents can be complex and requires judgement and a careful evaluation of all the 
+facts and circumstances. 
+4.2.6 
+Role of a government 
+In some countries, the government might retain a substantial interest in certain arrangements. 
+How we see it 
+When a government entity is party to an arrangement, the arrangement needs to be evaluated carefully 
+to determine whether joint control or control exists. 
+This is illustrated in Illustration 4-5 below. 
+Illustration 4-5: 
+Role of a government 
+A government owns land, which is believed to contain oil reserves. The government enters into a contractual 
+arrangement with an oil company to drill for oil and sell the product, which the oil company does through a 
+separate vehicle. The oil company evaluates the contractual terms of the arrangement closely to determine 
+whether it has joint control, control, or some other type of interest. The ownership percentages in the 
+separate vehicle do not necessarily determine whether there is control by one party or joint control. 
+In some cases, the contractual terms might give all final decision-making authority over the relevant activities 
+to the government, in which case, the government would have control. 
+However, in other cases, the decision-making authority might require unanimous consent by the government 
+and the oil company to direct the activities, in which case, they would have joint control. 
+4.3 
+Unanimous consent 
+Extract from IFRS 11 
+9 
+Once it has been determined that all the parties, or a group of the parties, control the 
+arrangement collectively, joint control exists only when decisions about the relevant activities 
+require the unanimous consent of the parties that control the arrangement collectively. 
+[IFRS 11.9]. 
+Assessing whether the arrangement is jointly controlled by all of its parties or by a group of the parties, or 
+controlled by one of the parties individually, can require judgement. It is not necessary for every party to 
+the arrangement to have joint control. Only those parties that collectively control the arrangement must 
+agree. [IFRS 11.9, IFRS 11.B6]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+924 
+In a joint arrangement, no single party controls the arrangement. A party with joint control of an 
+arrangement can prevent any of the other parties, or a group of the parties, from controlling the 
+arrangement. [IFRS 11.10]. In other words, the requirement for unanimous consent means that any party 
+with joint control of the arrangement can prevent any of the other parties, or a group of the parties, from 
+making unilateral decisions (about the relevant activities) without its consent. [IFRS 11.B9]. 
+IFRS 11 provides additional guidance on when unanimous consent exists. For example, a contractual 
+arrangement can establish unanimous consent implicitly when the proportion of the voting rights needed to 
+make decisions about the relevant activities effectively requires a specified combination of the parties to 
+agree. [IFRS 11.B7]. When that minimum proportion of voting rights can be achieved by more than one 
+combination of the parties agreeing, the arrangement is not a joint arrangement unless it specifies which 
+parties (or combination of parties) are required to agree unanimously to decisions about the relevant 
+activities of the arrangement. [IFRS 11.B8]. IFRS 11 provides some examples to illustrate this point. Examples 
+1 and 2 are summarised in the following table. [IFRS 11.B8 Example 1, IFRS 11.B8 Example 2]. 
+Example 1 
+Example 2 
+Minimum voting requirement 
+Minimum voting requirement 
+75% vote to direct relevant activities 
+75% vote to direct relevant activities 
+  
+  
+Party A - 50% 
+Party A - 50% 
+Party B - 30% 
+Party B - 25% 
+Party C - 20% 
+Party C - 25% 
+  
+  
+Conclusion 
+Conclusion 
+Joint control - A and B collectively control the 
+arrangement (since their votes, and only their 
+votes, together meet the requirement). Since there 
+is only one combination of parties that collectively 
+control the arrangement, it is clear that A and B 
+must unanimously agree. C is a ‘party without joint 
+control’ (see section 4 above). 
+No joint control - multiple combinations of parties 
+could collectively control the arrangement (i.e., A 
+and B or A and C could vote together to meet the 
+requirement). Since there are multiple 
+combinations, and the contractual agreement does 
+not specify which parties must agree, there is no 
+unanimous consent.  
+4.3.1 
+Arrangements involving parties without joint control 
+Unanimous consent needs to be established by contract. For example, two parties, A and B, each have 35% 
+of the voting rights in an arrangement with the remaining 30% being widely dispersed and decisions about 
+the relevant activities require approval by a majority of the voting rights. In this situation, A and B have 
+joint control of the arrangement only if the contractual arrangement specifies that decisions about the 
+relevant activities of the arrangement require agreement of both A and B. [IFRS 11.B8 Example 3]. The fact that 
+the remaining 30% of the voting rights are widely dispersed does not implicitly create joint control. 
+4.3.2 
+Ultimate voting authority (tie-breakers) 
+Sometimes an arrangement provides all parties with a voting right, but in the case of a deadlock, or 
+disagreement, one party has the deciding vote (i.e., the final decision or override powers). If any single 
+party could direct the relevant activities unilaterally, there would not be joint control. Illustration 4-6 below 
+illustrates this point. 
+Illustration 4-6: 
+Ultimate decision-making authority - no joint control (1) 
+Companies G and H enter into an arrangement and set up a joint steering committee. H has ultimate 
+decision-making authority when the joint steering committee cannot reach an agreement. In this case, there 
+would not be joint control because the agreement of G is not needed. 
+To evaluate whether H has control, it would also need to assess whether it has exposure to variable returns, 
+and the ability to affect those returns through its power, as required by IFRS 10 (see Chapter 7). 
+Just because one party has a deciding vote does not necessarily mean that it has control, particularly if 
+other parties can act without the agreement of that party. This is illustrated in Illustration 4-7 below. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+925 
+Illustration 4-7: 
+Ultimate decision-making authority - no joint control (2) 
+Companies I, J and K enter into an arrangement and set up a joint steering committee. Each party has one 
+vote, and two votes are needed to carry a motion. K has ultimate decision-making authority when the joint 
+steering committee cannot reach an agreement. For example, if no combination of I, J and K can agree with 
+each other, K would have the ultimate decision-making authority. 
+There is no joint control, since there are multiple combinations of parties that could vote together, and the 
+contractual agreement does not specify which parties must agree. For example, I and J could agree together, 
+without the agreement of K. In addition, K does not control the arrangement, even though it has a deciding 
+vote when the joint steering committee cannot reach an agreement, because I and J can act without the 
+agreement of K. 
+4.3.3 
+Arbitration 
+Contractual arrangements often include terms and conditions relating to the resolution of disputes and 
+might provide for arbitration. The existence of such terms and conditions does not prevent the 
+arrangement from being jointly controlled and, consequently, from being a joint arrangement. [IFRS 11.B10]. 
+A party to a joint arrangement evaluates the facts and circumstances related to the arbitration procedures 
+to determine the implications for joint control. For example, if the arbitration process is neutral to both 
+parties, which might be achieved by using a mutually agreed upon arbitrator, there might be joint control. 
+Alternatively, arbitration procedures that favour one party might indicate that there is no joint control. 
+4.3.4 
+Statutory mechanisms 
+Statutory mechanisms can create legally enforceable rights and obligations (see section 3 above). 
+Therefore, when evaluating whether an arrangement implicitly results in joint control, an entity 
+considers the statutory requirements in the relevant jurisdiction under which the contractual 
+arrangement was established. 
+4.4 
+Other practical issues with assessing joint control 
+4.4.1 
+Undivided interests or a joint arrangement 
+Entities sometimes acquire undivided interests (a share in a commonly-owned asset, such as land or real 
+estate) or enter into joint arrangements with a common economic goal: to share in the benefits and 
+obligations of owning an asset. The appropriate accounting depends on the facts and circumstances and 
+might require judgement. 
+Undivided interests are common in the extractives industry and are discussed in Chapter 39 at section 7.2. 
+They are usually subject to joint control and can, therefore, be accounted for as joint operations. However, 
+some arrangements do not establish joint control but are, instead, based on some form of supermajority 
+voting whereby a qualified majority (e.g., 75%) of the participants can approve decisions. This situation 
+usually arises when the group of participants is too large for joint control to be practical or when the main 
+investor wants to retain a certain level of influence. 
+Where joint control does not exist, such undivided interests cannot be accounted for as joint operations in 
+the scope of IFRS 11. Instead, the appropriate accounting treatment by the investor depends on the nature 
+of the arrangement. 
+Illustration 4-8 below illustrates a scenario in which the accounting depends on the nature of the arrangement. 
+Illustration 4-8: 
+Joint purchase of an aircraft 
+Five parties jointly buy an aircraft. By contractual agreement, each party has the right to use the aircraft for a 
+certain number of days each year and shares proportionately in the maintenance costs. They share decision-
+making regarding the maintenance and disposal of the aircraft, which are the relevant activities for that 
+aircraft. Those decisions require agreement of parties holding 75% of the voting rights. There are multiple 
+combinations of how the 75% threshold can be achieved and the contractual agreement does not specify which 
+parties must agree. Therefore, there is no unanimous consent. 
+Analysis 
+The agreement is not a joint arrangement, as the contractual agreement does not establish joint control. The 
+appropriate accounting depends on the rights and obligations of each party under the contractual agreement. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+926 
+4.4.2 
+Evaluating multiple agreements together 
+Sometimes it is necessary to evaluate multiple agreements together, to understand the purpose and design 
+of an arrangement, and to determine whether there is joint control. A party might appear to have joint 
+control of a joint arrangement when considering one agreement in isolation, but that party might not have 
+joint control when considered in the full context of its purpose and design. Illustration 4-9 below illustrates 
+this point. 
+Illustration 4-9: 
+Layered agreements 
+Companies A, B, C and D enter into Agreement No.1 to undertake oil and gas exploration. Committee No.1 is 
+formed to direct all related activities, including review and approval of annual budgets and operating policies. 
+Committee No.1 consists of six members, of whom D nominates three members. A, B, and C each nominate 
+one of the remaining three members. The decisions of Committee No.1 require the unanimous vote of the 
+members. 
+ 
+A and B enter into Agreement No.2, which establishes Committee No.2 to coordinate cooperation between A 
+and B, with respect to the same oil and gas exploration activity. A and B each appoint one representative to 
+Committee No.2. Committee No.2 has the power to make decisions to be submitted for approval to Committee 
+No.1. Any matter to be decided by Committee No.2 requires the consent of both parties. However, if 
+agreement cannot be reached between A and B, B has the deciding vote. The decisions made in Committee 
+No.2 are binding on A and B and they must vote accordingly in Committee No.1. 
+In this fact pattern, there are two separate contractual agreements. However, they are evaluated together to 
+determine if there is a joint arrangement, because they relate to the same oil and gas exploration activity. For 
+example, if Agreement No.1 were considered in isolation, it would appear that A, B, C and D all have joint 
+control over the arrangement because its decisions require the unanimous vote of the members. 
+However, Agreement No.1 is evaluated together with Agreement No.2. Accordingly, only B, C and D have joint 
+control over the joint arrangement. B can effectively direct A how to vote (by virtue of Agreement No.2) in 
+Committee No.2, so A does not have joint control with the other parties. A is effectively a de facto agent of B 
+and represents a ‘party without joint control’ (see section 4.2.5 above). 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+927 
+5 
+Classification of a joint arrangement: joint operations and 
+joint ventures 
+A joint arrangement is classified as either a joint operation or a joint venture. [IFRS 11.14, IFRS 11.6]. 
+Extract from IFRS 11 
+14 
+An entity shall determine the type of joint arrangement in which it is involved. The 
+classification of a joint arrangement as a joint operation or a joint venture depends upon the 
+rights and obligations of the parties to the arrangement. 
+The table below compares the two types of joint arrangements and provides an overview of the accounting 
+for each under IFRS 11. 
+Type of 
+arrangement 
+Joint operation 
+Joint venture 
+Definition 
+A joint arrangement whereby the parties that 
+have joint control of the arrangement have 
+rights to the assets, and obligations for the 
+liabilities, relating to the arrangement. [IFRS 11 
+Appendix A]. 
+A joint arrangement whereby the 
+parties that have joint control of the 
+arrangement have rights to the net 
+assets of the arrangement. [IFRS 11 
+Appendix A]. 
+Parties with 
+joint control 
+A joint operator is a party with joint control in a 
+joint operation. [IFRS 11.15]. 
+A joint venturer is a party with joint 
+control in a joint venture. 
+[IFRS 11.16]. 
+Accounting 
+overview 
+Each party to the arrangement, i.e., joint 
+operators and parties without joint control, 
+accounts for the following in accordance with 
+the applicable IFRS accounting standard: 
+• 
+Its assets, including its share of any assets 
+held jointly 
+• 
+Its liabilities, including its share of any 
+liabilities incurred jointly 
+• 
+Its revenue from the sale of its share of the 
+output arising from the joint operation 
+• 
+Its share of revenue from the sale of the 
+output by the joint operation 
+• 
+Its expenses, including its share of any 
+expenses incurred jointly. [IFRS 11.20, 
+IFRS 11.23]. 
+Accounting for joint operations is discussed 
+further at section 6 below.  
+A joint venturer accounts for its 
+investment in the joint venture 
+applying IAS 28. 
+Parties without joint control 
+account for the investment in 
+accordance with IFRS 9, unless the 
+parties have significant influence, in 
+which case the parties apply IAS 28. 
+[IFRS 11.24, IFRS 11.25]. 
+Accounting for joint ventures is 
+discussed further at section 7 
+below. 
+The process to classify a joint arrangement is illustrated in the following flowchart, which includes the 
+criteria to be met for the joint arrangement to be a joint venture. [IFRS 11.B21]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+928 
+Figure 5-1: 
+Classifying a joint arrangement 
+ 
+ 
+We discuss key aspects of the classification process within this section as follows: 
+• 
+Separate vehicle - see section 5.1 below 
+• 
+Legal form of the separate vehicle - see section 5.2 below 
+• 
+Contractual terms - see section 5.3 below 
+• 
+Other facts and circumstances - see section 5.4 below [IFRS 11.17, IFRS 11.B15] 
+Judgement is required in assessing whether a joint arrangement is a joint operation or a joint venture. An 
+entity evaluates its rights and obligations arising from a joint arrangement in order to classify it. [IFRS 11.17]. 
+IFRS 12 requires an entity to disclose information when it makes significant judgements and assumptions to 
+classify the type of joint arrangement, specifically when the arrangement has been structured through a 
+separate vehicle (see Chapter 14 at section 3). [IFRS 12.7]. 
+IFRS 11 also includes examples illustrating this evaluation, some within the application guidance and others 
+as illustrative examples accompanying the standard (see section 5.5 below). 
+How we see it 
+When classifying a joint arrangement, parties to the joint arrangement would normally reach the same 
+conclusion regarding classification. To reach different conclusions regarding the classification of a joint 
+arrangement would mean that one party has rights to assets and obligations for the liabilities while the 
+other has rights to the net assets, within the same separate vehicle. 
+The classification of joint arrangements depends upon the parties’ rights and obligations arising from the 
+arrangement in the normal course of business. [IFRS 11.B14]. These concepts are discussed in more detail in 
+the context of analysing the contractual terms of the arrangement, and the other facts and circumstances 
+in sections 5.3 and 5.4 below, respectively. 
+The requirement to classify a joint arrangement based on the normal course of business is consistent with 
+the requirement to consider the purpose and design of an investee in IFRS 10 (see Chapter 7 at 
+section 3.2). 
+How we see it 
+We believe that the purpose and design of a joint arrangement is an important consideration in 
+determining the appropriate classification. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+929 
+5.1 
+Separate vehicle or not 
+The first factor in classifying a joint arrangement is the assessment of whether a separate vehicle exists. A 
+joint arrangement in which the assets and liabilities relating to the arrangement are held in a separate 
+vehicle can be either a joint venture or a joint operation. [IFRS 11.B19, IFRS 11.B20]. 
+A separate vehicle is defined in IFRS 11 as “A separately identifiable financial structure, including separate 
+legal entities or entities recognised by statute, regardless of whether those entities have a legal 
+personality.” [IFRS 11 Appendix A]. Apart from those entities mentioned in the definition, IFRS 11 does not 
+provide any examples of what might constitute a ‘separate vehicle’, and there is no clear definition of what 
+constitutes a ‘separately identifiable financial structure’. The existence of a separate vehicle does not 
+depend on whether the assets and liabilities within the vehicle meet the definition of a ‘business’ in IFRS 3. 
+[IFRS 11.BC29]. 
+The desired economic substance often drives the selection of a particular legal form of a separate vehicle. 
+However, the choice might be driven by tax, regulatory requirements or other reasons that can alter the 
+intended economic substance, necessitating that the parties use contractual arrangements to modify the 
+effects that the legal form would otherwise have on their rights and obligations. [IFRS 11.BC32]. 
+Many common arrangements, such as partnerships, corporations, trusts and syndicates, are likely to be 
+considered separate vehicles, although local laws are also considered. In some jurisdictions, an oral 
+agreement is considered sufficient to create a contractual partnership, and thus, the hurdle for having a 
+separate vehicle could be quite low. 
+A contract alone can create a separate vehicle, such as when it creates a deemed separate entity (referred 
+to as a ‘silo’ in IFRS 10) or creates a partnership. A silo exists when specified assets of an arrangement are 
+the only source of payment for specified liabilities of an arrangement, and parties other than those with the 
+specified liability do not have rights or obligations related to the specified assets or to residual cash flows 
+from those assets. That is, a silo exists when, in substance, all the assets, liabilities and equity of that 
+deemed separate entity are ring-fenced from the ‘host’ arrangement. The identification of silos is discussed 
+further in Chapter 7 at section 8.1. 
+The term ‘separate vehicle’ is broader than an ‘entity’ as illustrated in the diagram below. We understand 
+that this was done primarily to address concerns that, in some jurisdictions, separate vehicles created to 
+establish a joint arrangement are not necessarily legal reporting entities. 
+ 
+The IASB concluded that it would be rare that a joint arrangement would give the parties rights to the net 
+assets without having a separate vehicle and therefore no further assessment is required in this scenario; 
+when there is no separate vehicle, the arrangement is a joint operation. [IFRS 11.BC27]. 
+5.2 
+Legal form of the separate vehicle 
+Once it is determined that a separate vehicle exists, the second step is to analyse its legal form to 
+determine whether it gives the parties rights to the net assets or rights to the assets and obligations for the 
+liabilities of the arrangement. [IFRS 11.B21]. In other words, does the separate vehicle confer separation 
+between the parties and the separate vehicle? 
+The legal form of the separate vehicle is relevant as an initial indicator of the parties’ rights to the assets, 
+and obligations for the liabilities, relating to the arrangement. When the legal form of the separate vehicle 
+does not confer separation between the parties and the vehicle, the arrangement is a joint operation. 
+[IFRS 11.B24, IFRS 11.BC31]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+930 
+When separation between the parties and the separate vehicle exists, this is not determinative. The terms 
+agreed by the parties in their contractual arrangement (see section 5.3 below) and other facts and 
+circumstances (see section 5.4 below) can override the assessment of the rights and obligations conferred 
+upon the parties by the legal form of the separate vehicle and the arrangement can still be classified as a 
+joint operation. [IFRS 11.B23]. 
+Local laws can affect the form of the separate vehicle. For example, in many countries, a corporation 
+confers separation between the parties and the separate vehicle and provides the parties with rights to net 
+assets. The liabilities of the corporation are limited to the corporation and creditors do not have recourse to 
+the investors in the corporation for those liabilities. These are indicators that a corporation that is jointly 
+controlled is a joint venture. 
+By contrast, partnerships that have unlimited liability, which are common in many countries, often do not 
+confer separation between the parties and the separate vehicle. They provide the partners with rights to 
+the assets and obligations for the liabilities, indicating that the arrangement is a joint operation. When 
+creditors of the partnership have direct recourse to the joint arrangement partners, the partners are the 
+primary obligors, which is indicative of a joint operation. However, in a partnership when creditors have 
+recourse to the partners only after the partnership has defaulted, there is separation between the partners 
+and the vehicle. The liability of the partners as secondary obligor is akin to a guarantee. This is an indicator 
+of a joint venture. 
+In March 2015, the IFRS IC published an agenda decision3 in which it observed that two seemingly similar 
+joint arrangements from an operational perspective might be classified differently because one is 
+structured through a separate vehicle and the other is not. The legal form of the separate vehicle could 
+affect the rights and obligations of the parties to the joint arrangement and thereby affect the economic 
+substance of the rights and obligations of the parties to the joint arrangement. [IFRS 11.B22, IFRS 11.BC43]. 
+5.3 
+Contractual terms 
+The next step in classifying a joint arrangement structured through a separate vehicle is to examine the 
+contractual terms of the arrangement. While the legal form of the separate vehicle gives certain rights and 
+obligations to each of the parties, the contractual terms of the joint arrangement can unwind the effects of 
+the legal form and give the parties different rights and obligations. 
+IFRS 11 includes examples (which are not exhaustive) of common contractual terms found in joint 
+arrangements and indicates whether these are examples of joint operations or joint ventures. These are 
+included in the table below. [IFRS 11.B27]. 
+Joint operation 
+Joint venture 
+Terms of the contractual arrangement 
+The parties are provided with rights to the assets, 
+and obligations for the liabilities, relating to the 
+arrangement. 
+The parties are provided with rights to the net 
+assets of the arrangement (i.e., it is the separate 
+vehicle, not the parties, that has rights to the 
+assets and obligations for the liabilities relating to 
+the arrangement). 
+Rights to assets 
+The parties share all interests (e.g., rights, title or 
+ownership) in the assets relating to the 
+arrangement in a specified proportion (e.g., in 
+proportion to the parties’ ownership interest in the 
+arrangement or in proportion to the activity carried 
+out through the arrangement that is directly 
+attributed to them). 
+The assets brought into the arrangement or 
+subsequently acquired by the joint arrangement 
+are the arrangement’s assets. The parties have no 
+interests (i.e., no rights, title or ownership) in the 
+assets of the arrangement. 
+ 
+3 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+931 
+Joint operation 
+Joint venture 
+Obligations for liabilities 
+The parties share all liabilities, obligations, costs 
+and expenses in a specified proportion (e.g., in 
+proportion to the parties’ ownership interest in the 
+arrangement or in proportion to the activity carried 
+out through the arrangement that is directly 
+attributed to them). 
+The joint arrangement is liable for the debts and 
+obligations of the arrangement. 
+The parties are liable under the arrangement only 
+to the extent of their respective investments in the 
+arrangement, or to their respective obligations to 
+contribute any unpaid or additional capital to the 
+arrangement, or both. 
+The parties are liable for claims raised by third 
+parties. 
+Creditors of the joint arrangement do not have 
+rights of recourse against any party with respect to 
+debts or obligations of the arrangement. 
+Revenues and expenses and profits or losses 
+Each party receives an allocation of revenues and 
+expenses based on the relative performance of 
+each party to the joint arrangement. For example, 
+the contractual arrangement might establish that 
+revenues and expenses are allocated based on the 
+capacity that each party uses in a plant operated 
+jointly, which could differ from their ownership 
+interest in the joint arrangement. In other 
+instances, the parties might have agreed to share 
+the profit or loss relating to the arrangement based 
+on a specified proportion such as the parties’ 
+ownership interest in the arrangement. This would 
+not prevent the arrangement from being a joint 
+operation if the parties have rights to the assets, 
+and obligations for the liabilities, relating to the 
+arrangement. 
+Each party has a share in the profit or loss relating 
+to the activities of the arrangement. 
+Guarantees 
+The parties to joint arrangements are often required to provide guarantees to third parties that, for 
+example, receive a service from, or provide financing to, the joint arrangement. The provision of such 
+guarantees, or the commitment by the parties to provide them, does not determine, by itself, that the 
+joint arrangement is a joint operation. The feature that determines whether the joint arrangement is a 
+joint operation or a joint venture is whether the parties have obligations for the liabilities relating to the 
+arrangement (for some of which the parties might or might not have provided a guarantee). See 
+section 5.3.1 below. 
+In many cases, the rights and obligations agreed to by the parties in their contractual arrangements are 
+consistent, or do not conflict, with the rights and obligations conferred on the parties by the legal form of 
+the separate vehicle. [IFRS 11.B25]. However, as discussed in section 5.2 above, this is not always the case, 
+[IFRS 11.B26], as shown in Illustration 5-1 below. [IFRS 11.B26 Example 4]. 
+Illustration 5-1: 
+Modification of legal form by contractual terms 
+Companies A and B jointly start a Corporation C, over which they have joint control. The legal form of the 
+separate vehicle (a corporation) preliminarily indicates that C is a joint venture. 
+However, the contractual arrangement states that A and B have rights to the assets of C and are obligated for 
+the liabilities of C in a specified proportion. Effectively, this contractual term unwinds the effects of the legal 
+form (corporation). Therefore, C is a joint operation. 
+When the contractual arrangement specifies that the parties have rights to the assets, and obligations for 
+the liabilities, relating to the joint arrangement, they are parties to a joint operation, and do not further 
+consider other facts and circumstances when classifying the joint arrangement. [IFRS 11.B28]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+932 
+5.3.1 
+Guarantees 
+Parties to joint arrangements might provide guarantees to third parties. For example, a guarantee or 
+commitment that: 
+• 
+Services provided by the joint arrangement to the third party will be of a certain quality or nature 
+• 
+It will support the joint arrangement in the event of distress 
+Or 
+• 
+It will repay funding received from the third party 
+IFRS 11 is clear that the issuance of guarantees, or a commitment by the parties to provide guarantees, 
+does not, by itself, determine that the joint arrangement is a joint operation. [IFRS 11.B27]. This is because 
+the guarantee does not give the guarantor a present obligation for the underlying liabilities. 
+If the issuer of the guarantee must pay or perform under that guarantee, this might indicate that facts and 
+circumstances have changed, or this event might be accompanied by a change in the contractual terms of 
+the arrangement. These changes would trigger a reassessment of whether the arrangement is still subject 
+to joint control and, if so, whether the joint arrangement is a joint operation or a joint venture, as discussed 
+in section 8 below. 
+When a guarantee meets the definition of a ‘financial guarantee’ (see Chapter 41 at section 2.4), the party 
+issuing the guarantee accounts for the guarantee in accordance with IFRS 9, irrespective of the 
+classification of the joint arrangement. 
+5.3.2 
+Contractual terms upon liquidation or dissolution of joint arrangement 
+In some joint arrangements, the parties contribute assets to the joint arrangement to use in the activity 
+while it continues to operate. However, if the joint arrangement is liquidated or dissolved, the contributed 
+assets revert to the contributing party. The question is whether this contractual term gives the parties 
+rights to the assets. If so, the joint arrangement is classified as a joint operation. 
+How we see it 
+All relevant facts and circumstances are considered in reaching a conclusion. In our view, a contractual 
+agreement whereby assets contributed to a joint arrangement revert to the contributing party upon 
+liquidation or dissolution of the joint arrangement, does not necessarily mean that the arrangement is a 
+joint operation because the contributing party does not have rights to the contributed assets in the 
+normal course of business, based on its purpose and design (see section 5 above). 
+If the party contributing the asset has a currently exercisable call option on that asset, it includes this 
+fact in the analysis. The call option is accounted for in accordance with the relevant IFRS. 
+5.4 
+Other facts and circumstances 
+When the legal form of the separate vehicle and the terms of the contractual arrangement do not specify 
+that the parties have rights to the assets, and obligations for the liabilities, relating to the arrangement, 
+then the parties must consider all other facts and circumstances to assess whether the arrangement is a 
+joint operation or a joint venture. [IFRS 11.B29, IFRS 11.B30]. The ‘other facts and circumstances’ must be 
+substantive and demonstrate that the parties have rights to the assets and obligations for the liabilities of 
+the separate vehicle to classify the joint arrangement as a joint operation. 
+In March 2015, the IFRS IC published agenda decisions4, incorporated into the discussions in sections 5.4.1 
+and 5.4.2 below, that provide a helpful overview of the issues that require judgement and guidance to 
+consider. The assessment of ‘other facts and circumstances’ can be challenging in practice. 
+ 
+4 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+933 
+5.4.1 
+How and why particular facts and circumstances create rights and obligations 
+Frequently asked questions 
+Question 5-1: 
+How does an entity evaluate the other facts and circumstances when classifying a 
+joint arrangement that is structured through a separate vehicle whose legal form causes the separate 
+vehicle to be considered in its own right? 
+The IFRS IC noted the following regarding a joint arrangement that is structured through a separate 
+vehicle whose legal form causes the separate vehicle to be considered in its own right:5 
+(a) The assessment of other facts and circumstances is performed when there is no contractual 
+arrangement to reverse or modify the rights and obligations conferred by the legal form of the 
+separate vehicle through which the arrangement has been structured. 
+(b) The assessment focuses on whether the other facts and circumstances establish, for each party to 
+the joint arrangement, rights to the assets and obligations for the liabilities relating to the joint 
+arrangement. 
+(c) Parties to the joint arrangement have rights to the assets of the joint arrangement through other 
+facts and circumstances when they: [IFRS 11.B31, IFRS 11.B32, IFRS 11.B33] 
+(i) Have rights to substantially all of the economic benefits (for example, ‘output’) of assets of the 
+arrangement 
+And 
+(ii) Have obligations to acquire those economic benefits and thus assume the risks relating to those 
+economic benefits (for example, the risks relating to the output). 
+(d) Parties to the joint arrangement have obligations for liabilities of the joint arrangement through 
+other facts and circumstances when: [IFRS 11.B14, IFRS 11.B32, IFRS 11.B33] 
+(i) Because of their rights to, and obligations for, the assets of the joint arrangement, they provide 
+cash flows that are used to settle liabilities of the joint arrangement 
+And 
+(ii) Settlement of the liabilities of the joint arrangement occurs on a continuous basis. 
+A joint arrangement structured through a separate vehicle is classified as a joint operation only when 
+each party to the joint arrangement meets the above criteria and therefore has both rights to the assets 
+of the joint arrangement and obligations for the liabilities of the joint arrangement through other facts 
+and circumstances. 
+Although the IFRS IC decided not to add this issue to its agenda, it observed that a joint arrangement 
+could be classified as a joint operation based on other facts and circumstances, only if an entity is able to 
+demonstrate that: 
+(a) Each party to the joint arrangement has rights and obligations relating to economic benefits of the 
+assets of the arrangement. 
+And 
+(b) Each party is obliged to provide cash to the arrangement through enforceable obligations, which is 
+used to settle the liabilities of the joint arrangement on a continuous basis. 
+The IFRS IC observed that the concept of ‘economic substance’ might not be consistently understood or 
+applied in practice in the context of this assessment. It confirmed that assessing other facts and 
+circumstances focuses on whether each party has rights to the assets, and obligations for the liabilities, 
+relating to the joint arrangement. It is not a test of how closely or fully involved each party is with the 
+operation of the separate vehicle, but instead analyses whether other facts and circumstances override 
+the rights and obligations conferred on each party by the legal form of the separate vehicle. It is 
+therefore irrelevant whether the activities of the separate vehicle are closely related to the activities of 
+the parties on their own, or whether the parties are closely involved in the operations of the 
+arrangements. [IFRS 11.BC43]. 
+ 
+ 
+5 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+934 
+In March 2014, the IFRS IC discussed a staff paper that examined common features of ‘project entities’ in 
+the context of assessing ‘other facts and circumstances.’ As noted in Question 5-1 above, the IFRS IC 
+decided not to add this issue to its agenda but noted that the examples are fact-specific, and consequently 
+it is unclear if the Board agreed with all elements of the staff analysis that follows. 
+The staff’s analysis6 argued that, in this hypothetical example, these features did not result in classification 
+as a joint operation by the parties to the joint arrangement (‘the parties’), for the following reasons: 
+• 
+Certain features do not relate to the parties’ rights to the assets and obligations for the liabilities: The 
+nature of the project entity’s assets and liabilities, the fact that the separate vehicle is thinly 
+capitalised, has no workforce of its own, is a limited-life entity and obtains customers through the 
+parties’ resources. 
+• 
+The parties are entitled to the net cash amount from the sale of output, indicating that the parties have 
+rights to ‘net’ economic benefits. 
+• 
+The parties are responsible for delivering the services to the ultimate customer, subcontracted by the 
+separate vehicle. This is a subcontractor relationship and does not indicate rights to the assets of the 
+separate vehicle. 
+• 
+The separate vehicle has primary obligation for its liabilities, therefore the parties do not settle the 
+liabilities of the separate vehicle on a continuous basis. 
+• 
+The parties finance the separate vehicle for any loss or cash needs. This indicates an obligation, but 
+obligations are not independent of rights and so this feature alone does not give the parties obligations 
+for the liabilities. 
+• 
+Non-completion and litigations risks are similar to the risks inherent in the role of guarantor and so do 
+not indicate that the parties settle the liabilities of the separate vehicle on a continuous basis. 
+In July 2014, the IFRS IC discussed the classification of a specific type of joint arrangement structure 
+established for a bespoke construction project to deliver a construction service to a single customer. The 
+IFRS IC noted7 that the features analysed8 would not indicate that the parties to the joint arrangement 
+have, in substance, direct rights to the assets of the joint arrangement, but could indicate that the parties 
+to the joint arrangement have, in substance, direct obligations for the liabilities of the joint arrangement, 
+depending on the nature of the parties’ obligations. Therefore, the joint arrangement illustrated would not 
+be classified as a joint operation. 
+Frequently asked questions 
+Question 5-2: 
+Are constructive obligations considered when classifying a joint arrangement? 
+IFRS 11 uses the word ‘obligation’, therefore these obligations can be legal or constructive. One feature 
+of obligations is that an entity has no realistic alternative to settling the obligation. In its comment letter 
+analysis9, the staff noted that evaluating the existence of obligations includes consideration of the 
+design and purpose of the joint arrangement, its business needs and its past practices to the extent that 
+they affect the existence of obligations, including constructive obligations. 
+The agenda decision summarised at Question 5-1 above clarified that the assessment of other facts and 
+circumstances focuses on whether they create enforceable rights to the assets and obligations for the 
+liabilities. The assessment does not also consider the design and purpose of the joint arrangement, the 
+entity’s business needs and its past practices. However, when evaluating the existence of liabilities, 
+these matters are considered.  
+ 
+6 
+IASB Staff Paper 5B, Project: IFRS 11 Joint Arrangements, Paper topic: Consideration of some common joint arrangement 
+structures, IFRS IC Meeting, March 2014. Available on the IFRS Foundation’s website.  
+7 
+IFRIC Update, July 2014, available on the IFRS Foundation’s website. 
+8 
+IASB Staff Paper 2B, Project: IFRS 11 Joint Arrangements, Paper topic: Consideration of a specific type of joint arrangement 
+structure, Interpretations Committee Meeting, July 2014. Available on the IFRS Foundation’s website. 
+9 
+IASB Staff Paper 4, Project: IFRS 11 Joint Arrangements, Paper topic: Tentative agenda decision comment letter analysis, IFRS 
+Interpretations Committee Meeting, March 2015. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+935 
+5.4.2 
+Facts and circumstances indicating rights to assets 
+Extract from IFRS 11 
+B31 
+When the activities of an arrangement are primarily designed for the provision of output to the 
+parties, this indicates that the parties have rights to substantially all the economic benefits of 
+the assets of the arrangement. The parties to such arrangements often ensure their access to 
+the outputs provided by the arrangement by preventing the arrangement from selling output to 
+third parties.  
+[IFRS 11.B31]. 
+5.4.2.A 
+Output not taken in proportion to ownership 
+In March 2015, the IFRS IC published an agenda decision10 that addressed the accounting treatment when 
+the joint operator’s share of output purchased differs from its share of ownership interest in the joint 
+operation. The IFRS IC specifically considered a variation to Example 5 of the application guidance to 
+IFRS 11. Example 5 considers a joint arrangement structured through a separate vehicle from which the 
+parties to the joint arrangement have committed to purchase substantially all the output produced at a 
+price designed to achieve a break-even result. In that example, the parties to the joint arrangement are 
+considered to have rights to the assets and obligations for the liabilities and the arrangement is classified as 
+a joint operation. [IFRS 11.B32 Example 5]. In the variation considered, the parties’ percentage ownership 
+interest in the separate vehicle differs from the percentage share of the output produced, which each party 
+is obliged to purchase. 
+The IFRS IC identified several issues: 
+• 
+When the joint arrangement agreement does not specify the allocation of assets, liabilities, revenues or 
+expenses, does the share of assets, liabilities, revenue and expenses recognised reflect the percentage 
+of ownership of the legal entity or does it reflect the percentage of output purchased by each joint 
+operator? 
+• 
+When the share of output purchased by each party varies over the life of the joint arrangement, over 
+what time horizon is the share of output considered? 
+• 
+If the joint operators made a substantial investment in the joint operation that differed from their 
+ownership interest, it would be necessary to determine the other elements of the arrangements that 
+could explain why there is a difference between the percentage of ownership interest and the 
+percentage share of the output produced that each party is obliged to purchase. 
+The IFRS IC noted that it is important to understand why the share of the output purchased differs from the 
+ownership interests in the joint operation and that judgement would be needed to determine the 
+appropriate classification and accounting for the joint arrangement. However, the IFRS IC decided not to 
+add the issue to its agenda because it would require the development of additional guidance.11 
+5.4.2.B 
+Substantially all of the output 
+In March 2015, the IFRS IC published another agenda decision12 applying the other facts and circumstances 
+test to specific fact patterns. Parties to the joint arrangement have rights to the assets of the joint 
+arrangement when they have rights to substantially all of the economic benefits (for example, ‘output’) of 
+the assets of the arrangement. The IFRS IC noted that the economic benefits of the assets of the joint 
+arrangement relate to the cash flows arising from the parties’ rights to, and obligations for, the assets. 
+[IFRS 11.B31, IFRS 11.B32]. Therefore, the term ‘substantially all of the output’ is based on the monetary value 
+of the output, rather than physical quantities. 
+ 
+10 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+11 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+12 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+936 
+5.4.3 
+Facts and circumstances indicating obligations for liabilities 
+“When the parties are substantially the only source of cash flows contributing to the continuity of the 
+operations of the arrangement, this indicates that the parties have an obligation for the liabilities relating to 
+the arrangement.” [IFRS 11.B32]. 
+The parties to a joint arrangement might be substantially the only source of cash flows, for example, when 
+the parties: 
+• 
+Make payments to third parties under previously issued guarantees on behalf of the joint arrangement 
+• 
+Are obliged to provide loan financing or working capital funding in the normal course of business 
+• 
+Commit to provide cash calls in the future (see section 5.4.3.A below) 
+Or 
+• 
+Are obliged to purchase all the output produced by the joint arrangement, which they can but are not 
+required to resell to third parties (see section 5.4.3.B below) 
+5.4.3.A 
+Assessing the obligation related to cash calls or capital contributions 
+Questions have arisen as to whether parties would be considered ‘substantially the only source of cash 
+flows’ if they provide cash flows at inception of a joint arrangement, but are not expected to do so 
+thereafter, and no other parties are expected to provide cash flows until the end of an activity. 
+Alternatively, parties might provide cash flows through a series of ‘cash calls’ throughout the arrangement. 
+When a party is liable only to the extent of an obligation to contribute unpaid or additional capital to a joint 
+arrangement, that is an indicator that the arrangement is a joint venture. [IFRS 11.B27]. 
+How we see it 
+Notwithstanding IFRS 11.B27, in our view, the provision of cash flows at the inception of a joint 
+arrangement, and/or the expectation that no other parties will provide cash flows until the end of an 
+activity, are not conclusive in determining whether the party has rights to the net assets. That is, it is not 
+conclusive whether the joint arrangement is a joint operation or a joint venture (see Illustration 5-2 below). 
+ 
+Illustration 5-2: 
+Construction and real estate sales 
+Two parties established a separate vehicle over which they have joint control. Neither the legal form nor the 
+contractual terms of the joint arrangement give the parties rights to the assets or obligations for the liabilities 
+of the arrangement. Other facts and circumstances are as follows: 
+• 
+The purpose of the joint arrangement is to construct a residential complex for selling residential units to 
+the public. 
+• 
+Contributed equity by the parties is sufficient to purchase land and raise debt finance from third parties to 
+fund construction. 
+• 
+Sales proceeds will be used in the following priority: 
+• 
+Repayment of external debt 
+• 
+Remaining profit distributed to parties 
+Analysis 
+Since there is a separate vehicle, and because neither the legal form nor the contractual terms of the joint 
+arrangement give the parties rights to the assets or obligations for the liabilities of the vehicle, the preliminary 
+analysis indicates that this is a joint venture. The fact that the parties are the only source of cash flows at 
+inception does not necessarily indicate that the parties have rights to the assets or obligations for the 
+liabilities. More information is needed and judgement will be required in determining whether this is a joint 
+venture or a joint operation. 
+Variation 
+The contributed equity is not sufficient to purchase the land and raise debt financing. There is an expectation 
+or requirement, that the parties will contribute cash to the joint arrangement through a series of cash calls. 
+The fact that the parties are expected to be a source of cash flows is not conclusive that the parties have 
+rights to the assets and/or obligations for the liabilities. More information is needed before concluding whether 
+this is a joint venture or a joint operation. 
+The above example includes the fact that third party financing is available to fund construction. In 
+March 2015, the IFRS IC considered the effect of third party financing on the classification of a joint 
+arrangement. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+937 
+Frequently asked questions 
+Question 5-3: 
+Does financing from a third party prevent a joint arrangement from being classified 
+as a joint operation? 
+No. The IFRS IC discussed how ‘other facts and circumstances’ should be applied to specific fact 
+patterns. It subsequently published an agenda decision confirming that, if the cash flows to the joint 
+arrangement from the sale of output to the parties, along with any other funding that the parties are 
+obliged to provide, satisfy the joint arrangement’s liabilities, then third party financing alone would not 
+affect the classification of the joint arrangement. This conclusion is appropriate irrespective of whether 
+the financing occurs at inception or during the course of the joint arrangement’s operations. The IFRS IC 
+noted that in this situation, “the joint arrangement will, or may, settle some of its liabilities using cash 
+flows from third-party financing, but the resulting obligation to the third-party finance provider will, in 
+due course, be settled using cash flows that the parties are obliged to provide.” 
+5.4.3.B 
+Assessing the obligation to purchase all the output produced by the joint 
+arrangement 
+If the parties to the joint arrangement are obliged to purchase all the output produced by the joint 
+arrangement, the effect of the arrangement is that, in substance, the liabilities of the joint arrangement are 
+satisfied by the cash flows received from the parties. When the parties are substantially the only source of 
+cash flows contributing to the continuity of the operations of the arrangement, this indicates that the 
+parties have obligations for the liabilities of the arrangement. [IFRS 11.B32, IFRS 11.B32 Example 5]. 
+In March 2015, the IFRS IC discussed the following matters related to this assessment. 
+Frequently asked questions 
+Question 5-4: 
+Does the fact that the output from the joint arrangement is sold to the parties to the 
+joint arrangement at a market price prevent the joint arrangement from being classified as a joint 
+operation, when assessing other facts and circumstances? 
+No. The IFRS IC observed that the sale of output from the joint arrangement to the parties at market 
+price, on its own, is not a determinative factor for the classification of the joint arrangement. Instead, 
+the parties would need to exercise judgement and consider whether the cash flows provided to the joint 
+arrangement through the parties’ purchase of the output from the joint arrangement at market price, 
+along with any other funding that the parties are obliged to provide, would be sufficient to enable the 
+joint arrangement to settle its liabilities on a continuous basis. 
+Question 5-5: 
+Does the nature of the output (i.e., fungible versus bespoke or custom) produced by 
+the joint arrangement determine the classification of a joint arrangement when assessing other facts 
+and circumstances? 
+No. The IFRS IC noted that whether the output that is produced by the joint arrangement and purchased 
+by the parties is fungible or bespoke (or custom), is not a determinative factor for the classification of 
+the joint arrangement. IFRS 11 focuses rather on the existence of cash flows flowing from the parties to 
+satisfy the joint arrangement’s liabilities. 
+5.4.4 
+Comprehensive example illustrating evaluation of facts and circumstances 
+Illustration 5-3 below (summarised from Example 5 of IFRS 11) illustrates how the facts and circumstances 
+might indicate that the joint arrangement is a joint operation, even if the legal form and contractual terms 
+point towards the joint arrangement being a joint venture. [IFRS 11.B32, IFRS 11.B32 Example 5]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+938 
+Illustration 5-3: 
+Modification of legal form and contractual arrangement by facts and 
+circumstances 
+Companies A and B jointly establish a Corporation C, over which they have joint control. The legal form of C, 
+an incorporated entity, initially indicates that the assets and liabilities held in C are the assets and liabilities of 
+C. The contractual arrangement between the parties does not specify that the parties have rights to the assets 
+or obligations for the liabilities of C. Accordingly, the legal form of C and the terms of the contractual 
+arrangement indicate that the arrangement is a joint venture. 
+However, A and B agree to the following: 
+• 
+A and B will purchase all the output produced by C in a ratio of 50:50. 
+• 
+C cannot sell any of the output to third parties, unless A and B approve this. The purpose of the 
+arrangement is to provide A and B with the output they require, so sales to third parties are expected to 
+be uncommon and not material. 
+• 
+The price of the output sold to A and B is set by the parties at a level that is designed to cover the costs 
+of production and administrative expenses incurred by C. The arrangement is intended to operate at a 
+break-even level. 
+Analysis 
+• 
+The obligation of A and B to purchase all the output produced by C reflects the exclusive dependence of C 
+upon A and B for the generation of cash flows and, thus, implicitly that A and B have an obligation for the 
+liabilities of C. 
+• 
+The fact that A and B have rights to all the output produced by C means that they are consuming, and 
+therefore have rights to, all the economic benefits of the assets of C. 
+These facts and circumstances indicate that the arrangement is a joint operation. 
+Variation 1 
+If, instead of A and B using their share of the output themselves, they sold their share of the output to third 
+parties, C would still be a joint operation because C remains exclusively dependent on A and B for generation 
+of cash flows. 
+Variation 2 
+If A and B changed the terms of the contractual arrangement so that the arrangement was able to sell output 
+to third parties, this would result in C assuming demand, inventory and credit risks, such that A and B would 
+not have substantially all of the economic benefits of C’s assets. In this case, it is likely that the joint 
+arrangement would be a joint venture. 
+5.5 
+Illustrative examples accompanying IFRS 11 
+IFRS 11 provides several examples that illustrate aspects of IFRS 11, but are not intended to provide 
+interpretative guidance. The examples portray hypothetical situations illustrating the judgements that 
+might be used when applying IFRS 11 in different situations. [IFRS 11.IE1]. Illustration 5-4 to Illustration 5-9 
+are based on these illustrative examples accompanying IFRS 11. [IFRS 11.IE2-IE52, IFRS 11.IE Example 1-6]. 
+Illustration 5-4: 
+Construction services 
+Companies A and B (the parties) provide many types of public and private construction services. They set up a 
+contractual arrangement to design and construct a road between two cities for a government. The contractual 
+arrangement determines the participation shares of A and B and establishes joint control of the arrangement, 
+the purpose of which is the delivery of the road. 
+The parties set up a separate vehicle (Entity Z) through which to conduct the arrangement. On behalf of A and 
+B, Z enters into the contract with the government. In addition, the assets and liabilities relating to the 
+arrangement are held in Z. The main feature of Z’s legal form is that the parties, not Z, have rights to the 
+assets, and obligations for the liabilities, of Z. 
+The contractual arrangement between A and B also establishes that: 
+(a) The rights to all the assets needed to undertake the activities of the arrangement are shared by the 
+parties based on their participation shares in the arrangement. 
+(b) The parties have several and joint responsibility for all operating and financial obligations relating to the 
+activities of the arrangement based on their participation shares in the arrangement. 
+(c) The profit or loss resulting from the activities of the arrangement is shared by A and B based on their 
+participation shares in the arrangement. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+939 
+For the purposes of coordinating and overseeing the activities, A and B appoint an operator, who will be an 
+employee of one of the parties. After a specified time, the role of the operator will rotate to an employee of 
+the other party. A and B agree that the activities will be executed by the operator’s employees on a ‘no gain or 
+loss’ basis. 
+In accordance with the terms specified in the contract with the government, Z invoices the construction 
+services to the government on behalf of the parties. 
+Analysis 
+The joint arrangement is carried out through a separate vehicle whose legal form does not confer separation 
+between the parties and the separate vehicle (i.e., the assets and liabilities held in Z are the parties’ assets and 
+liabilities). This is reinforced by the terms agreed by the parties in their contractual arrangement, which state 
+that A and B have rights to the assets, and obligations for the liabilities, relating to the arrangement that is 
+conducted through Z. 
+The joint arrangement is a joint operation. 
+A and B each recognise in their financial statements their share of the assets (e.g., property, plant and 
+equipment (PP&E), accounts receivable) and their share of any liabilities resulting from the arrangement 
+(e.g., accounts payable to third parties) based on their agreed participation share. 
+Each also recognises its share of the revenue and expenses resulting from the construction services provided 
+to the government through Z. 
+ 
+Illustration 5-5: 
+Shopping centre operated jointly 
+Two real estate companies (the parties) set up a separate vehicle (Entity X) for acquiring and operating a 
+shopping centre. The contractual arrangement between the parties establishes joint control of the activities 
+that are conducted in X. The main feature of X’s legal form is that the entity, not the parties, has rights to the 
+assets, and obligations for the liabilities, relating to the arrangement. The activities include the rental of the 
+retail units, managing the car park, maintaining the centre and its equipment, such as lifts, and building the 
+reputation and customer base for the centre as a whole. 
+The terms of the contractual arrangement are such that: 
+(a) X owns the shopping centre. The contractual arrangement does not specify that the parties have rights to 
+the shopping centre. 
+(b) The parties are not liable in respect of the debts, liabilities or obligations of X. If X is unable to pay any of 
+its debts or other liabilities or to discharge its obligations to third parties, the liability of each party to any 
+third party will be limited to the unpaid amount of that party’s capital contribution. 
+(c) The parties have the right to sell or pledge their interests in X. 
+(d) Each party receives a share of the income from operating the shopping centre (which is the rental income 
+net of the operating costs) in accordance with its interest in X. 
+Analysis 
+The joint arrangement is carried out through a separate vehicle whose legal form causes the separate vehicle 
+to be considered in its own right (i.e., the assets and liabilities held in the separate vehicle are the assets and 
+liabilities of the separate vehicle and not the assets and liabilities of the parties). In addition, the terms of the 
+contractual arrangement do not specify that the parties have rights to the assets, or obligations for the 
+liabilities, relating to the arrangement. Instead, the terms of the contractual arrangement establish that the 
+parties have rights to the net assets of X. 
+Based on the description above, there are no other facts and circumstances that indicate that the parties have 
+rights to substantially all the economic benefits of the assets relating to the arrangement, and that the parties 
+have an obligation for the liabilities relating to the arrangement. 
+The joint arrangement is a joint venture. 
+The parties recognise their rights to the net assets of X as investments and account for them under IAS 28. 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+940 
+Illustration 5-6: 
+Joint manufacturing and distribution of a product 
+Companies A and B (the parties) have set up a strategic and operating agreement (the framework 
+agreement) that sets the terms by which they will conduct the manufacturing and distribution of product P 
+in different markets. 
+The parties have agreed to conduct manufacturing and distribution activities by establishing joint 
+arrangements, as described below: 
+(a) Manufacturing activity: the parties have agreed to undertake the manufacturing activity through a joint 
+arrangement (the manufacturing arrangement). The manufacturing arrangement is structured in a 
+separate vehicle (Entity M) whose legal form causes it to be considered in its own right (i.e., the assets 
+and liabilities held in M are the assets and liabilities of M and not the assets and liabilities of the parties). In 
+accordance with the framework agreement, the parties have committed themselves to purchasing the 
+whole production of product P manufactured by the manufacturing arrangement in accordance with their 
+ownership interests in M. The parties subsequently sell product P to another arrangement, jointly 
+controlled by the two parties themselves, that has been established exclusively for the distribution of 
+product P as described below. Neither the framework agreement nor the contractual arrangement 
+between A and B dealing with the manufacturing activity specifies that the parties have rights to the 
+assets, and obligations for the liabilities, relating to the manufacturing activity. 
+(b) Distribution activity: the parties have agreed to undertake the distribution activity through a joint 
+arrangement (the distribution arrangement). The parties have structured the distribution arrangement in 
+a separate vehicle (Entity D) whose legal form causes it to be considered in its own right (i.e., the assets 
+and liabilities held in D are the assets and liabilities of D and not the assets and liabilities of the parties). In 
+accordance with the framework agreement, the distribution arrangement orders its requirements for 
+product P from the parties according to the needs of the different markets where the distribution 
+arrangement sells the product. Neither the framework agreement nor the contractual arrangement 
+between A and B dealing with the distribution activity specifies that the parties have rights to the assets, 
+and obligations for the liabilities, relating to the distribution activity. 
+In addition, the framework agreement establishes: 
+(a) That the manufacturing arrangement will produce product P to meet the requirements for product P that 
+the distribution arrangement places on the parties 
+(b) The commercial terms relating to the sale of product P by the manufacturing arrangement to the parties. 
+The manufacturing arrangement will sell product P to the parties at a price agreed by A and B that covers 
+all production costs incurred. Subsequently, the parties sell the product to the distribution arrangement at 
+a price agreed by A and B 
+(c) That any cash shortages that the manufacturing arrangement may incur will be financed by the parties in 
+accordance with their ownership interests in M. 
+Analysis 
+The framework agreement sets up the terms under which parties A and B conduct the manufacturing and 
+distribution of product P. These activities are undertaken through joint arrangements whose purpose is either 
+the manufacturing or the distribution of product P. 
+The parties carry out the manufacturing arrangement through M whose legal form confers separation between 
+the parties and the entity. In addition, neither the framework agreement nor the contractual arrangement 
+dealing with the manufacturing activity specifies that the parties have rights to the assets, and obligations for 
+the liabilities, relating to the manufacturing activity. However, when considering the following facts and 
+circumstances the parties have concluded that the manufacturing arrangement is a joint operation: 
+(a) The parties have committed themselves to purchasing the whole production of product P manufactured 
+by the manufacturing arrangement. Consequently, A and B have rights to substantially all the economic 
+benefits of the assets of the manufacturing arrangement. 
+(b) The manufacturing arrangement manufactures product P to meet the quantity and quality needs of the 
+parties so that they can fulfil the demand for product P of the distribution arrangement. The exclusive 
+dependence of the manufacturing arrangement upon the parties for the generation of cash flows and the 
+parties’ commitments to provide funds when the manufacturing arrangement incurs any cash shortages 
+indicate that the parties have an obligation for the liabilities of the manufacturing arrangement, because 
+those liabilities will be settled through the parties’ purchases of product P or by the parties’ direct 
+provision of funds. 
+The parties carry out the distribution activities through D, whose legal form confers separation between the 
+parties and the entity. In addition, neither the framework agreement nor the contractual arrangement dealing 
+with the distribution activity specifies that the parties have rights to the assets, and obligations for the 
+liabilities, relating to the distribution activity. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+941 
+There are no other facts and circumstances that indicate that the parties have rights to substantially all the 
+economic benefits of the assets relating to the distribution arrangement or that the parties have an obligation 
+for the liabilities relating to that arrangement. 
+The distribution arrangement is a joint venture. 
+A and B each recognise in their financial statements their share of the assets (e.g., PP&E, cash) and their share 
+of any liabilities resulting from the manufacturing arrangement (e.g., accounts payable to third parties) based 
+on their ownership interest in M. Each party also recognises its share of the expenses resulting from the 
+manufacture of product P incurred by the manufacturing arrangement and its share of the revenues relating 
+to the sales of product P to the distribution arrangement. 
+The parties recognise their rights to the net assets of the distribution arrangement as investments and 
+account for them under IAS 28. 
+Variation 
+Assume that the parties agree that the manufacturing arrangement described above is responsible not only for 
+manufacturing product P, but also for its distribution to third party customers. 
+The parties also agree to set up a distribution arrangement, like the one described above, to distribute product 
+P exclusively to assist in widening the distribution of product P in additional specific markets. 
+The manufacturing arrangement also sells product P directly to the distribution arrangement. No fixed 
+proportion of the production of the manufacturing arrangement is committed to be purchased by, or to be 
+reserved to, the distribution arrangement. 
+Analysis 
+The variation has affected neither the legal form of the separate vehicle in which the manufacturing activity is 
+conducted nor the contractual terms relating to the parties’ rights to the assets, and obligations for the 
+liabilities, relating to the manufacturing activity. However, it causes the manufacturing arrangement to be a 
+self-financed arrangement because it can undertake trade on its own behalf, distributing product P to third 
+party customers and, consequently, assuming demand, inventory and credit risks. Even though the 
+manufacturing arrangement might also sell product P to the distribution arrangement, in this scenario the 
+manufacturing arrangement is not dependent on the parties to be able to carry out its activities on a 
+continuous basis. 
+In this case, the manufacturing arrangement is a joint venture. 
+The variation has no effect on the classification of the distribution arrangement as a joint venture. 
+The parties recognise their rights to the net assets of the manufacturing arrangement and their rights to the 
+net assets of the distribution arrangement as investments and account for them under IAS 28. 
+ 
+Illustration 5-7: 
+Bank operated jointly 
+Banks A and B (the parties) agreed to combine their corporate, investment banking, asset management and 
+services activities by establishing a separate vehicle (Bank C). Both parties expect the arrangement to benefit 
+them in different ways. A believes that the arrangement could enable it to achieve its strategic plans to 
+increase its size, offering an opportunity to exploit its full potential for organic growth through an enlarged 
+offering of products and services. B expects the arrangement to reinforce its offering in financial savings and 
+market products. 
+The main feature of C’s legal form is that it causes the separate vehicle to be considered in its own right 
+(i.e., the assets and liabilities held in the separate vehicle are the assets and liabilities of the separate vehicle 
+and not the assets and liabilities of the parties). A and B each have a 40% ownership interest in C, with the 
+remaining 20% being listed and widely held. The shareholders’ agreement between A and B establishes joint 
+control of the activities of C. In addition, A and B entered into an irrevocable agreement under which, even in 
+the event of a dispute, both banks agree to provide the necessary funds in equal amount and, if required, 
+jointly and severally, to ensure that C complies with the applicable legislation and banking regulations, and 
+honours any commitments made to the banking authorities. This commitment represents the assumption by 
+each party of 50% of any funds needed to ensure that C complies with legislation and banking regulations. 
+Analysis 
+The joint arrangement is carried out through a separate vehicle whose legal form confers separation between 
+the parties and the separate vehicle. The terms of the contractual arrangement do not specify that the parties 
+have rights to the assets, or obligations for the liabilities, of C, but it establishes that the parties have rights to 
+the net assets of C. The commitment by the parties to provide support if C is not able to comply with the 
+applicable legislation and banking regulations is not by itself a determinant that the parties have an obligation 
+for the liabilities of C. There are no other facts and circumstances that indicate that the parties have rights to 
+substantially all the economic benefits of the assets of C and that the parties have an obligation for the 
+liabilities of C. 
+The joint arrangement is a joint venture. 
+Both A and B recognise their rights to the net assets of C as investments and account for them under IAS 28. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+942 
+ 
+Illustration 5-8: 
+Oil and gas exploration, development and production activities 
+Companies A and B (the parties) set up a separate vehicle (Entity H) and a Joint Operating Agreement (JOA) to 
+undertake oil and gas exploration, development and production activities in country O. The main feature of H’s 
+legal form is that it causes the separate vehicle to be considered in its own right (i.e., the assets and liabilities 
+held in the separate vehicle are the assets and liabilities of the separate vehicle and not the assets and 
+liabilities of the parties). 
+Country O has granted H permits for the oil and gas exploration, development and production activities to be 
+undertaken in a specific assigned block of land (fields). 
+The shareholders’ agreement and JOA agreed by the parties establish their rights and obligations relating to 
+those activities. The main terms of those agreements are summarised below. 
+Shareholders’ agreement 
+The board of H consists of a director from each party. Each party has a 50% shareholding in H. The unanimous 
+consent of the directors is required for any resolution to be passed. 
+Joint Operating Agreement (JOA) 
+The JOA establishes an Operating Committee. This Committee consists of one representative from each party. 
+Each party has a 50% participating interest in the Operating Committee. 
+The Operating Committee approves the budgets and work programmes relating to the activities, which also 
+require the unanimous consent of the representatives of each party. One of the parties is appointed as 
+operator and is responsible for managing and conducting the approved work programmes. 
+The JOA specifies that the rights and obligations arising from the exploration, development and production 
+activities are shared among the parties in proportion to each party’s shareholding in H. In particular, the JOA 
+establishes that the parties share: 
+(a) The rights and the obligations arising from the exploration and development permits granted to H 
+(e.g., the permits, rehabilitation liabilities, any royalties and taxes payable) 
+(b) The production obtained 
+(c) All costs associated with all work programmes 
+The costs incurred in relation to all the work programmes are covered by cash calls on the parties. If either 
+party fails to satisfy its monetary obligations, the other is required to contribute to H the amount in default. 
+The amount in default is regarded as a debt owed by the defaulting party to the other party. 
+Analysis 
+The parties carry out the joint arrangement through a separate vehicle whose legal form confers separation 
+between the parties and the separate vehicle. The parties reversed the initial assessment of their rights and 
+obligations arising from the legal form of the separate vehicle in which the arrangement is conducted. They 
+have done this by agreeing terms in the JOA that entitle them to rights to the assets (e.g., exploration and 
+development permits, production, and any other assets arising from the activities) and obligations for the 
+liabilities (e.g., all costs and obligations arising from the work programmes) that are held in H. 
+The joint arrangement is a joint operation. 
+Both A and B recognise in their financial statements their own share of the assets and of any liabilities resulting 
+from the arrangement based on their agreed participating interest. On that basis, each party also recognises its 
+share of the revenue (from the sale of their share of the production) and its share of the expenses. 
+ 
+Illustration 5-9: 
+Liquefied natural gas arrangement 
+Company A owns an undeveloped gas field that contains substantial gas resources. Company A determines 
+that the gas field will be economically viable only if the gas is sold to customers in overseas markets. To do so, 
+a liquefied natural gas (LNG) facility must be built to liquefy the gas so that it can be transported by ship to the 
+overseas markets. 
+A enters into a joint arrangement with Company B to develop and operate the gas field and the LNG facility. 
+Under that arrangement, A and B (the parties) agree to contribute the gas field and cash, respectively, to a 
+new separate vehicle, C. In exchange for those contributions, the parties each take a 50% ownership interest in 
+C. The main feature of C’s legal form is that it causes the separate vehicle to be considered in its own right 
+(i.e., the assets and liabilities held in the separate vehicle are the assets and liabilities of the separate vehicle 
+and not the assets and liabilities of the parties). 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+943 
+The contractual arrangement between the parties specifies that: 
+(a) A and B must each appoint two members to the board of C. The board of directors must unanimously 
+agree the strategy and investments made by C. 
+(b) Day-to-day management of the gas field and LNG facility, including development and construction 
+activities, will be undertaken by the staff of B in accordance with the directions jointly agreed by the 
+parties. C will reimburse B for the costs it incurs in managing the gas field and LNG facility. 
+(c) C is liable for taxes and royalties on the production and sale of LNG as well as for other liabilities incurred 
+in the ordinary course of business, such as accounts payable, site restoration and decommissioning 
+liabilities. 
+(d) A and B have equal shares in the profit from the activities carried out in the arrangement and are entitled 
+to equal shares of any dividends distributed by C. 
+The contractual arrangement does not specify that either party has rights to the assets, or obligations for the 
+liabilities, of C. 
+The board of C decides to enter into a financing arrangement with a syndicate of lenders to help fund the 
+development of the gas field and construction of the LNG facility. The estimated total cost of the development 
+and construction is CU1,000m. 
+The lending syndicate provides C with a CU700m loan. The arrangement specifies that the syndicate has 
+recourse to A and B only if C defaults on the loan arrangement during the development of the field and 
+construction of the LNG facility. The lending syndicate agrees that it will not have recourse to A and B once the 
+LNG facility is in production because it has assessed that the cash inflows that C should generate from LNG 
+sales will be sufficient to meet the loan repayments. Although at this time the lenders have no recourse to A 
+and B, the syndicate maintains protection against default by C by taking a lien on the LNG facility. 
+Analysis 
+The joint arrangement is carried out through a separate vehicle whose legal form confers separation between 
+the parties and the separate vehicle. The terms of the contractual arrangement do not specify that the parties 
+have rights to the assets, or obligations for the liabilities, of C, instead they establish that the parties have 
+rights to the net assets of C. The recourse nature of the financing arrangement during the development of the 
+gas field and construction of the LNG facility (i.e., A and B providing separate guarantees during this phase) 
+does not, by itself, impose on the parties an obligation for the liabilities of C (i.e., the loan is a liability of C). A 
+and B have separate liabilities, which are their guarantees to repay that loan if C defaults during the 
+development and construction phase. 
+There are no other facts and circumstances that indicate that the parties have rights to substantially all the 
+economic benefits of the assets of C and that the parties have an obligation for the liabilities of C. 
+The joint arrangement is a joint venture. The parties recognise their rights to the net assets of entity C as 
+investments and account for them under IAS 28. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+944 
+6 
+Accounting for joint operations 
+Extract from IFRS 11 
+20 
+A joint operator shall recognise in relation to its interest in a joint operation: 
+(a) 
+its assets, including its share of any assets held jointly; 
+(b) 
+its liabilities, including its share of any liabilities incurred jointly; 
+(c) 
+its revenue from the sale of its share of the output arising from the joint operation; 
+(d) 
+its share of the revenue from the sale of the output by the joint operation; and 
+(e) 
+its expenses, including its share of any expenses incurred jointly. 
+IFRS 11 requires each of these items to be accounted for in accordance with the applicable IFRS accounting 
+standard. [IFRS 11.20, IFRS 11.21]. Careful consideration must be given to the nature of the rights to the 
+assets, and the obligations for the liabilities (or the share of assets, liabilities, revenues, and expenses) if 
+any, of the joint operation (see section 6.3 below). 
+6.1 
+Joint arrangements not structured through a separate vehicle 
+For joint arrangements not structured through a separate vehicle, the contractual arrangement establishes 
+the parties’ rights to the assets, and obligations for the liabilities, relating to the arrangement, and the 
+parties’ rights to the corresponding revenues and obligations for the corresponding expenses. [IFRS 11.B16]. 
+A contractual arrangement often describes the nature of the activities that are the subject of the 
+arrangement and how the parties intend to undertake those activities together. For example, the parties 
+could conduct an activity together, with each party being responsible for a specific task and each using its 
+own assets and incurring its own liabilities and the parties share revenues and expenses. In such a case, 
+each joint operator recognises in its financial statements the assets and liabilities used for the specific task 
+and recognises its share of the revenues and expenses in accordance with the contractual arrangement. 
+[IFRS 11.B17]. When the parties agree, for example, to share and operate an asset together and share the 
+output or revenue from the asset and operating costs, each joint operator accounts for its share of the joint 
+asset, its agreed share of any liabilities, and of the output, revenues and expenses in accordance with the 
+contractual arrangement. [IFRS 11.B18]. 
+6.2 
+Accounting for rights and obligations 
+An entity’s rights and obligations for the assets, liabilities, revenues and expenses relating to a joint 
+operation as specified in the contractual arrangement are the basis for accounting for a joint operation 
+under IFRS 11. This might differ from its ownership interest in the joint operation. [IFRS 11.BC38]. 
+When the joint operator has differing rights (and percentages) to various assets, and/or differing 
+obligations for various liabilities, these are reflected in its financial statements even when those rights and 
+obligations differ from the joint operator’s proportion of equity ownership. Illustration 6-1 below illustrates 
+joint operation accounting in this case. 
+Illustration 6-1: 
+Accounting for rights to assets and obligations for liabilities 
+Entities D and E establish Joint Arrangement F, using a separate vehicle, classified as a joint operation. 
+Accordingly, D and E account for their rights to assets and their obligations for liabilities relating to F in 
+accordance with the relevant IFRS accounting standard. 
+D and E each own 50% of the equity (e.g., shares) in F. However, the contractual terms of the joint 
+arrangement state that D has the rights to all of Building No. 1 and the obligation to pay all the third party debt 
+in F. D and E have rights to all other assets in F, and obligations for all other liabilities in F in proportion to their 
+equity interests (i.e., 50%). F’s balance sheet is as follows (in CUs): 
+Assets 
+  Liabilities and equity 
+  
+Cash  
+20 
+Debt  
+120 
+Building No. 1 
+120 
+Employee benefit plan obligation 
+50 
+Building No. 2 
+100 
+Equity 
+70 
+Total assets 
+240 
+Total liabilities and equity 
+240 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+945 
+Under IFRS 11, D records the following in its financial statements, to account for its rights to the assets in F 
+and its obligations for the liabilities in F. This differs from consolidating a blended percentage of all assets and 
+liabilities or using the equity ownership percentages. 
+Assets 
+  Liabilities and equity 
+  
+Cash  
+10 
+Debt (2) 
+120 
+Building No. 1 (1) 
+120 
+Employee benefit plan obligation 
+25 
+Building No. 2 
+50 
+Equity 
+35 
+Total assets 
+180 
+Total liabilities and equity 
+180 
+(1) Since D has the rights to all of Building No. 1, it records that amount in its entirety. 
+(2) D’s obligations are for the third party debt in its entirety. 
+6.3 
+Determining the relevant IFRS accounting standard 
+As noted in section 6 above, joint operators are required to recognise their rights to assets and their 
+obligations for liabilities in accordance with the relevant IFRS accounting standard. In some cases, the 
+relevant IFRS accounting standard is clear, but questions have arisen in other cases. 
+6.3.1 
+Right of use 
+The illustrative examples of joint operations in IFRS 11 refer to recognising the joint operator’s share of 
+assets, such as PP&E, accounts receivable and cash, rather than recognising a ‘right of use’. [IFRS 11.IE8, 
+IFRS 11.IE21]. Therefore, a joint operator recognises its share of an asset in accordance with IAS 16 Property, 
+Plant and Equipment or IAS 38 Intangible Assets, as applicable. When the contractual terms of the joint 
+operation provide a joint operator with a right to use an asset, not a share of the asset itself, the joint 
+operator applies IFRS 16 Leases (see Chapter 24). 
+6.3.2 
+Liability for entire balance of certain liabilities 
+One of the joint operators might have obligations for the entire balance of certain liabilities of the joint 
+operation. It might also have a right to reimbursement from the other parties for their share of that 
+liability of the joint operation. The joint operator recognises 100% of the joint operation’s liabilities and a 
+receivable for the reimbursement due from the other parties for their share of the liability. 
+IFRS accounting standards prohibit the offsetting of the liability against the receivable. If the other 
+parties were unable to pay, the joint operator would not be able to recognise a receivable for the full 
+amount due. Accordingly, the receivable would be impaired, which would result in a reduction in profit in 
+the joint operator’s financial statements. 
+This principle was emphasised in March 2019 when the IFRS IC finalised an agenda decision13 dealing with 
+liabilities in relation to a joint operator’s interest in a joint operation. In the fact pattern described in the 
+request, the joint operation is not structured through a separate vehicle. One of the joint operators, as the 
+sole signatory, enters into a lease contract with a third party lessor for an item of PP&E that will be 
+operated jointly as part of the joint operation’s activities. The joint operator that signed the lease contract 
+has the right to recover a share of the lease costs from the other joint operators in accordance with the 
+contractual arrangement to the joint operation. The request asked about the recognition of liabilities by the 
+joint operator that signed the lease agreement. In relation to its interest in a joint operation, a joint 
+operator recognises its liabilities, including its share of any liabilities incurred jointly. [IFRS 11.20(b)]. 
+Accordingly, a joint operator identifies and recognises both: 
+• 
+Liabilities it incurs in relation to its interest in the joint operation 
+• 
+Its share of any liabilities incurred jointly with other parties to the joint arrangement 
+Identifying the liabilities that a joint operator incurs and those incurred jointly requires an assessment of the terms 
+and conditions in all contractual agreements that relate to the joint operation, including consideration of the laws 
+pertaining to those agreements. The IFRS IC observed that the liabilities a joint operator recognises include those 
+for which it has primary responsibility. Based on this agenda decision, the joint operator that is the sole signatory 
+of the lease agreement recognises the full lease liability and corresponding right-of-use asset in its financial 
+statements. The agenda decision did not address how the joint operator accounts for its right to recover a share 
+of the lease costs from the other joint operators in accordance with the contractual arrangement to the joint 
+operation. The joint operator assesses the relevant IFRS accounting standard to apply to this right, for example, 
+whether it represents a sub-lease of the right-of-use asset to the other joint operators. 
+ 
+13 
+IFRIC Update, March 2019, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+946 
+6.3.3 
+Jointly and severally liable 
+In some cases, the joint arrangement (or legal form of the separate vehicle, if applicable) gives joint and 
+several liability for the obligations of the arrangement. That is, an entity is not only responsible for its 
+proportionate share, but it is also liable for the other party’s or parties’ share(s) should it/they be unable or 
+unwilling to pay. In this scenario, each party not only takes up its proportionate share of the 
+decommissioning/restoration obligation, they are also required to assess the likelihood that the other party 
+(or parties) will not be able or willing to meet their obligation for their share. The facts and circumstances 
+are assessed in each case and the liability accounted for in accordance with IAS 37 Provisions, Contingent 
+Liabilities and Contingent Assets. This can result in the joint operator recognising the entire obligation due, 
+not just its share of the obligation. 
+6.3.4 
+Obligation to reimburse other parties 
+A party to the joint arrangement that has an obligation to reimburse another party recognises a financial 
+liability for the amount related to the reimbursement. 
+6.3.5 
+Sales to other joint operators 
+A joint operator might receive income from sales to another joint operator (or operators) for providing 
+goods or services to the other joint operator(s). 
+If a joint operator provides goods or services to another joint operator, it assesses whether a 
+vendor/customer relationship exists. IFRS 15 Revenue from Contracts with Customers explains that a 
+contract with a collaborator or a partner in a joint arrangement could also be within the scope of IFRS 15 if 
+that collaborator or partner meets the definition of a customer for some or all of the terms of the 
+arrangement. [IFRS 15.BC55]. Therefore, judgement is applied to determine whether the income is in the 
+scope of IFRS 15, depending on the facts and circumstances, and if not, which IFRS accounting standard 
+applies. That is, the existence of a joint operation does not remove the need to determine whether IFRS 15 
+applies to an element of a contract that includes a joint arrangement. 
+6.3.6 
+Sales by a joint operation to a joint operator 
+A joint operation might have sales to the joint operator for providing output to the joint operator. This 
+scenario can raise the question as to whether the joint operator should recognise revenue for its share of 
+the following: 
+• 
+The joint operator’s revenue on the output that it has received from the joint operation 
+• 
+The output that it has not yet received, but is entitled to under the terms of the joint arrangement 
+Regarding the first question, in March 2015, the IFRS IC published an agenda decision14 that addressed the 
+issue of revenue recognition by a joint operator. If a joint arrangement is structured through a separate 
+vehicle, classified as a joint operation, the joint operators’ purchase of all the output from the joint 
+operation is in effect a sale to themselves. The IFRS IC stated that a joint operator recognises its share of 
+the joint operation’s revenue only when the joint operation sells its output to third parties (i.e., parties that 
+are not investors in the joint operation), see section 6.6 below. [IFRS 11.20(d)]. 
+Regarding the second question, in March 2019, the IFRS IC finalised an agenda decision15 dealing with the 
+recognition of revenue by a joint operator for output arising from a joint operation when the output it 
+receives in a reporting period is different from the output to which it is entitled. This is commonly known in 
+the oil and gas industry as an over-lift or under-lift (see Chapter 39 at section 12.4). 
+In the fact pattern described in the request, the joint operator has the right to receive a fixed proportion of 
+the output arising from the joint operation and is obliged to pay for a fixed proportion of the production 
+costs incurred. For operational reasons, the output received by the joint operator and transferred to its 
+customers in a particular reporting period is different from the output to which it is entitled. That difference 
+will be settled through future deliveries of output arising from the joint operation, it cannot be settled in 
+cash. Applying IFRS 15, the joint operator recognises revenue as a principal for the transfer of all the 
+output to its customers. 
+ 
+14 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+15 
+IFRIC Update, March 2019, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+947 
+A joint operator recognises its revenue from the sale of its share of the output arising from the joint 
+operation. [IFRS 11.20(c)]. Therefore, the IFRS IC concluded that, in the fact pattern described in the request, 
+the joint operator recognises revenue that depicts only the transfer of output to its customers in each 
+reporting period, i.e., revenue recognised applying IFRS 15. The joint operator does not recognise revenue 
+for the output to which it is entitled but which it has not received from the joint operation and sold. 
+The agenda decision did not address the cost of goods sold and hence diversity in practice will continue in this 
+respect. See Chapter 39 at section 12.4.2 and Chapter 28, Question 2-12 at section 2.5 for more detail. 
+6.4 
+Interest in a joint arrangement without joint control 
+A party without joint control (see section 4 above) is not a joint operator. However, if that party has rights 
+to assets and obligations for liabilities, the accounting is the same as that for a joint operator, as discussed 
+at section 6 above. [IFRS 11.23]. 
+If the party without joint control does not have rights to the assets and obligations for the liabilities relating 
+to the joint operation, it accounts for its interest in the joint operation in accordance with other applicable 
+IFRS accounting standards. [IFRS 11.23]. For example, if it has an interest in: 
+(a) A separate vehicle over which it has significant influence, it applies IAS 28 
+(b) A separate vehicle over which it does not have significant influence, the interest is a financial asset 
+under IFRS 9 
+Or 
+(c) An arrangement without a separate vehicle, it applies other applicable IFRS accounting standards (see 
+section 4.4.1 above) 
+The disclosure requirements of IFRS 12 are discussed in Chapter 14 at section 5. 
+6.5 
+Joint operation with a party without joint control 
+When a joint operation conducted through a separate vehicle involves a party without joint control (see 
+sections 4 and 6.4 above), each joint operator recognises its share of any assets held jointly and its 
+obligations for its share of any liabilities incurred jointly. A joint operator does not recognise the rights to 
+assets and obligations for the liabilities attributable to the party that does not have joint control nor does it 
+recognise a higher percentage with a ‘non-controlling interest’. Illustration 6-2 below illustrates this point. 
+Illustration 6-2: 
+Joint operation with a party without joint control 
+Entities A and B enter into a joint operation that is structured through a separate vehicle Z. Each of the two 
+entities owns 40% of the shares of the separate vehicle. The remaining 20% of Z is owned by C, which 
+participates in the joint arrangement but does not have joint control. C has rights to the assets and obligations 
+for the liabilities of Z. 
+Accordingly, A, B and C (see sections 6 and 6.4 above) recognise their assets, including their share of any 
+assets held jointly, and their liabilities, including their share of any liabilities incurred jointly, in accordance 
+with relevant IFRS accounting standards. 
+In A’s financial statements, it recognises its assets, liabilities, revenues and expenses in Z, which is 40% of Z’s 
+assets, liabilities, revenues and expenses, in accordance with the relevant IFRS accounting standard. A does 
+not recognise a ‘non-controlling interest’ related to C’s interest in Z. 
+6.6 
+Transactions between a joint operator and a joint operation 
+IFRS 11 addresses transactions such as the sale, contribution or purchase of assets between a joint 
+operator and a joint operation. [IFRS 11.22]. 
+When a joint operator enters into a transaction with its joint operation, such as a sale or contribution of 
+assets to the joint operation, the joint operator is transacting with the other parties to the joint operation. 
+The joint operator recognises gains and losses resulting from the transaction only to the extent of the other 
+parties’ interests in the joint operation. [IFRS 11.B34]. 
+When a joint operator sells to its joint operation, it does not recognise revenue for the portion that is 
+effectively sold to itself (see IFRS IC’s discussions referred to below and at section 6.3.6 above). The joint 
+operator applies IFRS 15 to assess whether revenue is recognised for the portion effectively sold to the 
+other parties to the joint operation. [IFRS 11.BC55]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+948 
+However, when these transactions provide evidence of a reduction in the net realisable value of the assets 
+to be sold or contributed to the joint operation, or of an impairment loss of those assets, those losses are 
+recognised fully by the joint operator. [IFRS 11.B35]. 
+When a joint operator enters into a transaction with its joint operation, such as a purchase of assets from 
+the joint operation, it does not recognise its share of the gains and losses until the it resells those assets to 
+a third party. [IFRS 11.B36]. 
+However, when these transactions provide evidence of a reduction in the net realisable value of the assets 
+to be purchased, or of an impairment loss of those assets, a joint operator recognises its share of those 
+losses. [IFRS 11.B37]. 
+When there is a transaction between a joint operator and a joint operation, consideration is given to 
+whether the transaction changes the nature of the joint operator’s rights to assets or obligations for 
+liabilities. Any such change is reflected in the joint operator’s financial statements and the new assets and 
+liabilities are accounted for in accordance with the relevant IFRS accounting standard. 
+As described at 6.3.6 above, in March 2015, the IFRS IC published an agenda decision16 on the recognition 
+of revenue by a joint operator in relation to output purchased from the joint operation. The sale of output 
+by the joint operation to the joint operator would mean selling to itself and therefore, the joint operator 
+does not recognise a share of the revenue from the sale of that output by the joint operation. 
+6.7 
+Accounting for a joint operation in separate financial statements 
+In the separate financial statements, both a joint operator and a party without joint control (see section 6.4 
+above) account for their interests in the same manner as accounting for a joint operation in consolidated 
+financial statements. Regardless of whether the joint operation is structured through a separate vehicle, 
+the party recognises in its separate financial statements: 
+• 
+Assets, including its share of any assets held jointly 
+• 
+Liabilities, including its share of any liabilities incurred jointly 
+• 
+Revenue from the sale of its share of the output arising from the joint operation 
+• 
+Its share of the revenue from the sale of the output by the joint operation 
+And 
+• 
+Expenses, including its share of any expenses incurred jointly [IFRS 11.26(a), IFRS 11.27(a)] 
+The guidance in sections 6 to 6.6 above also applies to accounting for joint operations in separate 
+financial statements. 
+ 
+16 
+IFRIC Update, March 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+949 
+7 
+Accounting for joint ventures 
+Extract from IFRS 11 
+24 
+A joint venturer shall recognise its interest in a joint venture as an investment and shall 
+account for that investment using the equity method in accordance with IAS 28 Investments 
+in Associates and Joint Ventures unless the entity is exempted from applying the equity 
+method as specified in that standard. 
+[IFRS 11.24]. 
+A joint venturer accounts for its interest in a joint venture in accordance with IAS 28, applying the equity 
+method unless an exemption in IAS 28 applies. [IFRS 11.24]. IFRS 11 does not describe how to apply the 
+equity method. The requirements of IAS 28, including the accounting for transactions between a joint 
+venturer and its joint venture, are discussed in Chapter 12. 
+As discussed in section 2.2.1 above, venture capital organisations, mutual funds, unit trusts and similar 
+entities, including investment-linked insurance funds, can choose to measure investments in joint ventures 
+at fair value or apply the equity method under IAS 28. This is a measurement exemption under IFRS 11 and 
+IAS 28 (see Chapter 12 at section 3.3). Such entities remain subject to the disclosure requirements for joint 
+ventures set out in IFRS 12 (see Chapter 14 at section 5). 
+Although the exemption in IAS 28 is optional for venture capital organisations and similar entities, IFRS 10 
+requires an ‘investment entity’ (as defined in IFRS 10) to elect the exemption from applying the equity 
+method in IAS 28 for its investments in associates and joint ventures. [IFRS 10.B85L(b)]. 
+7.1 
+Interest in a joint venture without joint control 
+IAS 28 applies when a party has significant influence over an entity, including when a party participates in a 
+joint venture without having joint control (see section 6.4 above). [IFRS 11.25]. 
+However, if the joint venture is structured through a separate vehicle that is not an entity (see section 5.1 
+above), IAS 28 does not apply and the investor applies the relevant IFRS accounting standard. 
+An investor in a joint venture that has neither joint control nor significant influence accounts for its interest 
+as a financial asset under IFRS 9. [IFRS 11.25]. 
+7.2 
+Contributions of non-monetary assets to a joint venture 
+When an entity contributes a non-monetary asset or liability to a joint venture in exchange for an equity 
+interest in the joint venture, it recognises the portion of the gain or loss attributable to the other parties to 
+the joint venture except when the contribution lacks commercial substance. This is discussed in more detail 
+in Chapter 12 at section 7.5. 
+When the contributed non-monetary asset is a subsidiary of an entity, a conflict arises between the 
+requirements of IAS 28 and IFRS 10. This is discussed in Chapter 12 at section 6.2.2 and in 
+section 8.2.3 below. 
+7.3 
+Accounting for a joint venture in separate financial statements 
+In its separate financial statements, a joint venturer accounts for its interest in the joint venture at cost, as 
+a financial asset under IFRS 9 or under the equity method. [IFRS 11.26(b), IAS 27.10]. The requirements for 
+separate financial statements are discussed in Chapter 9 at section 2. 
+In its separate financial statements, a party without joint control of a joint venture (see section 6.4 above) 
+accounts for its interest as a financial asset under IFRS 9, unless it has significant influence over the joint 
+venture. [IFRS 11.27(b)]. In this case, the joint venture is accounted for either at cost, as a financial asset 
+under IFRS 9 or using the equity method. [IAS 27.10]. 
+However, if an entity elects in accordance with IAS 28 to measure its investments in associates or joint 
+ventures at fair value through profit or loss in accordance with IFRS 9, it also accounts for those 
+investments in the same way in its separate financial statements. [IAS 27.11]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+950 
+7.4 
+Accounting by the joint venture in its financial statements 
+In its financial statements, the joint venture accounts for its activities using the applicable IFRS accounting 
+standard. 
+If a non-monetary asset is contributed by an investor (see section 7.2 above), the measurement of that 
+asset depends on the method of settlement. When the consideration given by the joint venture is its own 
+shares, the transaction is an equity-settled share-based payment transaction in the scope of IFRS 2 
+Share-based Payment. As a result, the joint venture measures the non-monetary asset received at its fair 
+value. When the consideration given by the joint venture is not its own shares, the transaction is outside 
+the scope of IFRS 2. 
+How we see it 
+When the transaction is outside the scope of IFRS 2, we believe the joint venture measures the non-
+monetary asset received at its cost, which is the fair value of the consideration given. In the rare cases 
+when the fair value of the asset received by the joint venture does not equal the fair value of the 
+consideration given (whether cash or shares), an assessment of all facts and circumstances is needed 
+to determine whether it is appropriate to recognise a capital contribution or whether other accounting 
+applies. These facts and circumstances include the actions and obligations of the other venturers, 
+other services provided by the venturer, future rebates on delivery of goods and relationships between 
+the venturers. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+951 
+8 
+Continuous assessment 
+IFRS 11 incorporates the notion of continuous assessment, consistent with the requirements in IFRS 10. 
+[IFRS 11.13, IFRS 11.19]. 
+Extract from IFRS 11 
+13 
+If facts and circumstances change, an entity shall reassess whether it still has joint control of 
+the arrangement. 
+19 
+If facts and circumstances change, an entity shall reassess whether the type of joint 
+arrangement in which it is involved has changed. 
+8.1 
+When to reassess under IFRS 11 
+A party reassesses whether it has joint control and whether the classification of the joint arrangement has 
+changed whenever facts and circumstances change. [IFRS 11.13, IFRS 11.19]. 
+Reassessment of a joint arrangement occurs upon a change in: 
+• 
+Ownership - For example, Company A has a 50% interest in a joint venture over which it has joint 
+control and purchases an additional 20% interest. Reassessment would be required to evaluate whether 
+A now controls the joint venture. 
+• 
+How activities are directed - For example, Company A sets up Company Z to develop a new product or 
+technology. Initially, Z had a Board of Directors elected by shareholders, separate management and 
+the relevant activities were directed by voting rights held exclusively by A. If A enters into an 
+agreement with Company B so that A and B must agree on all decisions (e.g., they replace the Board 
+and make decisions for management), reassessment would be required to evaluate whether A and B 
+have joint control of Z. 
+• 
+Legal form - For example, a separate vehicle that initially did not confer separation between the parties 
+and the vehicle (e.g., a general partnership) and was considered a joint operation, is converted into a 
+separate vehicle that now does confer separation between the parties and the vehicle (e.g., a 
+corporation). Reassessment would be required to evaluate whether this indicates a change in 
+classification from a joint operation to a joint venture. 
+• 
+Contractual terms - For example, the terms of a joint arrangement are renegotiated such that the 
+parties have rights to the assets or obligations for the liabilities. Reassessment would be required to 
+evaluate whether this indicates a change in classification to a joint operation. 
+• 
+Other facts and circumstances - For example, the terms and conditions of a joint operation are 
+renegotiated such that a joint arrangement can sell output to third party customers, where previously 
+sales were permitted only to the parties of the joint arrangement. Reassessment would be required to 
+evaluate whether this indicates a change in classification from a joint operation to a joint venture. 
+As discussed in section 5.3.1 above, another event that might trigger reassessment would be an event that 
+leads a guarantor to have to pay (or perform) under a guarantee. 
+8.1.1 
+Changes in classification 
+The accounting for changes in classification of a joint arrangement depends firstly on whether the 
+underlying assets and liabilities constitute a ‘business’ as defined in IFRS 3. Secondly, it depends on the 
+type of interest held before and after the change in classification occurred. Finally, it depends on whether 
+the change in classification is results from a change in ownership interest or other factors. 
+The matrix below provides a reference for additional guidance when there is a change in ownership interest 
+and the assets and liabilities meet the definition of a business. It contains references to general guidance 
+that is useful to consider when assessing the accounting for the transaction concerned. However, there are 
+several permutations possible for each transaction depending on the facts and circumstances and the 
+nature of the investor’s interest before and after the transaction. Therefore, the matrix is not intended to 
+serve as a comprehensive accounting analysis. The key questions that arise on these transactions are: 
+• 
+Is a cost-based approach or a fair value (IFRS 3) approach being used? 
+• 
+Is any previously held (retained) interest remeasured? 
+• 
+Is a profit on sale recognised and, if so, how is it measured? 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+952 
+Matrix of transactions involving changes of ownership interest in a joint arrangement that is a business 
+To: 
+Financial asset 
+Associate or joint 
+venture (equity 
+accounted) 
+Joint operation 
+Subsidiary 
+From: 
+Financial 
+asset 
+Not applicable to 
+joint arrangements 
+IFRS accounting 
+standards not clear 
+See section 8.2.5 
+below and 
+Chapter 12 at 
+section 6.2.3 
+IFRS accounting 
+standards not clear 
+See sections 8.3.1 
+and 8.3.4.A below 
+Not applicable to joint 
+arrangements 
+Associate 
+or 
+joint 
+venture 
+(equity 
+accounted) 
+IAS 28 and IFRS 9 
+See section 8.2.5 
+below and 
+Chapter 12 at 
+section 9.3 
+IAS 28 
+See section 8.2.4 
+below and 
+Chapter 12 at 
+sections 6.2.4, 
+6.2.5, 9.4 and 9.5 
+IFRS accounting 
+standards not clear 
+See sections 8.3.1 
+and 8.3.4.A below 
+IFRS 3 and IAS 28 
+See section 8.2.2 
+below, Chapter 12 at 
+section 9.1 and 
+Chapter 10 at 
+section 9 
+Joint 
+operation 
+IFRS accounting standards not clear 
+See section 8.3.4.A below 
+IFRS accounting 
+standards not clear 
+See sections 8.3.1 
+and 8.5.2 below 
+See section 8.3.2 
+below 
+Subsidiary 
+Not applicable to 
+joint arrangements 
+IFRS 10 and IAS 28 
+See section 8.2.3 
+below, Chapter 12 
+at section 6.2.2 
+and Chapter 8 at 
+section 3.3.2 
+IFRS accounting 
+standards not clear 
+See section 8.3.3 
+below and Chapter 8 
+at section 3.3.3  
+Not applicable to joint 
+arrangements 
+In sections 8.2 and 8.3 below, we discuss changes in ownership in joint ventures and joint operations that 
+constitute a business, respectively. 
+When there is a change in: 
+• 
+Ownership interest in a joint arrangement that is not a business, see section 8.4 below 
+• 
+Classification arising from circumstances other than a change in ownership interests, see section 8.5 below 
+8.2 
+Changes in ownership of a joint venture that constitutes a business 
+8.2.1 
+Acquisition of an interest in a joint venture 
+The acquisition of an interest in a joint venture that meets the definition of a business is accounted for 
+under IAS 28 (see Chapter 12 at section 6.2) and the procedures are similar to those applied to the 
+acquisition of a business in IFRS 3. 
+However, the formation of a joint venture that constitutes a business, in the financial statements of the 
+joint venture itself, is outside the scope of IFRS 3. [IFRS 3.2(a)]. 
+8.2.2 
+Gaining control over a former joint venture 
+If an entity gains control over a former joint venture, and the acquisition meets the definition of a business 
+combination, the entity applies IFRS 3 (see Chapter 10 at section 9). 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+953 
+8.2.3 
+Former subsidiary becomes a joint venture 
+Under IFRS 10, if a parent entity loses control of a subsidiary that constitutes a business in a transaction 
+that is not a downstream transaction (i.e., one between the investor and its joint venture), the retained 
+interest is remeasured at its fair value and this fair value becomes the cost on initial recognition of an 
+investment in the joint venture. [IFRS 10.25]. IFRS 10 requires any gain or loss on loss of control of the 
+subsidiary to be recognised in full. IAS 28 applies to downstream transactions between an investor and its 
+joint venture. IAS 28 requires an investor to restrict any gain arising on disposal of its own assets to the 
+amount attributable to the other party to the joint venture (see section 7.2 above). That is, IAS 28 requires 
+partial gain recognition. Therefore, when a former subsidiary becomes a joint venture through a 
+downstream transaction, these requirements in IFRS 10 and IAS 28 conflict. This is discussed in greater 
+detail in Chapter 12 at section 6.2.2 and Chapter 8 at section 3.3.2.A. 
+In September 2014, the IASB issued Sale or Contribution of Assets between an Investor and its Associate or 
+Joint Venture (amendments to IFRS 10 and IAS 28) to address the conflict between IFRS 10 and IAS 28.17 
+The amendments state that: 
+• 
+Partial gain or loss recognition for transactions between an investor and its associate or joint venture 
+applies only to a gain or loss resulting from the sale or contribution of assets that do not constitute a 
+business as defined in IFRS 3. 
+• 
+The gain or loss resulting from the sale or contribution of assets that constitute a business as defined 
+in IFRS 3, between an investor and its associate or joint venture is recognised in full. 
+In December 2015, the IASB deferred the effective date of these amendments indefinitely due to feedback 
+that the recognition of a partial gain or loss when a transaction involves assets that do not constitute a 
+business, even if these assets are housed in a subsidiary, is inconsistent with the initial measurement 
+requirements of IAS 28. This matter is discussed in more detail in Chapter 12 at section 6.2.2 including 
+illustrations of the different approaches. 
+8.2.4 
+Joint venture becomes an associate (or vice versa) 
+A joint venturer that loses joint control but retains an interest in an associate continues to apply the equity 
+method. An entity does not remeasure its retained interest in an associate when it loses joint control over a 
+joint venture. The same applies when an entity gains joint control over an associate that becomes an 
+investment in a joint venture. [IAS 28.24]. While the nature of the investor-investee relationship changes 
+upon changing from joint venture to associate (or vice versa), since the investment continues to be 
+accounted for using the equity method (i.e., there is no change in the measurement requirements) and 
+there is no change in the group, it is not an event that warrants remeasurement of the retained interest at 
+fair value. [IAS 28.BC30]. 
+If an entity’s ownership interest in an associate or a joint venture is reduced, but the equity method 
+continues to be applied, a gain or loss is recognised on partial disposal. This is discussed in more detail in 
+Chapter 12 at section 9.5. 
+8.2.5 
+Joint venture becomes a financial asset (or vice versa) 
+If a joint venture becomes a financial asset, the measurement method changes. An entity measures its 
+retained interest in the financial asset at fair value, which becomes its fair value on initial recognition as a 
+financial asset. 
+The entity recognises in profit or loss any difference between: 
+(a) The fair value of any retained interest and any proceeds from disposing of a part interest in the joint venture 
+And 
+(b) The carrying amount of the interest in the joint venture at the date the equity method was discontinued 
+If a gain or loss previously recognised by the entity in OCI would be reclassified to profit or loss on the 
+disposal of the related assets or liabilities, IAS 28 requires the entity to reclassify the gain or loss from 
+equity to profit or loss when the equity method is discontinued. For example, gains and losses related to 
+foreign currency translation adjustments accumulated in equity would be reclassified to profit or loss. 
+[IAS 28.22, IAS 28.23]. This is also discussed in Chapter 12 at section 9.3. 
+When a financial asset becomes a joint venture, IAS 28 is unclear how to account for the step acquisition of 
+a joint venture. This is discussed in Chapter 12 at section 6.2.3. 
+ 
+17 
+Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (amendments to IFRS 10 and IAS 28), IASB, 
+September 2014. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+954 
+8.2.6 Disposal of its interest in a joint venture 
+When an entity disposes of its interest in a joint venture and loses joint control, it ceases to apply the 
+equity method as of that date. It also derecognises its interest and recognises any gain or loss upon sale, 
+as discussed in section 8.2.5 above. [IAS 28.22, IAS 28.23]. The entity uses the equity method up to the date 
+that the joint venturer disposes of its interest in the joint venture. I.e., it does not restate its financial 
+statements for the period (or the comparative period) as if it did not have joint control during the 
+reporting period. 
+8.2.7 
+Interest in a joint venture held for sale 
+When a joint venturer plans to dispose of all or part of its interest in a joint venture, it applies IFRS 5 (see 
+Chapter 5). The joint venturer continues to account for the retained interest in the joint venture (if any) 
+using the equity method until the disposal of the interest classified as held for sale occurs. This is because 
+an entity continues to have joint control over its entire interest in the joint venture until it disposes of that 
+interest. Upon disposal, it reassesses the nature of any retained interest and accounts for that interest 
+accordingly (e.g., as a financial asset if joint control is lost). [IAS 28.20]. 
+If an interest (or a portion of an interest) in a joint venture no longer meets the criteria to be classified as 
+held for sale, the interest is accounted for using the equity method retrospectively from the date of its 
+classification as held for sale. [IAS 28.21]. 
+These requirements are also discussed in Chapter 12 at section 4. 
+8.3 
+Changes in ownership of a joint operation that is a business 
+8.3.1 
+Acquisition of an interest in a joint operation 
+An entity that acquires an interest in a joint operation that is a business as defined in IFRS 3 is required to 
+apply, to the extent of its share, the principles of IFRS 3 and other IFRS accounting standards that do not 
+conflict with IFRS 11, which include: 
+(a) Measuring identifiable assets and liabilities at fair value, other than items for which exceptions are 
+given in IFRS 3 and other IFRS accounting standards 
+(b) Recognising acquisition-related costs as expenses in the periods in which the costs are incurred and the 
+services are received, with the exception that the costs to issue debt or equity securities are 
+recognised in accordance with IAS 32 Financial Instruments: Presentation and IFRS 9 
+(c) Recognising deferred tax assets and deferred tax liabilities that arise from the initial recognition of 
+assets or liabilities, except for deferred tax liabilities that arise from the initial recognition of goodwill 
+(d) Recognising as goodwill (or negative goodwill) any excess (or shortfall) of the consideration transferred 
+over the net amount of identifiable assets acquired and the liabilities assumed 
+(e) Testing for impairment a cash-generating unit to which goodwill has been allocated at least annually 
+and whenever there is an indication that the unit might be impaired, as required by IAS 36 Impairment 
+of Assets. [IFRS 11.B33A]. 
+In addition, the entity discloses the information that is required in those IFRS accounting standards in 
+relation to business combinations. 
+Although the acquisition of an interest in a joint operation does not meet the definition of a business 
+combination in IFRS 3, the IASB concluded that this was the most appropriate approach to account for an 
+acquisition of an interest in a joint operation whose activity meets the definition of a business, as defined in 
+IFRS 3. [IFRS 11.BC45E, IFRS 11.BC45F]. 
+The above approach also applies to the formation of a joint operation, but only if an existing business (as 
+defined in IFRS 3) is contributed by one of the parties that participates in the joint operation. In other 
+words, the above approach is not applied if the parties that participate in the joint operation contribute only 
+(groups of) assets that do not constitute businesses to the joint operation on its formation. [IFRS 11.B33B]. 
+The requirements apply to the acquisition of both the initial interest and additional interests in a joint 
+operation (while still maintaining joint control) in which the activity of the joint operation constitutes a 
+business. [IFRS 11.21A]. 
+If a joint operator increases its interest in a joint operation that is a business (as defined in IFRS 3) by 
+acquiring an additional interest while still retaining joint control, it does not remeasure its previously held 
+interest in that joint operation. [IFRS 11.B33C]. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+955 
+The requirements discussed above, to apply the principles of IFRS 3 and other relevant IFRS accounting 
+standards, do not apply to “the acquisition of an interest in a joint operation when the parties sharing joint 
+control, including the entity acquiring the interest in the joint operation, are under the common control of 
+the same ultimate controlling party or parties both before and after the acquisition, and that control is not 
+transitory.” [IFRS 11.B33D]. 
+8.3.2 
+Obtaining control or joint control over a joint operation that is a business 
+When a party to a joint operation obtains control over the joint operation that meets the definition of a 
+business, it applies the requirements for a business combination achieved in stages. This includes 
+remeasuring previously held interests in the assets and liabilities of the joint operation at fair value. In 
+doing so, the acquirer remeasures its entire previously held interest in the joint operation. [IFRS 3.42A]. 
+A party without joint control of a joint operation that is a business and that has rights to assets and 
+obligations for liabilities, might obtain joint control. In this scenario, in contrast to that described above, the 
+previously held interest in that joint operation is not remeasured. [IFRS 11.B33CA] 
+8.3.3 
+Former subsidiary becomes a joint operation 
+IFRS accounting standards are not clear about the accounting when an entity loses control of a subsidiary 
+and retains an interest in a joint operation. 
+In July 2016, the IFRS IC discussed this issue and noted that IFRS 11, which states that a joint operator 
+recognises gains and losses resulting from the transaction only to the extent of the other parties’ interests 
+in the joint operation [IFRS 11.B34] (see section 6.6 above) could be viewed as conflicting with the 
+requirements in IFRS 10, which specify that an entity remeasures any retained interest when it loses 
+control of a subsidiary. [IFRS 10.25]. The IASB decided not to add this issue to its agenda but instead to 
+recommend that the Board consider the issue at the same time the Board further considers the accounting 
+for the sale or contribution of assets to an associate or a joint venture. This application issue was identified 
+as part of the equity method project (see Chapter 12 at section 13). 
+How we see it 
+In our view, when a parent loses control over a subsidiary and retains an interest in a joint operation that 
+is a business, entities have an accounting policy choice whether or not to remeasure the retained interest 
+at fair value. 
+8.3.4 
+Joint operation becomes an associate or a financial instrument and vice versa 
+IFRS 11 does not explicitly address the accounting when a joint operation becomes an equity method 
+associate or a financial instrument and vice versa. A former joint operation could become an equity method 
+associate or financial instrument, for example, when a separate vehicle is accounted for as a joint operation 
+in accordance with IFRS 11 and then a change in ownership interest results in joint control being lost and 
+the separate vehicle being accounted for under IFRS 9 or IAS 28. In this scenario, it is generally appropriate 
+to derecognise the assets and liabilities previously recognised in accordance with IFRS 11 and account for 
+the new interest based on the applicable IFRS accounting standard at that date. 
+When an associate or financial instrument becomes a joint operation, it is not clear how the previously held 
+interest is accounted for, i.e., whether remeasured to fair value or not. 
+8.3.5 
+Disposal of interest in a joint operation 
+When an entity disposes of its interest in a joint operation, it ceases to account for the rights to assets and 
+obligations for liabilities and recognises any gain or loss as of the disposal date, in accordance with the 
+relevant IFRS accounting standard (see section 6 above). The only exception would be if the same rights to 
+assets or obligations for liabilities replaced that interest directly. In this case, there would be no change in 
+accounting, because, in both cases, the assets and liabilities are recognised in accordance with the relevant 
+IFRS accounting standard. 
+Consistent with the treatment of joint ventures (see section 8.2.6 above) an entity continues to reflect its 
+interest in a joint operation for the reporting period (and comparative period) in which it held that 
+interest. An entity does not restate its financial statements as if it never held the interest in the disposed 
+joint operation. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+956 
+8.3.6 
+Interest in a joint operation held for sale 
+When a joint operator plans to dispose of all or part of its interest in a joint operation, it applies IFRS 5 to 
+those assets and liabilities within the scope of IFRS 5 (see Chapter 5). 
+If an interest in a joint operation (or portion thereof) no longer meets the criteria to be classified as held for 
+sale, an entity restates the financial statements for the periods since classification as held for sale, (see 
+Chapter 5 at sections 2.2.5 and 4.2). [IFRS 5.28]. 
+8.4 
+Changes in ownership of a joint arrangement that does not 
+constitute a business 
+8.4.1 
+Joint operator obtains control or parties without joint control obtain joint 
+control 
+At its January 2016 meeting, the IFRS IC discussed whether previously held interests in the assets and 
+liabilities of a joint operation, which does not constitute a business, are remeasured when: 
+• 
+A joint operator or a party without joint control obtains control of a joint operation 
+And 
+• 
+A change of interests resulting in a party without joint control obtaining joint control over the joint 
+operation 
+The IFRS IC noted in an asset acquisition in which the asset or group of assets do not meet the definition of 
+a business, a cost-based approach is used and the existing assets generally are not remeasured (see 
+Chapter 10 at section 2.2.2). [IFRS 3.2(b)]. The IFRS IC also observed that it was not aware of significant 
+diversity in practice and, therefore, decided not to add this issue to its agenda.18 
+8.5 
+Changes in classification of a joint arrangement 
+8.5.1 
+Equity method joint venture becomes a joint operation and vice versa 
+IFRS 11 does not explicitly address the accounting when an equity method joint venture becomes a joint 
+operation, or vice versa. For example, when a separate vehicle is accounted for as a joint venture under IAS 
+28 and then a change in the terms governing the arrangement result in the separate vehicle being 
+accounted for as a joint operation. In this scenario, it is generally appropriate to derecognise the equity 
+method joint venture and recognise the joint operation in accordance with IFRS 11 and section 8.3.1 above. 
+IFRS accounting standards are not clear how the previously held interest is accounted for. 
+When a joint operation becomes a joint venture, as described at section 8.3.5 above, the joint operator 
+ceases to account for the rights to assets and obligations for liabilities and recognises any gain or loss as of 
+the disposal date, in accordance with the relevant IFRS accounting standard. The equity method joint 
+venture is recognised in accordance with IAS 28. 
+8.5.2 
+The rights to assets or obligations for liabilities of a joint operation change 
+A joint operator’s rights to assets or obligations for liabilities could change, for example, when other 
+operators obtain rights to the assets or assume obligations for those liabilities or when joint operators 
+amend the terms governing their rights to assets or obligations for liabilities. To account for such changes, 
+the joint operator generally: 
+• 
+Derecognises the relevant portion of the assets and liabilities 
+• 
+Recognises the fair value of any consideration received 
+• 
+Recognises the resulting gain or loss 
+• 
+Recognises any rights to assets it acquires from other joint operators and obligations it assumes from 
+other joint operators or from the joint arrangement itself 
+ 
+18 
+IFRIC Update, January 2016, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+957 
+9 
+Disclosures 
+The disclosure requirements regarding joint arrangements accounted for under IFRS 11 are included in 
+IFRS 12 and are discussed in Chapter 14 at section 5. IFRS 12 combines the disclosure requirements for an 
+entity’s interests in subsidiaries, joint arrangements, associates and structured entities into one 
+comprehensive disclosure standard. 
+In May 2024, the IASB issued IFRS 19 Subsidiaries without Public Accountability: Disclosures, a voluntary 
+IFRS accounting standard for use by eligible subsidiaries that prepare financial statements applying IFRS 
+accounting standards. IFRS 19 specifies which disclosure requirements apply to a subsidiary that does not 
+have public accountability and whose parent produces consolidated financial statements that comply with 
+IFRS accounting standards and are available for public use. IFRS 19 is effective for annual reporting periods 
+beginning on or after 1 January 2027, with earlier application permitted (subject to jurisdictional 
+endorsement). See Chapter 4 at section 7 for further details on IFRS 19. 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+958 
+10 Future developments 
+In September 2024, the IASB published an exposure draft19 addressing application issues relating to the 
+equity method of accounting, which is relevant to the accounting for joint ventures. This is discussed in 
+Chapter 12 at section 13. 
+ 
+ 
+ 
+19 
+Exposure Draft ED/2024/7: Equity Method of Accounting, available on the IFRS Foundation’s website. 
+ 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+959 
+Appendix A - Index of Illustrations 
+Illustration 3-1: 
+Master agreement for manufacturing and distribution 
+918 
+Illustration 3-2: 
+Agreements with control and joint control 
+918 
+Illustration 4-1: 
+Directing sequential activities separately 
+920 
+Illustration 4-2: 
+Directing sequential activities jointly 
+921 
+Illustration 4-3: 
+Protective rights and joint control 
+921 
+Illustration 4-4: 
+De facto agents in joint control 
+923 
+Illustration 4-5: 
+Role of a government 
+923 
+Illustration 4-6: 
+Ultimate decision-making authority - no joint control (1) 
+924 
+Illustration 4-7: 
+Ultimate decision-making authority - no joint control (2) 
+925 
+Illustration 4-8: 
+Joint purchase of an aircraft 
+925 
+Illustration 4-9: 
+Layered agreements 
+926 
+Illustration 5-1: 
+Modification of legal form by contractual terms 
+931 
+Illustration 5-2: 
+Construction and real estate sales 
+936 
+Illustration 5-3: 
+Modification of legal form and contractual arrangement by facts and 
+circumstances 
+938 
+Illustration 5-4: 
+Construction services 
+938 
+Illustration 5-5: 
+Shopping centre operated jointly 
+939 
+Illustration 5-6: 
+Joint manufacturing and distribution of a product 
+940 
+Illustration 5-7: 
+Bank operated jointly 
+941 
+Illustration 5-8: 
+Oil and gas exploration, development and production activities 
+942 
+Illustration 5-9: 
+Liquefied natural gas arrangement 
+942 
+Illustration 6-1: 
+Accounting for rights to assets and obligations for liabilities 
+944 
+Illustration 6-2: 
+Joint operation with a party without joint control 
+947 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+960 
+Appendix B - Index of Frequently asked questions 
+Question 2-1: 
+How does a joint operation that is a separate vehicle account for the assets 
+and liabilities of the joint operation in its financial statements? 
+916 
+Question 5-1: 
+How does an entity evaluate the other facts and circumstances when 
+classifying a joint arrangement that is structured through a separate vehicle 
+whose legal form causes the separate vehicle to be considered in its own 
+right? 
+933 
+Question 5-2: 
+Are constructive obligations considered when classifying a joint 
+arrangement? 
+934 
+Question 5-3: 
+Does financing from a third party prevent a joint arrangement from being 
+classified as a joint operation? 
+937 
+Question 5-4: 
+Does the fact that the output from the joint arrangement is sold to the parties 
+to the joint arrangement at a market price prevent the joint arrangement 
+from being classified as a joint operation, when assessing other facts and 
+circumstances? 
+937 
+Question 5-5: 
+Does the nature of the output (i.e., fungible versus bespoke or custom) 
+produced by the joint arrangement determine the classification of a joint 
+arrangement when assessing other facts and circumstances? 
+937 
+
+
+International GAAP® 2025 
+Chapter 13 
+Joint arrangements 
+961 
+Appendix C - Defined terms 
+Extract from IFRS 11 
+Appendix A 
+Defined terms 
+joint arrangement 
+An arrangement of which two or more parties have joint control. 
+joint control 
+The contractually agreed sharing of control of an arrangement, which 
+exists only when decisions about the relevant activities require the 
+unanimous consent of the parties sharing control. 
+joint operation 
+A joint arrangement whereby the parties that have joint control of the 
+arrangement have rights to the assets, and obligations for the 
+liabilities, relating to the arrangement. 
+joint operator 
+A party to a joint operation that has joint control of that joint 
+operation. 
+joint venture 
+A joint arrangement whereby the parties that have joint control of the 
+arrangement have rights to the net assets of the arrangement. 
+joint venturer 
+A party to a joint venture that has joint control of that joint venture. 
+party to a joint arrangement 
+An entity that participates in a joint arrangement, regardless of 
+whether that entity has joint control of the arrangement. 
+separate vehicle 
+A separately identifiable financial structure, including separate legal 
+entities or entities recognised by statute, regardless of whether those 
+entities have a legal personality. 
+ 

@@ -1,0 +1,608 @@
+[
+  {
+    "level": 1,
+    "title": "Introductory materials",
+    "start_page": 1,
+    "end_page": 0
+  },
+  {
+    "level": 2,
+    "title": "Cover",
+    "start_page": 1,
+    "end_page": 1
+  },
+  {
+    "level": 2,
+    "title": "International GAAP® 2025",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "level": 2,
+    "title": "About this book",
+    "start_page": 3,
+    "end_page": 3
+  },
+  {
+    "level": 2,
+    "title": "Preface",
+    "start_page": 4,
+    "end_page": 7
+  },
+  {
+    "level": 2,
+    "title": "Lists of chapters",
+    "start_page": 8,
+    "end_page": 9
+  },
+  {
+    "level": 2,
+    "title": "Abbreviations",
+    "start_page": 10,
+    "end_page": 14
+  },
+  {
+    "level": 2,
+    "title": "Authoritative literature",
+    "start_page": 15,
+    "end_page": 17
+  },
+  {
+    "level": 2,
+    "title": "Chapter 01 International GAAP",
+    "start_page": 18,
+    "end_page": 58
+  },
+  {
+    "level": 1,
+    "title": "IFRS accounting standards",
+    "start_page": 59,
+    "end_page": 46
+  },
+  {
+    "level": 2,
+    "title": "Chapter 02 The IASB’s Conceptual Framework",
+    "start_page": 47,
+    "end_page": 105
+  },
+  {
+    "level": 2,
+    "title": "Chapter 03 Presentation of financial statements and accounting policies – IAS 1",
+    "start_page": 106,
+    "end_page": 173
+  },
+  {
+    "level": 2,
+    "title": "Chapter 04 Presentation and Disclosure in Financial Statements - IFRS 18 and IFRS 19",
+    "start_page": 174,
+    "end_page": 255
+  },
+  {
+    "level": 2,
+    "title": "Chapter 05 Non-current assets held for sale and discontinued operations",
+    "start_page": 256,
+    "end_page": 293
+  },
+  {
+    "level": 2,
+    "title": "Chapter 06 First-time adoption",
+    "start_page": 294,
+    "end_page": 454
+  },
+  {
+    "level": 2,
+    "title": "Chapter 07 Consolidated financial statements",
+    "start_page": 455,
+    "end_page": 543
+  },
+  {
+    "level": 2,
+    "title": "Chapter 08 Consolidation procedures and non-controlling interests",
+    "start_page": 544,
+    "end_page": 621
+  },
+  {
+    "level": 2,
+    "title": "Chapter 09 Separate and individual financial statements",
+    "start_page": 622,
+    "end_page": 680
+  },
+  {
+    "level": 2,
+    "title": "Chapter 10 Business combinations",
+    "start_page": 681,
+    "end_page": 791
+  },
+  {
+    "level": 2,
+    "title": "Chapter 11 Business combinations under common control",
+    "start_page": 792,
+    "end_page": 832
+  },
+  {
+    "level": 2,
+    "title": "Chapter 12 Investments in associates and joint ventures",
+    "start_page": 833,
+    "end_page": 909
+  },
+  {
+    "level": 2,
+    "title": "Chapter 13 Joint arrangements",
+    "start_page": 910,
+    "end_page": 961
+  },
+  {
+    "level": 2,
+    "title": "Chapter 14 Disclosure of interests in other entities",
+    "start_page": 962,
+    "end_page": 1008
+  },
+  {
+    "level": 2,
+    "title": "Chapter 15 Fair value measurement",
+    "start_page": 1009,
+    "end_page": 1160
+  },
+  {
+    "level": 2,
+    "title": "Chapter 16 Foreign exchange",
+    "start_page": 1161,
+    "end_page": 1239
+  },
+  {
+    "level": 2,
+    "title": "Chapter 17 Hyperinflation",
+    "start_page": 1240,
+    "end_page": 1280
+  },
+  {
+    "level": 2,
+    "title": "Chapter 18 Intangible assets",
+    "start_page": 1281,
+    "end_page": 1371
+  },
+  {
+    "level": 2,
+    "title": "Chapter 19 Property, plant and equipment",
+    "start_page": 1372,
+    "end_page": 1435
+  },
+  {
+    "level": 2,
+    "title": "Chapter 20 Investment property",
+    "start_page": 1436,
+    "end_page": 1508
+  },
+  {
+    "level": 2,
+    "title": "Chapter 21 Impairment of fixed assets and goodwill",
+    "start_page": 1509,
+    "end_page": 1627
+  },
+  {
+    "level": 2,
+    "title": "Chapter 22 Borrowing costs",
+    "start_page": 1628,
+    "end_page": 1657
+  },
+  {
+    "level": 2,
+    "title": "Chapter 23 Inventories",
+    "start_page": 1658,
+    "end_page": 1688
+  },
+  {
+    "level": 2,
+    "title": "Chapter 24 Leases",
+    "start_page": 1689,
+    "end_page": 1801
+  },
+  {
+    "level": 2,
+    "title": "Chapter 25 Government grants",
+    "start_page": 1802,
+    "end_page": 1832
+  },
+  {
+    "level": 2,
+    "title": "Chapter 26 Service concession arrangements",
+    "start_page": 1833,
+    "end_page": 1900
+  },
+  {
+    "level": 2,
+    "title": "Chapter 27 Provisions, contingent liabilities and contingent assets",
+    "start_page": 1901,
+    "end_page": 1985
+  },
+  {
+    "level": 2,
+    "title": "Chapter 28 Revenue",
+    "start_page": 1986,
+    "end_page": 2366
+  },
+  {
+    "level": 2,
+    "title": "Chapter 29 Income taxes",
+    "start_page": 2367,
+    "end_page": 2529
+  },
+  {
+    "level": 2,
+    "title": "Chapter 30 Share-based payment",
+    "start_page": 2530,
+    "end_page": 2751
+  },
+  {
+    "level": 2,
+    "title": "Chapter 31 Employee benefits",
+    "start_page": 2752,
+    "end_page": 2829
+  },
+  {
+    "level": 2,
+    "title": "Chapter 32 Operating segments",
+    "start_page": 2830,
+    "end_page": 2869
+  },
+  {
+    "level": 2,
+    "title": "Chapter 33 Earnings per share",
+    "start_page": 2870,
+    "end_page": 2917
+  },
+  {
+    "level": 2,
+    "title": "Chapter 34 Events after the reporting period",
+    "start_page": 2918,
+    "end_page": 2937
+  },
+  {
+    "level": 2,
+    "title": "Chapter 35 Related party disclosures",
+    "start_page": 2938,
+    "end_page": 2971
+  },
+  {
+    "level": 2,
+    "title": "Chapter 36 Statement of cash flows",
+    "start_page": 2972,
+    "end_page": 3039
+  },
+  {
+    "level": 2,
+    "title": "Chapter 37 Interim financial reporting",
+    "start_page": 3040,
+    "end_page": 3121
+  },
+  {
+    "level": 2,
+    "title": "Chapter 38 Agriculture",
+    "start_page": 3122,
+    "end_page": 3181
+  },
+  {
+    "level": 2,
+    "title": "Chapter 39 Extractive industries",
+    "start_page": 3182,
+    "end_page": 3381
+  },
+  {
+    "level": 2,
+    "title": "Chapter 40 Financial instruments- Introduction",
+    "start_page": 3382,
+    "end_page": 3390
+  },
+  {
+    "level": 2,
+    "title": "Chapter 41 Financial instruments- Definitions and scope",
+    "start_page": 3391,
+    "end_page": 3437
+  },
+  {
+    "level": 2,
+    "title": "Chapter 42 Financial instruments- Derivatives and embedded derivatives",
+    "start_page": 3438,
+    "end_page": 3476
+  },
+  {
+    "level": 2,
+    "title": "Chapter 43 Financial instruments- Financial liabilities and equity",
+    "start_page": 3477,
+    "end_page": 3581
+  },
+  {
+    "level": 2,
+    "title": "Chapter 44 Financial instruments- Classification",
+    "start_page": 3582,
+    "end_page": 3655
+  },
+  {
+    "level": 2,
+    "title": "Chapter 45 Financial instruments- Recognition and initial measurement",
+    "start_page": 3656,
+    "end_page": 3688
+  },
+  {
+    "level": 2,
+    "title": "Chapter 46 Financial instruments:Subsequent measurement",
+    "start_page": 3689,
+    "end_page": 3733
+  },
+  {
+    "level": 2,
+    "title": "Chapter 47 Financial instruments:Impairment",
+    "start_page": 3734,
+    "end_page": 3900
+  },
+  {
+    "level": 2,
+    "title": "Chapter 48 Financial instruments- Derecognition",
+    "start_page": 3901,
+    "end_page": 3982
+  },
+  {
+    "level": 2,
+    "title": "Chapter 49 Financial instruments- Hedge accounting",
+    "start_page": 3983,
+    "end_page": 4200
+  },
+  {
+    "level": 2,
+    "title": "Chapter 50 Financial instruments- Presentation and disclosure",
+    "start_page": 4201,
+    "end_page": 4328
+  },
+  {
+    "level": 2,
+    "title": "Chapter 51 Insurance contracts",
+    "start_page": 4329,
+    "end_page": 4775
+  },
+  {
+    "level": 2,
+    "title": "Supplement IBOR Reform",
+    "start_page": 4776,
+    "end_page": 4611
+  },
+  {
+    "level": 1,
+    "title": "IFRS sustainability disclosure standards",
+    "start_page": 4612,
+    "end_page": 4611
+  },
+  {
+    "level": 2,
+    "title": "Chapter 52 General Requirements for Disclosure of Sustainability (IFRS S1)",
+    "start_page": 4612,
+    "end_page": 4707
+  },
+  {
+    "level": 2,
+    "title": "Chapter 53 Climate-related Disclosures (IFRS S2)",
+    "start_page": 4708,
+    "end_page": 4827
+  },
+  {
+    "level": 1,
+    "title": "General Index (index of key words)",
+    "start_page": 4828,
+    "end_page": 4828
+  },
+  {
+    "level": 2,
+    "title": "Introductory note",
+    "start_page": 4829,
+    "end_page": 4828
+  },
+  {
+    "level": 2,
+    "title": "A",
+    "start_page": 4829,
+    "end_page": 4829
+  },
+  {
+    "level": 2,
+    "title": "B",
+    "start_page": 4830,
+    "end_page": 4831
+  },
+  {
+    "level": 2,
+    "title": "C",
+    "start_page": 4832,
+    "end_page": 4836
+  },
+  {
+    "level": 2,
+    "title": "D",
+    "start_page": 4837,
+    "end_page": 4841
+  },
+  {
+    "level": 2,
+    "title": "E",
+    "start_page": 4842,
+    "end_page": 4848
+  },
+  {
+    "level": 2,
+    "title": "F",
+    "start_page": 4849,
+    "end_page": 4859
+  },
+  {
+    "level": 2,
+    "title": "G",
+    "start_page": 4860,
+    "end_page": 4860
+  },
+  {
+    "level": 2,
+    "title": "H",
+    "start_page": 4861,
+    "end_page": 4862
+  },
+  {
+    "level": 2,
+    "title": "IAS",
+    "start_page": 4863,
+    "end_page": 4872
+  },
+  {
+    "level": 2,
+    "title": "IFRIC",
+    "start_page": 4873,
+    "end_page": 4872
+  },
+  {
+    "level": 2,
+    "title": "IFRS",
+    "start_page": 4873,
+    "end_page": 4886
+  },
+  {
+    "level": 2,
+    "title": "I",
+    "start_page": 4887,
+    "end_page": 4894
+  },
+  {
+    "level": 2,
+    "title": "J",
+    "start_page": 4895,
+    "end_page": 4895
+  },
+  {
+    "level": 2,
+    "title": "K",
+    "start_page": 4896,
+    "end_page": 4895
+  },
+  {
+    "level": 2,
+    "title": "L",
+    "start_page": 4896,
+    "end_page": 4897
+  },
+  {
+    "level": 2,
+    "title": "M",
+    "start_page": 4898,
+    "end_page": 4898
+  },
+  {
+    "level": 2,
+    "title": "N",
+    "start_page": 4899,
+    "end_page": 4899
+  },
+  {
+    "level": 2,
+    "title": "O",
+    "start_page": 4900,
+    "end_page": 4901
+  },
+  {
+    "level": 2,
+    "title": "P",
+    "start_page": 4902,
+    "end_page": 4905
+  },
+  {
+    "level": 2,
+    "title": "Q",
+    "start_page": 4906,
+    "end_page": 4905
+  },
+  {
+    "level": 2,
+    "title": "R",
+    "start_page": 4906,
+    "end_page": 4907
+  },
+  {
+    "level": 2,
+    "title": "S",
+    "start_page": 4908,
+    "end_page": 4912
+  },
+  {
+    "level": 2,
+    "title": "T",
+    "start_page": 4913,
+    "end_page": 4913
+  },
+  {
+    "level": 2,
+    "title": "U",
+    "start_page": 4914,
+    "end_page": 4913
+  },
+  {
+    "level": 2,
+    "title": "V",
+    "start_page": 4914,
+    "end_page": 4914
+  },
+  {
+    "level": 2,
+    "title": "W",
+    "start_page": 4915,
+    "end_page": 4916
+  },
+  {
+    "level": 1,
+    "title": "Index of standards 2025",
+    "start_page": 4917,
+    "end_page": 4919
+  },
+  {
+    "level": 2,
+    "title": "Conceptual Framework",
+    "start_page": 4920,
+    "end_page": 4923
+  },
+  {
+    "level": 2,
+    "title": "IFRS accounting standards",
+    "start_page": 4924,
+    "end_page": 4986
+  },
+  {
+    "level": 2,
+    "title": "IAS Standards",
+    "start_page": 4987,
+    "end_page": 5023
+  },
+  {
+    "level": 2,
+    "title": "IFRIC Interpretations",
+    "start_page": 5024,
+    "end_page": 5028
+  },
+  {
+    "level": 2,
+    "title": "SIC Interpretations",
+    "start_page": 5029,
+    "end_page": 5029
+  },
+  {
+    "level": 2,
+    "title": "IFRS Practice Statements",
+    "start_page": 5030,
+    "end_page": 5030
+  },
+  {
+    "level": 2,
+    "title": "IFRS sustainability disclosure standards",
+    "start_page": 5031,
+    "end_page": 5035
+  },
+  {
+    "level": 1,
+    "title": "Back Cover",
+    "start_page": 5036,
+    "end_page": 5036
+  }
+]

@@ -1,0 +1,1943 @@
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2938 
+ 
+Chapter 35 
+Related party disclosures 
+ 
+Contents 
+Overview 
+2940 
+1 
+Introduction 
+2941 
+1.1 
+The related party issue 
+2941 
+1.2 
+Possible solutions 
+2941 
+1.2.1 
+Disclosure of related party transactions 
+2941 
+1.2.2 
+Remeasurement of related party transactions at fair values 
+2941 
+2 
+Objective and scope of IAS 24 
+2942 
+2.1 
+Objective and scope 
+2942 
+2.1.1 
+Objective 
+2942 
+2.1.2 
+Scope 
+2942 
+3 
+Defining related parties and related party transactions 
+2943 
+3.1 
+Identification of a related party and related party relationships 
+2943 
+3.1.1 
+Persons or close members of a person’s family that are related parties 
+2943 
+3.1.1.A 
+Control 
+2945 
+3.1.1.B 
+Joint control 
+2945 
+3.1.1.C 
+Significant influence 
+2945 
+3.1.1.D 
+Key management personnel 
+2945 
+3.1.2 
+Entities that are members of the same group 
+2946 
+3.1.3 
+Entities that are associates or joint ventures 
+2947 
+3.1.3.A 
+Joint operations 
+2948 
+3.1.4 
+Entities that are joint ventures of the same third party 
+2949 
+3.1.5 
+Entities that are joint ventures of a third party and associates of the same third 
+entity 
+2949 
+3.1.6 
+Post-employment benefit plans 
+2950 
+3.1.7 
+Entities under control or joint control of certain persons or close members of their 
+family 
+2951 
+3.1.8 
+Entities under significant influence of certain persons or close members of their 
+family 
+2952 
+3.1.9 
+Entities, or any member of the group of which they are a part, that provide key 
+management personnel services 
+2952 
+3.1.10 
+Government-related entities 
+2953 
+3.2 
+Direct and indirect relationships 
+2953 
+3.3 
+Parties that are not related parties 
+2954 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2939 
+4 
+Disclosure of controlling relationships 
+2956 
+4.1 
+Disclosable transactions 
+2957 
+4.2 
+Materiality 
+2958 
+4.3 
+Disclosure of key management personnel compensation 
+2958 
+4.3.1 
+Compensation 
+2959 
+4.3.2 
+Short-term employee benefits 
+2960 
+4.3.3 
+Post-employment benefits 
+2960 
+4.3.4 
+Other long-term benefits 
+2960 
+4.3.5 
+Termination benefits 
+2960 
+4.3.6 
+Share-based payment transactions 
+2960 
+4.3.7 
+Reporting entity part of a group 
+2961 
+4.3.8 
+Key management personnel compensated by other entities 
+2961 
+4.3.9 
+Illustrative disclosure of key management personnel compensation 
+2961 
+5 
+Disclosure of other related party transactions, including commitments 
+2962 
+5.1 
+Related party transactions requiring disclosure 
+2962 
+5.1.1 
+Aggregation of items of a similar nature 
+2962 
+5.1.2 
+Commitments 
+2963 
+5.2 
+Disclosures required for related party transactions, including commitments 
+2963 
+5.3 
+Disclosure of expense incurred with management entity 
+2966 
+6 
+Disclosures with government-related entities 
+2966 
+Appendix A - Index of Illustrations 
+2969 
+Appendix B - Defined terms 
+2970 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2940 
+Overview 
+This chapter addresses the requirements of IAS 24 Related Party Disclosures. IAS 24 defines related party 
+relationships and transactions and sets out the relevant disclosure requirements. It is important to note 
+that the standard does not address the accounting for such items; the transactions themselves are 
+accounted for under the relevant IFRS accounting standard. 
+The aim of IAS 24 is to ensure that an entity’s financial statements contain the disclosures necessary to 
+draw attention to the possibility that its financial position and profit or loss may have been affected by the 
+existence of related parties and by transactions and outstanding balances, including commitments, with 
+such parties. Related parties may enter into transactions and accept or demand terms which unrelated 
+parties would not. It is hard to assess whether a transaction is at fair value between related parties, as it 
+may never have been entered into, had it not been for the related party relationship. As a result, disclosure 
+of any such relationships, transactions, outstanding balances and commitments is important for users of an 
+entity’s financial statements to make an assessment of its financial position and profit and loss, as well as 
+the risks and opportunities to which that entity is exposed. 
+IAS 24 provides a wide-ranging definition of what constitutes a related party; a related party could be a 
+person or an entity that is related to the entity preparing its financial statements (reporting entity) if the 
+person or entity has control, joint control or significant influence over the reporting entity, or is a member 
+of the reporting entity’s key management personnel. 
+A related party transaction is defined in the standard as “a transfer of resources, services or obligations 
+between a reporting entity and a related party, regardless of whether a price is charged”. [IAS 24.9]. Should 
+an entity have related party transactions during the periods covered by the financial statements, it must 
+disclose the nature of the related party relationship as well as information about those transactions and 
+outstanding balances, including commitments, necessary for users to understand the potential effect of the 
+relationship on the financial statements. 
+IAS 24 also requires an entity to disclose key management personnel compensation in total, using 
+categories set out in the standard. 
+IAS 24 addresses related party disclosures for government-related entities; a reporting entity is exempt 
+from the majority of disclosure requirements in the Standard, if the related party is: 
+• 
+A government with control, joint control or significant influence over the reporting entity 
+• 
+Another entity that is a related party because the same government has control, joint control or 
+significant influence over both the reporting entities 
+However, if this exemption is applied, other disclosures are mandated. 
+What you need to know 
+• 
+IAS 24 is a disclosure standard only. Transactions within its scope are accounted for under the 
+relevant IFRS accounting standard. 
+• 
+A related party is a person or entity which is related to the entity that is preparing its financial 
+statements; IAS 24 provides a wide-ranging definition of what constitutes a related party. 
+• 
+Information must be disclosed about transactions, outstanding balances and commitments. 
+• 
+IAS 24 requires disclosure about key management personnel compensation. 
+• 
+IAS 24 addresses related party disclosures for government-related entities. 
+ 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2941 
+1 
+Introduction 
+Relationships and transactions between related parties are a normal feature of commerce and business. 
+Many entities carry on their business activities through subsidiaries, joint ventures, and associates and 
+there are inevitably transactions between these parties. The investor, in these circumstances, has the 
+ability to affect the financial and operating policies of the investee, through the presence of control, joint 
+control or significant influence. [IAS 24.5]. It is also common for entities under common control, which are 
+not a group for financial reporting purposes, to transact with each other. The disclosures considered 
+necessary in such circumstances are addressed by IAS 24. 
+Differences may exist between the IFRS accounting standards and US GAAP guidance on this topic, but 
+these are not addressed in this chapter as the standards are not converged. 
+1.1 
+The related party issue 
+The problems posed by related party relationships and transactions are described in IAS 24 as follows: 
+[IAS 24.6, IAS 24.7] 
+Extract from IAS 24 
+6 
+A related party relationship could have an effect on the profit or loss and financial position of an 
+entity. Related parties may enter into transactions that unrelated parties would not. For 
+example, an entity that sells goods to its parent at cost might not sell on those terms to another 
+customer. Also, transactions between related parties may not be made at the same amounts as 
+between unrelated parties. 
+7 
+The profit or loss and financial position of an entity may be affected by a related party 
+relationship even if related party transactions do not occur. The mere existence of the 
+relationship may be sufficient to affect the transactions of the entity with other parties. For 
+example, a subsidiary may terminate relations with a trading partner on acquisition by the parent 
+of a fellow subsidiary engaged in the same activity as the former trading partner. Alternatively, 
+one party may refrain from acting because of the significant influence of another - for example, a 
+subsidiary may be instructed by its parent not to engage in research and development. 
+1.2 
+Possible solutions 
+1.2.1 
+Disclosure of related party transactions 
+In response to the problem posed by related party transactions, IAS 24 requires disclosure of those 
+transactions, rather than an adjustment to the financial statements. IAS 24 is purely a disclosure standard 
+and does not establish any recognition or measurement requirements. Related party transactions are 
+accounted for in accordance with the requirements of the IFRS accounting standard applicable to the 
+transaction. The disclosures required by IAS 24 are in addition to those required by other IFRS accounting 
+standards. For example, a loan to a related party will also be subject to the disclosure requirements of 
+IFRS 7 Financial Instruments: Disclosures. This treatment of related party transactions and relationships 
+using disclosure, rather than requiring adjustment, is in line with the requirements of local accounting 
+standards in most jurisdictions. 
+The purpose of disclosing the information required by IAS 24 is to give users of financial statements 
+knowledge about transactions (for example, whether they are at arm’s length/fair value), outstanding 
+balances, including commitments, and relationships with related parties that may affect their assessment of 
+an entity’s operations, including assessments of the risks and opportunities facing an entity. [IAS 24.8]. 
+1.2.2 
+Remeasurement of related party transactions at fair values 
+An alternative solution to the problems posed by related party relationships and transactions would be to 
+adjust the financial statements by measuring related party transactions as if they occurred with an 
+independent third party and recognise any such transactions at an arm’s length price (i.e., fair value). 
+However, although it may be possible to do this, it is often not possible to establish what would have been 
+the terms of any non-arm’s length transaction, had it been negotiated on an arm’s length basis. This is 
+because, normally, no comparable transactions may have taken place and, in any event, the transaction 
+might never have taken place at all, if it had been negotiated at a different value. See Chapter 9 at 
+section 4 for a discussion of common control transactions in individual or separate financial statements and 
+Chapter 21 at section 12 for a discussion of considerations relating to impairment in group situations. As a 
+result of the difficulties outlined above, IAS 24 does not propose the remeasurement of related party 
+transactions at fair values, but only focusses on disclosures. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2942 
+2 
+Objective and scope of IAS 24 
+2.1 
+Objective and scope 
+2.1.1 
+Objective 
+IAS 24 states that its objective is as follows: [IAS 24.1] 
+Extract from IAS 24 
+Objective 
+1 
+The objective of this Standard is to ensure that an entity’s financial statements contain the 
+disclosures necessary to draw attention to the possibility that its financial position and profit or 
+loss may have been affected by the existence of related parties and by transactions and 
+outstanding balances, including commitments, with such parties. 
+Accordingly, IAS 24 requires disclosure of related party transactions and outstanding balances, including 
+commitments, together with the names of any parties who control the reporting entity. 
+2.1.2 
+Scope 
+IAS 24 applies in: 
+(a) Identifying related party relationships and transactions 
+(b) Identifying outstanding balances, including commitments, between an entity and its related parties 
+(c) Identifying the circumstances in which disclosure of the items in (a) and (b) is required 
+And 
+(d) Determining the disclosures to be made about those items [IAS 24.2] 
+IAS 24 explicitly requires disclosure of related party relationships, transactions and outstanding balances, 
+including commitments, in both the consolidated and separate financial statements of a parent or investors 
+with joint control of, or significant influence over, an investee presented in accordance with IFRS 10 
+Consolidated Financial Statements or IAS 27 Separate Financial Statements. The standard also applies to 
+individual financial statements. [IAS 24.3]. 
+All entities within a group that prepare their financial statements under IFRS accounting standards must 
+disclose, in those financial statements, related party transactions and outstanding balances with other 
+entities in the group. [IAS 24.4]. There are no disclosure exemptions for subsidiaries, or for parent companies 
+that produce separate financial statements, even where, those separate financial statements are issued 
+with the consolidated financial statements of the group of which they are a part. The IASB considers that 
+the financial statements of an entity that is part of a consolidated group may include the effects of 
+extensive intragroup transactions. Therefore, it concluded that the disclosures required by IAS 24 are 
+essential to understanding the financial position and financial performance of such an entity and should be 
+required for separate financial statements presented in accordance with IAS 27. [IAS 24.BC16]. The IASB also 
+believes that disclosure of intragroup transactions is essential because external users of the financial 
+statements need to be aware of the interrelationships between related parties, including the level of 
+support provided by related parties, to assist in their economic decisions. [IAS 24.BC17]. 
+IAS 24 notes that “intragroup related party transactions and outstanding balances are eliminated in the 
+preparation of consolidated financial statements of the group”. [IAS 24.4]. This implies that disclosure of 
+such transactions and balances is not required in the group’s consolidated financial statements since, so far 
+as those financial statements are concerned, such items do not exist. This would also apply to the parts of a 
+transaction which have been eliminated when applying equity accounting. However, transactions and 
+balances between an investment entity and those of its subsidiaries, which are held as part of an 
+investment portfolio, are measured at fair value through profit or loss and are not consolidated in 
+accordance with IFRS 10, should be disclosed in the consolidated financial statements. [IAS 24.4]. 
+Some jurisdictions may have local laws and regulations which require specific information to be disclosed 
+about particular related party transactions. These local requirements should be seen as incremental to, and 
+not a substitute for, the disclosure requirements of IAS 24. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2943 
+3 
+Defining related parties and related party transactions 
+A related party is defined as “a person or entity that is related to the entity that is preparing its financial 
+statements” (the ‘reporting entity’). [IAS 24.9]. The definition of related parties is reciprocal. The use of the 
+word ‘party’ means that the disclosure applies to both individuals and to entities. The factors considered in 
+the identification of a related party are consistent, whether the controlling party is a person or an entity. 
+With regard to entities, IAS 24 defines related parties more widely than simply the members of a group (as 
+defined in Appendix A of IFRS 10, i.e., a parent and its subsidiaries - see Chapter 7 at Appendix B). The 
+definition includes joint ventures and associates of the parent, joint ventures and associates of a parent’s 
+subsidiary and subsidiaries of an associate or a joint venture. 
+IAS 24 contains a multi-part definition of ‘related party’ and the following are related parties of the 
+reporting entity: 
+• 
+Certain persons or a close member of that person’s family (see section 3.1.1 below) 
+• 
+Entities that are members of the same group (see section 3.1.2 below) 
+• 
+Entities that are associates or joint ventures (see section 3.1.3 below) 
+• 
+Entities that are joint ventures of the same third party (see section 3.1.4 below) 
+• 
+Entities that are joint ventures of a third party and associates of the same third entity (see 
+section 3.1.5 below) 
+• 
+Post-employment benefit plans (see section 3.1.6 below) 
+• 
+Entities under control or joint control of certain categories of persons or close members of such a 
+person’s family (see section 3.1.7 below) 
+• 
+Entities under significant influence of certain categories of persons or close members of such a 
+person’s family (including a person who is a member of a key management personnel of the entity or of 
+a parent of the entity) (see section 3.1.8 below) 
+• 
+Entities, or any member of the group of which they are a part, that provide key management personnel 
+services (see section 3.1.9 below) 
+• 
+Government-related entities (see section 3.1.10 below) 
+The standard emphasises that attention should be directed to the substance of the relationship and not 
+merely the legal form. [IAS 24.10]. 
+A related party transaction is a transfer of resources, services or obligations between a reporting entity and 
+a related party, regardless of whether a price is charged. [IAS 24.9]. 
+3.1 
+Identification of a related party and related party relationships 
+3.1.1 
+Persons or close members of a person’s family that are related parties 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+A person or a close member of that person’s family is related to a reporting entity if 
+that person: 
+(i) 
+has control or joint control of the reporting entity; 
+(ii) 
+has significant influence over the reporting entity; or 
+(iii) 
+is a member of the key management personnel of the reporting entity or of a 
+parent of the reporting entity. 
+(b) 
+… 
+Close members of the family of a person are those family members who may be expected to 
+influence, or be influenced by, that person in their dealings with the entity and include: 
+(a) 
+that person’s children and spouse or domestic partner; 
+(b) 
+children of that person’s spouse or domestic partner; and 
+(c) 
+dependants of that person or that person’s spouse or domestic partner. 
+… 
+[IAS 24.9]. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2944 
+In May 2015, in response to a request to clarify the definition of a close member of the family of a person, 
+the IFRS IC observed that the definition: 
+• 
+Is expressed in a principle-based manner and involves the use of judgement to determine whether 
+members of the family of a person (including that person’s parents) are related parties or not 
+• 
+Includes a list of family members that are always considered close members of the family of a person 
+The IFRS IC further noted that the list of family members that are always considered close members is non-
+exhaustive and does not preclude other family members from being considered as close members of the 
+family of a person. Consequently, other family members, including parents or grandparents, could qualify 
+as close members of the family depending on the assessment of specific facts and circumstances. The 
+IFRS IC determined that neither an Interpretation nor an amendment to IAS 24 was necessary and 
+therefore, decided not to add this item to its agenda.1 
+Relationships involving a person or close family members as investors are shown in the following two 
+Illustrations, which are based on illustrative examples published by the IASB, which accompany, but are not 
+part of IAS 24. 
+Illustration 3-1: 
+Person as investor 
+ 
+Mrs X has an investment in Entity A and Entity B. 
+For Entity A’s financial statements, if Mrs X controls or jointly controls Entity A, Entity B is related to Entity A 
+when Mrs X has control, joint control or significant influence over Entity B or is a member of Entity B’s key 
+management personnel. 
+For Entity B’s financial statements, if Mrs X controls or jointly controls Entity A, Entity A is related to Entity B 
+when Mrs X has control, joint control or significant influence over Entity B, or is a member of Entity A’s key 
+management personnel. 
+However, if Mrs X has significant influence, but not control, over both Entity A and Entity B, Entities A and B 
+are not related to each other. 
+If Mrs X is a member of the key management personnel of both Entity A and Entity B, Entities A and B are not, in 
+the absence of any other indicator of a related party relationship, related to each other (see section 3.3 below). 
+ 
+Illustration 3-2: 
+Close members of the family holding investments 
+ 
+Mr X is the spouse of Mrs X. Mr X has an investment in Entity A and Mrs X has an investment in Entity B. 
+For Entity A’s financial statements, if Mr X controls or jointly controls Entity A, Entity B is related to Entity A 
+when Mrs X has control, joint control or significant influence over Entity B, or is a member of Entity B’s 
+management personnel. 
+For Entity B’s financial statements, if Mr X controls or jointly controls Entity A, Entity A is related to Entity B 
+when Mrs X has control, joint control or significant influence over Entity B, or is a member of Entity A’s key 
+management personnel. 
+If Mr X has significant influence (but not control or joint control) over Entity A and Mrs X has significant 
+influence (but not control or joint control) over Entity B, Entities A and B are not related to each other (see 
+section 3.3 below). 
+If Mr X is a member of the key management personnel of Entity A and Mrs X is a member of the key 
+management personnel of Entity B, Entities A and B are not, in the absence of any other indicator of a related 
+party relationship, related to each other (see section 3.3 below). 
+ 
+1 
+IFRIC Update, May 2015, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2945 
+3.1.1.A 
+Control 
+The definition of ‘control’ in IAS 24 is a cross-reference to the definition in IFRS 10 - see Chapter 7 at 
+Appendix B. IFRS 10 states that “an investor controls an investee when the investor is exposed, or has 
+rights, to variable returns from its involvement with the investee and has the ability to affect those returns 
+through its power over the investee”. [IFRS 10 Appendix A]. 
+3.1.1.B 
+Joint control 
+The definition of ‘joint control’ in IAS 24 is a cross-reference to the definition in IFRS 11 Joint 
+Arrangements. IFRS 11 defines joint control as “the contractually agreed sharing of control of an 
+arrangement, which exists only when decisions about the relevant activities require the unanimous consent 
+of the parties sharing control”. [IFRS 11 Appendix A]. 
+In the definition of a related party, a joint venture includes subsidiaries of the joint venture. [IAS 24.12]. 
+Therefore, for example, the subsidiary of a joint venture and the investor who has joint control are related 
+to each other. 
+3.1.1.C 
+Significant influence 
+The definition of ‘significant influence’ in IAS 24 is a cross-reference to the definition in IAS 28 Investments in 
+Associates and Joint Ventures. IAS 28 defines significant influence as “the power to participate in the financial 
+and operating policy decisions of the investee but is not control or joint control of those policies”. [IAS 28.3]. 
+In the definition of a related party, an associate includes subsidiaries of the associate. Therefore, for 
+example, the subsidiary of an associate and the investor who has significant influence over the associate 
+are related to each other. [IAS 24.12]. 
+3.1.1.D 
+Key management personnel 
+‘Key management personnel’ are those persons with authority and responsibility for planning, directing and 
+controlling the activities of an entity, directly or indirectly, including any director (whether executive or 
+otherwise) of that entity. [IAS 24.9]. A director of a reporting entity is automatically a member of key 
+management personnel, even if they are not paid for their services by the reporting entity - thus, a director 
+of a subsidiary is still a member of key management personnel of the subsidiary, even if their services are 
+paid for by the parent. 
+A related party includes all key management personnel of a reporting entity and of a parent of the reporting 
+entity. This means that all key management personnel of all parents (i.e., the immediate parent, any 
+intermediate parent and the ultimate parent) of a reporting entity are related parties of the reporting 
+entity. When the reporting entity’s financial statements represent a group, key management personnel of 
+subsidiaries might not be key management personnel of the group if those persons do not have the 
+authority or responsibility for planning, directing and controlling the activities of the group. 
+Some entities may have more than one level of key management. For example, some entities may have a 
+supervisory board, whose members have responsibilities similar to those of non-executive directors, as well 
+as a board of directors that sets the overall operating strategy. 
+How we see it 
+In our view, all members of either board constitute key management personnel, as both levels of management 
+have authority and responsibility for planning, directing and controlling the activities of the entity. 
+The definition of key management personnel is not restricted to directors. It also includes other individuals 
+with authority and responsibility for planning, directing and controlling the activities of an entity. The main 
+intention of the definition is presumably to ensure that key management personnel are identified because 
+of the role the individual performs for the entity, rather than the job title attributed to the individual. 
+Therefore, transactions with persons with responsibilities similar to those of directors, and the 
+compensation paid to such persons, do not escape disclosure simply because they are not named as 
+directors. For example, in some jurisdictions, a chief financial officer or a chief operating officer may not be 
+directors but could meet the definition of key management personnel. Other examples of the type of 
+persons who are not directors but may meet the definition of key management personnel include a 
+divisional chief executive or a director of a major trading subsidiary of the entity, but not of the entity itself, 
+who nevertheless does have the authority or responsibility for planning, directing and controlling the 
+activities of the reporting entity. A reference to individuals who are not directors in a reporting entity’s 
+business review or management commentary might indicate that those persons are considered to be key 
+management personnel. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2946 
+Key management personnel are normally employees of the reporting entity (or of another entity in the 
+same group). However, the definition does not restrict itself to employees. Therefore, seconded staff and 
+persons engaged under management or outsourcing contracts may also have a level of authority or 
+responsibility such that they are ‘key management personnel’. 
+The definition of key management personnel refers to ‘persons’. [IAS 24.9]. In IAS 24, a distinction is made 
+between a ‘person’ (a human being) and an entity (a company with legal rights and obligations). [IAS 24.9]. In 
+some jurisdictions, the term ‘person’ includes both a ‘corporate person’ (an artificial person, created by law, 
+such as a corporation) and a ‘natural person’ (a human being). Additionally, in some jurisdictions, a 
+corporate entity must by law have the authority and responsibility for planning, directing and controlling 
+the activities of an investment fund for the benefit of the fund’s investors in accordance with the fund’s 
+constitution and relevant statutes (i.e., the corporate entity is the body acting as key management 
+personnel). Before the clarification in 2013, key management personnel were only referred to as persons 
+and there was no acknowledgement that an entity could constitute key management personnel. To rectify 
+this, IAS 24 now clarifies that if a reporting entity receives key management personnel services from 
+another entity (described as a ‘management entity’) the disclosure requirements for key management 
+personnel compensation (see section 3.1.9 below) do not apply to the compensation paid or payable by the 
+management entity to the management entity’s employees or directors. [IAS 24.17A]. In other words, it is not 
+necessary to look through the management entity and disclose the compensation paid to the individuals 
+performing the role on behalf of the management entity. Instead, amounts incurred for the service fee paid 
+or payable by the reporting entity to the separate management entity for provision of key management 
+personnel services are disclosed. [IAS 24.18A]. As a result of identifying the management entity as a related 
+party of the reporting entity, other transactions with the management entity, such as loans, are also 
+disclosed by the reporting entity. 
+3.1.2 
+Entities that are members of the same group 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+The entity and the reporting entity are members of the same group (which 
+means that each parent, subsidiary and fellow subsidiary is related to the 
+others). 
+(ii) 
+… 
+The terms group, parent and subsidiary are defined in IFRS accounting standards as follows: 
+• 
+A group is “A parent and its subsidiaries.” 
+• 
+A parent is “An entity that controls one or more entities.” 
+• 
+A subsidiary is “An entity that is controlled by another entity.” [IFRS 10 Appendix A] 
+Therefore, all entities controlled by the same ultimate parent are related parties. This would include entities 
+where the reporting entity holds less than a majority of the voting rights, but which are subsidiaries as 
+defined in IFRS 10. Conversely, a group would not include entities where the reporting entity holds a 
+majority of the voting rights but which are not subsidiaries (for example, because the group does not have 
+control), though these could be related parties of the reporting entity as they may fall into other categories 
+of related party, such as associates. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2947 
+Illustration 3-3: 
+Entities that are members of the same group 
+ 
+Both Entity S and Entity A are subsidiaries of Entity H. Entities H, S and A are all related parties to each other 
+as they are members of the same group. 
+Related party disclosures will be required in the financial statements of Entity S in respect of transactions with 
+Entities H and A, in the financial statements of Entity A in respect of transactions with Entities H and S and in 
+the separate financial statements of Entity H in respect of transactions with Entities S and A. 
+3.1.3 
+Entities that are associates or joint ventures 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(ii) 
+One entity is an associate or joint venture of the other entity (or an associate or 
+joint venture of a member of a group of which the other entity is a member). 
+(iii) 
+… 
+IAS 28 defines an associate as “an entity over which the investor has significant influence”. [IAS 28.3]. 
+IFRS 11 defines a joint venture as “a joint arrangement whereby the parties that have joint control of 
+the arrangement have rights to the net assets of the arrangement” - see Chapter 13 at Appendix C. 
+[IFRS 11 Appendix A]. 
+Any entity that a reporting entity determines is an associate under IAS 28 or a joint venture under IFRS 11 is 
+a related party. All associates and joint ventures are related parties, whether they are accounted for under 
+the equity method or by another method. For example, where the investment is accounted for at fair value 
+through profit or loss under IFRS 9 Financial Instruments rather than under the equity method, such as 
+investments in associates or joint ventures held by a venture capital organisation, mutual fund, unit trust or 
+similar entity including unit-linked insurance funds, these are still related parties. Likewise, any reporting 
+entity that is an associate or joint venture of another entity must treat that investor entity as a related party. 
+As noted above, in the definition of a related party, an associate includes subsidiaries of the associate and a 
+joint venture includes subsidiaries of the joint venture. Therefore, for example, an associate’s subsidiary 
+and the investor that has significant influence over the associate are related to one another. [IAS 24.12]. 
+The definition also means that an associate of a reporting entity’s parent is also a related party of the 
+reporting entity. 
+However, the definition does not cause investors in a joint venture or an associate to be related to each 
+other (see sections 3 above and 3.3 below). Investors in joint operations (as defined in IFRS 11 - see 
+Chapter 13 at Appendix C) are also not related to each other. For the avoidance of doubt, two associates of 
+the same third party are not related to one another (see section 3.1 above). 
+The application of these requirements is shown in Illustration 3-4 below, which is based on an illustrative 
+example accompanying IAS 24. [IAS 24.IE4]. The example mainly focuses on the application of the 
+requirements to associate entities; for completeness all related parties are identified. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2948 
+Illustration 3-4: 
+Associates of the reporting entity’s group that are related parties 
+ 
+In Parent’s separate and consolidated financial statements: 
+Subsidiaries A, B, C and Associates 1 (including its subsidiary), 2 and 3 are related parties. Associate A is not a 
+related party. 
+For Subsidiary A’s financial statements: 
+Parent, Subsidiaries B and C and Associates 1 (including its subsidiary), 2 and 3 are related parties. Associate 
+A is not a related party. 
+For Subsidiary B’s consolidated or separate financial statements: 
+Parent, Subsidiaries A and C and Associates 1 (including its subsidiary), 2 and 3 are related parties. Associate 
+A is not a related party. 
+For Subsidiary C’s financial statements: 
+Parent, Subsidiaries A and B and Associates 1 (including its subsidiary), 2 and 3 are related parties. Associate 
+A is not a related party. 
+For the financial statements of Associates 1 (consolidated or separate), 2 and 3: 
+Parent and Subsidiaries A, B and C are related parties. Associates 1, 2 and 3 are not related to each other. 
+In addition: 
+For the separate financial statements of Associate 1: 
+Subsidiary 1 and Associate A are also related and for the consolidated financial statements of Associate 1, 
+Associate A is related. 
+For the financial statements of Subsidiary 1: 
+Associate 1, Associate A, Parent and Subsidiaries A, B and C are related parties. Associates 2 and 3 are not 
+related parties. This is because there is neither control nor joint control in either leg of the indirect 
+relationships between Associate 1 and Associates 2 and 3. 
+For the financial statements of Associate A: 
+Associate 1 and Subsidiary 1 are related. Parent, Subsidiaries A, B and C and Associates 2 and 3 are not 
+related parties, as there are indirect relationships between these entities and no control exists in any leg of 
+those indirect relationships, in respect of Associate A. 
+3.1.3.A 
+Joint operations 
+IAS 24 defines ‘joint ventures’ of the reporting entity as related parties. The definition of a joint venture in 
+IFRS 11 excludes joint operations, so that an investment in a joint operation is not a related party. The 
+exclusion of joint operations in is line with the IASB view that joint operations are part of the reporting 
+entity and therefore, a transaction with a joint operation is either a transaction by the reporting entity with 
+itself or a transaction with the other joint operator which would not be a related party unless it otherwise 
+met the related party definition in IAS 24 for some other reason (e.g., because it was an entity controlled 
+by a member of key management personnel). [IFRS 12.BC52]. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2949 
+3.1.4 
+Entities that are joint ventures of the same third party 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(iii) 
+Both entities are joint ventures of the same third party. 
+(iv) 
+… 
+This is illustrated by the following: 
+Illustration 3-5: 
+Entities that are joint ventures of the same third party 
+ 
+In this Illustration, Entities S and A are joint ventures of Entity H and are therefore related parties of one 
+another. Entity C, as a subsidiary of Entity A, is also a related party of Entity H and Entity S. 
+If, however, Entities S and A were associates (rather than joint ventures) of the Entity H, then they would not 
+be related parties, as there is no control in either leg of this indirect relationship (see section 3.2 below). The 
+Basis for Conclusions to IAS 24 explains that a distinction was made between joint ventures and associates 
+because the IASB considered that ‘significant influence’ was not as close a relationship as control or joint 
+control. [IAS 24.BC19(a)]. 
+As noted above, in the definition of a related party, a joint venture includes subsidiaries of the joint venture. 
+Therefore, a joint venture’s subsidiary and the investor that has joint control over the joint venture are 
+related parties of one another. [IAS 24.12]. 
+3.1.5 
+Entities that are joint ventures of a third party and associates of the same 
+third entity 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(iv) 
+One entity is a joint venture of a third entity and the other entity is an associate 
+of the third entity. 
+(v) 
+… 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2950 
+This definition treats joint ventures in a similar manner to subsidiaries as shown in Illustration 3-3 above 
+and therefore, an associate and a joint venture are related parties where they have an investor in common 
+and that investor has control over the one and joint control over the other. This is because joint control 
+exists in one leg of the indirect relationship between the investees. This is illustrated below: 
+Illustration 3-6: 
+Entities that are joint ventures and associates of the same third entity 
+ 
+Joint Venture A is a joint venture of Entity H and Associate B is an associate of Entity H. Therefore, Joint 
+Venture A and Associate B are related parties. 
+However, Entities Z and H are not related parties (see sections 3.2 and 3.3 below). 
+3.1.6 
+Post-employment benefit plans 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(v) 
+The entity is a post-employment benefit plan for the benefit of employees of 
+either the reporting entity or an entity related to the reporting entity. If the 
+reporting entity is itself such a plan, the sponsoring employers are also related 
+to the reporting entity. 
+(vii) 
+… 
+The definition is quite wide-ranging and includes post-employment benefit plans of any entity related to the 
+reporting entity. This includes, for example, post-employment benefit plans of an associate or joint venture 
+of the reporting entity or a post-employment benefit plan of an associate of the reporting entity’s parent. 
+The related party relationship would not extend to investment managers of the pension fund, provided that 
+their acting for the fund was the only relationship. Any fees paid by the sponsoring employers (for example, 
+to the investment manager) on behalf of the pension fund would be a related party transaction. ‘Sponsoring 
+employers’ is not defined in IFRS accounting standards, but is generally taken to mean the entity which has 
+a legal duty to ensure that funds are available in the pension fund when the payment of pensions falls due. 
+Sponsoring employers are also related parties of a post-employment benefit plan. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2951 
+3.1.7 
+Entities under control or joint control of certain persons or close members of 
+their family 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+A person or a close member of that person’s family is related to a reporting entity if 
+that person: 
+(i) 
+has control or joint control of the reporting entity; 
+(ii) 
+has significant influence over the reporting entity; or 
+(iii) 
+is a member of the key management personnel of the reporting entity or of a 
+parent of the reporting entity. 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(vi) 
+The entity is controlled or jointly controlled by a person identified in (a). 
+(vii) 
+… 
+This is intended to address situations in which an entity is controlled or jointly controlled by a person or close 
+family member of that person and that person or close family member also controls, jointly controls, has 
+significant influence over, or is a member of key management personnel of, the reporting entity or of a parent 
+of the reporting entity. The situation whereby one company owns another is covered by Illustration 3-3 above. 
+This is illustrated below: 
+Illustration 3-7: 
+Persons who control an entity and are a member of the key management 
+personnel of another entity 
+Mrs X has a 100% investment in Entity A and is a member of the key management personnel of Entity S. Entity 
+M has a 100% investment in Entity S. 
+ 
+For Entity S’s financial statements, Entity A is related to Entity S because Mrs X controls Entity A and is a 
+member of the key management personnel of Entity S. 
+For Entity S’s financial statements, Entity A would also be related to Entity S if Mrs X is a member of the key 
+management personnel of Entity M and not of Entity S. 
+This outcome would be the same if Mrs X had joint control over Entity A (if Mrs X only had significant influence 
+over Entity A and not control or joint control then Entities A and S would not be related parties). 
+For Entity A’s financial statements, Entity S is related to Entity A because Mrs X controls Entity A and is a 
+member of Entity S’s key management personnel. This outcome would be the same if Mrs X has joint control 
+over Entity A and would also be the same if Mrs X is a member of the key management personnel of Entity M 
+rather than Entity S (see section 3.1.8 below). Note that Entity M would also be a related party of Entity A in 
+this instance. 
+For Entity M’s consolidated financial statements, Entity A is a related party of the Group if Mrs X is a member 
+of the key management personnel of the Group. 
+For Entity M’s separate financial statements, Entity S is a related party. Further, Entity A will be a related party 
+if Mrs X is a member of the key management personnel of Entity M. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2952 
+3.1.8 
+Entities under significant influence of certain persons or close members of 
+their family 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+A person or a close member of that person’s family is related to a reporting entity if 
+that person: 
+(i) 
+has control or joint control of the reporting entity; 
+(ii) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(vii) 
+A person identified in (a)(i) has significant influence over the entity or is a 
+member of the key management personnel of the entity (or of a parent of the 
+entity). 
+(viii) … 
+This is the reciprocal of 3.1.7 and is illustrated in Illustration 3-7 above. 
+Entities that are significantly influenced by the same person or close member of that person’s family or who 
+simply share the same key management personnel are not related parties in the absence of any control or 
+joint control by those persons (see section 3.3 below). 
+3.1.9 
+Entities, or any member of the group of which they are a part, that provide 
+key management personnel services 
+An entity is related to a reporting entity if: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+… 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+… 
+(viii) The entity, or any member of a group of which it is a part, provides key 
+management personnel services to the reporting entity or to the parent of the 
+reporting entity. 
+… 
+This is intended to address situations in which an entity (described as a ‘management entity’), or a member of 
+its group, provides key management personnel services to the reporting entity (see sections 4.3 and 5.3 below) 
+and is most commonly seen in the fund management sector. It applies to the provision of key management 
+personnel services by the separate management entity. Staff acting for the management entity that are 
+responsible for planning, directing and controlling the activities of the reporting entity are not considered to be 
+key management personnel of the reporting entity. It is not necessary to look through the management entity 
+to determine natural persons (see section 3.1.1.D above) as key management personnel. [IAS 24.17A]. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2953 
+Illustration 3-8: 
+Entities that provide key management personnel (KMP) services to a reporting 
+entity 
+ 
+Entity C provides key management personnel services to Entity A. For Entity A’s financial statements, Entities 
+B, C and D are all related parties. 
+For the financial statements of Entities B, C and D, there is no related party relationship with Entity A. The 
+related party relationship between the management entity and the reporting entity is not symmetrical. In the 
+absence of any other indicator of a related party relationship, the reporting entity (Entity A) cannot affect the 
+management entity’s (Entity C’s) activities, financial position or profit or loss. 
+3.1.10 
+Government-related entities 
+A ‘government-related entity’ is an entity that is controlled, jointly controlled or significantly influenced by 
+a government. [IAS 24.9]. 
+‘Government’ in this context refers to government, government agencies and similar bodies whether local, 
+national or international. [IAS 24.9]. This is the same as the definition used in IAS 20 Accounting for 
+Government Grants and Disclosure of Government Assistance - see Chapter 25. The Board decided that it 
+would not provide a more comprehensive definition or additional guidance on how to determine what is 
+meant by ‘government’. In the Board’s view, a more detailed definition could not capture every conceivable 
+government structure across every jurisdiction. In addition, judgement is required by a reporting entity 
+when applying the definition because every jurisdiction has its own way of organising government-related 
+activities. [IAS 24.BC41]. This implies that there may well be diversity in practice across different jurisdictions 
+in defining what is meant by ‘government’. For jurisdictions with multiple levels of government, judgement 
+may be needed about whether parties controlled by different levels of government are related (for example, 
+state versus federal), notwithstanding that both controlling parties are government bodies. 
+Where an entity is controlled, jointly controlled or significantly influenced by a government, then 
+relationships, transactions and outstanding balances, including commitments, with that government are 
+related party transactions. Similarly, transactions and outstanding balances, including commitments, with 
+other entities controlled, jointly controlled or significantly influenced by that government are related party 
+transactions. Related party transactions with government-related entities are subject to certain disclosure 
+exemptions, with additional disclosure requirements depending on whether the transaction is individually 
+significant or collectively significant and its consequent effect on the financial statements. [IAS 24.26(b)(i), 
+IAS 24.26(b)(ii)]. These are discussed in section 6 below. 
+3.2 
+Direct and indirect relationships 
+As indicated in previous paragraphs, IAS 24 contains a multi-part definition of ‘related party’ and therefore, 
+the identification of all related parties in large groups can be complex. Moreover, IFRS 10 requires the 
+continuous reassessment of control (see Chapter 7 at section 9) and for practical reasons, this may be 
+difficult to execute in a timely manner. One possible way to address this complexity is to identify within a 
+group direct and indirect relationships of the reporting entity. A direct relationship is where one entity has 
+either control, joint control or significant influence over another entity (for example, a parent and a 
+subsidiary), whereas an indirect relationship is where two entities may share a common investor, but 
+neither entity has control, joint control or significant influence over the other entity (for example, two 
+subsidiaries in a group). 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2954 
+For direct relationships, if control, joint control or significant influence is present, a related party 
+relationship exists. [IAS 24.9(b)(i), IAS 24.9(b)(ii), IAS 24.9(b)(iii), IAS 24.9(b)(iv)]. However, for indirect relationships, 
+control or joint control must exist in one leg of that indirect relationship for a related party relationship to 
+exist. If only significant influence exists in both legs of the relationship, there is no related party 
+relationship. Thus, two associates with a common investor are related to that investor, but not to each 
+other. [IAS 24.IE7]. This is in contrast to a joint venture and an associate with a common investor, which will 
+be related to each other as joint control exists in one leg of that indirect relationship. [IAS 24.9(b)(iv)]. Two 
+investors with joint control over a joint venture are related to the joint venture, but not to each other. 
+[IAS 24.9(b)(ii), IAS 24.11(b)]. This is because joint control exists with regard to their relationship with the joint 
+venture, but there is no control relationship between the investors. The diagram below illustrates how the 
+concept of control is applied in the context of IAS 24. 
+Illustration 3-9: 
+The effect of the control concept in IAS 24 for direct and indirect relationships 
+ 
+ 
+3.3 
+Parties that are not related parties 
+Having included such a detailed definition of related parties, IAS 24 clarifies that the following are not 
+related parties: [IAS 24.11] 
+Extract from IAS 24 
+11 
+In the context of this Standard, the following are not related parties: 
+(a) 
+two entities simply because they have a director or other member of key management 
+personnel in common or because a member of key management personnel of one entity 
+has significant influence over the other entity. 
+(b) 
+two joint venturers simply because they share joint control of a joint venture. 
+(c) 
+(i) 
+providers of finance, 
+(ii) 
+trade unions, 
+(iii) 
+public utilities, and 
+(iv) 
+departments and agencies of a government that does not control, jointly control or 
+significant influence the reporting entity, 
+simply by virtue of their normal dealings with an entity (even though they may affect the 
+freedom of action of an entity or participate in its decision-making process). 
+(d) 
+a customer, supplier, franchisor, distributor or general agent with whom an entity 
+transacts a significant volume of business, simply by virtue of the resulting economic 
+dependence. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2955 
+The list above illustrates the application of the definition of ‘related party’ in IAS 24. Without the 
+illustrations, there may be a risk of a perception that a related party relationship exists, for example where 
+there is economic dependence on a single customer, but it is important to distinguish between control, as 
+defined in IFRS 10 (see Chapter 7 at sections 3 and 7, respectively) and applied in IAS 24 and economic 
+dependence, which is not relevant for an assessment of control. 
+These illustrations are relevant only for the precise situations described and there may be other reasons 
+why a party in the list above is a related party. Consider the following examples: 
+• 
+A water company that supplies the reporting entity is not a related party if the only link between the 
+two is the supply of water. If, however, the water company is also an associate of the reporting entity, 
+the exclusion does not apply; the two are related parties, and the transactions relating to the supply of 
+water are disclosed if material. 
+• 
+Two investors in the same entity are not related parties simply because one holds a controlling 
+interest, and the other shareholder (not in the group) holds a non-controlling interest in a subsidiary of 
+the group. Even if the investor holding the non-controlling interest exercises significant influence over 
+the subsidiary, provided it is not otherwise related to the controlling investor, it is not normally a 
+related party of the controlling investor. However, the non-controlling investor might have significant 
+influence over the group if the subsidiary was significant to the group in which case the group, 
+including the controlling investor and the non-controlling investor are related parties. 
+• 
+Two entities are not related parties simply because they share common key management personnel. 
+However, if the common member of key management personnel exerts control or joint control over 
+one or more of the entities then they are related parties. See sections 3.1.7 and 3.1.8 above. 
+• 
+An administrator, custodian, broker and fund manager of the same fund are not related parties, to 
+each other or to the fund to which they provide services simply because they each provide services to 
+the fund, even if any of the parties are economically dependent upon the income from such services. 
+However, any such party could meet the definition of ‘key management personnel’ of the fund if it 
+provides key management personnel services (see section 3.1.9 above). In addition, any shared 
+ownership (e.g., control, joint control, or significant influence) between such parties should be 
+evaluated to determine if the parties are related. 
+An interest in an unconsolidated structured entity as defined by IFRS 12 Disclosure of Interests in Other 
+Entities held by a reporting entity does not make the structured entity a related party to the reporting 
+entity unless it would otherwise meet the definition of a related party (for example, because the structured 
+entity is an associate of the reporting entity). 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2956 
+4 
+Disclosure of controlling relationships 
+IAS 24 asserts that, in order to enable users of financial statements to form a view about the effects of 
+related party relationships on an entity, it is appropriate to disclose the related party relationship when 
+control exists, irrespective of whether there have been transactions between the related parties. [IAS 24.14]. 
+Accordingly, IAS 24 requires an entity to disclose: 
+• 
+The name of its parent and, if different 
+• 
+The ultimate controlling party 
+If neither the entity’s parent nor the ultimate controlling party produces consolidated financial statements 
+available for public use, the name of the next most senior parent that does so must also be disclosed. 
+[IAS 24.13]. 
+The ‘next most senior parent’ is the first parent in the group above the immediate parent that produces 
+consolidated financial statements available for public use. [IAS 24.16]. Consequently, in some circumstances, 
+an entity may need to disclose the names of three parents. 
+Disclosure must be made even if the parent or ultimate controlling party does not prepare financial 
+statements. In the situation when the ultimate controlling party is an individual, rather than an entity, the 
+reporting entity is likely to have to disclose the name of the next most senior parent in addition since the 
+individual undoubtedly does not produce financial statements for public use. IAS 1 requires disclosure of 
+the ‘ultimate parent’ of the group. [IAS 1.138(c)]. This is not necessarily synonymous with the ‘ultimate 
+controlling party’ where that party is an individual. This is illustrated below. 
+Illustration 4-1: 
+Disclosure of parent, ultimate parent and ultimate controlling party 
+Entity S is controlled by Entity P which in turn is controlled by Entity H which in turn is controlled by Entity Y. 
+Mr A is the controlling party of Entity Y. Entities P and Y do not produce consolidated financial statements 
+available for public use. 
+The group structure is illustrated as follows: 
+ 
+For Entity S’s financial statements: 
+IAS 24 requires disclosure of Entity P (the parent), Entity H (the next most senior parent that produces 
+consolidated financial statements available for public use) and Mr A (the ultimate controlling party). In 
+addition, IAS 1 requires disclosure of Entity Y (the ultimate parent of the group). 
+For Entity P’s financial statements: 
+IAS 24 requires disclosure of Entity H (the parent) and Mr A (the ultimate controlling party). In addition, IAS 1 
+requires disclosure of Entity Y (the ultimate parent of the group). 
+For Entity H’s financial statements: 
+IAS 24 requires disclosure of Entity Y (the parent) and Mr A (the ultimate controlling party). IAS 1 does not 
+require any additional disclosure. 
+For Entity Y’s financial statements 
+IAS 24 requires disclosure of Mr A (ultimate controlling party). 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2957 
+The ultimate controlling party could be a group of individuals or entities acting together. IAS 24 is silent on 
+the issue of individuals or entities acting together to exercise joint control. However, IFRS 3 Business 
+Combinations states that a group of individuals can be regarded as a controlling party when, as a result of 
+contractual arrangements, they collectively have the power to govern that entity’s financial and operating 
+policies so as to obtain benefits from its activities. [IFRS 3.B2]. In such circumstances, these entities or 
+individuals should be identified as the controlling party. However, as discussed in section 3 above, IAS 24 
+emphasises that attention should be directed to the substance of any related party relationship and not 
+merely the legal form. It is likely that such an informal arrangement would at least give such individuals 
+acting collectively significant influence over the reporting entity and as such, those individuals would be 
+related parties to the reporting entity under IAS 24. 
+IAS 24 also clarifies that the requirement to disclose related party relationships between a parent and its 
+subsidiaries is in addition to the disclosure requirements of IAS 27 and IFRS 12. [IAS 24.15]. IAS 27 requires 
+a parent’s separate financial statements to disclose: 
+• 
+A list of the significant investments in subsidiaries, joint ventures and associates including the name, 
+place of business (and, if different, country of incorporation) 
+• 
+Proportion of ownership interest (and if different, proportion of voting power held) 
+• 
+A description of the method used to account for such investments - see Chapter 9 at section 3.1 
+IFRS 12 requires an entity to disclose information to enable users to understand the composition of a group 
+- see Chapter 14 at section 4.1. 
+4.1 
+Disclosable transactions 
+A related party transaction is defined as “a transfer of resources, services or obligations between a 
+reporting entity and a related party, regardless of whether a price is charged.” [IAS 24.9]. Read literally, this 
+definition requires many transactions to be disclosed more than once. For example, if an entity buys goods 
+on credit from a related party and pays for them 30 days later, both the original purchase and the final 
+payment represent a ‘transfer of resources’ ‘between a reporting entity and a related party’ and, therefore, 
+on a literal reading, are required to be separately disclosed. However, we doubt that this reading is the 
+IASB’s intention, and the nature of the disclosures required by IAS 24 seems to support this interpretation. 
+The definition of a related party transaction implies that transactions are disclosable only for the period in 
+which parties are related. For example, where a reporting entity has disposed of a subsidiary during the 
+reporting period, only transactions with the subsidiary up to the date of disposal are related party 
+transactions in the financial statements of the reporting entity. Similarly, if a person became a member of 
+key management personnel of a reporting entity during a reporting period, no disclosure is required of any 
+remuneration paid to that person before that person’s appointment as key management personnel. 
+Likewise, transactions with a party in the comparative period are not disclosable as related party 
+transactions if in the comparative period that party was not related to the reporting entity. Transactions 
+with a party are not disclosable in the current year if the related party relationship had ceased before the 
+beginning of the current period although, transactions in the comparative period are disclosed. 
+IAS 24 is unclear whether disclosure of outstanding balances at the reporting date is required in situations 
+where an entity ceases to be a related party during the reporting period. In such situations, one view is that 
+outstanding balances are not disclosable since the entity is not a related party as at the reporting date. A 
+second view is that if the outstanding balances as at the reporting date comprise of amounts related to the 
+transactions when the entities were related, such outstanding balances should be included in related party 
+disclosures. 
+How we see it 
+In our view, either view is acceptable. However, if an entity becomes a related party during the year, 
+outstanding balances as at the reporting date, that include amounts related to transactions entered into 
+when the entities were unrelated, are disclosable. 
+In the case that entities become related after the reporting date, but before the financial statements were 
+authorised for issue, it may be necessary to disclose the relationship, if it is considered by management to 
+be a material non-adjusting event, in accordance with IAS 10 Events after the Reporting Period - see 
+Chapter 34. [IAS 10.21]. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2958 
+There is no requirement in IAS 24 to disclose information about related party transactions in one 
+comprehensive note. However, it may be more useful to users of the financial statements to present 
+information this way. 
+IAS 1 requires that, except where a standard permits otherwise (which IAS 24 does not), comparative 
+information in respect of the previous period must be disclosed for all amounts reported in the current 
+period’s financial statements. [IAS 1.38]. This applies to all transactions for which a related party relationship 
+existed in the prior period, but as noted above, does not apply to transactions with a party which only 
+became related in the current period. 
+4.2 
+Materiality 
+In determining whether an entity discloses related party transactions in financial statements, the general 
+concept of materiality is applied. IAS 24 does not refer specifically to materiality since this requirement is in 
+IAS 1, which states that “an entity need not provide a specific disclosure required by an IFRS if the information 
+resulting from that disclosure is not material.” [IAS 1.31]. Omissions, misstatements or obscuring of information 
+are material within IAS 1 if “it could reasonably be expected to influence decisions that the primary users of 
+general purpose financial statements make on the basis of those financial statements, which provide financial 
+information about a specific reporting entity. Materiality depends on the nature or magnitude of information, 
+or both. An entity assesses whether information, either individually or in combination with other information, is 
+material in the context of its financial statements taken as a whole.” [IAS 1.7]. 
+The nature of the qualitative aspect of materiality in respect of related party transactions is made explicit in 
+the non-mandatory Practice Statement 2 - Making Materiality Judgements, issued by the IASB Board in 
+September 2017. [PS 2.48]. The statement lists the involvement of a related party of the entity as an entity-
+specific qualitative materiality factor of an entity’s transaction, other event or condition. It further explains 
+that the presence of a qualitative factor lowers the thresholds for the quantitative assessment and that the 
+more significant the qualitative factors, the lower the quantitative factors will be. The Conceptual 
+Framework for Financial Reporting, issued in March 2018, also emphasises that materiality is an entity-
+specific aspect of relevance, based on nature, magnitude or both and what could be material in a particular 
+situation cannot be predetermined, nor can a uniform quantitative threshold be specified. [CF 2.11]. 
+This qualitative aspect of materiality may have the effect that any related party transaction whose 
+disclosure is considered sensitive (e.g., key management compensation or for tax reasons perhaps) is by 
+definition material because it is expected by the reporting entity to influence a user of the financial 
+statements. 
+How we see it 
+It may not be possible to avoid disclosing sensitive related party transactions on the grounds that they 
+are quantitatively immaterial. In addition, a transaction conducted at advantageous terms to either the 
+related party or the reporting entity is more likely to be material than one conducted at arm’s length. 
+Since IAS 24 requires disclosure of related party transactions irrespective of whether consideration is 
+received, disclosure cannot be avoided on the argument that, since there is no consideration, the 
+transaction must be immaterial. 
+4.3 
+Disclosure of key management personnel compensation 
+IAS 24 requires disclosure of key management personnel compensation including the amount of 
+outstanding balances, for example, unpaid bonuses and commitments. 
+There is no requirement in IAS 24 to disclose individual key management personnel compensation. Instead, 
+entities are required to disclose key management personnel compensation in total and for each of the 
+following categories: 
+• 
+Short-term employee benefits 
+• 
+Post-employment benefits 
+• 
+Other long-term benefits 
+• 
+Termination benefits 
+• 
+Share-based payment [IAS 24.17] 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2959 
+These disclosures must be provided within the notes to the financial statements even when the same (or 
+perhaps even more detailed) information is presented outside the financial statements. This is supported by 
+Practice Statement 2, which emphasises that publicly available information does not relieve an entity of the 
+obligation to provide material information in its financial statements (paragraph 26 of the Practice 
+Statement). With regard to interim reports, IAS 34 Interim Financial Reporting requires the disclosure of 
+related party transactions if those transactions are significant (see Chapter 37 at section 4.3.8). [IAS 34.15B(j)]. 
+IAS 24 (see section 3.1.9 above) clarifies that where an entity obtains key management personnel services 
+from another entity (‘management entity’) it is not required to apply the requirements above to the 
+compensation paid or payable by the management entity to the management entity’s employees or 
+directors. [IAS 24.17A]. 
+4.3.1 
+Compensation 
+‘Compensation’ includes all employee benefits (as defined in IAS 19 Employee Benefits) including employee 
+benefits to which IFRS 2 Share-based Payment applies. Employee benefits are all forms of consideration 
+given by an entity, or on behalf of the entity, in exchange for services rendered to the entity by the 
+employees. Employee benefits also include such consideration paid on behalf of a parent of the entity in 
+respect of the entity. [IAS 24.9]. Therefore, the compensation disclosed by an entity in its financial 
+statements is that which is for services to that entity, irrespective of whether it is paid by the reporting 
+entity or by another entity or individual on behalf of the reporting entity. Further, the disclosures must 
+include outstanding balances and commitments. Compensation includes: [IAS 24.9] 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+… 
+Compensation includes … 
+(a) 
+short-term employee benefits, such as wages, salaries and social security 
+contributions, paid annual leave and paid sick leave, profit-sharing and bonuses (if 
+payable within twelve months of the end of the period) and non-monetary benefits 
+(such as medical care, housing, cars and free or subsidised goods or services) for 
+current employees; 
+(b) 
+post-employment benefits such as pensions, other retirement benefits, post-
+employment life insurance and post-employment medical care; 
+(c) 
+other long-term employee benefits, including long-service leave or sabbatical leave, 
+jubilee or other long-service benefits, long-term disability benefits and, if they are not 
+payable wholly within twelve months after the end of the period, profit-sharing, 
+bonuses and deferred compensation; 
+(d) 
+termination benefits; and 
+(e) 
+share-based payment. 
+… 
+IAS 24 is a disclosure standard only and therefore, does not provide guidance about the basis on which the 
+amount for each of the categories above is determined. As observed in the Basis for Conclusions, the IASB 
+noted that the guidance on compensation in IAS 19 is sufficient to enable an entity to disclose the relevant 
+information, which suggests that the IASB is expecting the compensation amounts to be based on the 
+expense recognised under the relevant standards (IAS 19 or IFRS 2). [IAS 24.BC10]. This is commonly 
+observed practice. It is helpful to remember that the definition of compensation states that “employee 
+benefits are all forms of consideration paid, payable or provided by the entity, or on behalf of the entity, in 
+exchange for services rendered to the entity” [IAS 24.9] and therefore, compensation should be disclosed, 
+even when provided by the parent or another group company. This remains the case in situations when no 
+recharge for the cost of those services is made to the entity to whom the members of key management 
+personnel are providing services; the absence of a management recharge does not negate the fact that 
+employee benefits have been paid or provided on behalf of the entity for services rendered to that entity. In 
+circumstances where a recharge has not been made to a subsidiary, it will usually be possible for 
+management of the subsidiary to obtain information regarding the cost of the services from its parent. In 
+the rare circumstances where this is not practicable, judgement needs to be exercised in order to meet the 
+disclosure objective in IAS 24 (for example, an apportionment might be made). 
+Issues relating to each of the categories are discussed below. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2960 
+For an illustrative example of the disclosure of key management personnel compensation, see Practical 
+example 4-1 in section 4.3.9 below. 
+4.3.2 
+Short-term employee benefits 
+As indicated in section 4.3.1 above, short-term employee benefits include wages, salaries and social 
+security contributions, paid annual leave and paid sick leave, profit-sharing and bonuses (if expected to be 
+settled wholly before twelve months after the end of the reporting period). Most of these should not cause 
+difficulty, since the expense for such items under IAS 19 is generally equivalent to the amount payable for 
+the period. The disclosures would also include outstanding balances and commitments. 
+Non-monetary benefits (such as medical care, housing, cars and free or subsidised goods or services) must 
+also be included within the amount disclosed for short-term employee benefits. [IAS 24.9]. In some cases, 
+these might have been provided at no direct cost to the entity. In such circumstances, it would appear 
+reasonable to attribute either a value for non-monetary benefits (for example, the attributable tax benefit), 
+so as to describe them quantitatively, or to describe such benefits qualitatively. 
+4.3.3 
+Post-employment benefits 
+As indicated in section 4.3.1 above, these include pensions, other retirement benefits, post-employment 
+life insurance and post-employment medical care. The inclusion of this category confirms that amounts are 
+disclosed while members of key management are providing services. If amounts were only disclosed when 
+the benefits are payable, then in many cases, there would be no disclosure since the individuals would no 
+longer be members of key management. The definition of related party transaction includes ‘obligations 
+between a reporting entity and a related party’. This implies that post-employment benefit obligations, 
+including commitments, between the reporting entity and the members of key management during the 
+period covered by the financial statements are disclosed. 
+For defined contribution plans, it seems appropriate that the amount included is based on the total expense 
+recognised under IAS 19, which is the equivalent of the contributions paid or payable to the plan for service 
+rendered in the period. 
+The main issue related to defined benefit plans is to determine an appropriate calculation for the 
+disclosable amount for the period. IAS 24 is silent on how the disclosable amount should be determined. 
+One approach would be to determine the disclosable amount based only on the service cost related to those 
+individuals, on the grounds that the other items recognised as an expense under IAS 19 relate more closely 
+to the overall plan than to the individuals. A second approach to determine the disclosable amount would be 
+to include an amount based on all components of the IAS 19 expense recognised in total comprehensive 
+income. The total amounts recognised under IAS 19 for defined benefit plans includes items such as 
+interest, actuarial remeasurement gains and losses and the effects of curtailments and settlements. This 
+approach requires an apportionment of the total expense to the extent that it relates to the individuals 
+concerned. An entity should apply a consistent accounting policy for determining the amounts disclosed. 
+4.3.4 
+Other long-term benefits 
+As indicated in section 4.3.1 above, these include long-service leave or sabbatical leave, jubilee or other 
+long-service benefits, long-term disability benefits and, if they are not expected to be settled wholly before 
+twelve months after the end of the reporting period, profit sharing, bonuses and deferred compensation. 
+Since the accounting for such items under IAS 19 is on a similar basis to that for post-employment benefits 
+similar issues to those discussed in section 4.3.3 above are applicable. 
+4.3.5 
+Termination benefits 
+These should not cause difficulty, since an entity generally recognises such items, particularly for key 
+management personnel, in line with the recognition criteria included in IAS 19. 
+4.3.6 
+Share-based payment transactions 
+This category includes share options, share awards or cash-settled awards granted in return for service by 
+the members of key management. Such compensation is accounted for under IFRS 2. For equity-settled 
+share-based payment transactions, such as share options or share awards, IFRS 2 broadly requires 
+measurement of their fair value at grant date, and that expense is recognised over the period that 
+employees render services. For cash-settled share-based payment transactions, IFRS 2 requires 
+measurement and recognition based on the cash ultimately paid. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2961 
+IAS 24 does not specify a basis on which the compensation disclosed should be determined. One basis 
+would be to disclose an amount based on the expense under IFRS 2. This basis could lead to negative 
+compensation being disclosed, for example, as a result of the reversal of a cumulative expense relating to 
+share-based payments whose non-market vesting condition has not been satisfied. In this case, the 
+reporting entity should consider whether additional disclosure is necessary to explain the amount and the 
+change from the prior year. Another basis would be to disclose amounts based on the fair value that the 
+individual received (based on the value of the shares at date of vesting, or at date of exercise of share 
+options or the cash that is ultimately payable) rather than over the period of the service. An entity should 
+adopt a consistent accounting policy for determining the amounts disclosed. In determining an appropriate 
+accounting policy, the entity should also consider consistency with other disclosures related to key 
+management personnel compensation made outside the financial statements. 
+4.3.7 
+Reporting entity part of a group 
+One additional practical difficulty for an entity in a group is that the disclosure of its key management 
+personnel compensation is for the services rendered to the reporting entity. Accordingly, where key 
+management personnel of the reporting entity also provide services to other entities within the group, an 
+apportionment of the compensation is necessary. Likewise, where the reporting entity receives services 
+from key management personnel that are also key management personnel of other entities within the 
+group, the reporting entity may have to impute the compensation received. Such apportionments and 
+allocations require judgement and an assessment of the time commitment involved. 
+4.3.8 
+Key management personnel compensated by other entities 
+A reporting entity also applies the principles set out in section 4.3.7 above to situations in which the other 
+entity is a third party, outside of the group, but is a related party. 
+4.3.9 
+Illustrative disclosure of key management personnel compensation 
+An example of the disclosure of key management personnel compensation can be found in the financial 
+statements of BP p.l.c. 
+Practical example 4-1: 
+BP p.l.c. (2020) 
+United Kingdom 
+Annual Report and Form 20-F 2020 [extract] 
+Notes on financial statements [extract] 
+34. Remuneration of senior management and non-executive directors [extract] 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2962 
+5 
+Disclosure of other related party transactions, including 
+commitments 
+IAS 24 requires an entity that has had related party transactions during the periods covered by its financial 
+statements to disclose the nature of the related party relationship as well as information about those 
+transactions and outstanding balances, including commitments, necessary for users to understand the 
+potential effect of the relationship on the financial statements. [IAS 24.18]. 
+5.1 
+Related party transactions requiring disclosure 
+IAS 24 gives the following as examples of transactions to be disclosed, if they are with a related party. The 
+list is not intended to be exhaustive: 
+• 
+Purchases or sales of goods (finished or unfinished) 
+• 
+Purchases or sales of property and other assets 
+• 
+Rendering or receiving of services 
+• 
+Leases 
+• 
+Transfers of research and development 
+• 
+Transfers under licence agreements 
+• 
+Transfers under finance arrangements (including loans and equity contributions in cash or in kind) 
+• 
+Provisions of guarantees or collateral 
+• 
+Commitments to do something if a particular event occurs or does not occur in the future, including 
+executory contracts (recognised and unrecognised) 
+And 
+• 
+Settlement of liabilities on behalf of the entity or by the entity on behalf of that related party [IAS 24.21] 
+IAS 24 does not contain any exemptions based on the nature of the transaction. Consequently, related 
+party transactions include transactions such as dividend payments and the issue of shares under rights 
+issues to major shareholders or key management personnel (i.e., those that fall within the definition of 
+related parties), even where they participate on the same basis as other shareholders. Further, not all 
+transactions may need to be disclosed, provided due attention is paid to the qualitative aspects of 
+materiality, discussed in section 4.2 above. 
+Related party transactions also include transactions with those individuals identified as related parties 
+where their dealings with the entity are in a private capacity, rather than in a business capacity. 
+Participation by a parent or subsidiary in a defined benefit plan that shares risks between group entities is a 
+transaction between related parties (see Chapter 31 at section 3.3.2). [IAS 24.22]. 
+As indicated in section 4.1 above, disclosure is required irrespective of whether or not consideration is 
+received, which means that IAS 24 applies to gifts of assets or services and to asset swaps. Common 
+examples of such transactions which may occur within a group include the following, though this list is not 
+exhaustive: 
+• 
+Administration by an entity of another entity within a group (or of its post-employment benefit plan) 
+free of charge 
+• 
+Transfer of tax assets from one member of a group to another without payment 
+• 
+Rent-free leases (accommodation) or the loan of assets at no charge 
+• 
+Guarantees by directors of bank loans to the entity 
+5.1.1 
+Aggregation of items of a similar nature 
+Presumably in order to minimise the volume of disclosures, IAS 24 permits aggregation of items of a similar 
+nature, except when separate disclosure is necessary for an understanding of the effects of the related 
+party transactions on the financial statements of the entity, subject to considerations of materiality - see 
+section 4.2 above. [IAS 24.24]. IAS 24 does not expand on this requirement, but it seems appropriate that, 
+for example, purchases or sales of goods with other subsidiaries within a group can be aggregated, but it 
+may be appropriate to show any purchases or sales of property, plant, and equipment or of intangible 
+assets with such entities as a separate category. However, the level of aggregation is limited by the 
+separate disclosure of transactions with particular categories of related parties (see section 5.2 below). 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2963 
+5.1.2 
+Commitments 
+IAS 24 provides no definition of commitments, though definitions relating to commitments are present in 
+other standards. IFRS 12 states that the commitments relating to joint ventures are those that may give 
+rise to a future outflow of cash or other resources, [IFRS 12.B18], and IFRS 9 defines a firm commitment as “a 
+binding agreement for the exchange of a specified quantity of resources at a specified price on a specified 
+future date or dates”. [IFRS 9 Appendix A]. However, commitments should be considered more widely than 
+these definitions: a typical example of a disclosable commitment might be the agreement to pay certain 
+benefits to an employee on the termination of employment. 
+IAS 24 specifically mentions executory contracts (recognised and unrecognised) as commitments requiring 
+disclosure. [IAS 24.21(i)]. Executory contracts are excluded from the scope of IAS 37 Provisions, Contingent 
+Liabilities and Contingent Assets unless they are onerous to the reporting entity. An executory contract is a 
+contract under which neither party has performed any of its obligations or both parties have partially 
+performed their obligations to an equal extent. [IAS 37.3]. An example of an executory contract would be a 
+contract to buy an asset at a future date where neither the transfer of the asset nor the payment of 
+consideration has occurred. 
+The words “commitments to do something if a particular event occurs or does not occur in the future” can 
+potentially have a wide application and does not limit itself to contractual commitments required to be 
+disclosed by other standards. 
+With respect to the type of transaction to be disclosed, IFRS 12 provides a list of illustrative, but not 
+exhaustive, examples of the type of unrecognised commitments that could relate to joint ventures. Some of 
+these examples could apply equally to other related party arrangements. IFRS 12 clarifies that the 
+commitments required to be disclosed under IAS 24 in respect of joint ventures include an entity’s share of 
+commitments made jointly with other investors with joint control of a joint venture. [IFRS 12.B18]. 
+IFRS 12 provides the following illustrations of commitments relating to joint ventures that would typically 
+be disclosable under IAS 24.18 and could apply equally to other related party arrangements: 
+• 
+Unrecognised commitments to contribute funding or resources as a result of, for example: 
+• 
+The constitution or acquisition agreements of a joint venture (that, for example, require an entity 
+to contribute funds over a specific period) 
+• 
+Capital intensive projects undertaken by a joint venture 
+• 
+Unconditional purchase obligations, comprising procurement of equipment, inventory or services 
+that an entity is committed to purchasing from, or on behalf of, a joint venture 
+• 
+Unrecognised commitments to provide loans or other financial support to a joint venture 
+• 
+Unrecognised commitments to contribute resources to a joint venture, such as assets or services 
+• 
+Other non-cancellable unrecognised commitments relating to a joint venture 
+• 
+Unrecognised commitments to acquire another party’s ownership interest (or a portion of that 
+ownership interest) in a joint venture if a particular event occurs or does not occur in the future. 
+[IFRS 12.B19, IFRS 12.B20]. 
+Provisions of guarantees, which are a form of commitment, require separate disclosure. Disclosure of 
+commitments to purchase property, plant and equipment and intangible assets in aggregate is required 
+separately by IAS 16 Property, Plant and Equipment and IAS 38 Intangible Assets respectively. [IAS 16.74(c), 
+IAS 38.122(e)]. 
+5.2 
+Disclosures required for related party transactions, including 
+commitments 
+The standard states that, at a minimum, the disclosures must include: 
+(a) The amount of the transactions 
+(b) The amount of outstanding balances, including commitments and: 
+(i) Their terms and conditions, including whether they are secured, and the nature of the 
+consideration to be provided in settlement 
+(ii) Details of any guarantees given or received 
+(c) Provisions for doubtful debts related to the amount of outstanding balances 
+And 
+(d) The expense recognised during the period in respect of bad or doubtful debts due from related parties 
+[IAS 24.18] 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2964 
+The standard gives no exemption from disclosure on the grounds of sensitivity or confidentiality. 
+The requirement in (b) above could be read literally as requiring outstanding balances and commitments to 
+be amalgamated into a single balance. However, commitments such as executory contracts do not give rise 
+to outstanding balances. In practice, narrative disclosure of the terms and conditions of material 
+commitments will be necessary. 
+There is no requirement to disclose individually significant transactions. However, as discussed in section 6 
+below, there is such a requirement for transactions with government-related entities where a reporting 
+entity has decided to apply the disclosure exemption. 
+The disclosures are required to be made separately for each of the following categories: 
+(a) The parent 
+(b) Entities with joint control of, or significant influence over, the entity 
+(c) Subsidiaries 
+(d) Associates 
+(e) Joint ventures in which the entity is a joint venturer 
+(f) Key management personnel of the entity or its parent 
+And 
+(g) Other related parties [IAS 24.19] 
+How we see it 
+In our view, the references in (a) and (f) above to ‘the parent’ should be read as including all parents of 
+the entity, i.e., its immediate parent, any intermediate parent and the ultimate parent. 
+In the context of the financial statements of an entity within a group, it is insufficient to disclose related 
+party transactions for a single category of ‘group companies’. Separate categories are required for 
+parent(s), subsidiaries and ‘other related parties’. 
+IAS 24 does not identify the following relationships as a separate category of related party, and therefore, 
+information related to the following relationships would be included within the category ‘other related 
+parties’: 
+• 
+Fellow subsidiaries 
+• 
+Subsidiaries of an investor with significant influence 
+• 
+Associates of the entity’s controlling investor 
+However, a preparer should consider separate disclosure of transactions with the above related parties if 
+this would provide useful information to users of the entity’s financial statements. 
+The classification of amounts payable to, and receivable from, related parties in the different categories is 
+an extension of the disclosure requirement in IAS 1 for an entity to present information either in the 
+statement of financial position or in the notes. [IAS 1.77]. The categories are extended to provide a more 
+comprehensive analysis of related party balances and apply to related party transactions. [IAS 24.20]. Note 
+that local regulations in different jurisdictions may provide for specific disclosure requirements and these 
+should be considered in addition to the requirements in IAS 24. 
+IAS 24 emphasises that an entity should not state that related party transactions are on an arm’s length 
+basis unless the reporting entity can demonstrate such terms and conditions. [IAS 24.23]. To substantiate 
+that related party transactions are on an arm’s length basis an entity would need to demonstrate that a 
+transaction with similar terms and conditions could be obtained from an independent third party. 
+In 2004, the IFRS IC received a request to supplement the minimum disclosures contained in IAS 24.18. 
+The request asked that the disclosure of, for example, the purpose and economic substance of 
+transactions, the identity of related parties, the extent of management involvement, special risks and the 
+effect of such transactions on the financial statement should be specifically required. The IFRS IC did not 
+take this onto their agenda and this was not reflected in the subsequent revision of IAS 24 in 2009. 
+The company financial statements of Schroders plc provide the following disclosures of related party 
+relationships with subsidiaries. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2965 
+Practical example 5-1: 
+Schroders plc (2020) 
+United Kingdom 
+Annual Report and Accounts 2020 [extract] 
+Notes to the accounts [extract] 
+ 
+ 
+The consolidated financial statements of J Sainsbury plc provide the following disclosures of related party 
+relationships with joint ventures and associates. 
+Practical example 5-2: 
+J Sainsbury plc (2021) 
+United Kingdom 
+Annual Report and Financial Statements 2021 [extract] 
+Notes to the consolidated financial statements [extract] 
+43 Related party transactions [extract] 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2966 
+The financial statements of British Sky Broadcasting Group plc illustrate the disclosure of transactions with 
+a party controlled by a close family member of key management: 
+Practical example 5-3: 
+British Sky Broadcasting Group plc (2014) 
+United Kingdom 
+Annual Report 2014 [extract] 
+Notes to the consolidated financial statements [extract] 
+28. Transactions with related parties and major shareholders [extract] 
+ 
+… 
+The financial statements of BP p.l.c. illustrate the disclosure of commitments to related parties: 
+Practical example 5-4: 
+BP p.l.c. (2020) 
+United Kingdom 
+Annual Report and Form 20-F 2020 [extract] 
+Notes on financial statements [extract] 
+ 
+ 
+5.3 
+Disclosure of expense incurred with management entity 
+As discussed in section 3.1.9 above, disclosure of amounts incurred by the entity for the provision of key 
+management personnel services by a separate management entity is required. [IAS 24.18A]. 
+6 
+Disclosures with government-related entities 
+IAS 24 provides an exemption from the disclosure requirements of IAS 24.18, discussed in section 5.2 
+above, in relation to related party transactions and outstanding balances, including commitments, with: 
+(a) A government that has control or joint control of, or significant influence over, the reporting entity 
+And 
+(b) Another entity that is a related party because the same government has control or joint control of, or 
+significant influence over, both the reporting entity and the other entity [IAS 24.25] 
+The effect of this exemption is to treat all entities which are under the direct or indirect control of the same 
+government as related parties and to exempt them from the disclosure requirements of IAS 24.18, though, 
+as can be seen below, this exemption does not alter the definition of a related party relationship. 
+From the wording of (a) and (b) above, it would be possible to conclude that a reporting entity which is 
+significantly influenced by a government is related to another entity also significantly influenced by the 
+same government. This is not the case. The definition of a related party in IAS 24 does not include entities 
+that are subject to significant influence from the same entity (see sections 3.1 and 3.1.3 above) and the 
+wording in IAS 24.25 cannot add to the definition of a related party. 
+The application of the disclosure exemption afforded by IAS 24.18 is illustrated in the diagram below, which 
+is based on an illustrative example accompanying IAS 24. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2967 
+Illustration 6-1: 
+Application of the disclosure exemption for government-related entities 
+ 
+Government G directly controls Entities 1 and 2 and indirectly controls Entities A, B, C and D. Person X is a 
+member of the key management personnel of Entity 1. 
+Entities 1, A and B are all related because Entity 1 controls both entities. Similarly, Entities 2, C and D are all 
+related because Entity 2 controls both entities. Without the government control, these groups would not be 
+related to each other; however, the government control effectively renders both groups related, because 
+Government G directly controls Entities 1 and 2 and indirectly Entities A, B, C and D. Therefore, the exemption 
+will apply to any entity within these two groups. 
+For example, for Entity A’s financial statements the exemption applies to: (a) transactions with Government G, 
+as this government ultimately controls Entity A; (b) transactions with Entity 1 and Entity B. Entity 1 and Entity 
+B are related parties of entity A because Entity 1 controls Entity A and B, but they are also related because 
+they are ultimately controlled by Government G and (c) transactions with Entities 2, C and D which are related 
+entities because they are controlled by the same government as A, i.e., Government G. 
+The exemption does not apply to transactions with Person X because Person X is not controlled by 
+Government G. 
+The use of the disclosure exemption is conditional on the reporting entity making the following disclosures 
+about the transactions and related outstanding balances with the government-related entities: 
+(a) The name of the government and the nature of its relationship with the reporting entity (i.e., control, 
+joint control or significant influence). 
+(b) The following information in sufficient detail to enable users of the entity’s financial statements to 
+understand the effect of related party transactions on its financial statements: 
+(i) The nature and amount of each individually significant transaction. 
+(ii) For other transactions that are collectively, but not individually, significant, a qualitative or 
+quantitative indication of their extent. Types of transactions include those discussed in section 5.1 
+above. [IAS 24.26]. 
+The wording in paragraph 26 does not explicitly mention ‘commitments’ when referring to ’related 
+outstanding balances’. However, given that IAS 24 describes a commitment as a subset of outstanding 
+balances, disclosure of individually and collectively significant commitments with government-related 
+entities is likely to be required. 
+In using its judgement to determine the level of detail to be disclosed in accordance with the requirements 
+in (b) above, a reporting entity considers the closeness of the related party relationship and other factors, 
+including materiality, relevant in establishing the level of significance of the transaction such as whether it 
+is: 
+(a) Significant in terms of size 
+(b) Carried out on non-market terms 
+(c) Outside normal day-to-day business operations, such as the purchase and sale of businesses 
+(d) Disclosed to regulatory or supervisory authorities 
+(e) Reported to senior management 
+(f) Subject to shareholder approval [IAS 24.27] 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2968 
+Disclosure of the nature and amount of each individually significant transaction is not a requirement for 
+other related party transactions (see section 5.2 above). The Board considered that this requirement 
+should not be too onerous for a reporting entity because: 
+(a) Individually significant transactions should be a small subset, by number, of total related party 
+transactions 
+(b) The reporting entity should know what these transactions are 
+(c) Reporting such items on an exceptional basis takes into account cost-benefit considerations 
+[IAS 24.BC45] 
+The Board also considered that more disclosure of individually significant transactions would better meet 
+the objective of IAS 24 because this approach focuses on transactions that, through their nature or size, 
+are of more interest to users and are more likely to be affected by the related party relationship. 
+[IAS 24.BC46]. In response to concerns about whether a reporting entity would be able to identify whether the 
+counterparty to such transactions was a government-related entity, the Board concluded that 
+“management will know, or will apply more effort in establishing, who the counterparty to an individually 
+significant transaction is and will have, or be able to obtain, background information on the counterparty”. 
+[IAS 24.BC47, IAS 24.BC48]. 
+Practical example 6-1 below from the financial statements of The Royal Bank of Scotland Group plc 
+illustrates disclosure summarising the types of transactions with government-controlled entities that are 
+related parties and details of an individually material transaction. 
+Practical example 6-1: 
+The Royal Bank of Scotland Group plc (2019) 
+United Kingdom  
+Annual Report and Accounts 2020 [extract] 
+Notes to the financial statements [extract] 
+25 Related parties [extract] 
+ 
+ 
+The following are other Illustrations of the type of disclosures required for transactions with government-
+related entities based on illustrative examples accompanying the standard: 
+Illustration 6-2: 
+Individually significant transaction carried out on non-market terms 
+On 15 January 20X2 the company sold a 10-hectare piece of land to an entity controlled by Government G for 
+CU5,000,000. On 31 December 20X2 a plot of land in a similar location, of similar size and with similar 
+characteristics, was sold for CU3,000,000. There had not been any appreciation or depreciation of the land in 
+the intervening period. See Note X for disclosure of government assistance as required by IAS 20. 
+ 
+Illustration 6-3: 
+Individually significant transaction because of size of transaction 
+In the year ended 31 December 20X2 Government G provided the company with a loan equivalent to 50% of its 
+funding requirement, repayable in quarterly instalments over the next five years. Interest is charged on the 
+loan at a rate of 5%, which is comparable to that charged on the company’s external bank loans. 
+ 
+Illustration 6-4: 
+Collectively significant transactions 
+The company’s significant transactions with Government G and other entities controlled, jointly controlled or 
+significantly influenced by Government G are a large portion of its sales of goods and purchases of raw 
+materials [alternatively - about 50% of its sales of goods and services and about 35% of its purchases of raw 
+materials]. 
+The company also benefits from guarantees by Government G of the company’s bank borrowing. See Note X of 
+the financial statements for disclosure of government assistance as required by IAS 20. 
+In Illustration 6-4 above, either a qualitative or a quantitative disclosure is permitted for transactions that 
+are collectively but not individually significant. 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2969 
+Appendix A - Index of Illustrations 
+Illustration 3-1: 
+Person as investor 
+2944 
+Illustration 3-2: 
+Close members of the family holding investments 
+2944 
+Illustration 3-3: 
+Entities that are members of the same group 
+2947 
+Illustration 3-4: 
+Associates of the reporting entity’s group that are related parties 
+2948 
+Illustration 3-5: 
+Entities that are joint ventures of the same third party 
+2949 
+Illustration 3-6: 
+Entities that are joint ventures and associates of the same third entity 
+2950 
+Illustration 3-7: 
+Persons who control an entity and are a member of the key management 
+personnel of another entity 
+2951 
+Illustration 3-8: 
+Entities that provide key management personnel (KMP) services to a 
+reporting entity 
+2953 
+Illustration 3-9: 
+The effect of the control concept in IAS 24 for direct and indirect 
+relationships 
+2954 
+Illustration 4-1: 
+Disclosure of parent, ultimate parent and ultimate controlling party 
+2956 
+Illustration 6-1: 
+Application of the disclosure exemption for government-related entities 
+2967 
+Illustration 6-2: 
+Individually significant transaction carried out on non-market terms 
+2968 
+Illustration 6-3: 
+Individually significant transaction because of size of transaction 
+2968 
+Illustration 6-4: 
+Collectively significant transactions 
+2968 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2970 
+Appendix B - Defined terms 
+Extract from IAS 24 
+9 
+The following terms are used in this Standard with the meanings specified: 
+A related party is a person or entity that is related to the entity that is preparing its financial 
+statements (in this Standard referred to as the ‘reporting entity’). 
+(a) 
+A person or a close member of that person’s family is related to a reporting entity if 
+that person: 
+(i) 
+has control or joint control of the reporting entity; 
+(ii) 
+has significant influence over the reporting entity; or 
+(iii) 
+is a member of the key management personnel of the reporting entity or of a 
+parent of the reporting entity. 
+(b) 
+An entity is related to a reporting entity if any of the following conditions applies: 
+(i) 
+The entity and the reporting entity are members of the same group (which 
+means that each parent, subsidiary and fellow subsidiary is related to the 
+others). 
+(ii) 
+One entity is an associate or joint venture of the other entity (or an associate or 
+joint venture of a member of a group of which the other entity is a member). 
+(iii) 
+Both entities are joint ventures of the same third party. 
+(iv) 
+One entity is a joint venture of a third entity and the other entity is an associate 
+of the third entity. 
+(v) 
+The entity is a post-employment benefit plan for the benefit of employees of 
+either the reporting entity or an entity related to the reporting entity. If the 
+reporting entity is itself such a plan, the sponsoring employers are also related 
+to the reporting entity. 
+(vi) 
+The entity is controlled or jointly controlled by a person identified in (a). 
+(vii) 
+A person identified in (a)(i) has significant influence over the entity or is a 
+member of the key management personnel of the entity (or of a parent of the 
+entity). 
+(viii) The entity, or any member of a group of which it is a part, provides key 
+management personnel services to the reporting entity or to the parent of the 
+reporting entity. 
+A related party transaction is a transfer of resources, services or obligations between a 
+reporting entity and a related party, regardless of whether a price is charged. 
+Close members of the family of a person are those family members who may be expected to 
+influence, or be influenced by, that person in their dealings with the entity and include: 
+(a) 
+that person’s children and spouse or domestic partner; 
+(b) 
+children of that person’s spouse or domestic partner; and 
+(c) 
+dependants of that person or that person’s spouse or domestic partner. 
+Compensation includes all employee benefits (as defined in IAS 19 Employee Benefits) 
+including employee benefits to which IFRS 2 Share-based Payment applies. Employee 
+benefits are all forms of consideration paid, payable or provided by the entity, or on behalf of 
+the entity, in exchange for services rendered to the entity. It also includes such 
+consideration paid on behalf of a parent of the entity in respect of the entity. Compensation 
+includes: 
+(a) 
+short-term employee benefits, such as wages, salaries and social security 
+contributions, paid annual leave and paid sick leave, profit-sharing and bonuses (if 
+payable within twelve months of the end of the period) and non-monetary benefits 
+(such as medical care, housing, cars and free or subsidised goods or services) for 
+current employees; 
+(b) 
+post-employment benefits such as pensions, other retirement benefits, post-
+employment life insurance and post-employment medical care; 
+
+
+International GAAP® 2025 
+Chapter 35 
+Related party disclosures 
+2971 
+(c) 
+other long-term employee benefits, including long-service leave or sabbatical leave, 
+jubilee or other long-service benefits, long-term disability benefits and, if they are not 
+payable wholly within twelve months after the end of the period, profit-sharing, 
+bonuses and deferred compensation; 
+(d) 
+termination benefits; and 
+(e) 
+share-based payment. 
+Key management personnel are those persons having authority and responsibility for 
+planning, directing and controlling the activities of the entity, directly or indirectly, including 
+any director (whether executive or otherwise) of that entity. 
+Government refers to government, government agencies and similar bodies whether local, 
+national or international. 
+A government-related entity is an entity that is controlled, jointly controlled or significantly 
+influenced by a government. 
+The terms ‘control’ and ‘investment entity’, ‘joint control’ and ‘significant influence’ are 
+defined in IFRS 10, IFRS 11 Joint Arrangements and IAS 28 Investments in Associates and 
+Joint Ventures respectively and are used in this Standard with the meanings specified in 
+those IFRSs. 
+ 

@@ -1,0 +1,2426 @@
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1240 
+ 
+Chapter 17 
+Hyperinflation 
+ 
+Contents 
+Overview 
+1242 
+1 
+Introduction 
+1243 
+1.1 
+Background 
+1243 
+1.2 
+Hyperinflationary economies 
+1243 
+1.3 
+Restatement approach 
+1244 
+2 
+The requirements of IAS 29 
+1245 
+2.1 
+The context of IAS 29 
+1245 
+2.2 
+Scope 
+1246 
+2.3 
+Definition of hyperinflation 
+1246 
+2.4 
+The IAS 29 restatement process 
+1247 
+3 
+Selection of a general price index 
+1248 
+3.1 
+Selecting a general price index 
+1248 
+3.2 
+General price index not available for all periods 
+1248 
+3.3 
+Delayed availability of a general price index 
+1248 
+4 
+Analysis and restatement of the statement of financial position 
+1249 
+4.1 
+Monetary and non-monetary items 
+1249 
+4.1.1 
+Monetary or non-monetary distinction 
+1249 
+4.1.2 
+Monetary items 
+1251 
+4.1.3 
+Non-monetary items carried at current cost 
+1251 
+4.1.4 
+Non-monetary items carried at historical cost 
+1252 
+4.2 
+Inventories 
+1254 
+4.3 
+Restatement of associates, joint ventures and subsidiaries 
+1254 
+4.3.1 
+Non-hyperinflationary investor and hyperinflationary investee 
+1254 
+4.3.2 
+Hyperinflationary investor and investee 
+1254 
+4.3.3 
+Hyperinflationary investor and non-hyperinflationary investee 
+1255 
+4.4 
+Calculation of deferred taxation 
+1255 
+5 
+Restatement of the statement of changes in equity 
+1257 
+6 
+Restatement of the statement of profit or loss and other comprehensive income 
+1259 
+6.1 
+Restatement of interest and exchange differences 
+1260 
+6.2 
+Income and expenses where the general approach is not applied 
+1260 
+6.3 
+Calculation of the gain or loss on the net monetary position 
+1261 
+6.4 
+Measurement of reclassification adjustments within equity 
+1261 
+7 
+Restatement of the statement of cash flows 
+1263 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1241 
+8 
+Restatement of comparative figures 
+1264 
+9 
+Interim reporting 
+1265 
+10 Transition 
+1266 
+10.1 
+Economies becoming hyperinflationary 
+1266 
+10.1.1 
+Presentation of statement of financial position at the beginning of the comparative 
+period 
+1266 
+10.2 
+Economies ceasing to be hyperinflationary 
+1267 
+10.3 
+Economies exiting severe hyperinflation 
+1268 
+11 Translation of a hyperinflationary entity into a different presentation currency 
+1269 
+11.1 
+Translation on initial application and ceasing application of IAS 29 
+1272 
+11.2 
+Fair value adjustments and goodwill on business combinations 
+1273 
+11.3 
+Presentation currency considerations for comparative information 
+1273 
+12 Translation of a non-hyperinflationary entity into a hyperinflationary group 
+1275 
+13 Elimination of intergroup transactions 
+1276 
+14 Disclosures 
+1277 
+Appendix A - Index of Illustrations 
+1280 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1242 
+Overview 
+This chapter addresses the requirements of IAS 29 Financial Reporting in Hyperinflationary Economies. 
+In an environment where significant levels of inflation exist, the usefulness of reporting is hindered. 
+Changes in the ‘real’ growth of revenues and expenses cannot be discerned, and the values of assets and 
+liabilities ordinarily measured on an historical cost basis are not reflective of their true value at the 
+reporting date. In addition, the loss in value of items of a monetary nature is not reflected. 
+IAS 29 addresses these challenges by providing a framework for identifying currencies that are sufficiently 
+inflationary to warrant adjustment for inflation, as well as the methods for making such adjustments. The 
+standard outlines when hyperinflation exists, as identified by a number of common characteristics of the 
+economy. For periods when hyperinflation is present, IAS 29 requires that all items are restated from their 
+amounts as determined by other standards, by a measure of the inflation from the transaction or 
+measurement date to the reporting date. This also applies to comparative figures, which are to be restated 
+in terms of the measuring unit current at the end of the current reporting period. 
+To perform the required restatement of financial statements, assets and liabilities are separated into those 
+that are monetary and non-monetary, with non-monetary items further divided into those measured on 
+either a current or historical basis. Monetary items and non-monetary but current items are already 
+measured at the monetary unit present at the reporting date and therefore do not require restatement. The 
+restatement required by the standard therefore applies to non-monetary historical value assets and 
+liabilities, as well as transactions. This process has consequential impacts on a number of items, including 
+the calculation of deferred tax and the testing for impairments. The gain or loss in the value of monetary 
+items for the period is reflected in profit or loss. 
+The application of this standard requires numerous judgements. Some of these require consensus with the 
+broader reporting community, such as when the use of IAS 29 is required, while others would need to be 
+evaluated based on the circumstances of a particular entity. The standard acknowledges this complexity by 
+conceding that the consistent application of these inflation accounting procedures and judgements from 
+period to period is more important than the precise accuracy of the resulting amounts included in the 
+restated financial statements. 
+The application of IAS 29 is particularly complex where a significant amount of historical information is 
+required. In addition, areas that may require additional attention from preparers include the first-time 
+application of the standard; the computation of deferred tax; groups with both hyperinflationary and 
+non-hyperinflationary entities; and interim reporting. 
+Entities facing hyperinflation are often also affected by complexities relating to foreign currency 
+translation, which are discussed further in Chapter 16. 
+What you need to know 
+• 
+The need to apply IAS 29 is assessed at a currency level, rather than a reporting entity level, and 
+therefore this standard shall only be applied where consensus has been reached for a given 
+currency. 
+• 
+The application of this standard requires judgement in both the interpretation, where specific 
+guidance is not provided, as well as application, and therefore consistency is prioritised over 
+precision. 
+• 
+Given the complexity of the reporting process, preparers of IAS 29 financial statements should be 
+mindful of the requirement to disclose significant judgements and estimates. 
+ 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1243 
+1 
+Introduction 
+1.1 
+Background 
+Accounting standards are applied on the assumption that the value of money (the unit of measurement) is 
+constant over time, which normally is an acceptable practical assumption. However, when the effect of 
+inflation on the value of money is no longer negligible, the usefulness of historical cost based financial 
+reporting is often significantly reduced. High rates of inflation give rise to a number of problems for entities 
+that prepare their financial statements on a historical cost basis, for example: 
+• 
+Historical cost figures expressed in terms of monetary units do not show the ‘value to the business’ 
+of assets. 
+• 
+Holding gains on non-monetary assets that are reported as operating profits do not represent real 
+economic gains. 
+• 
+Financial information presented for the current period is not comparable with that presented for the 
+prior periods. 
+And 
+• 
+‘Real’ capital can be reduced because profits reported do not take account of the higher 
+replacement costs of resources used in the period. Therefore, if calculating a nominal ‘return on 
+capital’ based on profit, and not distinguishing this properly from a real ‘return of capital’, the 
+erosion of capital may go unnoticed in the financial statements. This is the underlying point in the 
+concept of capital maintenance. 
+The IASB’s The Conceptual Framework for Financial Reporting discusses the concept of capital 
+maintenance, which raises the issue of how an entity defines capital. In general terms, an entity maintains 
+its capital if it has as much capital at the end of the period as it had at the beginning, the issue being how 
+this evaluation is measured. Whilst there are different concepts of capital maintenance, the IFRS 
+accounting standards are ultimately based on the financial capital maintenance concept. 
+Under the financial capital maintenance concept, the capital of the entity will be maintained if the financial 
+amount of net assets at the end of a period is at least equal to the financial amount of net assets at the 
+beginning of that period, excluding contributions from and distributions to owners during the period. 
+[CF 8.3(a)]. To facilitate the evaluation of capital maintenance in a hyperinflationary environment, IAS 29 was 
+adopted in April 2001. 
+The IASB and IFRS IC subsequently made changes to the standards regarding the subject of hyperinflation 
+only to clarify the provisions of the standard. In 2005, IFRIC 7 Applying the Restatement Approach under 
+IAS 29 Financial Reporting in Hyperinflationary Economies was issued to provide guidance on applying 
+IAS 29 in the reporting period in which an entity’s functional currency first becomes hyperinflationary (see 
+section 10.1 below). In 2010 the IASB issued an amendment to IFRS 1 First-time Adoption of International 
+Financial Reporting Standards for countries that exit severe hyperinflation (see section 10.3 below). 
+ FASB differences 
+Differences between the IFRS and US GAAP guidance on this topic are not addressed in this chapter as 
+the standards are not converged. Therefore, differences between IFRS and US GAAP may exist that are 
+not discussed in this chapter. 
+1.2 
+Hyperinflationary economies 
+In some countries, inflation has reached such levels that the local currency is no longer a useful measure of 
+value in the economy and the general population may prefer not to hold its wealth in the local currency. 
+Instead, they hold their wealth in a stable foreign currency or non-monetary assets. Such a condition is 
+often referred to as hyperinflation. 
+There are several characteristics that need to be considered under IFRS accounting standards to determine 
+whether hyperinflation exists. The IASB does not monitor inflation rates in specific jurisdictions, nor does it 
+conclude on the applicability of the characteristics to these jurisdictions. Where the assessment of the 
+characteristics is unclear, consensus is at times facilitated by local regulators and professional bodies. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1244 
+1.3 
+Restatement approach 
+The problems of historical cost based financial reporting may reach such a magnitude under 
+hyperinflationary circumstances that financial reporting in the hyperinflationary currency is no longer 
+useful. Therefore, a solution is needed to allow meaningful financial reporting by entities that operate in 
+these hyperinflationary economies. 
+IAS 29 requires a restatement approach, whereby financial information recorded in the hyperinflationary 
+currency is adjusted by applying a general price index and expressed in the measuring unit current at the 
+end of the reporting period (i.e., the accounting value is adjusted for a factor of current purchasing power). 
+This process aims to improve comparability between periods by restating financial information for changes 
+in the purchasing power of money. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1245 
+2 
+The requirements of IAS 29 
+2.1 
+The context of IAS 29 
+The underlying premise of IAS 29 is that “reporting of operating results and financial position in the local 
+[hyperinflationary] currency without restatement is not useful”. [IAS 29.2]. The standard’s approach is 
+therefore to require that: 
+(a) The financial statements of an entity whose functional currency is the currency of a hyperinflationary 
+economy shall be stated in terms of the measuring unit current at the end of the reporting period. 
+(b) The corresponding figures for the previous period required by IAS 1 Presentation of Financial 
+Statements and any information in respect of earlier periods shall also be stated in terms of the 
+measuring unit current at the end of the reporting period. 
+And 
+(c) The gain or loss on the net monetary position shall be included in profit or loss and separately 
+disclosed. [IAS 29.8, IAS 29.9]. 
+IAS 29 requires amounts recorded in the statement of financial position, not already expressed in terms of 
+the measuring unit current at the end of the reporting period, to be restated in terms of the current 
+measuring unit at the end of the reporting period, by applying a general price index. [IAS 29.11]. The 
+Illustration below illustrates how this would apply to the statement of financial position of an entity: 
+Illustration 2-1: 
+Accounting for hyperinflation under IAS 29 
+An entity that operates in a hyperinflationary economy is required under IAS 29 to restate all non-monetary 
+items in its statement of financial position to the measuring unit current at the end of the reporting period by 
+applying a general price index as follows: 
+ 
+Before 
+restatement 
+(HC) 
+Historical general 
+price index* 
+Year-end 
+general price 
+index 
+After restatement 
+(HC) 
+Plant and equipment 
+225 
+150 
+600 
+900 
+Inventory 
+250 
+500 
+600 
+300 
+Cash 
+100 
+  
+  
+100 
+Total assets 
+575 
+  
+  
+1,300 
+  
+  
+  
+  
+  
+Accounts payable 
+180 
+  
+  
+180 
+Long-term debt 
+250 
+  
+  
+250 
+Equity ** 
+145 
+  
+  
+870 
+  
+575 
+  
+  
+1,300 
+* 
+General price index at the date of purchase 
+** 
+The restatement of equity is not illustrated here, but is discussed in section 5 below. 
+  
+The simplified Illustration above already raises a number of questions, such as: 
+• 
+Which items are monetary, and which are non-monetary? 
+• 
+How does the entity select the appropriate general price index? 
+• 
+What was the general price index when the assets were acquired? 
+The standard provides guidance on the restatement to the measuring unit current at the end of the reporting 
+period, but concedes that the consistent application of these inflation accounting procedures and judgements 
+from period to period is more important than the precise accuracy of the resulting amounts included in the 
+restated financial statements. [IAS 29.10]. The requirements of the standard look deceptively straightforward 
+but their application may represent a considerable challenge. These difficulties and other aspects of the 
+practical application of the IAS 29 method of accounting for hyperinflation are discussed below. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1246 
+2.2 
+Scope 
+IAS 29 must be applied by all entities whose functional currency is the currency of a hyperinflationary 
+economy. [IAS 29.1]. 
+The standard should be applied in an entity’s separate financial statements (if prepared) and its 
+consolidated financial statements, as well as by parents that include such an entity in their consolidated 
+financial statements. 
+If an entity whose functional currency is that of a hyperinflationary economy wishes to present the 
+financial statements in a different presentation currency, or if their parent has a different presentation 
+currency, the financial statements of the entity first must be restated under IAS 29. Only then, can the 
+financial statements be translated under IAS 21 The Effects of Changes in Foreign Exchange Rates (see 
+section 11 below). 
+Almost all entities operating in hyperinflationary economies will be subject to the accounting regime of 
+IAS 29, unless they can legitimately argue that the local hyperinflationary currency is not their functional 
+currency as defined by IAS 21 (see Chapter 16 at section 4). [IAS 21.14]. 
+2.3 
+Definition of hyperinflation 
+Determining whether an economy is hyperinflationary in accordance with IAS 29, and when it becomes so, 
+requires judgement. [IAS 29.3, IAS 29.4]. 
+Extract from IAS 29 
+3 
+This Standard does not establish an absolute rate at which hyperinflation is deemed to arise. It 
+is a matter of judgement when restatement of financial statements in accordance with this 
+Standard becomes necessary. Hyperinflation is indicated by characteristics of the economic 
+environment of a country which include, but are not limited to, the following: 
+(a) 
+the general population prefers to keep its wealth in non-monetary assets or in a relatively 
+stable foreign currency. Amounts of local currency held are immediately invested to 
+maintain purchasing power; 
+(b) 
+the general population regards monetary amounts not in terms of the local currency but 
+in terms of a relatively stable foreign currency. Prices may be quoted in that currency; 
+(c) 
+sales and purchases on credit take place at prices that compensate for the expected loss 
+of purchasing power during the credit period, even if the period is short; 
+(d) 
+interest rates, wages and prices are linked to a price index; and 
+(e) 
+the cumulative inflation rate over three years is approaching, or exceeds, 100%. 
+4 
+It is preferable that all entities that report in the currency of the same hyperinflationary 
+economy apply this Standard from the same date. Nevertheless, this Standard applies to the 
+financial statements of any entity from the beginning of the reporting period in which it 
+identifies the existence of hyperinflation in the country in whose currency it reports. 
+Identifying when a currency becomes hyperinflationary, and, just as importantly, when it ceases to be so, is 
+not easy in practice and is frequently hampered by a lack of reliable statistics. The consideration of trends 
+and the application of common sense is important in this judgement, as are consistency of measurement 
+and of presentation. Transition into and out of hyperinflationary economies are discussed further in 
+section 10 below. 
+How we see it 
+As at June 2024, the currencies of the following countries were widely considered to be 
+hyperinflationary: Argentina, Ethiopia, Ghana, Haiti, Islamic Republic of Iran, Lebanon, Sierra Leone, 
+South Sudan, Sudan, Suriname, Turkey, Venezuela and Zimbabwe. Preparers should be aware that this 
+list may change by the time of their reporting date. Countries whose currencies should be more closely 
+monitored for a change in the hyperinflationary status of their currency at this date were Burundi, Egypt, 
+Lao P.D.R., Malawi, Nigeria, Pakistan, Sri Lanka and Syria. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1247 
+2.4 
+The IAS 29 restatement process 
+Restatement of financial statements in accordance with IAS 29 can be seen as a process comprising the 
+following steps: 
+(a) Selection of a general price index (see section 3 below) 
+(b) Analysis and restatement of the statement of financial position (see section 4 below) 
+(c) Restatement of the statement of changes in equity (see section 5 below) 
+(d) Restatement of the statement of profit or loss and other comprehensive income (see section 6 below) 
+(e) Calculation of the gain or loss on the net monetary position (see section 6.3 below) 
+And 
+(f) Restatement of the statement of cash flows (see section 7 below) 
+IAS 29 requires comparative figures to be restated to the monetary unit current at the reporting date (see 
+section 8 below). In practice, the restatement of comparatives is integral to the restatement of current year 
+figures, and thus is the first step in the process after a general price index has been selected. 
+In the year of initial application of the standard, the retrospective nature of IAS 29 requires the 
+restatement of all historical amounts from varying dates at which they were last current - which is often the 
+date of acquisition, many years ago - and is generally a time consuming and complex process. 
+In subsequent years, the restatement process is considerably less onerous, as the previously reported 
+figures are only adjusted for the inflation in the current period, and information about items recognised in 
+the current period is more readily available. The restatement of comparative information is best completed 
+as the first step in applying IAS 29 as certain items rely on this restated information to determine current 
+year amounts. Some examples would include the closing balance of property plant and equipment, which is 
+often calculated as the sum of the restated opening balance and movements (see Illustration 4-1 in 
+section 4.1.4 below), and fair value gains on non-monetary items, which are determined taking into 
+consideration the restated opening balance (as discussed in section 6.2 below). 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1248 
+3 
+Selection of a general price index 
+The standard requires entities to use a general price index that reflects changes in general purchasing 
+power. Ideally all entities that report in the same hyperinflationary currency should use the same price 
+index. [IAS 29.37]. 
+3.1 
+Selecting a general price index 
+It is generally accepted practice to use a Consumer Price Index (CPI) for this purpose, unless that index is 
+clearly flawed. National statistical offices in most countries issue several price indices that potentially could 
+be used for the purposes of IAS 29. Important characteristics of a good general price index include the 
+following: 
+• 
+A wide range of goods and services has been included in the price index 
+• 
+Reflective of currency-wide, rather than regional, purchasing power 
+• 
+Continuity and consistency of measurement techniques and underlying assumptions 
+• 
+Free from bias 
+• 
+Frequently updated 
+And 
+• 
+Available for a long period 
+The entity shall use the above criteria to choose the most reliable and most readily available general price 
+index and use that index consistently. It is important that the index selected is representative of the real 
+position of the hyperinflationary currency concerned. 
+In practice, a country’s national price index that is monitored by the International Monetary Fund, and is 
+incorporated in its World Economic Outlook publication, is used as the basis for IAS 29 accounting. 
+3.2 
+General price index not available for all periods 
+IAS 29 requires an entity to make an estimate of the price index if the general price index is not available 
+for all periods for which the restatement of long-lived assets is required. The entity could base the estimate, 
+for example, on the movements in the exchange rate between the functional currency and a relatively 
+stable foreign currency. [IAS 29.17]. It should be noted that this method is only appropriate if the currency of 
+the hyperinflationary economy is freely exchangeable, i.e., not subject to currency controls and ‘official’ 
+exchange rates. Entities should also be mindful that, especially in the short term, the exchange rate may 
+fluctuate significantly in response to factors other than changes in the domestic price level. 
+How we see it 
+In a scenario where there is a wide spread consensus that all available general price indices do not meet 
+the minimum criteria for reliability (e.g., because the national statistical office in the hyperinflationary 
+economy may be subject to significant political bias) and thus are fatally flawed, or in the absence of a 
+general price index, entities could use an estimate based on currency movements, similar to the 
+approach to that described in IAS 29.17. In these instances, prepares must consider the reliability of the 
+movements in the currency as an inflation proxy. Where this is also not appropriate, the use of other 
+sources of economic data or even the use of experts may be required. 
+3.3 
+Delayed availability of a general price index 
+Inflation statistics are published shortly after the end of the reporting period, but in some jurisdictions the 
+statistics are published several weeks or months later. When considering the requirements of IAS 10 Events 
+after the Reporting Period, the release of this data is an event after the reporting date that provides evidence 
+of conditions that existed at the end of the reporting period (see Chapter 34 at section 2.1.2). This is 
+therefore an adjusting event that is to be taken into consideration in preparing the financial statements. 
+If the publication of these statistics is significantly delayed, preparers may either need to wait for the 
+statistics to become available or will need to make an estimate of the inflation index at the reporting date. 
+The basis of such an estimate could be previous months’ inflation statistics, movements in foreign exchange 
+rates for the period in question, or the opinion of economic experts. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1249 
+4 
+Analysis and restatement of the statement of financial 
+position 
+A broad outline of the process to restate assets and liabilities in the statement of financial position in 
+accordance with the requirements of IAS 29 is shown in the diagram below: 
+ 
+* 
+IAS 29 requires the restated amount of a non-monetary item to be reduced in accordance with the appropriate IFRS when the 
+restated amount exceeds its recoverable amount. [IAS 29.19]. 
+The above flowchart does not illustrate the restatement of investees and subsidiaries (see section 4.3 
+below), deferred taxation (see section 4.4 below) and equity (see section 5 below). 
+4.1 
+Monetary and non-monetary items 
+4.1.1 
+Monetary or non-monetary distinction 
+Monetary items are not restated as they are already expressed in the measurement unit current at the end 
+of the reporting period. Therefore, an entity needs to determine whether or not an item is monetary in 
+nature. Most statement of financial position items are readily classified as either monetary or non-monetary 
+as is shown in the table below: 
+Monetary items 
+Non-monetary items 
+Assets 
+Assets 
+Cash and cash equivalents 
+Debt securities 
+Loans 
+Trade and other receivables 
+Property, plant and equipment 
+Right-of-use assets 
+Intangible assets 
+Investments in equity securities 
+Inventories 
+Construction contract work-in-progress 
+Prepaid costs 
+Investment properties 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1250 
+Monetary items 
+Non-monetary items 
+Liabilities 
+Liabilities 
+Trade and other payables 
+Borrowings 
+Tax payable 
+Deferred income 
+However, there are instances where classification of items as either monetary or non-monetary is not 
+always straightforward. IAS 29 defines monetary items as “money held and items to be received or paid in 
+money”. [IAS 29.12]. IAS 21 expands on this definition by defining monetary items as: [IAS 21.8] 
+Extract from IAS 21 
+8 
+The following terms are used in this Standard with the meanings specified: 
+… 
+Monetary items are units of currency held and assets and liabilities to be received or paid in a 
+fixed or determinable number of units of currency. 
+… 
+IAS 21 further states that the essential feature of a monetary item is a right to receive (or an obligation to 
+deliver) a fixed or determinable number of units of currency. Examples given by IAS 21 are pensions and 
+other employee benefits to be paid in cash, provisions that are to be settled in cash and cash dividends that 
+are recognised as a liability. [IAS 21.16]. More obvious examples are cash and bank balances, trade 
+receivables and payables, and loan receivables and payables. 
+IAS 21 also states that “a contract to receive (or deliver) a variable number of the entity’s own equity 
+instruments or a variable amount of assets in which the fair value to be received (or delivered) equals a fixed 
+or determinable number of units of currency is a monetary item.” [IAS 21.16]. Although no examples of such 
+contracts are given in IAS 21, it should include those contracts settled in the entity’s own equity shares that 
+would be presented as financial assets or liabilities under IAS 32 Financial Instruments: Presentation. 
+Conversely, the essential feature of a non-monetary item is the absence of a right to receive (or an 
+obligation to deliver) a fixed or determinable number of units of currency. Examples given by IAS 21 are 
+amounts prepaid for goods and services (e.g., prepaid rent); goodwill; intangible assets; inventories; 
+property, plant and equipment; right-of-use assets; and provisions that are to be settled by the delivery of a 
+non-monetary asset. [IAS 21.16]. IFRS 9 Financial Instruments states that all equity instruments are non-
+monetary. [IFRS 9.B5.7.3]. Therefore, equity investments in subsidiaries, associates or joint ventures would 
+also be considered non-monetary items. IAS 29 provides separate rules on restatement of such investees 
+(see section 4.3 below). 
+Even with this guidance there may be situations where the distinction is not clear. Certain assets and 
+liabilities may require careful analysis before they can be classified. Examples of items that are not easily 
+classified as either monetary or non-monetary include: 
+(a) Provisions: these can be monetary, non-monetary or partly monetary. For example, a warranty 
+provision would be: 
+(i) Entirely monetary when customers only have a right to return the product and obtain a cash 
+refund equal to the amount they originally paid 
+(ii) Non-monetary when customers have the right to have any defective product replaced 
+And 
+(iii) Partly monetary if customers can choose between a refund and a replacement of the defective product 
+Classification as either a monetary or a non-monetary item is not acceptable in (iii) above. To meet the 
+requirements of IAS 29, part of the provision should be treated as a non-monetary item and the 
+remainder as a monetary item. 
+(b) Deferred tax assets and liabilities: characterising these as monetary or non-monetary can be difficult as 
+explained in section 4.4 below. 
+(c) Associates and joint ventures: IAS 29 provides separate rules on restatement of investees that do not 
+rely on the distinction between monetary and non-monetary items (see section 4.3 below). 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1251 
+(d) Deposits or progress payments paid or received: if the payments made are regarded as prepayments or 
+as progress payments then the amounts should be treated as non-monetary items. However, if the 
+payments made are in effect refundable deposits, then the amounts should probably be treated as 
+monetary items. 
+(e) Insurance contract assets and liabilities: While IFRS 17 Insurance Contracts states that groups of 
+insurance contracts, including the contractual service margin should be treated as a monetary item 
+when applying IAS 21, [IFRS 17.30], it is not clear from the wording in the standard if insurance contracts 
+should also be considered monetary for the purposes of the application of IAS 29. 
+And 
+(f) Index-linked assets and liabilities: classification is particularly difficult when interest rates, lease 
+payments or prices are linked to a price index. 
+How we see it 
+The practical application of the monetary/non-monetary distinction, discussed above, can be complex and 
+will require judgement on the part of preparers of financial statements. Further examples of problem areas 
+in the application of the monetary/non-monetary distinction are discussed in Chapter 16 at section 5.4. 
+4.1.2 
+Monetary items 
+Generally, monetary items are not restated to reflect the effect of inflation because they already reflect 
+their purchasing power at the end of the reporting period. However, monetary assets and liabilities linked 
+by agreement to changes in prices, such as index-linked bonds and loans, should be adjusted in accordance 
+with the terms of the underlying agreement to show the repayment obligation at the end of the reporting 
+period. [IAS 29.13]. This adjustment should be offset against the gain or loss on the net monetary position 
+(see section 6.3 below). [IAS 29.28]. 
+This type of restatement is not a hyperinflation accounting adjustment, but rather a gain or loss on a 
+financial instrument. Accounting for inflation-linked bonds and loans under IFRS 9 may well lead to 
+complexity in financial reporting. Depending on the specific wording of the inflation adjustment clause, such 
+contracts may give rise to embedded derivatives and gains or losses will have to be recorded either in profit 
+or loss or other comprehensive income depending on how the instrument is classified under IFRS 9 (see 
+Chapter 42 at section 4.1.5 and Chapter 44 at section 5.3.5). 
+4.1.3 
+Non-monetary items carried at current cost 
+Non-monetary items carried at current cost are not restated because they are already expressed in terms 
+of the measuring unit current at the end of the reporting period. [IAS 29.29]. Current cost is not defined by 
+the standard, but the IASB’s Conceptual Framework provides the following definition: “The current cost of 
+an asset is the cost of an equivalent asset at the measurement date, comprising the consideration that 
+would be paid at the measurement date plus the transaction costs that would be incurred at that date. The 
+current cost of a liability is the consideration that would be received for an equivalent liability at the 
+measurement date minus the transaction costs that would be incurred at that date”. [CF 6.21]. IAS 29 
+expands this definition by including net realisable value and fair value into the concept of “amounts current 
+at the end of the reporting period”. [IAS 29.14]. In summary, this would include items carried at a value that 
+reflects purchasing power at the balance sheet date. 
+It is important to note that non-monetary items that were revalued at some earlier date are not necessarily 
+carried at current cost, and need to be restated from the date of their latest revaluation. [IAS 29.18]. This 
+may include items such as assets impaired to a recoverable amount in an earlier reporting period, which 
+should be adjusted for inflation from the date of such impairment. Likewise, in the case of a non-monetary 
+prepayment for an asset, it may be that the date of the prepayment, rather than the date of initial 
+recognition of the asset, is the date at which the value was current, and therefore the date from which the 
+asset should be adjusted for inflation. Categorisation of prepayments as monetary or non-monetary is 
+discussed in section 4.1.1 above. 
+In hyperinflationary economies, national legislation may require entities to adjust historical cost based 
+financial information in a way that is not in accordance with IAS 29 (for example, national legislation may 
+require entities to adjust the carrying amount of tangible fixed assets by applying a multiplier). Though 
+financial information adjusted in accordance with national legislation is sometimes described as ‘current 
+cost’ information, it will seldom meet the definition of current cost in accordance with the Conceptual 
+Framework. [CF 6.21]. Where this is the case, entities must first determine the carrying value on the 
+historical cost basis for these assets and liabilities before applying the requirements of IAS 29. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1252 
+4.1.4 
+Non-monetary items carried at historical cost 
+Non-monetary items carried at historical cost, or cost less depreciation, are stated at amounts that were 
+current at the date of their acquisition. The restated cost, or cost less depreciation, of those items is 
+calculated as follows: 
+ 
+This formula would be applied to property, plant and equipment, inventories of raw materials and 
+merchandise, goodwill, patents, trademarks and similar assets. [IAS 29.15]. While this appears to be 
+straightforward, it does require detailed records of the acquisition dates of these assets and accurate price 
+indices at those dates. It should be noted though that IAS 29 permits certain approximations as long as the 
+procedures and judgements are consistent from period to period. [IAS 29.10]. Where sufficiently detailed 
+records are not available or capable of estimation, IAS 29 suggests that it may be necessary to obtain an 
+‘independent professional assessment’ of the value of the items as the basis for their restatement in the first 
+period of application of the standard, but also notes that this will only be in rare circumstances. [IAS 29.16]. 
+Illustration 4-1: 
+Restatement of property, plant and equipment 
+The table below illustrates how the restatement of a non-monetary item (for example, property, plant and 
+equipment or right-of-use assets) would be calculated in accordance with the requirements of IAS 29. When 
+IAS 29 is first applied, the item is restated from the date of acquisition. In subsequent periods it is restated 
+from the previous reporting period as shown below. 
+  
+Historical 
+restatements 
+Conversion factor 
+Restated for 
+hyperinflation 
+  
+Net book value of property, plant and 
+equipment 
+  
+  
+  
+  
+Opening balance, 1 January 
+510  
+2.40 
+1,224  
+(a) 
+- Additions (May) 
+360  
+1.80 
+648  
+(b) 
+- Disposals (March) 
+(105) 
+2.40 
+(252) 
+(c) 
+- Depreciation 
+(200) 
+  
+(448) 
+(d) 
+Closing balance, 31 December 
+565  
+  
+1,172  
+(e) 
+(a) The opening balance is restated by adjusting the balance reported per IAS 29 in the prior period for the 
+increase in the price index between the beginning and the end of the reporting period. 
+(b) The additions are restated for the increase in the price index from May to December. 
+(c) The disposals are restated for the increase in the price index between the beginning and the end of the 
+reporting period, assuming all disposals were acquired in a previous reporting period. 
+(d) Depreciation has been recalculated using the cost balance restated for hyperinflation on an asset-by-asset 
+basis as a starting point. 
+(e) The closing balance is in practice determined by adding up items (a)-(d). Alternatively, the entity could 
+calculate the closing balance by restating the acquisition cost and related accumulated depreciation of the 
+individual assets for the change in the price index during the period of ownership. 
+The calculations described under (a)-(e) all require estimates regarding the general price index at given dates 
+and are sometimes based on averages or best estimates of the actual date of the transaction. 
+When an entity purchases an asset and payment is deferred beyond normal credit terms, it would normally 
+recognise the present value of the cash payment as its cost. [IAS 16.23]. When it is impracticable to 
+determine the amount of interest, IAS 29 provides relief by allowing such assets to be restated from the 
+payment date rather than the date of purchase. [IAS 29.22]. 
+Once the calculation discussed above has been completed, additional adjustments may need to be made. To 
+arrive at the final restated cost of the non-monetary items, the provisional restated cost needs to be 
+adjusted for borrowing costs and impairment, if applicable, as follows: [IAS 29.19, IAS 29.21] 
+ 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1253 
+IAS 29 only permits partial capitalisation of borrowing costs, unlike the full capitalisation that is ordinarily 
+required by IAS 23 Borrowing Costs (see Chapter 22), because of the risk of double counting as the entity 
+would both restate the capital expenditure financed by borrowing and capitalise that part of the borrowing 
+costs that compensates for the inflation during the same period. [IAS 29.21]. The difficulty when borrowing 
+costs are capitalised is that IAS 29 only permits capitalisation of borrowing costs to the extent that those 
+costs do not compensate for inflation. The standard does not provide any guidance on how an entity should 
+go about determining the component of borrowing costs that compensates for the effects of inflation. 
+Therefore, entities will need to develop an appropriate methodology. 
+It is possible that an IAS 29 inflation adjustment based on the general price index leads to non-monetary 
+assets being stated above their recoverable amount. Therefore, IAS 29 requires that the restated amount 
+of a non-monetary item is reduced, in accordance with the appropriate accounting standard, when it 
+exceeds its recoverable amount from the item’s future use (including sale or other disposal). [IAS 29.19]. Any 
+overstatement of non-monetary assets not within the scope of IFRS 9 is calculated and accounted for in 
+accordance with IAS 36 Impairment of Assets or the measurement provisions of IAS 2 Inventories (see 
+section 4.2 below). That is, the asset is written down to its recoverable amount or net realisable value and 
+the loss is recognised in profit or loss. 
+The existence of hyperinflation in an economy is not explicitly mentioned as an indicator of impairment, but 
+the resulting economic conditions increase the likelihood of other indicators of impairment being present, 
+so additional care and attention will need to be paid to the impairment testing process. 
+The Illustration below illustrates how, after it has restated the historical cost based carrying amount of 
+property, plant and equipment by applying the general price index, an entity adjusts the net book value 
+restated for hyperinflation for these considerations: 
+Illustration 4-2: 
+Borrowing costs and net realisable value adjustments 
+After the entity has restated the historical cost based carrying amount of property, plant and equipment by 
+applying the general price index, it needs to adjust the net book value restated for hyperinflation to take 
+account of borrowing costs capitalised since the acquisition of the asset as follows: 
+Net book value restated for hyperinflation (inclusive of borrowing costs) 
+1,725  
+  
+  
+  
+  
+  
+  
+Borrowing costs capitalised at historical cost under IAS 23 
+42  
+  
+    
+Borrowing costs that compensated for inflation 
+(30) 
+  
+    
+Borrowing costs permitted to be capitalised under IAS 29 
+12  
+  
+    
+  
+  
+  
+  
+  
+Borrowing costs that compensated for inflation 
+(30) 
+  
+    
+Restate borrowing cost assuming conversion factor of 2.1 
+  
+  
+(63) 
+(a) 
+Net book value restated for hyperinflation and after 
+adjustment of capitalised borrowing costs 
+  
+  
+1,662  
+  
+  
+  
+  
+  
+  
+Net book value restated for hyperinflation and after 
+adjustment of capitalised borrowing costs 
+1,662  
+  
+    
+Amount recoverable from the item’s future use 
+1,550  
+  
+    
+  
+112  
+  
+    
+Adjustment to lower recoverable amount 
+  
+  
+(112) 
+(b) 
+  
+  
+  
+  
+  
+Carrying amount restated under IAS 29 
+  
+  
+1,550  
+  
+(a) The portion of the borrowing costs capitalised in the original historical cost financial statements that 
+compensate for inflation are reversed, as they are not permitted to be capitalised under IAS 29. 
+(b) To the extent that the ‘net book value restated for hyperinflation and after adjustment of capitalised 
+borrowing costs’ exceeds the ‘amount recoverable from the item’s future use’, the restated amount 
+should be reduced to the lower ‘amount recoverable from the item’s future use’. 
+Where an entity’s functional currency becomes hyperinflationary and it applies IAS 29 for the first time, IFRIC 7 
+requires the application of IAS 29 as if the economy had always been hyperinflationary. [IFRIC 7.3]. Therefore, in 
+the year of initial application of the standard, such an entity should consider whether an impairment trigger is 
+present at the beginning of the current period and, if any impairment is identified, determine whether it relates to 
+the current period or whether it should have been recognised earlier. In making such a determination in practice 
+there are likely to be a number of complexities including the degree of hindsight that might be involved. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1254 
+4.2 
+Inventories 
+Inventories of finished and partly finished goods are restated from the dates on which the costs of purchase 
+and of conversion were incurred. [IAS 29.15]. This means that the individual components of finished goods are 
+restated from their respective purchase dates. Similarly, if production takes place in several distinct phases, 
+the costs associated with each of those phases are restated from the date that the cost was incurred. 
+Given the large number of transactions affecting an entity’s inventory position, it may be difficult to 
+determine the date of acquisition of individual items of inventory. Therefore, entities commonly 
+approximate the ageing of inventories based on inventory turnover. Similarly, the level of the general 
+price index at the date of acquisition is often determined at the average level for the month because an 
+up-to-date price index is not available for each day of the month. Determining the appropriate level of the 
+general price index can be difficult when the price index is updated relatively infrequently and the entity’s 
+business is highly seasonal. 
+IAS 29 requires restatement of inventory by applying a general price index, which could result in an 
+overvaluation when the price of inventory items increases at a different rate from the general price 
+index. At the end of each period, it is therefore essential to ensure that items of inventory are not valued 
+in excess of their net realisable value. Any overstated inventories shall be written down to net realisable 
+value under IAS 2. [IAS 29.19]. 
+4.3 
+Restatement of associates, joint ventures and subsidiaries 
+IAS 29 provides separate rules for the restatement of associates and joint ventures that are accounted for 
+under the equity method. If the investee itself operates in a hyperinflationary currency, the entity restates 
+the statement of financial position, statement of profit or loss and other comprehensive income of the 
+investee in accordance with the requirements of IAS 29 in order to calculate its share of the investee’s net 
+assets and results of operations. [IAS 29.20]. The standard does not permit the investment in the investee to 
+be treated as a single indivisible item for the purposes of the IAS 29 restatement. In addition, IAS 29 
+requires that when financial statements with different reporting dates are consolidated, all items, whether 
+non-monetary or monetary are restated into the measuring unit current at the date of the consolidated 
+financial statements. [IAS 29.36]. 
+Restating the financial statements of an associate before application of the equity method will often be 
+difficult because the investor may not have access to the detailed information required. The fact that the 
+investor can exercise significant influence or has joint control over an investee often does not mean that 
+the investor has unrestricted access to the investee’s books and records at all times. 
+The various combinations of investors and investees are discussed below. 
+4.3.1 
+Non-hyperinflationary investor and hyperinflationary investee 
+When the investor does not operate in the hyperinflationary currency, but the investee does, the same 
+processes described above are still required to be completed prior to the equity accounting process. 
+Once restated, the results of a foreign currency investee are translated into the investor’s presentation 
+currency at the closing rate. [IAS 29.20]. IAS 21 contains a similar provision that requires that all current 
+year amounts related to an entity (i.e., investee), whose functional currency is the currency of a 
+hyperinflationary economy, to be translated at the closing rate at the date of the most recent statement of 
+financial position (see Chapter 16 at section 6.1). [IAS 21.42]. 
+4.3.2 
+Hyperinflationary investor and investee 
+If a parent that reports in the currency of a hyperinflationary economy has a subsidiary that also reports in 
+the currency of a hyperinflationary economy, then the financial statements of that subsidiary must first be 
+restated by applying a general price index of the country in whose currency it reports before they are 
+included in the consolidated financial statements issued by its parent. [IAS 29.35]. When an investor has a 
+subsidiary whose functional currency is the currency of a hyperinflationary economy, IAS 21 further 
+clarifies that all current year amounts related to the subsidiary are translated at the closing rate at the date 
+of the most recent statement of financial position (see Chapter 16 at section 6.1). [IAS 21.42]. The 
+restatement of related comparative amounts is discussed in section 11.3 below. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1255 
+4.3.3 
+Hyperinflationary investor and non-hyperinflationary investee 
+If a parent that reports in the currency of a hyperinflationary economy has a subsidiary that reports in a 
+currency that is not hyperinflationary, the financial statements of that subsidiary are translated in 
+accordance with IAS 21.39 (see Chapter 16 at section 6.1). [IAS 21.39]. This is discussed in further detail in 
+section 12 below. 
+4.4 
+Calculation of deferred taxation 
+Determining whether deferred tax assets and liabilities are monetary or non-monetary is difficult because: 
+• 
+Deferred taxation could be seen as a valuation adjustment that is either monetary or non-monetary 
+depending on the asset or liability it relates to. 
+Or 
+• 
+It could also be argued that any deferred taxation payable or receivable in the very near future is 
+almost identical to current tax payable and receivable. Therefore, at least the short-term portion of 
+deferred taxation, if payable or receivable, is treated as if it were monetary. 
+IFRIC 7 provides guidance to facilitate the first-time application of IAS 29. Although the interpretation 
+notes that there continues to be a difference of opinion as to whether deferred taxation is monetary or non-
+monetary, [IFRIC 7.BC21, IFRIC 7.BC22], the debate has been settled for practical purposes because: 
+• 
+IAS 12 Income Taxes requires deferred taxation in the closing statement of financial position for the 
+year to be calculated based on the difference between the carrying amount and the tax base of assets 
+and liabilities, without making a distinction between monetary and non-monetary items. 
+And 
+• 
+IFRIC 7 requires an entity to remeasure the deferred tax items in any comparative period in accordance 
+with IAS 12 after it has restated the nominal carrying amounts of its non-monetary items at the date of 
+the opening statement of financial position of the reporting period by applying the measuring unit at 
+that date. These remeasured deferred tax items are then restated for the change in the measuring unit 
+between the beginning and the end of reporting period. [IFRIC 7.4]. 
+The following Illustration, which is based on the illustrative example in IFRIC 7, shows how an entity 
+restates its deferred taxation in the comparative period. [IFRIC 7.IE1-IE6]. 
+Illustration 4-3: 
+Restatement of deferred taxation 
+Entity A owns a building that it acquired in December 20X0. The carrying amount and tax base of the building, 
+and the deferred tax liability are as follows: 
+Before IAS 29 restatement 
+20X2 
+20X1 
+Building (not restated) 
+300 
+400 
+Tax base 
+200 
+333 
+Tax rate 
+30% 
+30% 
+Deferred tax liability: 
+  
+  
+ (300 - 200) × 30% = 
+30 
+  
+ (400 - 333) × 30% = 
+  
+20 
+Entity A has identified the existence of hyperinflation in 20X2 and therefore applies IAS 29 retrospectively and 
+is required to calculate the deferred tax balance at the beginning of 20X2. Entity A will use the following 
+general price index and conversion factors to restate its financial statements: 
+  
+General price index 
+December 20X0 
+95 
+December 20X1 
+135 
+December 20X2 
+223 
+  
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1256 
+The table below shows the method required by IFRIC 7: 
+  
+20X2 
+20X1 
+  
+Building (not restated) 
+300 
+400 
+  
+Building (restated in 20X2 financial statements): 
+  
+    
+300 × (223 ÷ 95) = 
+704 
+    
+400 × (223 ÷ 95) = 
+  
+939 
+  
+Building (restated in 20X1 financial statements): 
+  
+    
+400 × (135 ÷ 95) = 
+  
+568 
+(a) 
+Tax base 
+200 
+333 
+(b) 
+Deferred tax liability (restated in 20X2 financial statements): 
+  
+    
+(704 - 200) × 30% = 
+151 
+    
+(568 - 333) × 30% = 71; 71 × (223 ÷ 135) = 
+  
+117 
+  
+Entity A measures the temporary difference at the end of 20X1 by comparing (a) the restated carrying amount 
+of the building in 20X1 accounts to (b) its tax base at that date. The temporary difference calculated in that 
+manner is then multiplied by the applicable tax rate and the resulting amount is then adjusted for the 
+hyperinflation during 20X2, resulting in a deferred tax liability of 117. 
+After Entity A has restated its financial statements for a given year, all corresponding figures in the financial 
+statements for a subsequent reporting period, including deferred tax items, are restated by applying the 
+change in the measuring unit for that subsequent reporting period only to the restated financial statements for 
+the previous reporting period. [IFRIC 7.5].  
+IAS 29 refers to IAS 12 for guidance on the calculation of deferred taxation by entities operating in 
+hyperinflationary economies. [IAS 29.32]. IAS 12 recognises that IAS 29 restatements of assets and liabilities 
+may give rise to temporary differences when equivalent adjustments are not allowed for tax purposes. 
+[IAS 12.IE.A18]. Where IAS 29 adjustments give rise to temporary differences, IAS 12 requires the following 
+accounting treatment: 
+• 
+The deferred tax income or expense is recognised in profit or loss. 
+And 
+• 
+If, in addition to the restatement, non-monetary assets are also revalued, the deferred tax movement 
+relating to the revaluation is recognised in other comprehensive income and the deferred tax relating 
+to the restatement is recognised in profit or loss. [IAS 12.IE.A18]. 
+For example, deferred taxation arising on the revaluation of property, plant and equipment is recognised in 
+other comprehensive income, just as it would be if the entity were not operating in a hyperinflationary 
+economy. On the other hand, a restatement in accordance with IAS 29 of property, plant and equipment 
+that is measured at historical cost is recognised in profit or loss. Thus, the treatment of deferred taxation 
+related to non-monetary assets valued at historical cost and those that are revalued, is consistent with the 
+general requirements of IAS 12. 
+Tax authorities in countries that are hyperinflationary may give taxpayers some relief from taxation on 
+inflated nominal profits by increasing tax bases of assets. The implications of such increases in the tax 
+bases, which in turn affect temporary differences, are discussed in Chapter 29 at section 10.1. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1257 
+5 
+Restatement of the statement of changes in equity 
+When an entity first applies IAS 29, it restates the components of owners’ equity at the beginning of the 
+earliest period presented as follows: 
+• 
+The components of owners’ equity, except retained earnings and any revaluation surplus, are restated 
+by applying a general price index from the dates the components were contributed or otherwise arose. 
+• 
+Any revaluation surplus that arose in previous periods is eliminated. 
+And 
+• 
+Restated retained earnings are derived from all the other amounts in the restated statement of 
+financial position. [IAS 29.24]. 
+At the end of the first period and in subsequent periods, all components of owners’ equity are restated by 
+applying a general price index from the beginning of the period or the date of contribution, if later. 
+[IAS 29.25]. Subsequent revaluations may give rise to a revaluation surplus within equity. 
+IFRS does not define a revaluation surplus and it is not always clear which reserves might meet this 
+definition. Depending on how broadly the concept of ’revaluation’ is applied, this may include reserves 
+relating to, for example, financial instruments at fair value through other comprehensive income, or 
+actuarial gains and losses, if these are presented separately. The approach taken on initial application as 
+well as in subsequent years affects, in particular, those reserves reclassified to profit or loss, and is 
+discussed in section 6.4 below. 
+Likewise, IFRS does not define retained earnings and many jurisdictions require entities to appropriate part 
+of the balance into specific (often non-distributable) reserves. In such cases, entities will need to apply 
+judgement to determine whether these reserves are essentially part of retained earnings (and so are not 
+restated by applying the general price index as described in IAS 29.24). If they are considered a separate 
+component of equity, then they are restated by applying the general price index as explained above, both at 
+the beginning of the first period when an entity applies IAS 29 and at the end of the first period and 
+subsequent periods. 
+Where entities have made such judgements concerning the types of reserves held and these judgements 
+have a significant effect on the amounts recognised in the financial statements, IAS 1 requires disclosure to 
+users of the financial statements. [IAS 1.122]. 
+Though IAS 29 provides guidance on the restatement of assets, liabilities and individual components of 
+shareholders’ equity, national laws and regulations with which the entity needs to comply might not permit 
+such revaluations. This can mean that IAS 29 may require restatement of distributable reserves, but that 
+from the legal point of view in the jurisdiction concerned, those same reserves remain unchanged. That is, 
+it is possible that ‘restated retained earnings’ under IAS 29 will not all be legally distributable. 
+It may therefore be unclear to users of financial statements restated under IAS 29 to what extent 
+components of equity are distributable. Because of its global constituents, the IASB’s standards cannot deal 
+with specific national legal requirements relating to a legal entity’s equity. 
+How we see it 
+In jurisdictions with laws or regulations governing the categories of equity and particularly, which 
+categories of equity may be distributed, entities reporting under IAS 29 should disclose the extent to which 
+components of equity are distributable where this is not obvious from the financial statements. In our view, 
+it is important for entities to give supplementary information in the circumstances where the IAS 29 
+adjustments have produced large apparently distributable reserves that are in fact not distributable. 
+ 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1258 
+Illustration 5-1: 
+Restatement of equity 
+The table below shows the effect of a hypothetical IAS 29 restatement on individual components of equity on 
+initial application of IAS 29. Issued share capital and share premium increase by applying the general price 
+index, the revaluation reserve is eliminated as required, and retained earnings is the balancing figure derived 
+from all other amounts in the restated statement of financial position. 
+  
+Amounts before 
+restatement 
+Amounts after 
+IAS 29 restatement 
+Components of 
+equity under 
+national law 
+Issued capital and share premium 
+1,500 
+3,150 
+1,500 
+Revaluation reserve 
+800 
+- 
+800 
+Retained earnings 
+350 
+1,600 
+350 
+Total equity 
+2,650 
+4,750 
+2,650 
+A user of the financial statements of the entity might get the impression, based on the information restated in 
+accordance with IAS 29, that distributable reserves have increased from 350 to 1,600. However, if national 
+law does not permit revaluation of assets, liabilities and components of equity, then distributable reserves 
+remain unchanged. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1259 
+6 
+Restatement of the statement of profit or loss and other 
+comprehensive income 
+IAS 29 requires that all items in historical cost-based statements of profit and loss and other 
+comprehensive income be expressed in terms of the measuring unit current at the end of the reporting 
+period. [IAS 29.26]. The standard contains a similar requirement for current cost-based statements of profit 
+and loss and other comprehensive income, because the underlying transactions or events are recorded at 
+current cost at the time they occurred rather than in the measuring unit current at the end of the reporting 
+period. [IAS 29.30]. Therefore, all amounts in the statement of profit or loss and other comprehensive income 
+need to be restated as follows: 
+ 
+Actually performing the above calculation on a real set of financial statements is often difficult because an 
+entity would need to keep a very detailed record of when it entered into transactions and when it incurred 
+expenses. Instead of using the exact price index for a transaction it may be more practical to use an 
+average price index that approximates the actual rate at the date of the transaction. For example, an 
+average rate for a week or a month might be used for all transactions occurring during that period. 
+However, it must be stressed that if price indices fluctuate significantly, the use of an average for the 
+period may be inappropriate. 
+There may be items in statements of profit and loss and other comprehensive income, e.g., interest income 
+and expense that comprise an element that is intended to compensate for the effect of hyperinflation. 
+However, even those items need to be restated as IAS 29 specifically requires that ‘all amounts need to be 
+restated’ (see section 6.1 below). [IAS 29.26, IAS 29.30]. 
+Illustration 6-1 below shows how an entity might, for example, restate its revenue to the measuring unit 
+current at the end of the reporting period. A similar calculation would work well for other items in 
+statements of profit and loss and other comprehensive income, with some exceptions, as discussed in 
+sections 6.2 and 6.4 below: 
+Illustration 6-1: 
+Restatement of historical cost statement of profit or loss and other 
+comprehensive income 
+An entity would restate its revenue for the period ending 31 December 20X2, when the general price index 
+was 2,880, as shown in the table below. 
+ 
+General price 
+index 
+Conversion factor 
+Revenue before 
+restatement 
+Restated 
+revenue 
+31 January 20X2 
+1,315 
+(2,880 ÷ 1,315) = 2.19 
+40 
+87.6 
+28 February 20X2 
+1,345 
+(2,880 ÷ 1,345) = 2.14 
+35 
+74.9 
+31 March 20X2 
+1,371 
+etc. = 2.10 
+45 
+94.5 
+30 April 20X2 
+1,490 
+1.93 
+45 
+86.9 
+31 May 20X2 
+1,600 
+1.80 
+65 
+117.0 
+30 June 20X2 
+1,846 
+1.56 
+70 
+109.2 
+31 July 20X2 
+1,923 
+1.50 
+70 
+105.0 
+31 August 20X2 
+2,071 
+1.39 
+65 
+90.4 
+30 September 20X2 
+2,163 
+1.33 
+75 
+99.8 
+31 October 20X2 
+2,511 
+1.15 
+75 
+86.3 
+30 November 20X2 
+2,599 
+1.11 
+80 
+88.8 
+31 December 20X2 
+2,880 
+1.00 
+80 
+80.0 
+  
+  
+  
+745 
+1,120.4 
+  
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1260 
+How we see it 
+Inevitably, in practice there is some approximation in this process because of the assumptions that the 
+entity is required to make, for example the use of weighted averages rather than more detailed 
+calculations and assumptions as to the timing of the underlying transactions (e.g., the calculation above 
+assumes the revenues for the month are earned on the final day of the month, which is not realistic). A 
+number of factors may need to be considered in determining the appropriate level of detail to be applied: 
+• 
+The level of data available: most jurisdictions only make inflation statistics available on a monthly 
+basis. In addition, when the hyperinflation process requires data from long ago e.g., for a property 
+that was purchased decades ago), even monthly information may not be available. 
+• 
+The materiality of the item being adjusted for inflation: a more detailed calculation should be 
+performed for more material items. For example, revenue should be adjusted for inflation using a 
+more detailed calculation than a low value expense account. 
+• 
+Frequency of transactions: more specific inflation data would be more appropriate for one-off 
+transactions, especially where these are material. For example, more attention should be paid to the 
+inflation data on the date of a material business combination than to data related to purchases made 
+relatively consistently throughout the year. 
+Other factors to be considered would include the regularity of transactions and the level of variation in 
+the inflation rate.  
+6.1 
+Restatement of interest and exchange differences 
+A common question is whether an entity should restate exchange differences under IAS 29, because the 
+standard considers that “foreign exchange differences related to invested or borrowed funds, are also 
+associated with the net monetary position”. [IAS 29.28]. Nevertheless, the standard requires that all items in 
+the statement of profit or loss and other comprehensive income are expressed in terms of the measuring 
+unit current at the end of the reporting period. “Therefore, all amounts need to be restated by applying the 
+change in the general price index from the dates when the items of income and expenses were initially 
+recorded in the financial statements”. [IAS 29.26]. 
+Interest and exchange differences are therefore restated for the effect of inflation, consistent with most 
+other items in the statement of profit or loss and other comprehensive income, and are separately 
+disclosed. However, it may be helpful if they are presented together with the gain or loss on net monetary 
+position in the statement of profit or loss and other comprehensive income. [IAS 29.28]. 
+6.2 
+Income and expenses where the general approach is not applied 
+Certain items of income and expenses cannot be adjusted for inflation by applying the general approach 
+discussed in section 6 above. This typically is the case where the line item is derived from the value of an 
+asset or liability and therefore the application of IAS 29 to the asset or liability drives the measurement of 
+the income or expense, for example: 
+• 
+Cost of sales is a calculation based on opening and closing inventory balances as well as purchases 
+during the period. To reflect the IAS 29 value of inventory sold, each component in this calculation is 
+restated and the calculation reperformed. 
+• 
+Depreciation and amortisation are recalculated using the cost for the related asset restated for 
+hyperinflation on an asset-by-asset basis. The alternative approach, to restate the depreciation charge 
+by applying a conversion factor to the charge for the year, might seem easier to apply but this factor 
+would not reflect all inflation since this cost was last current (i.e., the acquisition date of the asset). 
+Similarly, the gain or loss on disposal on such assets must be calculated based on the proceeds 
+restated from the disposal date less the carrying value restated as shown in Illustration 4-1 above. 
+• 
+Gains and losses on non-monetary items measured at fair value are typically calculated as the 
+difference between the restated opening balance, or if acquired during the year, the restated 
+acquisition date value, and the fair value on the reporting date. 
+• 
+Deferred taxation amounts in profit or loss are calculated based on the movements in the deferred tax 
+balance, determined as per Illustration 4-3 above. 
+And 
+• 
+The net monetary gain or loss that results from the IAS 29 restatements (see section 6.3 below). 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1261 
+6.3 
+Calculation of the gain or loss on the net monetary position 
+In theory, hyperinflation only affects the value of money and monetary items and does not affect the value, 
+as distinct from the price, of non-monetary items. Therefore, any gain or loss because of hyperinflation will 
+be the gain or loss on the net monetary position of the entity. By arranging the items in an ordinary 
+statement of financial position, it can be shown that the monetary position minus the non-monetary 
+position is always equal to zero: 
+  
+Total 
+Monetary items 
+Non-monetary 
+items 
+Monetary assets 
+280  
+280  
+  
+Non-monetary assets 
+170  
+  
+170  
+Monetary liabilities 
+(200) 
+(200) 
+  
+Non-monetary liabilities 
+(110) 
+  
+(110) 
+Assets minus liabilities 
+140  
+  
+  
+Shareholders’ equity 
+(140) 
+  
+(140) 
+Net position 
+0  
+80  
+(80) 
+Theoretically, the gain or loss on the net monetary position can be calculated by applying the general price 
+index to the entity’s monetary assets and liabilities. This would require the entity to determine its net 
+monetary position on a daily basis, which would be entirely impracticable given the resources required to 
+prepare daily IFRS compliant accounts as well as the difficulties in making the monetary/non-monetary 
+distinction (see section 4.1 above). The standard therefore allows the gain or loss on the net monetary 
+position to be estimated by applying the change in a general price index to the weighted average for the 
+period of the difference between monetary assets and monetary liabilities. [IAS 29.27, IAS 29.31]. Due care 
+should be exercised in estimating the gain or loss on the net monetary position, as a calculation based on 
+averages for the period (or monthly averages) can be unreliable if addressed without accurate 
+consideration of the pattern of hyperinflation and the volatility of the net monetary position. 
+However, as shown in the above table, any restatement of the non-monetary items must be met by an 
+equal restatement of the monetary items. Therefore, in preparing financial statements it is more 
+practical to assume that the gain or loss on the net monetary position is exactly the reverse of the 
+restatement of the non-monetary items, equity items and items in the statement of comprehensive 
+income. A stand-alone calculation of the net gain or loss can be used to verify the reasonableness of the 
+restatement of the non-monetary items. 
+The gain or loss on the net monetary position as calculated above, as well as any adjustments on 
+inflation-linked instruments (see section 4.1.2 above), is included in profit or loss and disclosed 
+separately. It may be helpful to present it together with items that are also associated with the net 
+monetary position such as interest income and expense, and foreign exchange differences related to 
+invested or borrowed funds. [IAS 29.28]. 
+6.4 
+Measurement of reclassification adjustments within equity 
+IAS 29 does not provide guidance on the measurement basis of reclassifications from other comprehensive 
+income. For example, it is not clear when a debt instrument at fair value through other comprehensive 
+income is sold, whether the amount reclassified into profit and loss is based on the amounts historically 
+recorded in other comprehensive income, or alternatively based on an inflation adjusted amount. Another 
+example is the case of cash flow hedges where gains or losses in an earlier reporting period are recycled to 
+profit and loss to offset against the gains or losses of the hedged item at a later date. 
+The conflict arises due to the need to classify items in other comprehensive income as amounts to be 
+recycled, or not. This requirement would indicate that amounts initially recorded in other comprehensive 
+income should be recycled at the amounts originally recorded. While this may satisfy the requirements for 
+other comprehensive income, this leads to a loss of relevant information in the statement of profit or loss 
+and other comprehensive income. Using the examples cited above, the gain or loss on disposal of a debt 
+instrument at fair value through other comprehensive income would no longer be presented in terms of the 
+index being used for purposes of restating amounts in profit or loss. In the case of a cash flow hedge, the 
+offset that would also be expected in profit or loss is also lost. The alternative view would be to recycle 
+amounts that have been restated in terms of the current index that is being applied. This is demonstrated in 
+the Illustration below. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1262 
+Illustration 6-2: 
+Measurement of reclassification adjustments 
+An entity issued a three-year CU100,000 fixed (15%) rate bond on 31 December 20X0. Before the bond was 
+issued, the entity entered into a fully effective cash flow hedge of changes in three-year interest rates that 
+resulted in a gain of CU6,000 being recognised in other comprehensive income. The entity would reclassify 
+this gain from equity to profit or loss as a reclassification adjustment in the same period or periods during 
+which the bond affects profit or loss, i.e., over three years assuming it is repaid at maturity. Therefore, in a 
+non-hyperinflationary environment, for each of these three years, CU2,000 would be reclassified from other 
+comprehensive income to profit or loss as an adjustment to interest expense (assuming a straight-line 
+approach was considered appropriate). 
+IAS 29 is not explicit on whether the reclassification from other comprehensive income should be adjusted for 
+the effects of hyperinflation. The following example illustrates the difference between adjusting and not 
+adjusting the reclassification of the cash flow hedge gains for the effect of hyperinflation. For the purpose of 
+this example, assume the general price index was 100 at 31 December 20X1 and 150 at 31 December 20X2. 
+20X2 
+Hyperinflationary 
+20X2 
+Hyperinflationary 
+20X2 
+Non-
+hyperinflationary 
+  
+Adjusted 
+Non-Adjusted 
+  
+  
+CU 
+CU 
+CU 
+Net profit: 
+  
+  
+  
+Interest expense 
+…  
+…  
+…  
+Reclassification of cash flow hedge gains 
+(a) 3,000  
+2,000  
+2,000  
+Other comprehensive income: 
+  
+  
+  
+Reclassification of cash flow hedge gains 
+(3,000) 
+(2,000) 
+(2,000) 
+(a) 6,000 × (150/100) ÷ 3 
+The basic accounting requirements before the application of IAS 29 for this example is currently contained in IFRS 9 (or IAS 39 
+Financial Instruments: Recognition and Measurement if the hedge accounting requirements of IFRS 9 have not yet been 
+adopted). 
+  
+While the approach of adjusting for hyperinflation would ensure relevant information in the statement of 
+profit or loss and other comprehensive income, it would lead to different amounts being originally recorded 
+and subsequently recycled in other comprehensive income. 
+Once developed, the general recommendation of IFRS accounting standards to apply procedures and 
+judgements consistently should be followed for a particular class of equity reclassification. As there are 
+numerous different types of reclassifications within equity, an entity may need to determine a relevant 
+policy for each class of adjustment that could occur. [IAS 8.10]. 
+How we see it 
+As no direct guidance is given in IAS 29, the development of an accounting policy for measuring 
+reclassifications from other comprehensive income in terms of the IAS 8 Accounting Policies, Changes in 
+Accounting Estimates and Errors hierarchy would be required. In developing such an accounting policy an 
+entity would need to apply judgement and consider the objective of the standard that gives rise to the 
+amounts that are recycled to profit or loss. 
+Understanding the objective of hedge accounting and what risks have been hedged in the designated 
+relationship would be relevant inputs in developing an appropriate accounting policy. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1263 
+7 
+Restatement of the statement of cash flows 
+The standard requires that all items in the statement of cash flows be expressed in terms of the measuring 
+unit current at the end of the reporting period. [IAS 29.33]. This is a difficult requirement to fulfil in practice. 
+IAS 7 Statement of Cash Flows requires the following information to be presented: 
+• 
+Cash flows from operating activities, which are the principal revenue-producing activities of the entity 
+and other activities that are not investing or financing activities. 
+• 
+Cash flows from investing activities, which are the acquisition and disposal of long-term assets and 
+other investments not included in cash equivalents. 
+And 
+• 
+Cash flows from financing activities, which are activities that result in changes in the size and 
+composition of the equity capital and borrowings of the entity. [IAS 7.6, IAS 7.10]. 
+In effect IAS 29 requires restatement of most items in a statement of cash flows, therefore implying that 
+the actual cash flows at the time of the transactions will be different from the numbers presented in the 
+statement of cash flows itself. However, not all items are restated using the same method and many of the 
+restatements are based on estimates. For example, items in the statement of profit or loss and other 
+comprehensive income are restated using an estimate of the general price index at the time that the 
+revenues were earned and the costs incurred. Unavoidably, this will give rise to some inconsistencies. 
+Similarly, the restatement of statement of financial position items will give rise to discrepancies because 
+some items are not easily classified as either monetary or non-monetary. This raises the question of how an 
+entity should classify the monetary gain or loss relating to a statement of financial position item in its 
+statement of cash flows. 
+It is not clear from IAS 29 how a monetary gain or loss should be presented in the statement of cash flows. 
+In practice, the most commonly applied approach restates cash flows by attributing the effect of inflation 
+on operating, investing and financing cash flows to the underlying item and presenting the monetary gain 
+or loss on cash and cash equivalents separately. However, given the lack of guidance in the IFRS accounting 
+standards, and given the complexity of determining the monetary gains or losses specific to cash and cash 
+equivalents, other approaches might be acceptable. 
+How we see it 
+Irrespective of the method chosen to present a statement of cash flows under IAS 29, users of such 
+statement prepared in the currency of a hyperinflationary economy should be mindful of the fact that 
+figures presented in the statement may have been restated in accordance with IAS 29 and may differ 
+from the actual underlying cash flows on the date of the transaction. 
+In our view, it is important for entities that have a significant proportion of their activities in 
+hyperinflationary economies to consider whether it provides sufficient additional disclosures to ensure 
+that the financial statements can be understood correctly. Whether this is limited to a general 
+explanation of the mismatch between reported and actual amounts, or specific information on major 
+transactions is provided, would depend on the nature and materiality of transactions affected. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1264 
+8 
+Restatement of comparative figures 
+The standard requires that all financial information be presented in terms of the measurement unit current 
+at the end of the current reporting period, therefore: 
+• 
+Corresponding figures for the previous reporting period, whether they were based on a historical cost 
+approach or a current cost approach, are restated by applying a general price index. 
+And 
+• 
+Information that is disclosed in respect of earlier periods is also expressed in terms of the measuring 
+unit current at the end of the reporting period. [IAS 29.34]. 
+Where IAS 29 was applied in the previous reporting period, this will be a straightforward mathematical 
+computation to apply the measuring unit current at the end of the reporting period to the prior year 
+comparative figures. An example of this can be seen in the restatement of the opening balance of property, 
+plant and equipment in Illustration 4-1 above. When IAS 29 is applied for the first time, this is a more 
+complex process, as discussed in section 10.1 below. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1265 
+9 
+Interim reporting 
+The illustrative examples to IAS 34 Interim Financial Reporting state that interim financial reports in 
+hyperinflationary economies are prepared using the same principles as at financial year end. [IAS 34.IE B32]. 
+This means that the financial statements must be stated in terms of the measuring unit current at the end 
+of the interim period and that the gain or loss on the net monetary position is included in net income (profit 
+or loss). The comparative financial information reported for prior periods must also be restated to the 
+current measuring unit. [IAS 34.IE B33]. Hence, an entity that reports quarterly information must restate the 
+comparative statements of financial position, statement of profit or loss and other comprehensive income, 
+and other primary financial statements each quarter. 
+In restating its financial information an entity may not ‘annualise’ the recognition of the gain or loss on the 
+net monetary position or use an estimated annual inflation rate in preparing an interim financial report in a 
+hyperinflationary economy. [IAS 34.IE B34]. 
+Interim reporting of a group containing a subsidiary that reports in a hyperinflationary currency results in 
+particular issues in the year that the subsidiary’s functional currency becomes hyperinflationary. These are 
+discussed further in section 11.3 below. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1266 
+10 Transition 
+10.1 Economies becoming hyperinflationary 
+When the functional currency of an entity becomes hyperinflationary it must start applying IAS 29. The 
+standard requires that the financial statements and any information in respect of earlier periods are stated 
+in terms of the measuring unit current at the end of the reporting period. [IAS 29.8]. IFRIC 7 clarifies that 
+items are restated fully retrospectively. In the first year in which the entity identifies the existence of 
+hyperinflation, the requirements of IAS 29 are applied as if the economy had always been 
+hyperinflationary. The opening statement of financial position at the beginning of the earliest period 
+presented in the financial statements are restated as follows: 
+• 
+Non-monetary items measured at historical cost are restated to reflect the effect of inflation from the 
+date the assets were acquired and the liabilities were incurred or assumed. 
+And 
+• 
+Non-monetary items carried at amounts current at dates other than those of acquisition or incurrence 
+are to be restated to reflect the effect of inflation from the dates those carrying amounts were 
+determined. [IFRIC 7.3]. 
+In practice, the process of applying IAS 29 fully retrospectively requires a number of steps to determine the 
+appropriate comparative values, and specifically the opening equity reserves, to ensure the correct 
+balances at the reporting date. 
+Supposing an entity, with a 31 December reporting date, became hyperinflationary in its 20X2 reporting 
+period, the statement of financial position at 1 January 20X1 (i.e., the beginning of the earliest comparative 
+period), restated to the monetary unit present at that date, would need to be calculated, as well as the 
+components of equity restated to derive the restated retained earnings position at that date (as discussed in 
+section 5 above). This process would require an entity to consider whether the restated values of items 
+subject to comparison against a recoverable amount, as discussed in section 4.1.4 above, would require 
+impairment. In completing this assessment, care should be taken to ensure that such a test is performed by 
+comparing carrying and recoverable amounts stated using financial information measured at consistent 
+dates. For example, the restated carrying amount as calculated at 1 January 20X1 (i.e., the beginning of the 
+earliest comparative period) is compared to the recoverable amount determined at that date. The resulting 
+carrying value would then be restated to the monetary unit present at 31 December 20X2. 
+To calculate the gain or loss on net monetary position for the 20X1 comparative statement of profit or loss 
+and other comprehensive income: 
+• 
+All items in the opening statement of financial position, including items carried at amounts current at that 
+date, are adjusted for the inflation during the year to the monetary unit present at 31 December 20X1. 
+• 
+The 20X1 financial statements are restated to the monetary unit at 31 December 20X1. 
+And 
+• 
+The gain or loss on the net monetary position is calculated as discussed in section 6.3 above. 
+The financial information determined in this way would then be adjusted for hyperinflation during 20X2 to 
+the monetary unit present at 31 December 20X2, including items carried at amounts current at the 
+previous reporting dates, to correctly establish the comparatives to be reported. 
+Other areas that are more complex in the period of initial application arise in group reporting environments 
+where a non-hyperinflationary parent controls a hyperinflationary subsidiary. This raises questions on the 
+accounting for the initial restatement process (discussed in Section 11 below) as well as the impact on 
+interim reporting considerations in the period the subsidiary becomes hyperinflationary (discussed in 
+Section 11.3 below). 
+10.1.1 
+Presentation of statement of financial position at the beginning of the 
+comparative period 
+As discussed above, upon transition to IAS 29, the statement of financial position at the beginning of the 
+earliest comparative period is required to be calculated as the base of all subsequent reporting. IAS 1 
+requires an entity to present a statement of financial position as at the beginning of the preceding period 
+when it “applies an accounting policy retrospectively” or “makes retrospective restatements of items” and 
+this has a material effect on the information in the statement of financial position at the beginning of the 
+preceding period. [IAS 1.10(f)]. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1267 
+This raises the question as to whether the initial application of IAS 29 should be seen as the adoption of a 
+new accounting policy. The application of IFRS requires all standards to be adopted, whether applicable or 
+not. Therefore, the initial application of IAS 29 is not a change in accounting policy but rather the first time 
+that the standard is required to be used. IFRIC 7 describes the initial application of IAS 29 as both a change 
+in status as well as “similar to the retrospective application of a change in accounting policy”. [IFRIC 7.BC17]. 
+This could be interpreted to excuse preparers from the requirement to present the statement of financial 
+position at the beginning of the earliest comparative period, on the grounds that is it not a policy change, or 
+alternatively, to imply that the similarity is such that the disclosure is required. 
+How we see it 
+Preparers of financial statements should consider the extent to which the presentation of a statement of 
+financial position as at the beginning of the preceding period provides information that is useful to the 
+users thereof. Where this additional statement would add meaningful context to the financial statements 
+that is not provided in the notes thereto, its inclusion would be beneficial. In practice, we see limited 
+instances of this additional statement being presented. 
+Where such an opening statement would be required for another reason, such as the retrospective application 
+of a change in policy, the initial application of IAS 29 would not absolve preparers of this requirement. 
+10.2 Economies ceasing to be hyperinflationary 
+Determining when a currency stops being hyperinflationary is not easy in practice. It is important to review 
+trends, not just at the end of the reporting period but also subsequently. In addition, consistency demands 
+that the financial statements do not unnecessarily fall in and out of a hyperinflationary presentation, where 
+a more careful judgement would have avoided it. 
+When an economy ceases to be hyperinflationary, entities discontinue preparation and presentation of 
+financial statements in accordance with IAS 29. The amounts expressed in the measuring unit current at 
+the end of the previous reporting period will be treated as the basis of the carrying amounts of items in its 
+subsequent statement of financial position. [IAS 29.38]. 
+The previous reporting period used as the basis for the carrying amounts going forward may be the last 
+annual reporting period or it may be an interim period depending on whether the entity prepares interim 
+reports. Therefore, for interim reporters, it should be noted that, an amalgamation of interim periods 
+during which IAS 29 was applied with those where it was not, may result in financial statements that are 
+difficult to interpret. This is shown in Illustration 10-1 below. 
+Illustration 10-1: 
+Economies ceasing to be hyperinflationary in an interim period 
+An entity has a financial year end of 31 December and prepares interim financial statements on a quarterly 
+basis. The last annual financial statements were prepared for the period ending 31 December 20X1 when the 
+economy was hyperinflationary. In August 20X2 the economy ceased to be hyperinflationary. The table below 
+shows the impact on the financial statements. 
+Period 
+Impact on financial statements 
+Annual 31 December 20X1 
+Hyperinflationary accounting. 
+Interim 31 March 20X2 
+Hyperinflationary accounting. 
+Interim 30 June 20X2 
+Hyperinflationary accounting. 
+Interim 30 September 20X2 
+No longer in the scope of IAS 29. 
+Balances at 30 June 20X2 used as the basis for carrying amounts 
+going forward. 
+Comparatives will include adjustments for hyperinflation up to 30 
+June 20X2. 
+Annual 31 December 20X2 
+No longer in the scope of IAS 29. 
+Balances at 31 December 20X2 will use 30 June 20X2 as the basis 
+for carrying amounts going forward. 
+Comparatives will include adjustments for hyperinflation up to 30 
+June 20X2. 
+  
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1268 
+10.3 Economies exiting severe hyperinflation 
+IFRS 1 includes an exemption for entities that have been subject to severe hyperinflation before the date of 
+transition to IFRS, or on reapplication into IFRS after being unable to prepare IFRS compliant financial 
+statements. [IFRS 1.D26, IFRS 1.D27]. 
+Extract from IFRS 1  
+D26 
+If an entity has a functional currency that was, or is, the currency of a hyperinflationary 
+economy, it shall determine whether it was subject to severe hyperinflation before the date of 
+transition to IFRSs. This applies to entities that are adopting IFRSs for the first time, as well as 
+entities that have previously applied IFRSs. 
+D27 
+The currency of a hyperinflationary economy is subject to severe hyperinflation if it has both of 
+the following characteristics: 
+(a) 
+a reliable general price index is not available to all entities with transactions and balances 
+in the currency. 
+(b) 
+exchangeability between the currency and a relatively stable foreign currency does not 
+exist.  
+This exemption was included in response to a specific issue that occurred in Zimbabwe in 2008. In 
+Zimbabwe the ability to produce financial statements had been completely undermined by severe 
+hyperinflation. In response to this situation, an exemption was created in IFRS 1 which would be available to 
+any entity that is either adopting IFRS for the first time, or is reapplying IFRS due to severe hyperinflation. 
+This exemption allows an entity in this situation to elect to measure all assets and liabilities held before the 
+functional currency normalisation date at fair value on the date of transition to IFRSs. [IFRS 1.D29]. In 
+practice, the existence of severe hyperinflation (as described by the standard) is a rare economic 
+occurrence (see Chapter 6 at section 5.16). 
+The characteristics of severe hyperinflation were changed slightly with the issuance of Lack of Exchangeability 
+(Amendments to IAS 21 The Effects of Changes in Foreign Exchange Rates) in August of 2023. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1269 
+11 Translation of a hyperinflationary entity into a different 
+presentation currency 
+IAS 21 requires an entity to determine its functional currency as the currency of the primary economic 
+environment in which it operates. If the functional currency is that of a hyperinflationary economy, the 
+entity’s financial statements are restated in accordance with IAS 29. An entity cannot avoid restatement by 
+adopting as its functional currency, a currency other than the functional currency as determined in 
+accordance with IAS 21. [IAS 21.14]. 
+However, an entity is permitted to present its financial statements in any presentation currency it chooses. 
+Likewise, when a group contains individual entities with different functional currencies, the results and 
+financial position of each entity are expressed in a common currency so that consolidated financial 
+statements may be presented. [IAS 21.38]. A different presentation currency will not alter the entity’s 
+functional currency or the requirement to apply IAS 29. 
+It is noted that jurisdictions considered to be hyperinflationary are frequently subject to severe exchange 
+controls and therefore determining an appropriate exchange rate for translation to a presentation currency 
+may be difficult. Where judgement has been used to determine an appropriate rate, this should be disclosed. 
+In 2014, the IFRS IC noted that predominant practice is to apply by extension the principle in IAS 21.26 (see 
+Chapter 16 at section 5.1.4), which gives guidance on which exchange rate to use when reporting foreign 
+currency transactions in the functional currency when several exchange rates are available.1 In August 2023, 
+the IASB issued Lack of Exchangeability (Amendments to IAS 21 The Effects of Changes in Foreign Exchange 
+Rates). These amendments propose more detailed guidance on determining appropriate exchange rates in 
+such situations (see Chapter 16 at section 7). If both exchange rates and inflation rates are required to be 
+estimated, consistent assumptions should be used in making both estimates. 
+If an entity, whose functional currency is hyperinflationary, wants to translate its financial statements into 
+a different presentation currency it must first restate its financial statements in accordance with IAS 29, 
+[IAS 21.43], and then apply the following procedures under IAS 21: [IAS 21.42]. 
+Extract from IAS 21 
+42 
+The results and financial position of an entity whose functional currency is the currency of a 
+hyperinflationary economy shall be translated into a different presentation currency using 
+the following procedures: 
+(a) 
+all amounts (ie assets, liabilities, equity items, income and expenses, including 
+comparatives) shall be translated at the closing rate at the date of the most recent 
+statement of financial position, except that 
+(b) 
+when amounts are translated into the currency of a non-hyperinflationary economy, 
+comparative amounts shall be those that were presented as current year amounts in 
+the relevant prior year financial statements (ie not adjusted for subsequent changes in 
+the price level or subsequent changes in exchange rates). 
+In other words, when an entity that applies IAS 29 translates its financial statements into a non-
+hyperinflationary presentation currency, the comparative information is not restated under IAS 29. 
+Instead, IAS 21 should be applied and the comparative amounts are those that were presented as current 
+year amounts in the prior period. The following table summarises the impact of hyperinflation on various 
+scenarios of translation into an alternative presentation currency. 
+ 
+1 
+IFRIC Update, November 2014, p.8. Available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1270 
+  
+Translation to non-
+hyperinflationary 
+presentation currency 
+Consolidation into non-
+hyperinflationary group 
+Consolidation into 
+hyperinflationary group 
+Example 
+Argentinian entity* 
+presenting its financial 
+statements in euros 
+Argentinian subsidiary 
+consolidated by parent 
+presenting its financial 
+statements in euros 
+Argentinian subsidiary 
+consolidated by a 
+Venezuelan parent* 
+Restate comparatives for 
+hyperinflation 
+No 
+No 
+Yes 
+Exchange rate to use for 
+comparative period 
+Closing rate at 
+comparative balance 
+sheet date 
+Closing rate at 
+comparative balance 
+sheet date 
+Closing rate at current 
+balance sheet date 
+Restatement upon initial 
+application of IAS 29 
+recognised in 
+Opening balance sheet of 
+current period 
+Opening balance sheet of 
+current period 
+Opening balance sheet of 
+earliest comparative 
+period 
+* 
+At the time of writing both the Argentinian Peso and Venezuelan Bolivar were considered to be hyperinflationary. 
+All exchange differences that arise on the translation of an entity whose functional currency is not the 
+currency of a hyperinflationary economy are recognised in other comprehensive income (see Chapter 16 at 
+section 6.1). [IAS 21.39]. IAS 21 does not however stipulate the same treatment for exchange differences 
+arising on translation of an entity whose functional currency is hyperinflationary. [IAS 21.42]. 
+In March 2020, the IFRS IC issued an agenda decision on the appropriate treatment of such exchange 
+differences. It was noted that the translation of a hyperinflationary entity into a non-hyperinflationary 
+currency may result in a change in the entity’s net investment in the hyperinflationary foreign operation. 
+This change would include two effects: 
+• 
+A restatement effect resulting from restating the entity’s interest in the equity of the hyperinflationary 
+foreign operation as required by IAS 29. 
+And 
+• 
+A translation effect resulting from translating the entity’s interest in the equity of the hyperinflationary 
+foreign operation (excluding the effect of any restatement required by IAS 29) at a closing rate that 
+differs from the previous closing rate. 
+They noted that IAS 1 states that components of other comprehensive income include gains and losses 
+arising from translating the financial statements of a foreign operation. [IAS 1.7]. IAS 21 explains that 
+exchange differences arising from translating the financial statements of a non-hyperinflationary foreign 
+operation are recognised in other comprehensive income and not in profit or loss because the changes in 
+exchange rates have little or no direct effect on the present and future cash flows from operations. 
+[IAS 21.41]. The IFRS IC observed that this explanation is also relevant if the foreign operation’s functional 
+currency is hyperinflationary. Accordingly, the Committee concluded that an entity presents: 
+• 
+The IAS 29 restatement effect and the IAS 21 translation effect in other comprehensive income, if the 
+entity considers that the combination of those two effects meets the definition of an exchange 
+difference in IAS 21. 
+Or 
+• 
+The IAS 21 translation effect in other comprehensive income if the entity considers that only the 
+translation effect meets the definition of an exchange difference in IAS 21. In this case, consistent with 
+the requirements in IAS 29.25, the entity presents the IAS 29 restatement effect in equity. [IAS 29.25].2 
+ 
+2 
+IFRIC Update, March 2020, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1271 
+The illustration below shows the changes of the net assets of an entity with a hyperinflationary functional 
+currency being translated into a non-hyperinflationary presentation currency. 
+Illustration 11-1: 
+Translation to non-hyperinflationary presentation currency 
+The table below illustrates the translation of the financial information of an entity with a hyperinflationary 
+functional currency (FC) to a non-hyperinflationary presentation currency (assumed to be Australian dollars), 
+focusing on the impact on the statement of changes in equity. For the purposes of the illustration these 
+currencies are indicated as FC and A$ respectively. In this example, the entity is assumed to be in scope of 
+IAS 29 in both the current and prior periods and to have a 31 December year end. 
+Financial information in hyperinflationary functional and presentation currency: 
+Statement of financial position 
+Reporting period and date of reporting 
+20x5 at 20x5 
+20x4 at 20x5 
+20x4 at 20x4 
+Currency  
+FC 
+FC 
+FC 
+- Land 
+ 400  
+ 400  
+ 267  
+- Bank 
+ 1,000  
+ 1,500  
+ 1,000  
+- Equity  
+ 1,400  
+ 1,900  
+ 1,267  
+Statement of profit or loss 
+Monetary loss 
+- 500  
+Net profit 
+- 500  
+Assumed foreign exchange rates (FC: A$) 
+1 January 20x5 
+ 1.0  
+31 December 20x5 
+ 0.8  
+ 
+Movements in net asset value in presentation currency 
+Functional 
+currency 
+Presentation 
+currency 
+ 
+FC 
+Exchange rate 
+A$ 
+ 
+ 
+Opening equity at 1 January 20x5 
+1,267 
+(a) 
+1 
+(b) 
+1,267 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Movement in foreign exchange rate 
+(OCI) 
+- 253  (c)   
+Uplift to IAS 29 opening balance (OCI / 
+Equity) 
+ 633 
+(d)  
+ 0.8  (e)  
+ 507  
+(f) 
+ 
+Net profit 
+- 500  
+(g)  
+ 0.8  (e)  
+- 400  
+ 
+ 
+Closing equity at 31 December 20x5 
+ 1,400 
+ 0.8  (e)  
+ 1,120  
+  
+ 
+ 
+ 
+(a) 
+As comparative amounts are those that were presented as current year amounts in the relevant prior 
+year financial statements, the opening balance for the current year is the closing balance reported in 
+20x4 as restated to this date. This will not be the same as the opening balance as reported in the 20x5 
+year in the financial statements presented in the hyperinflationary currency (i.e., the FC 1,900).  
+(b) 
+As comparative amounts are those that were presented as current year amounts in the relevant prior 
+year financial statements, the opening balance for the current year translated at the closing exchange 
+rate of the prior period.  
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1272 
+(c)  This amount represents the change in currency for the opening balance and is calculated as the 
+opening balance multiplied by the closing exchange rate less the opening exchange rate, in this case 
+FC 1,269 x (0.8 - 1) = A$ 253 loss, representing the devaluation of the FC currency during the year. 
+This would be an IAS 21 translation effect and is presented in other comprehensive income.  
+(d) 
+This amount represents the difference between the closing balance of net assets as reported in the 
+prior year in the hyperinflationary functional currency and the opening balance of net assets as 
+reported in the current year. The difference results from the restatement of the comparative 
+information as described in sections 5 and 8 above.  
+(e)  As required by IAS 21.42, all amounts other than those relating to comparatives shall be translated at 
+the closing rate at the date of the most recent statement of financial position, in this case the rate at 
+31 December 20x5.  
+(f)  
+The movement in net assets for the uplift to the IAS 29 opening balance as reported in the functional 
+currency financial information, translated into the presentation currency could be presented within 
+either other comprehensive income or equity depending on whether the adjustment is considered to 
+meet the definition of an exchange difference in IAS 21 or not, respectively, as discussed above. 
+(g) 
+Net profit is based on the amounts as reported in the hyperinflationary functional currency. No 
+adjustments to this amount are required as a result of the process of translating to the non-
+hyperinflationary functional currency.  
+Had the entity not been in scope of IAS 29 in the prior period, the same principles would be applied, but the 
+amount calculated in (d) above would be the cumulative catch up from the number previously reported 
+without any inflationary uplift to the current period opening balance restated in terms of IAS 29. 
+  
+In practice, clearly differentiating between an exchange difference and equity adjustment (per notes c and d 
+in the illustration above) can be difficult, particularly as hyperinflation and exchange rate effects are 
+inversely correlated and that the split may differ depending on the timing and frequency of reporting. 
+11.1 Translation on initial application and ceasing application of IAS 29 
+Related questions arise in the year an entity first becomes hyperinflationary, as the retrospective 
+application of IAS 29 gives rise to an adjustment for the initial application of the standard. As discussed in 
+section 5 above, retained earnings are restated to an amount derived from all the other amounts in the 
+statement of financial position. It could be argued that the impact of initial adoption of IAS 29, being the 
+net asset value reported at the end of the prior year and the opening net asset value as restated per 
+IAS 29, should be recognised directly in equity similar to a change in accounting policy. However, as the 
+adjustment is normally closely related to (past) changes in exchange rates, an argument could also be made 
+that this adjustment could be presented in other comprehensive income. 
+It is also unclear how to deal with the accumulated foreign currency translation reserve that relates to the 
+now hyperinflationary foreign operation. The agenda decision issued in March 2020 by the IFRS IC also 
+addresses the question whether an entity reclassifies within equity the cumulative pre-hyperinflation 
+exchange differences when a foreign operation becomes hyperinflationary. That is, whether the entity 
+transfers the cumulative pre-hyperinflation exchange differences to a component of equity that is not 
+subsequently reclassified to profit or loss. 
+Paragraph 41 of IAS 21 requires an entity to present the cumulative amount of exchange differences 
+recognised in other comprehensive income in a separate component of equity until disposal of the foreign 
+operation. [IAS 21.41]. Furthermore, IAS 21.48 and 48C require an entity to reclassify the cumulative 
+amount of those exchange differences from equity to profit or loss on disposal or partial disposal of a 
+foreign operation in certain circumstances. 
+Accordingly, the IFRS IC concluded that an entity presents the cumulative amount of the exchange 
+differences as a separate component of equity until disposal or partial disposal of the foreign operation and 
+does not reclassify within equity the cumulative pre-hyperinflation exchange differences once the foreign 
+operation becomes hyperinflationary.3 If an entity considers that the combination of the IAS 29 
+restatement effect and the IAS 21 translation effects meet the definition of an exchange difference in 
+IAS 21 (as discussed in section 11 above) then, upon initial application of IAS 29, both those effects are 
+accounted as part of the cumulative amount of the exchange differences. 
+ 
+3 
+IFRIC Update, March 2020, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1273 
+When the economy ceases to be hyperinflationary, and restatement in accordance with IAS 29 is no longer 
+required, an entity uses the amounts restated to the price level at the date it ceased restating its financial 
+statements as the historical costs for translation into the presentation currency. [IAS 21.43]. 
+11.2 Fair value adjustments and goodwill on business combinations 
+When a hyperinflationary foreign operation that was acquired in a business combination (as defined in 
+IFRS 3 Business Combinations) is being consolidated, the provisions of IAS 29 also need to be considered. 
+As described in Chapter 10 at sections 5.1 and 6, respectively, most identifiable assets acquired and 
+liabilities assumed of the acquiree are initially recognised by the acquirer at fair value at the acquisition 
+date, and goodwill may be recognised. Any goodwill arising on the acquisition of a foreign operation and 
+any fair value adjustments to the carrying amounts of assets and liabilities arising on the acquisition of that 
+foreign operation shall be treated as assets and liabilities of the foreign operation. [IAS 21.47]. Therefore, as 
+assets and liabilities of the foreign operation (which were current at the date of acquisition), it follows that 
+these are restated for any subsequent inflation in accordance with the provisions of IAS 29. Any related 
+deferred tax is to be remeasured as discussed in section 4.4 above. 
+11.3 Presentation currency considerations for comparative information 
+Given that IAS 29 requires a hyperinflationary entity to restate its comparative figures, the question arises 
+as to how an entity (a parent) that does not operate in a hyperinflationary economy, should account for the 
+restatement of an entity (a subsidiary) that operates in an economy that became hyperinflationary in the 
+current reporting period when incorporating it within its consolidated financial statements. This issue has 
+been clarified by IAS 21 which specifically prohibits restatement of comparative figures when the 
+presentation currency is not hyperinflationary. [IAS 21.42(b)]. This means that when the financial statements 
+of a hyperinflationary subsidiary are translated into the non-hyperinflationary presentation currency for 
+consolidation into the financial statements of the parent, the comparative amounts in annual and interim 
+financial statements are not adjusted. 
+However, the impact on interim financial statements of such a parent may be more difficult to resolve. For 
+example, a non-hyperinflationary parent (with a December year-end) may own a subsidiary whose 
+functional currency is considered hyperinflationary from, say, 1 July 20X2 onwards. The subsidiary’s 
+second quarter results would not have been adjusted for the impact of hyperinflation, while its third quarter 
+results would reflect the effects of hyperinflation for the period from the beginning of the year to the 
+reporting date. This results in the parent needing to reflect a ‘catch up effect’ in its third quarter or full year 
+reporting. As the prior year comparative figures cannot be restated under IAS 21, the full effect would be 
+included in the current period. [IAS 21.42(b)]. However, IAS 29.4 specifically states that the standard 
+“…applies to the financial statements of any entity from the beginning of the reporting period in which it 
+identifies the existence of hyperinflation in the country in whose currency it reports”. 
+If separate information is presented for each quarter, it is not clear how this effect should be taken into 
+consideration in preparing the parent’s third quarter results, specifically whether the year-to-date results 
+are adjusted as though the subsidiary was hyperinflationary from the beginning of the year or only from the 
+beginning of the third quarter. Possible approaches would include: 
+• 
+Reporting the difference between the year-to-date profit for the third quarter and the year-to-date 
+profit for the second quarter in which the subsidiary is restated under IAS 29 (i.e., with purchasing 
+power adjustments to 30 June). 
+Or 
+• 
+Reporting the third quarter profits as the difference between the year-to-date profit in which the 
+subsidiary is restated under IAS 29, less the year-to-date second quarter profits as they were actually 
+reported (i.e., non-hyperinflation based results). 
+The first approach is consistent with the requirement that the year-end accounts will be prepared as if the 
+economy had been hyperinflationary from the beginning of 20X2, will provide a better basis for comparison 
+in 20X2 and will result in individual quarters in 20X1 being more comparable. Nevertheless, IAS 34 does 
+not specifically address the issue of restating previous interim periods upon first application of IAS 29 and 
+we consider the second approach to also be acceptable. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1274 
+How we see it 
+As there is no clear guidance on the appropriate method of quantification, entities shall adopt a 
+consistent approach and disclose this judgement and the impact thereof on the financial statements if it 
+has a significant impact, as required by IAS 1. If the hyperinflationary subsidiary is relatively small within 
+the overall consolidated accounts of the parent, the benefit of restating previous interim periods will 
+often be limited. 
+Additional questions arising in respect of the preparation of quarterly interim financial statements in the 
+scenario described above would include: 
+• 
+Would the parent entity need to re-issue interim reports that had been issued earlier in the current year? 
+• 
+In the period that the subsidiary’s economy becomes hyperinflationary, would the parent entity adjust 
+the comparative interim information for hyperinflation (and year to date interim information) for the 
+same interim period in the prior year? 
+• 
+In the first quarter of the following financial period (20X3), would the parent entity adjust the 
+comparative information for hyperinflation (and year to date interim information) for the same interim 
+period in the prior year (20X2)? 
+Although the subsidiary will apply the requirements of IAS 29 on a retrospective basis, the parent will 
+incorporate the results of the subsidiary into the group financial statements as required by IAS 21. 
+Hyperinflation only commenced after the end of the interim reports. This is a non-adjusting event in 
+accordance with IAS 10. Hence, in response to the first question, the interim financial statements were 
+compliant with the requirements of the standards, and the parent would not be required to re-issue prior 
+interim financial statements in the year that the subsidiary’s functional currency becomes 
+hyperinflationary, although we believe re-issue is permissible. 
+Hyperinflationary adjustments would only occur in the interim financial statements of the parent from the 
+date that the subsidiary became hyperinflationary onwards. Further, IAS 21 would preclude the restatement 
+of comparative interim financial statements as contemplated in the second question above. [IAS 21.42(b)]. 
+The issue addressed in the third question is not specifically addressed by IAS 21 or IAS 34. We consider 
+that the parent entity is allowed but not required to restate its comparative (20X2) interim statements in its 
+20X3 reporting. The IFRS IC discussed a request on this issue, noting little diversity in practice with the 
+majority of respondents not restating comparative information, and therefore declined to add the matter to 
+its standard setting agenda.4 These specific requirements of IAS 34 are considered in Chapter 37 at 
+section 9.6.2. 
+ 
+4 
+IFRIC Update, March 2020, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1275 
+12 Translation of a non-hyperinflationary entity into a 
+hyperinflationary group 
+In June 2022, the IFRS IC discussed a paper about the accounting applied by a parent whose functional 
+currency is the currency of a hyperinflationary economy, when it consolidates a subsidiary whose functional 
+currency is the currency of a non-hyperinflationary economy. The Committee considered whether, in 
+preparing its consolidated financial statements, the parent applies IAS 29 to restate the current year and 
+comparative amounts presented for its non-hyperinflationary subsidiary. If the parent were to restate the 
+current year and comparative amounts, it would express those amounts in terms of the measuring unit 
+current at the end of the reporting period (the reporting date). 
+The two approaches discussed by the Committee were5: 
+• 
+The parent does not restate the results and financial position of its non-hyperinflationary subsidiary in 
+terms of the measuring unit current at the reporting date: the current year financial information is only 
+adjusted by applying the appropriate exchange rate for the period, as discussed in Chapter 16 at 
+section 6.1. When the current year becomes the comparative period, the financial information of the 
+hyperinflationary parent is restated while the financial information of the non-hyperinflationary 
+subsidiary is not, and therefore, the consolidation for this period, as well as the opening statement of 
+financial performance, is required to be reperformed. 
+• 
+The parent restates the results and financial position of its non-hyperinflationary subsidiary in terms of 
+the measuring unit current at the reporting date: the current year financial information is adjusted by 
+applying the appropriate exchange rate for the period, as discussed in Chapter 16 at section 6.1. The 
+information in the statement of financial position is considered current and therefore, does not require 
+restatement, while the statement of comprehensive income is adjusted for inflation and expressed in 
+the measuring unit current at the reporting date. When the current year becomes the comparative 
+period, the consolidated comparatives are restated by applying the measuring unit current at the end 
+of the reporting period. 
+The Committee commented that, applying the requirements in IAS 21 and IAS 29 to the submitted fact 
+pattern, the parent could restate or not restate the subsidiary’s results and financial position in terms of the 
+measuring unit current at the end of the reporting period.6 The IFRS IC recommended that the IASB 
+develop a narrow-scope amendment addressing the matter above as well as the related matter of an entity 
+whose functional currency is the currency of a non-hyperinflationary economy but that presents its 
+financial statements in the currency of a hyperinflationary economy.7 In July 2024, an exposure draft, 
+IASB ED/2024/4 Translation to a Hyperinflationary Presentation Currency, addressing this issue was 
+released. 
+This exposure draft proposes that when an entity translates amounts from a functional currency that is the 
+currency of a non-hyperinflationary economy to a presentation currency that is the currency of a 
+hyperinflationary economy, the entity translates those amounts, including comparative amounts, using the 
+closing rate at the date of the most recent statement of financial position. The IASB expects this translation 
+method would result in an entity presenting amounts subject to translation in terms of a current measuring 
+unit. The document also proposes certain disclosures for groups in this scenario.8 
+Until this exposure draft is finalised, preparers should ensure that the approach taken is clearly outlined in 
+the accounting policies. 
+ 
+5 
+IASB Staff Paper 2, Project: Consolidation of a Non-Hyperinflationary Subsidiary by a Hyperinflationary Parent (IAS 21 and 
+IAS 29), Paper topic: Initial consideration, IFRS IC meeting, June 2022. Available on the IFRS Foundation’s website. 
+6 
+IFRIC Update, June 2022, available on the IFRS Foundation’s website. 
+7 
+IFRIC Update, June 2023, available on the IFRS Foundation’s website. 
+8 
+Exposure Draft ED/2024/4, Translation to a Hyperinflationary Presentation Currency, IASB, July 2024. Available on the IFRS 
+Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1276 
+13 Elimination of intergroup transactions 
+When transactions take place between hyperinflationary and non-hyperinflationary entities within a group, 
+the restatement process of IAS 29 and the translation requirements of IAS 21 result in complexities in 
+eliminating these transactions on consolidation as required by IFRS 10 Consolidated Financial Statements 
+and discussed at (Chapter 8 at section 2.4). [IFRS 10.B86(c)]. 
+The elimination of intercompany receivables or payables is straightforward, as balances are translated at 
+closing rates and therefore, the amounts reflected for each entity in the consolidation would be equal to 
+that reflected by the counterparty. In contrast, an intercompany income or expense is affected by the 
+requirement to use different exchange rates and the restatement for inflation. For example, if a 
+management fee, denominated in a hyperinflationary currency, is charged by a subsidiary in a 
+hyperinflationary currency to a fellow subsidiary in a non-hyperinflationary currency: 
+• 
+The hyperinflationary subsidiary would restate its income for the effects of hyperinflation (see section 6 
+above) and translate the income at the closing rate into the presentation currency for consolidation 
+purposes (see section 4.3.1 above). 
+• 
+The non-hyperinflationary subsidiary would not restate its expense for hyperinflation and likely apply 
+the average exchange rate to translate the expense into the presentation currency for consolidation 
+purposes (see Chapter 16 at section 5.1.3). 
+As a result, the amounts reflected for each entity in the consolidation would not be equal to that reflected 
+by the counterparty. The question therefore arises as to how this difference should be treated upon 
+consolidation. The IFRS IC observed in March 2020 that an entity presents in other comprehensive income 
+any exchange difference resulting from the translation of a hyperinflationary foreign operation.9 
+How we see it 
+In the absence of specific guidance, the Committee’s observation, as discussed in more detail in 
+section 11 above, provides the clearest guidance. To the extent the difference caused by the IAS 29 
+restatement effect and the IAS 21 translation effect in combination meet the definition of an exchange 
+difference, applying the principles of this observation, the difference would be eliminated against other 
+comprehensive income. To the extent that the entity considers only the IAS 21 impact to meet the 
+definition of an exchange difference, this portion is eliminated against other comprehensive income and 
+the impact of the restatement for inflation is recognised directly in equity. Under this approach, as only 
+the hyperinflationary entity is exposed to a monetary gain or loss, this is not eliminated on consolidation. 
+ 
+9 
+IFRIC Update, March 2020, available on the IFRS Foundation’s website. 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1277 
+14 Disclosures 
+Extract from IAS 29 
+39 
+The following disclosures shall be made: 
+(a) 
+the fact that the financial statements and the corresponding figures for previous 
+periods have been restated for the changes in the general purchasing power of the 
+functional currency and, as a result, are stated in terms of the measuring unit current 
+at the end of the reporting period; 
+(b) 
+whether the financial statements are based on a historical cost approach or a current 
+cost approach; and 
+(c) 
+the identity and level of the price index at the end of the reporting period and the 
+movement in the index during the current and the previous reporting period.  
+[IAS 29.39]. 
+It should be noted that disclosure of financial information that is restated under IAS 29 as a supplement 
+to unrestated financial information is not permitted. This is to prevent entities from giving the historical 
+cost based financial information greater prominence than the information that is restated under IAS 29. 
+The standard also discourages separate presentation of unrestated financial information, but does not 
+explicitly prohibit it. [IAS 29.7]. However, such unrestated financial statements would not be in accordance 
+with IFRS and shall be clearly identified as such. An entity that is required (for example by local tax 
+authorities or stock exchange regulators) to present unrestated financial statements needs to ensure 
+that the IFRS financial statements are perceived to be the main financial statements rather than mere 
+supplemental information. 
+The following excerpts illustrate the disclosure of the gain or loss on net monetary position, the basis of 
+preparation and the required disclosures in respect of the relevant price index. 
+Practical example 14-1: 
+D-MARKET Elektronik Hizmetler ve Ticaret Anonim 
+Şirketi (2023) 
+Turkey 
+Form 20-F [extract] 
+Part III [extract] 
+ITEM 19. EXHIBITS [extract] 
+CONSOLIDATED FINANCIAL STATEMENTS [extract] 
+… 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1278 
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS AT 31 DECEMBER 2023, 2022 AND 2021 
+[extract] 
+NOTE 2 - BASIS OF PRESENTATION OF CONSOLIDATED FINANCIAL STATEMENTS [extract] 
+2.1 Basis of preparation [extract] 
+ 
+… 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1279 
+Telefónica, S.A. is an example of a parent entity that has subsidiaries that operate in an economy subject to 
+hyperinflation. As a parent entity, Telefónica, S.A. would not restate the comparative amounts and, 
+therefore, has reported a reconciling item for the effect of hyperinflation adjustments. 
+Practical example 14-2: 
+Telefónica, S.A. (2023) 
+Spain 
+Consolidated Annual Report 2023 [extract] 
+Consolidated financial statements 2023 [extract] 
+Notes to the consolidated financial statements (consolidated annual accounts) for the year ended 
+December 31, 2023 [extract] 
+Note 25. Tax matters [extract] 
+ 
+… 
+
+
+International GAAP® 2025 
+Chapter 17 
+Hyperinflation 
+1280 
+Appendix A - Index of Illustrations 
+Illustration 2-1: 
+Accounting for hyperinflation under IAS 29 
+1245 
+Illustration 4-1: 
+Restatement of property, plant and equipment 
+1252 
+Illustration 4-2: 
+Borrowing costs and net realisable value adjustments 
+1253 
+Illustration 4-3: 
+Restatement of deferred taxation 
+1255 
+Illustration 5-1: 
+Restatement of equity 
+1258 
+Illustration 6-1: 
+Restatement of historical cost statement of profit or loss and other 
+comprehensive income 
+1259 
+Illustration 6-2: 
+Measurement of reclassification adjustments 
+1262 
+Illustration 10-1: 
+Economies ceasing to be hyperinflationary in an interim period 
+1267 
+Illustration 11-1: 
+Translation to non-hyperinflationary presentation currency 
+1271 
+ 

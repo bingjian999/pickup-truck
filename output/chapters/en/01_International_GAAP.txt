@@ -1,0 +1,2705 @@
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+18 
+ 
+Chapter 1 
+International GAAP 
+ 
+Contents 
+Overview 
+20 
+1 
+Why international financial reporting standards matter 
+21 
+2 
+The IFRS Foundation and the IASB 
+22 
+2.1 
+The standard-setting structure 
+22 
+2.2 
+The IFRS Foundation 
+23 
+2.3 
+The Monitoring Board 
+24 
+2.4 
+The International Accounting Standards Board (IASB) 
+26 
+2.4.1 
+Agenda consultation 
+26 
+2.5 
+The IFRS Interpretations Committee (the IFRS IC) 
+27 
+2.5.1 
+Agenda decisions 
+28 
+2.6 
+The Due Process Handbook 
+29 
+2.7 
+The IFRS Advisory Council 
+30 
+2.8 
+Accounting Standards Advisory Forum 
+30 
+2.9 
+Other advisory bodies 
+31 
+2.10 
+The International Sustainability Standards Board 
+32 
+3 
+The IASB’s technical agenda and convergence with US GAAP 
+34 
+3.1 
+The IASB’s current priorities and future agenda 
+34 
+3.2 
+IFRS accounting standards/US GAAP convergence 
+34 
+4 
+The adoption of IFRS accounting standards around the world 
+35 
+4.1 
+Worldwide adoption 
+35 
+4.2 
+Europe 
+37 
+4.2.1 
+EU 
+37 
+4.2.1.A 
+Endorsed IFRS accounting standards 
+39 
+4.2.1.B 
+Evaluation of the Regulation 
+39 
+4.2.2 
+United Kingdom 
+40 
+4.3 
+Americas 
+40 
+4.3.1 
+US 
+40 
+4.3.2 
+Canada 
+40 
+4.3.3 
+Brazil 
+41 
+4.4 
+Asia 
+41 
+4.4.1 
+China 
+41 
+4.4.1.A 
+Mainland China 
+41 
+4.4.1.B 
+Hong Kong 
+42 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+19 
+4.4.2 
+Japan 
+42 
+4.4.3 
+India 
+43 
+4.5 
+Australia 
+44 
+4.6 
+South Africa 
+44 
+5 
+Consistency in application of IFRS accounting standards 
+45 
+6 
+Summary 
+46 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+20 
+Overview 
+This chapter discusses the structure and governance of the IFRS Foundation (Foundation) and the 
+International Accounting Standards Board (IASB), the technical agenda of the IASB and the adoption of 
+IFRS accounting standards around the world. 
+IFRS accounting standards have become widely adopted in capital markets worldwide in the past two 
+decades and is now a globally recognised accounting framework. To support the development of a single 
+set of high-quality, understandable, enforceable and globally accepted accounting standards and to 
+promote and facilitate the adoption of the standards, a governance structure has been put in place for this 
+global initiative involving a wide variety of stakeholders including preparers, users, standard-setters, 
+auditors, academics, and regulators. IFRS accounting standard setting activities are subject to the due 
+process to ensure transparency and accountability. However, convergence with other national accounting 
+frameworks is no longer a significant driver of the agenda setting process. 
+The manner in which IFRS accounting standards are adopted varies across jurisdictions. Instead of the full 
+adoption of IFRS accounting standards, some jurisdictions have converged, or have a plan to converge, 
+their standards with IFRS accounting standards. To maximise the benefits from using a consistent set of 
+accounting standards by companies throughout the world, IFRS accounting standards need to be applied, 
+audited and enforced on a consistent basis in each jurisdiction. 
+More recently, the Trustees of the Foundation (Trustees) have established the International Sustainability 
+Standards Board (ISSB) to set IFRS sustainability disclosure standards within the existing governance structure. 
+What you need to know 
+• 
+IFRS accounting standards are required for all or most domestic publicly accountable entities 
+(e.g., listed companies) in the capital markets of 147 jurisdictions. 
+• 
+The development of IFRS accounting standards is supported by the standard-setting structure and 
+governance. 
+• 
+The remit of the Foundation has been expanded to include setting IFRS sustainability disclosure 
+standards. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+21 
+1 
+Why international financial reporting standards matter 
+With globalisation has come the increasing integration of world markets for goods, services and capital- with 
+the result that companies that traditionally were reliant on their domestic capital markets for financing now 
+have substantially increased access to debt and equity capital, both inside and outside their national borders. 
+Yet - perhaps not entirely surprisingly - the world of financial reporting was slow to respond reflecting, no 
+doubt, a widespread nationalism in respect of countries’ own standards. 
+Undoubtedly, one of the main advantages of a single set of global accounting standards is that it would 
+enable the international capital markets to assess and compare inter-company performance in a much more 
+meaningful, effective and efficient way. This should increase companies’ access to global capital and 
+ultimately reduce the cost thereof. Thus, the request for global standards came both from regulatory 
+bodies and from preparers of financial statements. As early as 1989, the International Organisation of 
+Securities Commissions (IOSCO), the world’s primary forum for co-operation among securities regulators, 
+prepared a paper noting that cross border security offerings would be facilitated by the development of 
+internationally accepted standards. For preparers, greater comparability in financial reporting with their 
+global peers had obvious attractions. 
+Notwithstanding these anticipated benefits, it has only been since 2000 that there has been a serious effort 
+made toward such global standards. This came about largely as a result of the European Commission’s 
+announcement in June 2000 that it would present proposals to introduce the requirement that all listed 
+European Union (EU) companies report in accordance with International Accounting Standards by 2005. 
+This requirement not only changed the face of European financial reporting, but global reporting as well 
+after many other countries followed Europe’s lead. Indeed, the Foundation reports that 147 jurisdictions 
+require IFRS accounting standards for all or most domestic publicly accountable entities (e.g., listed 
+companies) in their capital markets.1 
+Thus, global financial reporting has ceased to be characterised by numerous disparate national systems to 
+the point at which there are today essentially only two - IFRS accounting standards and US GAAP. 
+ 
+1 
+IFRS - Who uses IFRS Accounting Standards?, available on IFRS Foundation’s website (accessed 19 July 2024). 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+22 
+2 
+The IFRS Foundation and the IASB 
+2.1 
+The standard-setting structure 
+The diagram below illustrates the structure within which IFRS accounting standards are set. 
+ 
+The various elements of the structure are discussed further below. 
+Unless indicated otherwise, references to IFRS accounting standards include the following: 
+• 
+International Financial Reporting Standards - accounting standards developed by the IASB 
+• 
+International Accounting Standards (IAS) - accounting standards developed by the International 
+Accounting Standards Committee (IASC), the predecessor to the IASB 
+• 
+Interpretations developed by the IFRS IC or its predecessor, the Standing Interpretations Committee 
+(SIC) 
+And 
+• 
+International Financial Reporting Standards for Small and Medium-sized Entities (IFRS for SMEs) - a 
+stand-alone accounting standard for general purpose financial statements of small and medium-sized 
+entities (as defined) 
+Refer to section 2.10 below on further discussion on the recent establishment of the ISSB. 
+ 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+23 
+2.2 
+The IFRS Foundation 
+The governance of the Foundation primarily rests with the Trustees who, in turn, act under the terms of the 
+IFRS Foundation Constitution (the Constitution).2 Section 18 of the Constitution requires a review, every 
+five years, of the structure and effectiveness of the Foundation. The last review was completed in 
+September 2021 and, as a result, the Constitution was revised in the same year. The amendments were 
+made to establish the ISSB under the Foundations’ governance and to reflect the intended interconnectivity 
+between the IASB and the ISSB.3 
+It is a requirement of the Constitution that, in order to ensure a broad international basis, there must be:4 
+• 
+Six Trustees appointed from the Asia/Oceania region 
+• 
+Six Trustees appointed from Europe 
+• 
+Six Trustees appointed from the Americas 
+• 
+One Trustee appointed from Africa 
+And 
+• 
+Three Trustees appointed from any area, subject to maintaining overall geographical balance 
+The appointment of Trustees to fill vacancies caused by routine retirement or other reasons is the 
+responsibility of the remaining Trustees but subject to the approval of the Monitoring Board as discussed in 
+section 2.3 below. The appointment of the Trustees is normally for a term of three years, renewable once.5 
+The Constitution requires that the Trustees comprise individuals that, as a group, provide a balance of 
+professional backgrounds, and have an interest in promoting and maintaining transparency in corporate 
+reporting globally. This includes individuals with global experience at a senior level in securities market 
+regulators, firms representing investors, international audit networks, preparers, users, academics and 
+officials serving the public interest. To achieve such a balance, Trustees are selected after consultation with 
+the accounting and audit profession, the securities market and other public interest bodies, regulators, 
+investors, preparers, users and academics. The Trustees are required to establish procedures for inviting 
+suggestions for appointments from these relevant organisations and for allowing individuals to put forward 
+their own names, including advertising vacant positions.6 
+The Constitution provides that “all Trustees shall be required to show a firm commitment to the Foundation 
+and the IASB and the ISSB as a high quality global standard-setter, to be financially knowledgeable, and to 
+have an ability to meet the time commitment. Each Trustee shall have an understanding of, and be sensitive 
+to, the challenges associated with the adoption and application of high quality global accounting standards 
+developed for use in the world’s capital markets and by other users”.7 
+The Trustees are responsible also for appointing the members of the IASB, ISSB, IFRS IC, IFRS Advisory 
+Council (the Advisory Council)8 and the Accounting Standards Advisory Forum (ASAF).9 In addition, their 
+duties include the following:10 
+• 
+Appointing the Executive Director, in consultation with the IASB and ISSB Chairs, and establishing his 
+or her contract of service and performance criteria. 
+• 
+Reviewing annually the strategy of the Foundation, the IASB and the ISSB and its effectiveness, 
+including consideration, but not determination, of the IASB’s and ISSB’s agenda. 
+• 
+Assuming responsibility for establishing and maintaining appropriate financing arrangements. 
+• 
+Approving annually the budget of the Foundation and determining the basis for funding. 
+• 
+Reviewing broad strategic issues affecting corporate reporting standards, promoting the Foundation 
+and its work and promoting the objective of rigorous application of IFRS accounting and sustainability 
+disclosure standards, provided that the Trustees are excluded from involvement in technical matters 
+relating to corporate reporting standards. 
+ 
+2 
+IFRS Foundation Constitution, November 2021, Section 4. 
+3 
+Summary of October 2021 meeting, IFRS Foundation Trustees, available on the IFRS Foundation’s website (accessed on 19 July 
+2024). 
+4 
+IFRS Foundation Constitution, November 2021, Section 7. 
+5 
+IFRS Foundation Constitution, November 2021, Section 9. 
+6 
+IFRS Foundation Constitution, November 2021, Section 8. 
+7 
+IFRS Foundation Constitution, November 2021, Section 7. 
+8 
+IFRS Foundation Constitution, November 2021, Sections 16(a) and (c). 
+9 
+Accounting Standards Advisory Forum: Terms of Reference/Charter. 
+10 
+IFRS Foundation Constitution, November 2021, Sections 14 and 16. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+24 
+• 
+Establishing or amending operating procedures for the Trustees. 
+• 
+Establishing and amending operating procedures, consultative arrangements and due process for the 
+IASB, the ISSB, IFRS IC and the Advisory Council and reviewing their compliance. 
+• 
+Approving amendments to the Constitution after following a due process, including consultation with 
+the Advisory Council and publication of an exposure draft for public comment and subject to the voting 
+requirements given in the Constitution. 
+• 
+Exercising all powers of the Foundation except for those expressly reserved to the IASB, the ISSB, the 
+IFRS IC and the Advisory Council. 
+• 
+Fostering and reviewing the development of educational programmes and materials that are consistent 
+with the Foundation’s objectives. 
+And 
+• 
+Publishing an annual report on the Foundation’s activities, including audited financial statements and 
+priorities for the coming year. 
+The majority of the Foundation’s funding is from voluntary contributions, including ISSB seed funding, 
+contributions from jurisdictions, philanthropic grants and contributions from companies. Most jurisdictions 
+have established either a levy on companies or a system of publicly supported financing, although funding 
+mechanisms differ. In addition, earned revenue comes from licensing intellectual property. Licensing 
+agreements allow companies and other entities to use IFRS accounting and sustainability disclosure 
+standards for translation, publication or commercial use.11 In 2023, the major funders of the Foundation 
+were Canada, Germany and the People’s Republic of China.12 
+2.3 
+The Monitoring Board 
+The Monitoring Board provides a formal link between the Trustees and public authorities. This relationship 
+seeks to replicate, on an international basis, the link between accounting standard-setters and those public 
+authorities that have generally overseen accounting standard-setters.13 
+The Charter of the Monitoring Board notes that the Monitoring Board’s mission is:14 
+• 
+To cooperate, to promote the continued development of IFRS accounting and sustainability disclosure 
+standards as a high-quality set of global standards. 
+• 
+To monitor and reinforce the public interest oversight function of the Foundation, while preserving the 
+independence of the IASB and the ISSB. In that regard: 
+• 
+To participate in the selection and approval of the Trustee appointments. 
+• 
+To advise the Trustees with respect to the fulfilment of their responsibilities, in particular with 
+respect to regulatory, legal and policy developments that are pertinent to the Foundation’s 
+oversight of the IASB and ISSB and appropriate sources of Foundation funding. 
+And 
+• 
+To discuss issues and share views relating to IFRS accounting and sustainability disclosure 
+standards, as well as regulatory and market developments affecting the development and 
+functioning of these standards. 
+ 
+ 
+ 
+11 
+Who we are, available on IFRS Foundation’s website (accessed 19 July 2024). 
+12 
+IFRS Foundation Annual Report 2023, IFRS Foundation, 2024. 
+13 
+IFRS Foundation Constitution, November 2021, Section 19. 
+14 
+Charter of the IFRSF Monitoring Board, 2023. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+25 
+The responsibilities of the Monitoring Board are to:15 
+• 
+Participate in the process for appointing Trustees and approve the appointment of Trustees. 
+• 
+Review and provide advice to the Trustees on the fulfilment of their responsibilities - there is an 
+obligation on the Trustees to report annually to the Monitoring Board. 
+And 
+• 
+Meet with the Trustees or a sub-group thereof at least annually; the Monitoring Board has the authority 
+to request meetings with the Trustees or separately with the chair of the Trustees and with the chair of 
+the IASB and the ISSB to discuss any area of the work of the Trustees, the IASB or the ISSB. 
+At the time of writing, the Monitoring Board comprises representatives of:16 
+• 
+The IOSCO Board 
+• 
+The IOSCO Growth and Emerging Markets Committee 
+• 
+The Financial Services Agency, Japan 
+• 
+The European Commission 
+• 
+The Securities and Exchange Commission, United States of America (US SEC) 
+• 
+The Comissão de Valores Mobiliários, Brazil 
+• 
+The Financial Services Commission, Republic of Korea 
+• 
+The Ministry of Finance, People’s Republic of China 
+• 
+The Financial Conduct Authority (FCA) of the United Kingdom 
+And 
+• 
+The Basel Committee on Banking Supervision (observer) 
+The current chairman is the representative of the Financial Services Agency, Japan. Membership of the 
+Monitoring Board is assessed based on the following criteria:17 
+• 
+The member must be a capital market authority responsible for setting the form and content of 
+financial reporting in its jurisdiction. 
+• 
+The jurisdiction has made a clear commitment to moving towards application of IFRS accounting 
+standards and promoting global acceptance of a single set of high-quality international accounting 
+standards as the final goal. 
+• 
+The IFRS accounting standards to be applied should be essentially aligned with IFRS 
+accounting standards developed by the IASB. 
+• 
+The jurisdiction is considering the use of the IFRS sustainability disclosure standards according to its 
+own legal frameworks for adopting, applying or otherwise making use of international standards. 
+• 
+The jurisdiction is committed to contributing to interoperability between its domestic standards and the 
+IFRS sustainability disclosure standards. 
+• 
+The jurisdiction can be regarded as a major market for capital-raising based on the size of market 
+capitalisation, the number of listed companies and capital market activity. 
+• 
+The jurisdiction makes financial contributions to setting IFRS accounting standards. 
+• 
+The jurisdiction has a robust enforcement mechanism to ensure proper implementation of relevant 
+accounting standards. 
+And 
+• 
+The relevant national or regional standard-setting body is committed to contributing actively to the 
+development of IFRS accounting standards. 
+Historically the motivation for the use of IFRS accounting standards was to facilitate cross-border capital 
+raising and, therefore, the membership of the Monitoring Board was focused on capital markets authorities 
+that were committed to the development of high-quality global accounting standards. While this continues 
+to be a criterion for membership, beginning from the 2016 review of its members, the Monitoring Board will 
+evaluate the integration of IFRS accounting standards for domestic issuers in that member’s jurisdiction.18 
+ 
+15 
+IFRS Foundation Constitution, November 2021, Section 20. 
+16 
+Monitoring Board Members, available on IOSCO’s website (accessed 19 July 2024). 
+17 
+Charter of the IFRSF Monitoring Board, 2023, Appendix A. 
+18 
+IFRS Foundation Monitoring Board Press Release, Monitoring Board finalizes assessment approach for membership criteria and 
+announces Chair selection, 1 March 2013. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+26 
+2.4 
+The International Accounting Standards Board (IASB) 
+Members of the IASB are appointed by the Trustees.19 Currently, the IASB comprises 14 members. The main 
+qualifications for membership of the IASB are professional competence and recent relevant professional 
+experience.20 
+The Trustees are required to select IASB members so that the IASB, as a group, will comprise the best available 
+combination of technical expertise and diversity of international business and market experience, including 
+auditors, preparers, users, academics and market and/or financial regulators. No individual should be both, a 
+Trustee and a member of the IASB at the same time.21 Furthermore, the IASB, in consultation with the Trustees, 
+is expected to establish and maintain liaison with national standard-setters and other official bodies concerned 
+with standard-setting to assist in the development of IFRS accounting standards and to promote the convergence 
+of national accounting standards and IFRS accounting standards.22 
+The IASB will normally be required to comprise:23 
+• 
+Four members from Asia/Oceania 
+• 
+Four members from Europe 
+• 
+Four members from the Americas 
+• 
+One member from Africa 
+And 
+• 
+One member appointed from any area, subject to maintaining overall geographical balance 
+The responsibilities of the IASB are listed in Section 37 of the Constitution. Its primary role is to have complete 
+responsibility for all IASB technical matters including preparing and issuing IFRS accounting standards (other than 
+interpretations) and exposure drafts, each of which is required to include any dissenting opinions; and final 
+approval of and issuing interpretations developed by the IFRS IC.24 
+Approval by at least eight members of the IASB is required for the publication of an exposure draft and IFRS 
+accounting standards (which includes final interpretations of the IFRS IC), if there are fewer than 14 members of 
+the IASB. If there are 14 members, approval is required by at least nine members.25 Other decisions of the IASB, 
+including the publication of a discussion paper, require a simple majority of the members present at a meeting 
+that is attended by at least 60% of the members.26 The IASB has full discretion over its technical agenda and over 
+project assignments on technical matters. It must, however, consult the Trustees on its agenda, and the Advisory 
+Council on major projects, agenda decisions and work priorities. In addition, the IASB is required to carry out 
+public consultation every five years in developing its technical agenda.27 The IASB is also required to establish 
+procedures in order to achieve the objective of developing IFRS accounting standards that are compatible, and 
+avoid inconsistences and conflicts, with IFRS sustainability disclosure standards issued by the ISSB.28 
+The IASB meets monthly, but not in August. These meetings are open to the public and meeting materials are 
+available on the IASB’s website. 
+2.4.1 
+Agenda consultation 
+As discussed above, under the Constitution, the IASB is required to carry out a public consultation on its technical 
+agenda every five years from the date of the most recent public agenda consultation. The objective of this agenda 
+consultation is to gather views on: 
+• 
+The strategic direction and balance of the IASB’s activities 
+• 
+The criteria for assessing the priority of financial reporting issues that could be added to the work plan 
+And 
+• 
+New financial reporting issues that could be given priority in the IASB’s work plan 
+ 
+19 
+IFRS Foundation Constitution, November 2021, Section 25. 
+20 
+IFRS Foundation Constitution, November 2021, Section 26. 
+21 
+IFRS Foundation Constitution, November 2021, Section 26. 
+22 
+IFRS Foundation Constitution, November 2021, Section 28. 
+23 
+IFRS Foundation Constitution, November 2021, Section 27. 
+24 
+IFRS Foundation Constitution, November 2021, Section 37(a). 
+25 
+IFRS Foundation Constitution, November 2021, Section 36. 
+26 
+IFRS Foundation Constitution, November 2021, Section 36. 
+27 
+IFRS Foundation Constitution, November 2021, Section 37(d), (e) and (h). 
+28 
+IFRS Foundation Constitution, November 2021, Section 37(i), 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+27 
+The IASB began the latest agenda consultation in March 2021. In July 2022, it released the feedback statement 
+on the consultation. The IASB has decided to leave the current level of focus on its main activities mostly 
+unchanged and its priorities from 2022 to 2026 include the following:29 
+• 
+Continuing to progress research and standard-setting projects on the IASB’s current work plan 
+• 
+Completing the required post-implementation review of IFRS 9 Financial Instruments, conducting the 
+required post-implementation reviews of IFRS 15 Revenue from Contracts with Customers and IFRS 16 
+Leases, and to undertake possible priority follow-on projects where applicable 
+• 
+Starting new projects to review the accounting requirements for intangible assets, the accounting 
+requirements for the statement of cash flows and related matters; and responding to any time-sensitive 
+issues that may arise after the agenda consultation 
+• 
+Creating a reserve list of two projects on operating segments and pollutant pricing mechanisms that will be 
+added to its work plan if additional capacity becomes available before its next five-yearly agenda consultation 
+• 
+Working with the ISSB on relevant projects, such as, the IASB’s current project on management commentary, 
+its new research project on intangible assets and its reserve-list project on pollutant pricing mechanisms 
+• 
+Starting a new, narrow-scope project to determine whether and, if so, what further actions might be needed 
+to improve the accounting for climate-related risks in the financial statements, after the publication of the 
+Foundation’s educational material on the effects of climate-related matters on financial statements and 
+application of the ISSB’s future standard on climate-related disclosures. The IASB will coordinate any work on 
+this topic with the ISSB 
+And 
+• 
+Completing, together with its consultation body the SME Implementation Group, the second comprehensive 
+review of the IFRS for SMEs and publishing educational materials to help preparers understand and apply 
+IFRS for SMEs. 
+2.5 
+The IFRS Interpretations Committee (the IFRS IC) 
+For IFRS accounting standards to be truly global standards, consistent application and interpretation is required. 
+The IFRS IC assists the IASB in improving financial reporting through timely assessment, discussion and resolution 
+of financial reporting issues identified within the IFRS accounting framework.30 
+The national accounting standard-setting bodies and regional bodies involved with accounting standard-setting 
+are often consulted on issues referred to the IFRS IC.31 The IFRS IC is expected to address issues:32 
+“(a) that have widespread effect and have, or are expected to have, a material effect on those affected; 
+ (b) where financial reporting would be improved through the elimination, or reduction, of diverse reporting 
+methods; 
+ (c) that can be resolved efficiently within the confines of existing IFRS standards and the Conceptual Framework 
+for Financial Reporting; and 
+ (d) the matter is sufficiently narrow in scope that the Board or the IFRS IC can address it in an efficient manner, 
+but not so narrow that it is not cost-effective for the Board or the IFRS IC and stakeholders to undertake the 
+due process required to change a standard.” 
+The IASB may seek the assistance of the IFRS IC in developing narrow-scope amendments (which include annual 
+improvements), drawing on the IFRS IC’s experience of the application of IFRS accounting standards.33 
+If the IFRS IC does not plan to add an item to its work programme, it publishes a tentative agenda decision in the 
+IFRIC Update and on the Foundation website and requests comments on the matter. The comment period for 
+tentative agenda decisions is normally at least 60 days. After considering comments received, the IFRS IC will 
+either confirm its decision and publish an agenda decision, revise its tentative agenda decision and re-expose for 
+comment a revised tentative agenda decision, add the issue to its work programme or refer the matter to the 
+IASB.34 
+ 
+29 
+Third Agenda Consultation: Snapshot, IASB, July 2022, available on the IFRS Foundation’s website (accessed on 19 July 2024). 
+30 
+IFRS Foundation Due Process Handbook, August 2020, para. 1.3. 
+31 
+IFRS Foundation Due Process Handbook, August 2020, para. 5.15. 
+32 
+IFRS Foundation Due Process Handbook, August 2020, para. 5.16. 
+33 
+IFRS Foundation Due Process Handbook, August 2020, para. 5.18. 
+34 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.2. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+28 
+Before an agenda decision is published, the IASB is asked- at its first public meeting at which it is practicable to 
+present the agenda decision - whether it objects to the agenda decision. Specifically, IASB members are asked 
+whether they object to (a) the IFRS IC’s decision that a standard-setting project should not be added to the work 
+plan, and (b) the IFRS IC’s conclusion that the agenda decision does not add or change requirements in IFRS 
+accounting standards. If four or more IASB members object, the agenda decision is not published and the IASB 
+decides how to proceed.35 
+The IFRS IC has 14 voting members. The chair, who is appointed by the Trustees, is a member of the IASB, the 
+Director of Technical Activities or an appropriately qualified individual. The chair does not have the right to vote. 
+The Trustees may appoint representatives of regulatory organisations, who have the right to attend and speak at 
+meetings but not the right to vote.36 Currently, the Basel Committee on Banking Supervision, European 
+Commission and IOSCO have observer status. The quorum for a meeting is 10 members,37 and approval of draft 
+or final interpretations requires that not more than four voting members vote against the draft or final 
+interpretation.38 
+The IFRS IC meets six times a year. All technical decisions are taken at sessions that are open to public 
+observation. Although the IFRS IC develops interpretations because they are part of the respective IFRS 
+accounting standards, they must be ratified by the IASB.39 
+2.5.1 
+Agenda decisions 
+An agenda decision explains why a standard-setting project has not been added to the work plan and, in many 
+cases, includes explanatory material.40 It cannot add or change requirements in IFRS accounting standards. 
+Instead, explanatory material explains how the applicable principles and requirements in IFRS 
+accounting standards apply to the transaction or fact pattern described in the agenda decision.41 Explanatory 
+material derives its authority from the standards themselves. Accordingly, an entity is required to apply the 
+applicable IFRS accounting standard(s), reflecting the explanatory material in an agenda decision.42 
+In December 2018, the IASB discussed the timing of application of accounting policy changes that result from an 
+agenda decision published by the IFRS IC and confirmed its view that it expects companies to be entitled to 
+sufficient time to implement changes in accounting policy. 
+In March 2019, the IASB further explained its position on agenda decisions. Firstly, the Board acknowledged that 
+agenda decisions often provide new information that should be seen as helpful and persuasive. It follows that a 
+company does not make an error simply because its application of IFRS accounting standards was inconsistent 
+with an agenda decision. Secondly, regarding how quickly companies are expected to implement an accounting 
+policy change that results from an agenda decision, the IASB formally acknowledged that it may take time to 
+implement such an accounting policy change. The IASB believes that this reflects its expectations of what is 
+reasonable for preparers, assists companies in implementing any such change, and ultimately supports consistent 
+application of IFRS accounting standards by facilitating accounting policy changes. What constitutes ‘sufficient 
+time’ would depend on the particular facts and circumstances, taking into account the accounting policy change 
+and the reporting entity and would require judgement. What the IASB had in mind was ‘a matter of months rather 
+than years’. However, it is not expected that sufficient time would include the time needed to undertake related 
+steps, such as changing affected covenants in documents nor the time to wait to see whether any of the IASB’s 
+projects could remove the need to make an accounting policy change (to avoid two changes in accounting in a 
+short period of time).43 The IASB also made it clear that companies need to consider agenda decisions and 
+implement any necessary accounting policy changes on a timely basis (i.e., as soon and as quickly as possible). If 
+necessary, companies should be in a position to explain their implementation process and, if material, 
+consideration should be given to whether disclosure related to the accounting policy change is required.44 The 
+Due Process Handbook (The Handbook) has also been amended in August 2020 to reflect this.45 
+ 
+35 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.7. 
+36 
+IFRS Foundation Constitution, November 2021, Section 49. 
+37 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.18. 
+38 
+IFRS Foundation Constitution, November 2021, Section 42. 
+39 
+IFRS Foundation Due Process Handbook, August 2020, para. 7.23. 
+40 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.3. 
+41 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.4. 
+42 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.5. 
+43 
+Feature: Agenda decisions-time is of the essence, available on IFRS Foundation’s website (accessed 19 July 2024). 
+44 
+Feature: Agenda decisions-time is of the essence, available on IFRS Foundation’s website (accessed 19 July 2024). 
+45 
+IFRS Foundation Due Process Handbook, August 2020, para. 8.6. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+29 
+2.6 
+The Due Process Handbook 
+The Trustees’ Due Process Oversight Committee (DPOC) is responsible for overseeing the due process procedures 
+of the IASB and IFRS IC throughout all the development stages of a standard, the IFRS Taxonomy or an 
+interpretation, including agenda-setting and post-implementation reviews (PIRs).46 The Foundation published the 
+revised Handbook in August 2020. The main changes are:47 
+• 
+Clarifying the authority of agenda decisions published by the IFRS IC and their role in supporting consistent 
+application of IFRS accounting standards and enhancing the related due process by formally involving the 
+IASB in their finalisation 
+And 
+• 
+Reflecting recent developments in the IASB’s effect analysis process - assessing the likely effects of a new or 
+amended IFRS accounting standards - that emphasise the role of such analyses in standard-setting and make 
+it clear that such analyses take place at all stages of standard-setting 
+In addition, the amendments enhance and streamline the consultation requirements for adding major projects to 
+the IASB’s work plan; update and enhance the minimum amount of review required for educational material 
+produced by the Foundation; and clarify the DPOC’s role in overseeing the IFRS Taxonomy due process. 
+The Handbook describes the due process requirements of the IASB and IFRS IC.48 The requirements are built on 
+the following principles:49 
+• 
+Transparency - the IASB and the IFRS IC conduct their standard-setting process in a transparent manner 
+• 
+Full and fair consultation - considering the perspectives of stakeholders globally 
+And 
+• 
+Accountability - the IASB analyses the potential effects of its proposals on affected parties and explains the 
+rationale for why it made the decisions it reached in developing or amending a standard 
+In order to gain a wide range of views from interested parties throughout all stages of the development of IFRS 
+accounting standards, the Trustees and the IASB have established consultative procedures with the objective of 
+ensuring that, in exercising its independent decision-making, the IASB conducts its standard-setting process in a 
+transparent manner.50 The Handbook specifies some minimum steps that the IASB and the IFRS IC are required to 
+follow before a standard or interpretation can be issued.51 The following due process steps are mandatory:52 
+• 
+Debating any proposals in one or more public meetings 
+• 
+Exposing for public comment a draft of any proposed new standard, proposed amendment to a standard or 
+proposed interpretation with minimum comment periods 
+• 
+Considering in a timely manner those comment letters received on the proposals 
+• 
+Considering whether the proposals should be exposed again 
+• 
+Consulting the IFRS Advisory Council (see section 2.7 below) and the ASAF (see section 2.8 below) on the 
+work plan, major projects, project proposals and work priorities 
+And 
+• 
+Ratification of an interpretation by the IASB in a public board meeting 
+The steps specified in the Constitution that are ‘non-mandatory’ include:53 
+• 
+Publishing a discussion document (for example, a discussion paper) before an exposure draft is developed 
+• 
+Establishing consultative groups or other types of specialist advisory groups 
+• 
+Holding public hearings 
+And 
+• 
+Undertaking fieldwork 
+ 
+46 
+IFRS Foundation Due Process Handbook, August 2020, para 2.4. 
+47 
+IFRS Foundation publishes revised Due Process Handbook, available on IFRS Foundation’s website (accessed 19 July 2024). 
+48 
+IFRS Foundation Due Process Handbook, August 2020, para. 1.5. 
+49 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.1. 
+50 
+IFRS Foundation Due Process Handbook, August 2020, para. 1.2. 
+51 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.43. 
+52 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.44. 
+53 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.45. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+30 
+If the IASB decides not to undertake any of the non-mandatory steps, it is required to inform the DPOC of 
+its decision and reason (known as the ‘comply or explain’ approach). Those explanations must be 
+published in the decision summaries and in the Basis for Conclusions with the exposure draft or IFRS 
+accounting standard in question.54 
+Although not mandatory, the IASB conducts public meetings and roundtables to ensure that it has appropriate 
+input from its constituents. 
+The IASB normally allows a minimum period of 120 days for comment on an exposure draft. If the matter is 
+narrow in scope and urgent, the IASB may consider a comment period of no less than 30 days, but it will only set 
+a period of less than 120 days after consulting, and obtaining approval from, the DPOC.55 
+Under a ‘fast track’ comment process, if the matter is exceptionally urgent, and only after formally requesting and 
+obtaining prior approval from 75% of the Trustees, “the IASB may reduce the period for public comment on an 
+exposure draft to below 30 days but may not dispense with a comment period”.56 
+2.7 
+The IFRS Advisory Council 
+The Advisory Council (whose members are appointed by the Trustees) provides a forum for geographically and 
+functionally diverse organisations and individuals with an interest in international corporate reporting to: 
+• 
+Provide input on the IASB’s and ISSB’s agenda, project timetable and project priorities 
+And 
+• 
+Give advice on projects, with emphasis on application and implementation issues, including matters that may 
+warrant the attention of the IFRS IC57 
+A secondary objective of the Advisory Council is “to encourage broad participation in the development of IFRS as 
+high-quality, globally-accepted standards”.58 
+The Advisory Council comprises thirty or more members, having a diversity of geographical and professional 
+backgrounds. The chair of the Council is appointed by the Trustees, and may not be a member of the IASB, the 
+ISSB or a member of its staff.59 The Advisory Council normally meets at least two times a year, and its meetings 
+are open to the public. The matters on the agenda for the Advisory Council’s meetings will include those strategic 
+matters and other priorities identified through consultation with the chair of the Advisory Council and 
+representatives of the Trustees, the IASB and the ISSB. In addition, the Trustees must consult the Advisory 
+Council in advance of any proposed changes to the Constitution.60 
+Members are appointed for an initial term of three years and may be asked to remain for up to three 
+additional years.61 
+2.8 
+Accounting Standards Advisory Forum 
+The ASAF, established in 2013, is an advisory group consisting of national accounting standard-setters and 
+regional bodies, the purpose of which is to provide technical advice and feedback to the IASB. 
+The membership of the ASAF consists of 12 non-voting members (appointed by the Trustees), plus the chair, who 
+is the IASB chair or vice-chair. The 12 individuals represent 12 national standard setters and regional bodies from 
+around the globe. The appointment is not in their personal capacity.62 To ensure a broad geographical 
+representation, the members are from the following geographic regions:63 
+• 
+One member from Africa 
+• 
+Three members from the Americas (North and South) 
+• 
+Three members from the Asia/Oceania region 
+• 
+Three members from Europe (including non-EU) 
+And 
+• 
+Two members appointed from any area of the world at large, subject to maintaining overall geographic 
+balance 
+ 
+54 
+IFRS Foundation Due Process Handbook, August 2020, para. 3.46. 
+55 
+IFRS Foundation Due Process Handbook, August 2020, para. 6.7. 
+56 
+IFRS Foundation Due Process Handbook, August 2020, para. 6.8. 
+57 
+IFRS Foundation Constitution, November 2021, Section 60. 
+58 
+IFRS Advisory Council, Terms of reference and operating procedures, July 2014. 
+59 
+IFRS Foundation Constitution, November 2021, Section 62. 
+60 
+IFRS Foundation Constitution, November 2021, Section 63. 
+61 
+IFRS Advisory Council, Terms of reference and operating procedures, July 2014. 
+62 
+Accounting Standards Advisory Forum, Terms of Reference/Charter, March 2022. 
+63 
+Accounting Standards Advisory Forum, Terms of Reference/Charter, March 2022. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+31 
+The ASAF normally meets four times a year and, where appropriate, one of the meetings may be held by 
+videoconference. Its meetings are open to the public. 
+The objective of the ASAF is “to provide an advisory forum where members can constructively contribute 
+towards the achievement of the IASB’s goal of developing globally accepted high-quality accounting 
+standards.” The ASAF was established to:64 
+• 
+Support the Foundation in its objectives, and contribute towards the development, in the public 
+interest, of a single set of high quality understandable, enforceable and globally accepted financial 
+reporting standards to serve investors and other market participants in making informed resource 
+allocations and other economic decisions. 
+• 
+Formalise and streamline the IASB’s collective engagement with the global community of national 
+standard-setters and regional bodies in its standard setting process to ensure that a broad range of 
+national and regional input on major technical issues related to the IASB’s standard setting activities 
+are discussed and considered. 
+And 
+• 
+Facilitate effective technical discussions on standard-setting issues, primarily on the IASB’s work plan 
+but which may include other issues that have major implications for the IASB’s work, in sufficient 
+depth, with representatives at a high level of professional capability and with a good knowledge of their 
+jurisdictions/regions. 
+2.9 
+Other advisory bodies 
+In addition to the Advisory Council and the ASAF, discussed in sections 2.7 and 2.8 above, respectively, the 
+IASB has a number of other formal advisory bodies that provide input on its work and resources to consult. 
+Meetings with the advisory bodies are held in public and meeting materials are available on the IASB’s website. 
+The IASB’s other advisory bodies are as follows:65 
+• 
+Integrated Reporting and Connectivity Council - provides guidance on how reporting required by the 
+IASB and the ISSB could be integrated and how the IASB and the ISSB could consider applying 
+principles and concepts from the Integrated Reporting Framework to their projects 
+• 
+Capital Markets Advisory Committee - provides the IASB with regular input from the international 
+community of users of financial statements 
+• 
+Emerging Economies Group - enhances the participation of emerging economies in the development of 
+IFRS accounting standards 
+• 
+Global Preparers Forum - provides the IASB with input from companies preparing financial statements 
+• 
+IFRS Taxonomy Consultative Group - advises the IASB and ISSB on their respective digital taxonomies 
+and related activities. 
+• 
+Islamic Finance Consultative Group - focuses on potential challenges in applying IFRS accounting 
+standards to Shariah-compliant instruments and transactions 
+• 
+SME Implementation Group - supports the international adoption of IFRS for SMEs and monitors 
+its implementation 
+• 
+Consultative Group for Rate Regulation - informs the project on rate regulation 
+And 
+• 
+Management Commentary Consultative Group - informs the project on management commentary 
+ 
+ 
+ 
+64 
+Accounting Standards Advisory Forum, Terms of Reference/Charter, March 2022. 
+65 
+IFRS Foundation consultative bodies, available on IFRS Foundation’s website (accessed 19 July 2024). 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+32 
+2.10 The International Sustainability Standards Board 
+In recent years, there has been growing interest among stakeholders in wider corporate reporting, in 
+particular, sustainability reporting. The Trustees of the Foundation set up a task force in October 2019 to 
+undertake further research and analysis. In September 2020, it carried out public consultation to identify 
+the demand from stakeholders in the area of sustainability reporting and understand what the Foundation 
+could do in response to that demand.66 As a result, the Trustees decided to take steps to formalise the 
+creation of a sustainability board.67 In November 2021, the Trustees amended the Constitution after public 
+consultation to expand the Foundation’s objectives to create the ISSB which will set IFRS sustainability 
+disclosure standards within the Foundation’s governance structure, set out the structure and function of 
+the new board and align other parts of the Constitution with the creation of the new board.68 The intention 
+is for the ISSB to deliver a comprehensive global baseline of sustainability-related disclosure standards that 
+provide investors and other capital market participants with information about companies’ sustainability-
+related risks and opportunities to help them make informed decisions.69 
+There is a commitment by leading investor-focused sustainability disclosure organisations to consolidate 
+into the ISSB. Since November 2021, the IFRS Foundation has consolidated Climate Disclosure Standards 
+Board (an initiative of CDP) and the Value Reporting Foundation which houses the Integrated Reporting 
+Framework and the SASB Standards. In addition, in March 2022, the Foundation signed a collaboration 
+agreement with Global Reporting Initiative (GRI) such that their respective standard-setting boards, the 
+ISSB and the Global Sustainability Standards Board, will seek to coordinate their work programmes and 
+standard-setting activities.70 In November 2023, GRI announced the establishment of the Sustainability 
+Innovation Lab (SIL) in partnership with the Foundation. The SIL will enable companies to meet their 
+evolving sustainability disclosure requirements, fostering professional development, training, practical 
+solutions and innovative thinking.71 In addition, since 2024, the Foundation has taken over the 
+responsibilities over the monitoring of the progress on companies’ climate-related disclosures from the 
+Task Force on Climate-related Financial Disclosures (TCFD). The recommendations from the TCFD have 
+been fully incorporated into IFRS sustainability disclosure standards (see next paragraph).72 
+The ISSB issued its inaugural standards, namely IFRS S1 General Requirements for Disclosure of 
+Sustainability-related Financial Information (IFRS S1) and IFRS S2 Climate-related Disclosures (IFRS S2) in 
+June 2023. IFRS S1 sets out the overall requirements for disclosing sustainability-related financial 
+information about all its significant sustainability-related risks and opportunities, to provide the market with 
+a complete set of sustainability-related financial disclosures. IFRS S2 sets out the specific requirements for 
+the identification, measurement and disclosure of climate-related financial information. IFRS S1 and 
+IFRS S2 are effective for annual reporting periods beginning on or after 1 January 2024. The ISSB has 
+provided a number of transition reliefs when an entity first applies the standards. Mandatory application of 
+IFRS sustainability disclosure standards depends on each jurisdiction’s endorsement or regulatory 
+processes. The application of IFRS sustainability disclosure standards is not linked to the application of IFRS 
+accounting standards. Therefore, an entity applying IFRS accounting standards for financial reporting 
+purposes is currently not required to also apply IFRS sustainability disclosure standards, and vice versa. 
+In December 2023, the ISSB published amendments to the SASB Standards to enable international 
+application and help preparers apply the SASB Standards regardless of the jurisdiction in which they 
+operate or the type of accounting framework they use. The SASB Standards are a source of guidance for 
+applying IFRS sustainability disclosure standards. 
+ 
+ 
+ 
+66 
+Consultation Paper on Sustainability Reporting, IFRS Foundation, September 2020. Available on the IFRS Foundation’s website 
+(accessed on 10 July 2024). 
+67 
+IFRS Foundation Feedback Statement: IFRS Foundation Trustees’ Feedback Statement on the on the Consultation Paper on 
+Sustainability Reporting, April 2020. Available on the IFRS Foundation’s website (accessed on 19 July 2024). 
+68 
+IFRS Foundation Feedback Statement: IFRS Foundation Trustees’ Feedback Statement on proposed amendments to the IFRS 
+Foundation’s Constitution, November 2021. Available on the IFRS Foundation’s website (accessed on 19 July 2024). 
+69 
+International Sustainability Standards Board, available on IFRS Foundation’s website (accessed 19 July 2024). 
+70 
+IFRS Foundation announces International Sustainability Standards Board, consolidation with CDSB and VRF, and publication of 
+prototype disclosure requirements, available on IFRS Foundation’s website (accessed on 19 July 2024). 
+71 
+IFRS - GRI establishes Sustainability Innovation Lab in coordination with the IFRS Foundation, available on IFRS Foundation 
+website, (accessed on 19 July 2024). 
+72 
+IFRS - ISSB and TCFD, available on IFRS Foundation website, (accessed on 19 July 2024). 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+33 
+The ISSB has a global and multi-location presence with offices in the Americas, EMEA (Europe, Middle East 
+and Africa) and Asia. Currently, the ISSB comprises 14 members, including the Chair and Vice-Chair. A 
+number of advisory groups have also been established to support the ISSB’s standard setting activities.73 
+For example, the Transition Implementation Group on IFRS S1 and IFRS S2 (TIG) held its first meeting in 
+March 2024. The TIG discusses, in a public forum, implementation questions that arise when entities 
+implement IFRS S1 and IFRS S2.74 
+In May 2023, the ISSB published the Request for Information Consultation on Agenda Priorities to seek 
+feedback on its priorities for its next two-year work plan. Specifically, the ISSB requested constituents’ views 
+on the strategic direction and balance of ISSB activities, the criteria for assessing which sustainability-related 
+matters to prioritise and add to the ISSB’s work plan and the scope and structure of potential new research 
+and standard-setting projects. The ISSB released the feedback statement on the agenda consultation in June 
+2024 and announced that it will commence projects to research disclosure about risks and opportunities 
+associated with biodiversity, ecosystems and ecosystem services, and human capital. The research projects 
+will focus on the common information needs of investors in assessing whether and how these risks and 
+opportunities could reasonably be expected to affect an entity’s prospects.75 
+How we see it 
+There will be a high level of connectivity between the IASB and ISSB. While each board is independent, 
+their standard-setting activities will complement each other in order to develop, in the public interest, 
+high quality, understandable, enforceable and globally accepted accounting and sustainability disclosure 
+standards for general purpose financial reporting based on clearly articulated principles. 
+ 
+73 
+IFRS - IFRS Foundation consultative bodies, available on IFRS Foundation’s website (accessed 19 July 2024). 
+74 
+IFRS - Transition Implementation Group on IFRS S1 and IFRS S2, available on IFRS Foundation website, (accessed on 19 July 
+2024). 
+75 
+IFRS - ISSB to commence research projects about risks and opportunities related to nature and human capital, available on IFRS 
+Foundation website, (accessed on 19 July 2024). 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+34 
+3 
+The IASB’s technical agenda and convergence with US GAAP 
+3.1 
+The IASB’s current priorities and future agenda 
+The IASB’s 2024 activities focused on:76 
+• 
+Deciding the project direction on the Financial Instruments with Characteristics of Equity project 
+• 
+Publishing an exposure draft for the equity method project. The project objective is to develop answers 
+to application questions about the equity method, as set out in IAS 28 Investments in Associates and 
+Joint Ventures, using the principles derived from IAS 28 where possible 
+• 
+Reviewing feedback from the exposure draft on contracts for renewable electricity. This narrow-scope 
+standard-setting project focuses on how to apply the own use exception on derivative accounting to 
+physical power purchase agreements in which the underlying non-financial item cannot be stored 
+economically and is required to either be consumed or sold within a short time as determined by the 
+market structure in which the item is bought and sold 
+• 
+Publishing the feedback statement on the Post-implementation Review of IFRS 15  
+• 
+Reviewing feedback from the exposure draft on the Business Combinations- Disclosure, Goodwill and 
+Impairment project. This exposure draft includes proposed changes to IFRS 3 Business Combinations 
+and IAS 36 Impairment of Assets which in the IASB’s view would result in entities providing better 
+information at a reasonable cost about acquisitions 
+• 
+Reviewing feedback on the exposure draft of Addendum to the Exposure Draft Third edition of the IFRS 
+for SMEs accounting standard 
+And 
+• 
+Publishing an exposure draft on the targeted improvements to IAS 37 Provisions, Contingent Liabilities 
+and Contingent Assets on provisions 
+At the time of writing, the IASB’s work plan reflects that work on a number of these projects will continue 
+into 2025 and beyond. 
+3.2 
+IFRS accounting standards/US GAAP convergence 
+‘Convergence’ is a term used to describe the coming together of national systems of financial reporting and 
+IFRS accounting standards. Between 2002 and 2013, the IASB and Financial Accounting Standards Board 
+(FASB) had various projects to both improve IFRS accounting standards and US GAAP, respectively, and to 
+achieve their convergence. In addition, the US SEC took steps towards the acceptance of IFRS accounting 
+standards in the US. In 2007, the US SEC began permitting foreign private issuers to file IFRS financial 
+statements without reconciliation to US GAAP. 
+In 2008, the US SEC set out a proposed roadmap outlining the milestones and conditions that, if met, could 
+lead to the use of IFRS accounting standards in the US by domestic registrants. In 2011, the US SEC staff 
+issued a work plan to explore the incorporation of IFRS accounting standards into the US financial reporting 
+system. However, its final report in 2012 raised significant concerns and noted there was ‘(R)elatively less 
+support within the U.S. financial reporting community for the designation of the standards of the IASB as 
+authoritative for use by U.S. issuers for domestic reporting purposes.’77 Additionally, feedback to the 
+IASB’s the 2011 agenda consultation indicated the IASB should also consider whether convergence should 
+continue to be a priority for the IASB. 
+While the IASB and FASB continue to collaborate on areas of mutual interest (e.g., via regular joint 
+meetings), in 2013, the convergence process between the IASB and the FASB largely came to an end. In 
+fact, The Handbook, which was revised in 2013, removed convergence from the list of factors that are 
+influential in setting the agenda. 
+ 
+76 
+IFRS Foundation work plan, available on IFRS Foundation’s website (accessed 19 July 2024). 
+77 
+2012 SEC IFRS Report, United States Securities Exchange Commission website, (accessed on 22 July 2024). 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+35 
+4 
+The adoption of IFRS accounting standards around the world 
+4.1 
+Worldwide adoption 
+Since 2001, there has been a tremendous increase in the adoption of IFRS accounting standards around 
+the world. The precise way in which this has happened has varied among jurisdictions. This section sets 
+out a brief description of how a number of key jurisdictions in each continent have approached the 
+adoption. Some have adopted full IFRS accounting standards, i.e., IFRS accounting standards as issued 
+by the IASB. Other jurisdictions have converged, or have a plan to converge, their standards with IFRS 
+accounting standards. 
+An entity is required to apply IFRS 1 First-time Adoption of International Financial Reporting Standards 
+when it first asserts compliance with IFRS accounting standards. The IASB has, therefore, established 
+unambiguously the principle that full application of its standards and related interpretations is necessary 
+for an entity to be able to assert that its financial statements comply with IFRS accounting standards (as 
+issued by the IASB). Consequently, it is necessary for countries that align their national standards with IFRS 
+accounting standards to require the application of IFRS 1 so that entities reporting under those standards 
+can assert compliance with IFRS accounting standards. In addition, an entity that applies IFRS accounting 
+standards as amended by a local authority cannot assert compliance with IFRS accounting standards. 
+The following table summarises the adoption of IFRS accounting standards (generally for consolidated 
+financial statements) in selected jurisdictions with significant capital markets. For further details on 
+selected locations, see sections 4.2 to 4.6 below. In addition, the Foundation is developing profiles of 
+application of IFRS accounting standards. At the time of writing, profiles for 168 jurisdictions have been 
+completed and are available on the IASB’s website. 
+Jurisdiction 
+Required use of IFRS accounting 
+standards 
+Permitted use of IFRS accounting 
+standards 
+Australia 
+Required for all publicly accountable for-profit private sector entities that are required 
+by legislation to prepare financial statements that comply with accounting standards, 
+and any entities preparing general purpose financial statements that elect not to apply 
+the Simplified Disclosure Standard (SDS). 
+Non-publicly accountable for-profit private sector entities required by legislation to 
+prepare financial statements that comply with accounting standards, or required by 
+their constituting document or another document to prepare financial statements that 
+comply with Australian Accounting Standards are required to apply IFRS recognition 
+and measurement requirements, but can provide simplified disclosures under SDS. 
+Brazil 
+Required for regulated public companies, with exemptions for banks and real estate 
+companies; other companies must follow converged national standards. 
+Canada 
+Required for publicly accountable 
+entities. 
+Permitted for all other entities. 
+Mainland China 
+Substantially converged national standards. 
+European Union 
+IFRS accounting standards as adopted 
+by the European Union (EU) (EU IFRS - 
+see section 4.2.1 below) are required 
+for consolidated financial statements of 
+all EU companies listed on an EU 
+regulated market. Exemption for non-EU 
+companies applying for listing on an EU 
+regulated market that apply certain 
+GAAPs determined by the European 
+Commission to be equivalent to EU IFRS. 
+EU member states may permit or require the 
+application of EU IFRS by unlisted companies 
+and in separate financial statements. 
+France 
+See European Union. 
+EU IFRS permitted for the consolidated 
+financial statements of non-listed entities. 
+Germany 
+See European Union. 
+EU IFRS permitted for the consolidated 
+financial statements of non-listed entities. 
+Hong Kong 
+HKFRS (converged with IFRS accounting 
+standards) is required for all Hong Kong 
+incorporated companies (listed and non-
+listed). 
+Permitted for listed companies incorporated 
+overseas. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+36 
+Jurisdiction 
+Required use of IFRS accounting 
+standards 
+Permitted use of IFRS accounting 
+standards 
+India 
+IFRS accounting standards converged 
+Indian Accounting Standards, with some 
+mandatory and numerous optional 
+departures from IFRS accounting 
+standards, to apply in phases from 
+financial years beginning on or after 1 
+April 2016. 
+Until the Indian Accounting Standards were 
+introduced, listed companies with 
+subsidiaries were permitted to apply IFRS 
+accounting standards in consolidated 
+financial statements. This option is no longer 
+available. 
+Italy 
+EU IFRS is required in the separate 
+financial statements of companies on 
+the Italian regulated stock exchange and 
+for all other non-listed PIEs (banks, 
+asset management companies and other 
+regulated financial institutions) except 
+insurance companies. 
+EU IFRS permitted in the statutory separate 
+and consolidated financial statements of all 
+other non-listed entities and non-regulated 
+enterprises (except SMEs). 
+Japan 
+Mandatory adoption has been put on 
+hold for the time being. 
+Permitted for most companies that are listed 
+or planning to be listed on a domestic stock 
+exchange. 
+Korea 
+IFRS accounting standards as adopted 
+by Korea without modification (K-IFRS) 
+is required for all listed entities, unlisted 
+financial institutions and state-owned 
+entities. 
+K-IFRS permitted for non-listed entities. 
+Saudi Arabia 
+IFRS accounting standards (as adopted 
+by the local regulators - mainly with 
+some additional disclosure 
+requirements) is required for banks, 
+insurance companies and listed entities.  
+Non-listed entities have the option to adopt 
+either full IFRS accounting standards or 
+IFRS for SMEs. Self-regulated entities can 
+choose, but are not required, to adopt IFRS 
+accounting standards. 
+Singapore 
+Singapore incorporated entities listed on 
+the Singapore Exchange are required to 
+file financial statements prepared in 
+accordance with converged national 
+standards equivalent to IFRS accounting 
+standards (Singapore Financial 
+Reporting Standards (International) - 
+SFRS(I)). Foreign entities that are listed 
+on the Singapore Exchange are required 
+to file financial statements prepared in 
+accordance with SFRS(I), IFRS 
+accounting standards or US GAAP. 
+Singapore incorporated entities are 
+permitted to file IFRS financial statements 
+with approval. 
+South Africa 
+Required for all listed companies. Non-listed companies generally use either IFRS 
+accounting standards or IFRS for SMEs. 
+Spain 
+See European Union.  
+EU IFRS permitted for non-listed groups for 
+consolidated financial statements; no 
+reversion to local GAAP once an entity has 
+voluntarily applied EU IFRS. 
+Switzerland 
+Issuers of equity securities that are 
+incorporated in Switzerland and listed 
+under the International Reporting 
+Standard on the SIX Swiss Exchange 
+(SIX) must apply either IFRS or US 
+GAAP. Other listed entities incorporated 
+in Switzerland must apply IFRS, US 
+GAAP or Swiss GAAP FER or the 
+accounting rules of the Swiss Banking 
+Act. Entities not incorporated in 
+Switzerland must apply IFRS, US GAAP 
+or a national GAAP deemed to be 
+equivalent by the SIX. 
+IFRS accounting standards permitted in 
+consolidated statutory financial statements 
+of listed and non-listed entities.  
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+37 
+Jurisdiction 
+Required use of IFRS accounting 
+standards 
+Permitted use of IFRS accounting 
+standards 
+Taiwan 
+Standards and interpretations endorsed 
+by the local regulators apply for financial 
+statements beginning on or after 1 
+January 2024. The effective dates for 
+standards and interpretations for Taiwan 
+IFRS are mostly aligned with global 
+effective dates, except for IFRS 17 
+Insurance Contracts; however, early 
+adoption is generally not permitted. 
+IFRS accounting standards permitted for 
+foreign issuers, with reconciliation to 
+‘Taiwan-IFRS’. 
+Thailand 
+Domestic companies in Thailand have to 
+adopt Thai Accounting Standards. Thai 
+Accounting Standards are substantially 
+converged with IFRS 
+accounting standards. Normally, the 
+effective date of Thai Accounting 
+Standards which are translated from IFRS 
+accounting standards will be effective 1 
+year later than the effective date of the 
+respective IFRS accounting standards.  
+IFRS accounting standards permitted for 
+foreign companies. 
+United Arab 
+Emirates 
+Companies incorporated in the United Arab Emirates, in general, are required, by law, 
+to apply IFRS accounting standards. However, other frameworks such as the 
+International Public Sector Accounting Standards (IPSAS) and Accounting and Auditing 
+Organization for Islamic Financial Institutions (AAOIFI) financial accounting standards 
+may be applied by government entities and Islamic institutions, respectively.  
+United Kingdom 
+UK companies must apply UK-adopted 
+international accounting standards 
+rather than EU IFRS. This is discussed 
+further in section 4.2.2 below. 
+UK-adopted IAS permitted for all companies, 
+except in the charities sector; restrictions on 
+reversion to local GAAP once an entity has 
+applied UK-adopted international accounting 
+standards. 
+United States 
+Substantial convergence of selected 
+standards. 
+Permitted for foreign private issuers 
+preparing financial statements in 
+accordance with IFRS accounting 
+standards as issued by the IASB. There is no 
+endorsement process in the US. 
+4.2 
+Europe 
+4.2.1 
+EU 
+In July 2002, the European Parliament adopted Regulation No. 1606/2002 (the Regulation), which required 
+publicly traded EU incorporated companies78 to prepare, by 2005 at the latest, their consolidated financial 
+statements under IFRS accounting standards ‘adopted’ (as discussed further below) for application within the 
+EU. Although an EU regulation has direct effect on companies, without the need for national legislation, the 
+Regulation provides an option for EU member states to permit or require the application of adopted IFRS 
+accounting standards in the preparation of annual unconsolidated financial statements and to permit or 
+require the application of adopted IFRS accounting standards by unlisted companies. This means that EU 
+member states can require the uniform application of adopted IFRS accounting standards by important 
+sectors, such as banking or insurance, regardless of whether companies are listed. An analysis of the 
+implementation of the Regulation published in 2012 shows that nearly all EU member states use the option to 
+permit the application of adopted IFRS accounting standards in the consolidated accounts of some or all types 
+of unlisted companies. More than half of the EU member states also permit the application of adopted IFRS 
+accounting standards in the annual financial statements of some or all types of unlisted companies.79 
+ 
+78 
+This means those with their securities admitted to trading on a regulated market within the meaning of Article 1(13) of Council 
+Directive 93/22/EEC (on investment services in the securities field) or those offered to the public in view of their admission to 
+such trading under Council Directive 80/390/EEC (coordinating the requirements for the drawing up, scrutiny and distribution of 
+the listing particulars to be published for the admission of securities to official stock exchange listing). 
+79 
+Implementation of the IAS Regulation (1606/2002) in the EU and EEA, European Commission, 7 February 2012. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+38 
+The Regulation established the basic rules for the creation of an endorsement mechanism for the adoption 
+of IFRS accounting standards, the timetable for implementation and a review clause to permit an 
+assessment of the overall approach proposed. The European Commission took the view that an 
+endorsement mechanism was needed to provide the necessary public oversight. The European Commission 
+considered also that it was not appropriate, politically or legally, to delegate accounting standard-setting 
+unconditionally and irrevocably to a private organisation over which the European Commission had no 
+influence. In addition, the endorsement mechanism is responsible for examining whether the standards 
+adopted by the IASB satisfy relevant EU public policy criteria. 
+The role of the endorsement mechanism is not to reformulate or replace IFRS accounting standards, but to 
+oversee the adoption of new standards and interpretations, intervening only when they contain material 
+deficiencies or have failed to cater for features specific to the EU economic or legal environments. The 
+central task of this mechanism is to confirm that IFRS accounting standards provide a suitable basis for 
+financial reporting by listed EU companies. The mechanism is based on a two-tier structure, combining a 
+regulatory level with an expert level, to assist the European Commission in its endorsement role. 
+The recitals to the Regulation state that the endorsement mechanism should act expeditiously and also be a 
+means to deliberate, reflect and exchange information on international accounting standards among the 
+main parties concerned, in particular national accounting standard setters, supervisors in the fields of 
+securities, banking and insurance, central banks including the European Central Bank (ECB), the accounting 
+profession and users and preparers of accounts. The mechanism should be a means of fostering common 
+understanding of adopted international accounting standards in the EU community.80 
+The European Commission is advised on IFRS accounting standards by EFRAG (European Financial 
+Reporting Advisory Group). In addition to EFRAG, the European Commission seeks approval from its 
+member states through the Accounting Regulatory Committee (ARC). EFRAG is a private sector body 
+established by the European organisations prominent in European capital markets, e.g., Accountancy 
+Europe and the European Banking Federation. In addition to advising the European Commission on 
+endorsement of IFRS accounting standards, EFRAG is the mechanism by which Europe as a whole can 
+participate in the global debate on accounting standards and it coordinates European responses to IASB 
+proposals. EFRAG plays a proactive role issuing discussion papers, field-test reports and feedback 
+statements on outreach events. The objective of the proactive work is to involve European stakeholders at 
+an early stage in identifying necessary improvements to financial reporting to influence the IASB. EFRAG’s 
+activities also include assessments of whether the IASB’s proposals and IFRS accounting requirements are 
+conducive to the European public good. This includes the interaction with economic concerns, such as 
+financial stability and growth. 
+EFRAG includes representatives of European stakeholder organisations and national standard setters 
+respectively national organisation chapters and are led by its Presidents, who are nominated by the 
+European Commission after having heard the European Parliament and the Council. EFRAG is responsible 
+for all EFRAG positions and operates based on a consensus-based decision-making process with the 
+objective of Europe speaking with one voice. The European Commission, the European supervisory 
+authorities and the ECB participate in EFRAG in an observer capacity. EFRAG takes all its decisions after 
+considering the advice of the EFRAG Technical Expert Groups and the results of EFRAG’s due process, and 
+after making all assessments deemed relevant from the political perspective. 
+The EU endorsement process for IFRS accounting standards is only completed when the standard, 
+interpretation or amendment is published in the Official Journal of the European Union. The advice from 
+EFRAG and the vote by the ARC are not sufficient to adopt a standard, an interpretation or an amendment. 
+ 
+ 
+ 
+80 
+Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002, European Commission, 
+Recital 11. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+39 
+4.2.1.A 
+Endorsed IFRS accounting standards 
+To date, apart from the carve-out from IAS 39 Financial Instruments: Recognition and Measurement, the 
+decision not to endorse IFRS 14 Regulatory Deferral Accounts and the pending endorsement of the 
+amendments to IAS 12 Income taxes: International Tax Reform - Pillar Two Model Rules, all IFRS accounting 
+standards which are currently effective have ultimately been endorsed. 
+IAS 39 as endorsed for use in the EU is currently different in one important respect from the version 
+published by the IASB. Certain text has been carved out so that, essentially, the EU version allows the use 
+of macro fair value hedge accounting in situations that the full version of IAS 39 does not. The European 
+Commission has continued to emphasise the need for the IASB and representatives of European banks to 
+find an appropriate technical solution to allow the removal of the carve-out as rapidly as possible. However, 
+there have been only limited signs of progress on this issue and IFRS 9 does not remove the reasons for the 
+carve-out (see Chapter 40 at section 5). Consequently, the carve-out continues to be available for entities 
+that prepare their financial statements in accordance with IFRS accounting standards as endorsed for use in 
+the EU and continue to apply the macro fair value hedge accounting requirements of IAS 39. 
+On 19 November 2021, the EC enacted through the Official Journal of the European Union the commission 
+regulation on the adoption of IFRS 17.81 The regulation endorses IFRS 17 with an exemption to provide an 
+option not to apply the annual cohort requirement as defined in IFRS 17.22 for specific types of contracts. 
+Article 2 of the regulation permits (i.e., it is an option) companies in the scope of the regulation to depart 
+from IFRS 17.22. In the recitals to the regulation, the European Commission pointed out that the annual 
+cohort requirement as a unit of account for groups of insurance and investment contracts does not always 
+reflect the business model, nor the legal and contractual features of intergenerationally-mutualised and 
+cash flow matched contracts that are common in some member states of the EU. Those contracts represent 
+more than 70% of the total life insurance liabilities in the EU. According to the European Commission, the 
+annual cohort requirement applied to such contracts does not always have a favourable cost-benefit 
+balance so that companies should have the option to exempt intergenerationally-mutualised and cash flow 
+matched contracts from the annual cohort requirement of IFRS 17. As investors should be able to 
+understand if an entity has applied the exemption from the annual cohort requirement for groups of 
+contracts, the regulation introduces specific disclosure requirements if an entity applies the exemption. The 
+regulation also includes in its article 3 a review clause for the optional exemption in article 3, i.e., the 
+European Commission should review it by 31 December 2027 and, where appropriate propose to amend or 
+end the exemption. 
+In addition to the above-mentioned modifications to the content of IFRS accounting standards, there were 
+previously standards and several IFRS IC interpretations that have had delayed application dates. The most 
+notable is the effective date for IFRS 10 Consolidated Financial Statements, IFRS 11 Joint Arrangements, 
+IFRS 12 Disclosure of Interests in Other Entities, IAS 27 Separate Financial Statements and IAS 28 for which 
+the European Commission permitted a one-year deferral to the mandatory effective date set by the IASB. 
+4.2.1.B 
+Evaluation of the Regulation 
+In 2014, the European Commission started an evaluation of the Regulation on the application of IFRS 
+accounting standards to assess whether the Regulation achieved its objective in an efficient and effective 
+manner, the criteria that all new IFRS accounting standards should meet to become EU law are appropriate, 
+the process for adoption of standards works properly and the governance structure of the bodies 
+developing the standards and advising the European Commission is appropriate. The evaluation mainly 
+included a public consultation, an informal expert group, and a review of literature on the impact of the 
+mandatory adoption of IFRS accounting standards in the EU and on the performance of IFRS 
+accounting standards during the financial crisis. The results were included in a report issued in 2015. The 
+key findings showed that IFRS accounting standards were successful in creating a common accounting 
+language for capital markets and that there is still no well-defined alternative to IFRS accounting standards. 
+However, the report also identified room for improvement in some areas. 
+ 
+ 
+ 
+81 
+Commission Regulation (EU) 2021/2036 of 19 November 2021 amending Regulation (EC) No 1126/2008 adopting certain 
+international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the 
+Council as regards International Financial Reporting Standard 17, 19 November 2021. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+40 
+On 31 January 2018, the High-Level Expert Group (HLEG) on Sustainable Finance, established by the 
+European Commission, published its final report setting out strategic recommendations for a financial 
+system that supports sustainable investments.82 In this report, the HLEG recommends the European 
+Commission to change the Regulation to specify that international accounting standards should only be 
+adopted if they are ‘conducive to the European public good, including its sustainability and long-term 
+investment objectives and to provide the power to the EU to adjust specific aspects of IFRS 
+accounting standards adopted by the IASB before transposing them into EU law’. 
+Reference to the HLEG report was made when the European Commission launched in March 2018 a 
+consultation document Fitness Check on the EU Framework for Public Reporting by Companies which 
+generally sought stakeholder views on whether the EU framework for public reporting by companies is fit 
+for purpose.83 
+Stakeholders from 23 Member States and 25 third countries submitted 338 responses on the public 
+consultation. Most respondents commented that the EU framework for public reporting overall brings 
+added value and is coherent, effective and relevant for achieving its main intended objectives of 
+safeguarding stakeholders’ interests, ensuring financial stability, developing the internal market, 
+integrated EU capital markets and promoting sustainability. Most respondents supported the status quo 
+about the EU IFRS accounting endorsement process and cautioned against ‘EU carve-ins’ that could lead 
+to ‘EU-IFRS accounting’. 
+4.2.2 
+United Kingdom 
+For financial years beginning on or after 1 January 2021, UK incorporated companies that do not apply UK 
+GAAP will use UK-adopted international accounting standards (IAS) rather than EU IFRS. The UK 
+Endorsement Board has the delegated authority to endorse new or amended standards. UK incorporated 
+entities with securities admitted to trading on non-UK regulated markets may need to confirm they have 
+followed the appropriate frameworks, such as EU-adopted IFRS or IFRS accounting standards as issued by 
+the IASB, in addition to UK-adopted IAS. 
+4.3 
+Americas 
+4.3.1 
+US 
+See section 3.2 above for a discussion of the status of US adoption of IFRS accounting standards. 
+4.3.2 
+Canada 
+For publicly accountable enterprises, the Accounting Standards Board (AcSB) adopted IFRS 
+accounting standards as Canadian GAAP for fiscal years beginning on or after 1 January 2011, with some 
+deferrals for certain types of entities, which have now expired, and with the exception of pension plans and 
+benefit plans that have characteristics similar to pension plans. Such plans follow the accounting standards 
+for pension plans issued by the AcSB as of 1 January 2011, rather than IAS 26 Accounting and Reporting 
+by Retirement Benefit Plans. 
+The definition of ‘publicly accountable enterprises’ is essentially the same as ‘publicly accountable entity’ in 
+IFRS for SMEs. Canadian publicly accountable enterprises that are registered with the US SEC are permitted 
+to apply US accounting standards rather than IFRS accounting standards. Securities regulators have 
+indicated that they will consider permitting the use of US standards by Canadian rate-regulated entities that 
+file with Canadian securities commissions even if they are not US SEC registered. A number of these 
+entities have been granted permission to use US standards. 
+For non-publicly accountable enterprises and not-for-profit organisations, the AcSB has developed new 
+bases of accounting that are derived from Canadian standards rather than IFRS accounting standards, 
+although IFRS accounting standards are also available for use by those entities on a voluntary basis. 
+ 
+ 
+ 
+82 
+Financing a Sustainable European Economy, European Union High-Level Expert Group on Sustainable Finance, 31 January 2018. 
+83 
+Consultation Document Fitness Check on the EU Framework for Public Reporting by EU Companies, European Commission, 21 
+March 2018. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+41 
+The adoption of IFRS accounting standards in Canada for publicly accountable enterprises means that the AcSB 
+has effectively ceased to make final decisions on most matters affecting the technical content and timing of 
+implementation of standards applied to publicly accountable enterprises in Canada. The AcSB’s plans for 
+incorporating new or amended IFRS accounting standards into Canadian standards include reviewing all IASB 
+documents issued for comment. As part of this process, the AcSB seeks the input of Canadian stakeholders by 
+issuing its own ‘wraparound exposure draft’ of the IASB proposals, together with a document highlighting the key 
+elements of the IASB proposals that are particularly relevant to Canadian stakeholders. In addition, the AcSB may 
+perform outreach activities such as public roundtables. Any changes to IFRS accounting standards must be 
+approved by the AcSB before becoming part of Canadian GAAP. 
+While the AcSB retains the power to modify or add to the requirements of IFRS accounting standards, it intends to 
+avoid changing IFRS accounting standards when adopting them as Canadian GAAP. Accordingly, the AcSB does 
+not expect to eliminate any options within existing IFRS accounting standards. As issues relevant to Canadian 
+users of financial information arise in the future, the AcSB will work to resolve them through the IFRS IC or the 
+IASB. In the event that a resolution by the IFRS IC or IASB is not possible, the AcSB will stand ready to develop 
+additional temporary guidance. 
+The AcSB has an IFRS Discussion Group to provide a public forum to discuss the application of IFRS accounting 
+standards in Canada and to identify matters that should be forwarded to the IFRS IC for further consideration. The 
+Group does not interpret IFRS accounting standards or seek consensus on its application in Canada. It meets in 
+public up to four times per year and has generated several submissions for the IFRS IC’s agenda. 
+4.3.3 
+Brazil 
+Local accounting standards in Brazil (CPCs) have been converged with IFRS accounting standards since 2010 
+and public companies regulated by the ‘Comissão de Valores Mobiliários’ (CVM) are also required to make a 
+formal statement of compliance with IFRS accounting standards as issued by the IASB for their consolidated 
+financial statements. The previous exception for homebuilding companies, which were temporarily permitted 
+to continue to apply IAS 11 Construction Contracts rather than IAS 18 Revenue under IFRIC 15 Agreements 
+for the Construction of Real Estate, was eliminated with the adoption of IFRS 15. However, local regulators 
+have established specific accounting policies for homebuilding revenue recognition and the financial 
+statements of entities in the industry do not refer to IFRS accounting standards as issued by the IASB as the 
+basis of preparation. 
+Banks are regulated by the Brazilian Central Bank, which continues to require preparation of financial statements 
+under its pre-existing rules. However, larger companies, as defined by law, including banks, are also required to 
+prepare annual financial statements in accordance with IFRS accounting standards since 2010, which must be 
+made publicly available. Insurance companies were required to adopt the local CPCs, and hence IFRS accounting 
+standards, in 2011. 
+Non-public companies outside financial services are required to apply the CPCs. Smaller non-public companies are 
+permitted to apply CPCs for SMEs which is an equivalent of IFRS for SMEs. 
+4.4 
+Asia 
+4.4.1 
+China 
+4.4.1.A 
+Mainland China 
+The Ministry of Finance in China (the MOF) - through its Accounting Regulatory Department - is responsible for the 
+promulgation of accounting standards, which are applicable to various business enterprises. 
+Representatives of the China Accounting Standards Committee (CASC), which falls under the Accounting 
+Regulatory Department of the MOF, and the IASB met in Beijing in November 2005 to discuss a range of issues 
+relating to the convergence of Chinese accounting standards with IFRS accounting standards. At the conclusion of 
+the meeting, the two delegations released a joint statement (2005 Beijing Joint Statement) setting out key points 
+of agreement, including the following: 
+• 
+The CASC stated that convergence is one of the fundamental goals of its standard-setting programme, with 
+the intention that an enterprise applying Chinese accounting standards should produce financial statements 
+that are the same as those of an enterprise that applies IFRS accounting standards. 
+And 
+• 
+The delegation acknowledged that convergence with IFRS accounting standards will take time and how 
+to converge with IFRS accounting standards is a matter for China to determine. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+42 
+Since February 2006, the MOF issued a series of new and revised Accounting Standards for Business 
+Enterprises (ASBE), which included the Basic Standard and 41 specific accounting standards. In April 2010, 
+the MOF issued the Road Map for Continual Convergence of the ASBE with IFRS (the MOF Road Map), which 
+requires the application of ASBE by all listed companies, some non-listed financial enterprises and central 
+state-owned enterprises, and most large and medium-sized enterprises. The MOF Road Map also states that 
+ASBE will continue to maintain convergence with IFRS accounting standards. 
+In November 2015, representatives of the Trustees of the Foundation and the MOF held a bilateral meeting 
+in Beijing, China. During the meeting, both parties noted the success of 2005 Beijing Joint Statement, 
+between CASC and IASB. It is the view of both parties that 2005 Beijing Joint Statement has achieved its 
+objectives. In particular, the ASBE is now substantially converged with IFRS accounting standards and the 
+use of those standards has significantly enhanced the quality and transparency of financial reporting in 
+China. Recognising these developments, both parties updated the 2005 Beijing Joint Statement to reflect 
+progress made in China and set out the following bases for future cooperation: 
+• 
+Reaffirming the goal of full convergence 
+• 
+Enhancing continued cooperation 
+And 
+• 
+Establishing a joint working group for further cooperation 
+To maintain continuous convergence with IFRS accounting standards, during the period from July 2023 to 
+June 2024, the MOF released the interpretations on (1) Classification of Liabilities as Current or Non-
+current, which is consistent with Classification of Liabilities as Current or Non-current (Amendments to 
+IAS 1) and Non-current Liabilities with Covenants (Amendments to IAS 1) issued by the IASB in January 
+2020 and October 2022; (2) Disclosure of Supplier Finance Arrangements, which is consistent with 
+Supplier Finance Arrangements (Amendments to IAS 7 and IFRS 7) issued by the IASB in May 2023; and (3) 
+Accounting treatment of Sale and leaseback transactions, which is consistent with Lease Liability in a Sale 
+and Leaseback (Amendments to IFRS 16) issued by the IASB in September 2022. 
+4.4.1.B 
+Hong Kong 
+The Hong Kong Institute of Certified Public Accountants (HKICPA) is the principal source of accounting 
+principles in Hong Kong. These include a series of Hong Kong Financial Reporting Standards, accounting 
+standards referred to as Hong Kong Accounting Standards (HKAS) and Interpretations issued by the HKICPA. 
+The term ‘Hong Kong Financial Reporting Standards’ (HKFRS) is deemed to include all of the foregoing. 
+HKFRS was fully converged with IFRS accounting standards (subject to the exceptions discussed below) 
+with effect from 1 January 2005. The HKICPA Council supports the integration of its standard-setting 
+process with that of the IASB. 
+Although the HKICPA Council has a policy of maintaining convergence of HKFRS with IFRS accounting 
+standards, the HKICPA Council may consider it appropriate to include additional disclosure requirements in 
+an HKFRS or, in some exceptional cases, to deviate from an IFRS accounting standard. Each HKFRS 
+contains information about the extent of compliance with the equivalent IFRS accounting standard. When 
+the requirements of an HKFRS and an IFRS accounting standard differ, the HKFRS is required to be followed 
+by entities reporting within the area of application of HKFRS. However, in practice, exceptions to IFRS 
+accounting standards are few and relate to certain transitional provisions. 
+Certain smaller companies or groups meeting the necessary requirements and size criteria are permitted 
+(but not required) to adopt the HKICPA’s locally developed Small and Medium-sized Entity Financial 
+Reporting Framework and Financial Reporting Standard. 
+4.4.2 
+Japan 
+Gradual convergence of Japanese GAAP towards IFRS accounting standards has been ongoing for a 
+number of years. Currently, IFRS accounting standards may be adopted on a voluntary basis by listed 
+companies or those applying for listing who are able to state that they meet certain governance conditions 
+around IFRS accounting standards in their consolidated financial statements. Standalone financial 
+statements must be prepared using Japanese GAAP. 
+IFRS accounting standards as issued by the IASB is the basis for voluntary adoption of the standards in 
+Japan, as designated by the Financial Services Agency. Each IFRS accounting standard issued by the IASB 
+is endorsed for the voluntary adoption through a formal process and all IFRS accounting standards issued 
+by the IASB currently have been designated in a timely manner without any changes at the time of writing. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+43 
+In addition, from 2015, a second endorsement mechanism led to the issuance of Japan’s Modified 
+International Standards (JMIS). JMIS differs from IFRS accounting standards in that it requires goodwill to 
+be amortised and requires all items recorded in other comprehensive income to be recycled to profit or loss 
+eventually. Currently, no companies apply JMIS. 
+The number of the companies adopting IFRS accounting standards in Japan voluntarily (including those 
+who have announced their plan to adopt them in the future) increased to approximately 280 as of July 
+2024, mostly being larger companies. Whilst this is a small proportion of the of total number of listed 
+companies in Japan, it represents a significant proportion of the market capitalisation of the Tokyo Stock 
+Exchange, accounting for over 50% of the total market capitalisation at the time of writing. 
+4.4.3 
+India 
+Accounting standards in India are formulated by the Institute of Chartered Accountants of India (ICAI). The 
+central government prescribes the standards of accounting or any addendum thereto, as recommended by 
+the ICAI, in consultation with and after examination of the recommendations made by the National Financial 
+Reporting Authority (NFRA). The Ministry of Corporate Affairs (MCA) notifies the standards under the 
+Companies Act by publishing them in the Gazette of India. Notified standards are authoritative under Indian 
+law. Until the financial year ended 31 March 2016, all companies registered under the Companies Act were 
+required to follow local GAAP known as Accounting Standards (ASs), which are based on old versions of 
+IFRS accounting standards and contain many key differences from IFRS accounting standards. 
+In February 2015, the MCA notified the Companies (Indian Accounting Standards) Rules, 2015, laying down 
+the roadmap for application of IFRS converged standards, known as Indian Accounting Standards (Ind AS), 
+to Indian companies other than banking companies, insurance companies and non-banking finance 
+companies (NBFCs). The Ind AS standards have also been notified. 
+In January 2016, the MCA issued the phasing-in dates of Ind AS applicability for NBFCs. The Reserve Bank 
+of India had also originally issued the Ind AS applicability dates in phases for banks starting from 1 April 
+2018. However, pending necessary legislative amendments and considering the level of preparedness of 
+many banks, implementation of Ind AS to the banks has been deferred till further notice. 
+The Insurance Regulatory and Development Authority of India (IRDAI) initially expected Ind AS to be applied 
+to insurers from the same date as banks. However, due to the issuance of IFRS 17 by the IASB, it was 
+decided that the effective date of implementation will be decided after the finalisation of IFRS 17 by the 
+IASB. Now, as IFRS 17 has been issued by the IASB, IRDAI is working on implementation of Ind AS in the 
+insurance sector including new standard on insurance contracts in India which is equivalent of IFRS 17. 
+Considering the operational complexities and concerns involved in the implementation of Ind AS, an Expert 
+Committee on Implementation of Ind AS/ IFRS in the insurance sector has also been created to address 
+implementation issues of Ind AS/ IFRS in the insurance sector. 
+All companies applying Ind AS are required to present comparative information according to Ind AS for at 
+least one year. Ind AS will apply to both standalone financial statements and consolidated financial 
+statements of companies covered under the roadmap. 
+Companies not covered under the roadmap can either apply Ind AS voluntarily or continue applying existing 
+standards, i.e., ASs. If Ind ASs are applied voluntarily, this option will be irrevocable. Voluntary adoption of 
+Ind AS is permitted for all companies other than NBFCs. In 2009, the SEBI, the securities regulator in India, 
+permitted listed companies with subsidiaries to submit their consolidated financial statements in 
+accordance with IFRS accounting standards as issued by the IASB. Few companies in India have availed 
+themselves of this option, which is no longer available for companies. 
+In January 2022, the SEBI amended SEBI (Mutual Funds) Regulations, 1996, which, inter alia, mandated 
+that asset management companies (AMCs) prepare the financial statements and accounts of mutual fund 
+schemes in accordance with Ind AS with effect from 1 April 2023. Accordingly, the first set of the financial 
+statements under Ind AS for mutual fund schemes are for the annual period ended 31 March 2024. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+44 
+4.5 
+Australia 
+Australia has a regime in which IFRS accounting standards are issued under its legal framework as 
+Australian Accounting Standards (AAS). These are essentially word-for-word copies of IFRS accounting 
+standards (IFRS equivalent). AAS also include some additional Australian specific paragraphs for not-for-
+profit and public sector entities. 
+In addition to the IFRS equivalent AAS, there are some additional Australian specific standards for entities 
+such as superannuation entities, not-for-profit entities and public sector entities and some additional 
+disclosures exist within certain standards. 
+Compliance by Australian for-profit private sector entities with AAS will result in compliance with IFRS 
+accounting standards as issued by the IASB, unless they are not publicly accountable and elect to apply the 
+Simplified Disclosure Standard (SDS). Explicit statements of compliance with IFRS accounting standards as 
+issued by the IASB - when they are compliant- are required to be made by the preparers (in the notes to the 
+financial statements and in the Directors’ Declaration required by the Corporations Act), as well by the 
+auditors in their reports. Not-for-profit and public sector entities cannot make an explicit statement of 
+compliance with IFRS accounting standards, as they are required to also comply with other Australian 
+specific accounting standards and Australian specific paragraphs when preparing their financial statements. 
+Australia has not adopted the IFRS for SMEs because of measurement differences and the removal of 
+options as compared to IFRS accounting standards. SDS is available to for-profit private entities that are 
+not publicly accountable (per definition in IFRS for SMEs) and required either: a) by legislation to prepare 
+financial statements that comply with accounting standards, or b) by their constituting document or 
+another document to prepare financial statements that comply with AAS (subject to certain grandfathering 
+provisions). SDS is also available to for-profit public sector or not-for-profit entities that are reporting 
+entities84 and other for-profit entities that elect to apply the Conceptual Framework for Financial Reporting 
+and the consequential amendments to other pronouncements set out in AASB 2019-1 Amendments to 
+Australian Accounting Standards - References to the Conceptual Framework. SDS requires such entities to 
+apply all recognition and measurement requirements of AAS, but provide simplified disclosures. The 
+disclosures are closely based on those in the IFRS for SMEs, with an overlay of certain Australian specific 
+disclosures. Financial statements prepared under SDS are general purpose financial statements, but cannot 
+be held out as being in compliance with IFRS accounting standards as issued by the IASB. 
+The Australian standard-setter has not endorsed and incorporated IFRS 19 Subsidiaries without Public 
+Accountability: Disclosures into its local accounting framework. The AASB intends to conduct a research 
+project before deciding whether to incorporate IFRS 19. 
+4.6 
+South Africa 
+For periods beginning on or after 1 January 2005, the South African securities exchange, JSE Limited 
+(JSE), has required that all listed companies prepare financial statements under IFRS accounting standards. 
+Effective 1 May 2011, the South African Companies Act permits different accounting frameworks to apply 
+to different categories of companies based on their ‘public interest score’. Listed companies are required to 
+use IFRS accounting standards, however, other companies (depending on their public interest score) may 
+apply IFRS accounting standards, IFRS for SMEs, or in certain situations (introduced, in particular, for 
+micro-entities) entity-specific accounting policies as determined by themselves. 
+In addition to the disclosure requirements of IFRS accounting standards and IFRS for SMEs, the South African 
+Companies Act and the JSE impose certain additional disclosure requirements on reporting entities. Further, 
+the previous South African standard setter - the Accounting Practices Board - has issued three Financial 
+Reporting Guides. While these interpretations are specific to issues in the South African environment, IFRS 
+reporters in South Africa make use of them as they are based on a framework equivalent to that used for IFRS 
+accounting standards. These are updated for developments in IFRS accounting standards. 
+ 
+84 
+A reporting entity is one in respect of which it is reasonable to expect the existence of users who rely on the entity’s general 
+purpose financial statements for information that will be useful to them for making and evaluating decisions about the allocation 
+of resources. A reporting entity can be a single entity or a group comprising a parent and all of its subsidiaries. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+45 
+5 
+Consistency in application of IFRS accounting standards 
+The use of a consistent set of accounting standards by companies throughout the world has the potential to 
+improve the comparability and transparency of financial information. The provision of higher quality 
+information has been shown to reduce financial statement preparation costs and, it is believed, to enable 
+capital markets participants to make better decisions. The global adoption of IFRS accounting standards is a 
+necessary condition for global comparability, but, on its own, it is insufficient. Global comparability cannot 
+be achieved without a rigorous and consistent application of the standards. However, consistent application 
+of the standards cannot be achieved unless countries adopt IFRS accounting standards without modifying 
+the standards issued by the IASB. 
+Studies into the impact of the use of IFRS accounting standards indicate reduced cost of capital and 
+improvements in share prices and trading, resulting in part from increased disclosure and enhanced 
+information comparability. However, the research concludes that these improvements occur in countries 
+with strong legal enforcement.85 The adoption of IFRS accounting standards alone is, therefore, unlikely to 
+produce uniform financial reporting. The standards need to be applied, audited and enforced on a 
+consistent basis in order to get the most out of comparability.86 
+Practitioners and regulators agree that enforcement of accounting standards is an integral part of achieving 
+accounting quality under IFRS accounting standards. With this in mind, ESMA has agreed on common 
+enforcement priorities and has made the consistent application of IFRS accounting standards one of its 
+primary objectives. In December 2014, ESMA’s guidelines on enforcement of financial information (the 
+Guidelines) became effective. They replace earlier versions of the guidelines from ESMA and its predecessor, 
+the Council of European Securities Regulators (CESR). The Guidelines apply to all EU national competent 
+authorities and other bodies in the EU that undertake enforcement responsibilities. The Guidelines build on a 
+common approach to the enforcement of financial information and reinforce coordination among European 
+enforcers. In addition, the Guidelines codify European common enforcement priorities and include a 
+requirement to discuss views on accounting matters prior to taking enforcement decisions.87 
+In addition to enforcement, ESMA contributes to the standard-setting process by engaging with the IASB 
+and the IFRS IC by submitting comment letters and identifying areas of diversity in practice (including areas 
+in which a lack of clarity in standards could lead to diversity in practice). In addition, the Foundation and 
+ESMA have entered into a joint Statement of Protocols, which reaffirms the cooperation between the two 
+entities as well as describes additional areas of cooperation including electronic reporting, the 
+implementation of new standards and emerging financial reporting issues.88 
+The Foundation and IOSCO have entered into a joint Statement of Protocols to facilitate consistency in 
+the application of IFRS accounting standards. This is in addition to the memorandum of understanding 
+between the capital markets authorities that formed the Monitoring Board (see section 2.3 above) and 
+the Foundation.89 
+The US SEC stresses the importance of enforcing IFRS accounting standards, not only through its filing 
+review process of foreign private issuers, but also through its collaboration with foreign counterparts 
+bilaterally and through IOSCO.90 
+ 
+ 
+ 
+85 
+Does mandatory adoption of International Financial Reporting Standards in the European Union reduce the cost of equity capital?, 
+Li, S. (2010), The Accounting Review, 85(2), 607-636. 
+86 
+Speech by Hans Hoogervorst, ‘The Search for Consistency in Financial Reporting’, Ernst & Young/Cass Business School, 
+17 January 2013. 
+87 
+ESMA Report on Enforcement and Regulatory Activities of Accounting Enforcers in 2014, European Securities and Markets 
+Authority, 31 March 2015. 
+88 
+IFRS Foundation and ESMA Press Release, IFRS Foundation and ESMA sign joint Statement of Protocols, 15 July 2014. 
+89 
+Statement of Protocols for Cooperation on International Financial Reporting Standards, IOSCO and IFRS Foundation, 
+16 September 2013. 
+90 
+Speech by Mary Jo White, ‘Regulation in a Global Financial System’, Investment Company Institute General Membership Meeting, 
+1 May 2013. 
+
+
+International GAAP® 2025 
+Chapter 01 
+International GAAP 
+46 
+Although consistent application of IFRS accounting standards is not the primary responsibility of the IASB, 
+it understandably takes a keen interest. The ASAF was established (see section 2.8 above) to coordinate 
+interaction with national and regional standard-setting bodies to, among other things, identify where 
+divergence occurs across borders.91 The post-implementation reviews of all major standards and 
+interpretations are intended to identify and rectify difficulties in consistency that are identified only after 
+the standard is used. The IFRS IC plays a key role as well. 
+Much has been written about consistency in IFRS accounting standards, but a recurring message is that it 
+requires a coordinated effort by standard-setters, preparers, regulators and auditors. 
+6 
+Summary 
+IFRS accounting standards are now, together with US GAAP, one of the two globally recognised financial 
+reporting frameworks. Although the goal of a single set of high-quality global accounting standards has not 
+been fulfilled, given the number of countries that have adopted or converged with IFRS 
+accounting standards or have plans to in the future, it is safe to say that IFRS accounting standards have 
+become ‘International GAAP’. 
+ 
+91 
+Report of the Trustees’ Strategy Review 2011: IFRSs as the Global Standards: Setting a Strategy for the Foundation’s Second 
+Decade, IFRS Foundation, February 2012. 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+47 
+ 
+Chapter 2 
+The IASB’s Conceptual 
+Framework 
+ 
+Contents 
+Overview 
+50 
+1 
+Introduction 
+51 
+1.1 
+What is a conceptual framework? 
+51 
+1.2 
+Why is a conceptual framework necessary? 
+52 
+2 
+Development of the IASB’s Conceptual Framework and effective date 
+53 
+3 
+Contents, purpose and scope of the IASB’s Conceptual Framework 
+55 
+3.1 
+Contents of the Conceptual Framework 
+55 
+3.2 
+Status and purpose of the Conceptual Framework 
+55 
+4 
+Chapter 1: The objective of general purpose financial reporting 
+56 
+4.1 
+Objective, usefulness and limitations of general purpose financial reporting 
+56 
+4.1.1 
+Objective and usefulness 
+56 
+4.1.2 
+Limitations 
+57 
+4.2 
+Information about the economic resources of an entity and the use made of them, 
+claims against the entity, and changes in resources and claims 
+57 
+4.2.1 
+Economic resources and claims 
+57 
+4.2.2 
+Changes in economic resources and claims 
+58 
+4.2.3 
+Information about the use of economic resources (stewardship) 
+58 
+5 
+Chapter 2: Qualitative characteristics of useful financial information 
+59 
+5.1 
+Fundamental qualitative characteristics 
+60 
+5.1.1 
+Relevance (including materiality) 
+60 
+5.1.2 
+Faithful representation 
+60 
+5.1.3 
+Applying the fundamental qualitative characteristics 
+61 
+5.2 
+Enhancing qualitative characteristics 
+62 
+5.2.1 
+Comparability 
+62 
+5.2.2 
+Verifiability 
+62 
+5.2.3 
+Timeliness 
+63 
+5.2.4 
+Understandability 
+63 
+5.2.5 
+Applying the enhancing qualitative characteristics 
+63 
+5.3 
+The cost constraint 
+63 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+48 
+6 
+Chapter 3: Financial statements and the reporting entity 
+64 
+6.1 
+Financial statements 
+64 
+6.1.1 
+Objective and scope of financial statements 
+64 
+6.1.2 
+Reporting period and comparative information 
+64 
+6.1.3 
+Perspective adopted in financial statements 
+65 
+6.1.4 
+Going concern assumption 
+65 
+6.2 
+The reporting entity 
+65 
+6.2.1 
+Consolidated and unconsolidated financial statements 
+66 
+7 
+Chapter 4: The elements of financial statements 
+67 
+7.1 
+Matters concerning both assets and liabilities 
+67 
+7.1.1 
+Unit of account 
+67 
+7.1.2 
+Executory contracts 
+69 
+7.1.3 
+Substance of contractual rights and contractual obligations 
+69 
+7.2 
+Definition of assets 
+70 
+7.2.1 
+Rights 
+70 
+7.2.2 
+Potential to produce economic benefits 
+71 
+7.2.3 
+Control 
+72 
+7.3 
+Definition of liabilities 
+72 
+7.3.1 
+Obligation 
+73 
+7.3.2 
+Transfer an economic resource 
+73 
+7.3.3 
+Present obligation existing as a result of past events 
+74 
+7.4 
+Definition of equity 
+75 
+7.5 
+Definition of income and expenses 
+75 
+8 
+Chapter 5: Recognition and derecognition 
+76 
+8.1 
+The recognition process 
+76 
+8.2 
+Recognition criteria 
+77 
+8.2.1 
+Relevance 
+78 
+8.2.1.A 
+Existence uncertainty 
+78 
+8.2.1.B 
+Low probability of an inflow or outflow of economic benefits 
+78 
+8.2.2 
+Faithful representation 
+78 
+8.2.2.A 
+Measurement uncertainty 
+78 
+8.2.2.B 
+Other factors 
+79 
+8.3 
+Derecognition 
+80 
+9 
+Chapter 6: Measurement 
+82 
+9.1 
+Measurement bases 
+82 
+9.1.1 
+Historical cost 
+82 
+9.1.2 
+Current value 
+83 
+9.1.2.A 
+Fair value 
+83 
+9.1.2.B 
+Value in use and fulfilment value 
+84 
+9.1.2.C 
+Current cost 
+84 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+49 
+9.2 
+Information provided by different measurement bases 
+85 
+9.2.1 
+Historical cost 
+88 
+9.2.2 
+Current value 
+89 
+9.2.2.A 
+Fair value 
+89 
+9.2.2.B 
+Value in use and fulfilment value 
+90 
+9.2.2.C 
+Current cost 
+90 
+9.3 
+Factors to consider in selecting measurement bases 
+90 
+9.3.1 
+Relevance 
+91 
+9.3.1.A 
+Characteristics of the asset or liability 
+91 
+9.3.1.B 
+Contribution to future cash flows 
+91 
+9.3.2 
+Faithful representation 
+92 
+9.3.3 
+Enhancing characteristics and the cost constraint 
+92 
+9.3.3.A 
+Historical cost 
+93 
+9.3.3.B 
+Current value 
+93 
+9.3.4 
+Factors specific to initial measurement 
+94 
+9.3.5 
+More than one measurement basis 
+94 
+9.4 
+Measurement of equity 
+95 
+9.5 
+Cash-flow-based measurement techniques 
+96 
+10 Chapter 7: Presentation and disclosure 
+97 
+10.1 
+Presentation and disclosure objectives and principles 
+97 
+10.2 
+Classification 
+98 
+10.2.1 
+Classification of assets and liabilities 
+98 
+10.2.1.A 
+Offsetting 
+98 
+10.2.2 
+Classification of equity 
+98 
+10.2.3 
+Classification of income and expenses 
+98 
+10.2.3.A 
+Profit or loss and other comprehensive income 
+98 
+10.3 
+Aggregation 
+100 
+11 Chapter 8: Concepts of capital and capital maintenance 
+101 
+11.1 
+Financial capital maintenance 
+101 
+11.2 
+Physical capital maintenance 
+102 
+12 Management commentary 
+103 
+12.1 
+The IASB’s practice statement 
+103 
+12.2 
+Possible future changes to the practice statement 
+103 
+Appendix A - Defined terms 
+104 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+50 
+Overview 
+This chapter discusses the Conceptual Framework for Financial Reporting (the Framework) as published by 
+the IASB in 2018. Readers interested in predecessor versions should refer to earlier editions of 
+International GAAP. The effective date for the revised Framework for preparers of financial statements 
+was, broadly speaking, January 2020, although there are some exceptions to this. 
+Relevant chapters in this book will discuss, as appropriate, references to the Framework in the standards 
+with which they deal. 
+What you need to know 
+• 
+The purpose of the Framework is to assist the Board to develop IFRSs that are based on 
+consistent concepts. 
+• 
+The Framework describes the objective of, and the concepts for, general purpose financial reporting. 
+• 
+The Framework is not a standard and nothing in it overrides any specific standard or any 
+requirement of one; however, some accounting standards make reference to it. 
+• 
+If an entity needs to develop an accounting policy in the absence of a specifically applicable IFRS it is 
+required, inter alia, to consider the applicability of the definitions, recognition criteria and 
+measurement concepts in the Framework. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+51 
+1 
+Introduction 
+There have been numerous attempts over many decades to define the purpose and nature of accounting. 
+Perhaps not surprisingly, most of the earlier studies were carried out by individual academics and 
+academic committees in the US; for example, the writings in 1940 of Paton and Littleton1 were intended 
+to present a framework of accounting theory that would be regarded as a coherent and consistent 
+foundation for the development of accounting standards, whilst the studies carried out over the years by 
+various committees of the American Accounting Association have made a significant contribution to 
+accounting theory.2 In addition to the research carried out by individuals and academic committees, 
+professional accounting bodies around the world have also, from time to time, issued statements that 
+deal with various aspects of accounting theory. These can be seen as the first attempts at developing 
+some form of conceptual framework. 
+With the globalisation of business and the increased access to the world’s capital markets that goes with it, 
+there are essentially only two truly global systems of financial reporting - IFRS and US GAAP. 
+In 2004, the IASB and FASB began a joint project to develop a single conceptual framework, the first phase 
+of which was completed in September 2010. This version of the IASB’s conceptual framework (the 2010 
+Framework) comprised two sections finalised in this first phase of the joint project with the FASB, together 
+with other material carried forward from the conceptual framework issued by the former IASC in 1989 (‘the 
+1989 Framework’), which was originally intended to be replaced in a second phase of the joint framework 
+project. The 1989 Framework, although not jointly developed with the FASB, nevertheless drew heavily on 
+the FASB’s then current conceptual framework. No further joint work was undertaken by the two boards 
+and in September 2012 the IASB decided to restart the project as an IASB-only project. 
+In July 2013 the IASB published a discussion paper3 which was followed by an exposure draft of an updated 
+framework in May 2015.4 
+In March 2018 the IASB published Conceptual Framework for Financial Reporting (the Framework). 
+This chapter discusses the Framework as published in 2018. Readers interested in predecessor versions 
+should refer to earlier editions of International GAAP. The effective date for the revised Framework for 
+preparers of financial statements is, broadly speaking, January 2020, although there are some exceptions 
+to this. Furthermore, certain IFRS accounting standards make reference to earlier versions of the 
+Framework. This is discussed in section 2 below. 
+1.1 
+What is a conceptual framework? 
+In general terms, a conceptual framework is a statement of generally accepted theoretical principles which 
+form the frame of reference for a particular field of enquiry. In terms of financial reporting, these 
+theoretical principles provide the basis for both the development of new reporting practices and the 
+evaluation of existing ones. Since the financial reporting process is concerned with the provision of 
+information that is useful in making business and economic decisions, a conceptual framework will form the 
+theoretical basis for determining which events should be accounted for, how they should be measured and 
+how they should be communicated. Therefore, although it is theoretical in nature, a conceptual framework 
+for financial reporting has a highly practical end in view. 
+ 
+ 
+ 
+1 
+W. A. Paton and A. C. Littleton, An Introduction to Corporate Accounting Standards, Monograph No. 3, American Accounting 
+Association, 1940. 
+2 
+See, for example: American Accounting Association, Executive Committee, A Tentative Statement of Accounting Principles 
+Affecting Corporate Reports, Accounting Review, June 1936, pp.187-191; American Accounting Association, Executive 
+Committee, Accounting Principles Underlying Corporate Financial Statements, Accounting Review, June 1941, pp.133-139; 
+American Accounting Association, Committee to Prepare a Statement of Basic Accounting Theory, A Statement of Basic 
+Accounting Theory, 1966; American Accounting Association, Committee on Concepts and Standards for External Financial 
+Reports, Statement on Accounting Theory and Theory Acceptance, 1977. The 1977 report concluded that closure on the debate 
+was not feasible, which is perhaps indicative of the complexity of the problem. 
+3 
+Discussion Paper DP/2013/1: A Review of the Conceptual Framework for Financial Reporting, IASB, July 2013. 
+4 
+Exposure Draft ED/2015/3: Conceptual Framework for Financial Reporting, IASB, May 2015. 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+52 
+1.2 
+Why is a conceptual framework necessary? 
+A conceptual framework for financial reporting should be a theory of accounting against which practical 
+problems can be tested objectively, and the utility of which is decided by the adequacy of the practical 
+solutions it provides. However, the various standard-setting bodies around the world initially often 
+attempted to resolve practical accounting and reporting problems through the development of accounting 
+standards, without such an accepted theoretical frame of reference. The end result was that standard-
+setters determined the form and content of external financial reports, without resolving such fundamental 
+issues as: 
+• 
+What are the objectives of these reports? 
+• 
+Who are the users of these reports? 
+• 
+What are the informational needs of these users? 
+• 
+What types of report will best satisfy their needs? 
+Consequently, standards were often produced on a haphazard and ‘fire-fighting’ basis with the danger of 
+mutual inconsistencies. By contrast, an agreed framework would, in principle, provide standard-setters with 
+a basis for designing standards that facilitate more consistent external financial reports that meet the 
+needs of the user. 
+The main role of a conceptual framework is to assist the standard-setter and this is the focus of the 
+discussion in the remainder of this section. 
+Experience of the last thirty years also shows that, in the absence of an agreed comprehensive 
+conceptual framework, the same theoretical issues were revisited on numerous occasions by different 
+standard-setting bodies. This inevitably sometimes resulted in the development of standards that were 
+internally inconsistent and inconsistent with each other, or which were founded on incompatible 
+concepts. For example, inconsistencies and conflicts have existed between and within individual 
+standards concerning the emphasis placed on substance versus form; neutrality versus prudence; and 
+whether earnings should be determined through balance sheet measurements or by matching costs and 
+revenue. Some standard-setters have permitted two or more methods of accounting for the same set of 
+circumstances, whilst others permitted certain accounting practices to be followed on an arbitrary or 
+unspecified basis. These inconsistencies and irrationalities perhaps reflect the fundamental difficulty of 
+determining what is required in order to give a faithful representation of economic phenomena. 
+Standard setters have adopted different approaches to the realisation of their conceptual frameworks in 
+specific accounting standards. This can be seen by comparing the standards issued by the FASB with those 
+issued by the IASB. In the US the FASB, in spite of its pioneering work on a conceptual framework, has 
+produced a large number of highly detailed accounting rules. The IASB, on the other hand has tended to 
+produce less detailed standards, relying on preparers and auditors to consider the general principles on 
+which they are based in applying them to specific situations. Clearly, the proliferation of accounting 
+standards in the US stems from many factors, not least the legal and regulatory environment. However, a 
+more satisfactory conceptual framework might reduce the need for such a large number of highly detailed 
+standards, since the emphasis would be on general principles rather than specific rules. Indeed, this change 
+of emphasis has been specifically considered by the US authorities following the financial reporting 
+problems that led, in the US, to the Sarbanes-Oxley Act and the establishment of the Public Company 
+Accounting Oversight Board. This is not to say that the IASB’s more general ‘principles-based’ approach to 
+standard setting is necessarily more satisfactory than the FASB’s; rather, the legal and regulatory 
+environment within which non-US businesses habitually work is quite different from that of the US. 
+The political and economic environment influences not only the approach taken to standard setting, but 
+also the nature of the conceptual framework on which standards are based. Following the widespread 
+incorporation of IFRS into the national GAAPs of many other countries, the IASB is faced with many 
+stakeholders with a variety of needs and expectations. These different stakeholders often express differing 
+views on proposals issued by the IASB and expect their views to be taken into account. Under these 
+circumstances, an agreed conceptual framework is of great value, although the best defence against undue 
+interference in the standard-setting process is the need of the capital markets for financial reporting that 
+provides a sound basis for decision making, which in turn implies a system of financial reporting 
+characterised by relevance, faithful representation, practicality and understandability. While it is probable 
+that these characteristics are more likely to be achieved using a sound theoretical foundation, the converse 
+also applies: namely that the framework must result in standards that account appropriately for actual 
+business practice and economic reality. Otherwise how, for example, is an industry to be persuaded that a 
+particular accounting treatment perceived as adversely affecting its economic interests is better than one 
+which does not? 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+53 
+An agreed framework is therefore not the panacea for all accounting problems. Nor does it obviate the 
+need for judgement to be exercised in the process of resolving accounting issues. What it can provide is a 
+framework within which those judgements can be made. Indeed this is happening, as the principles 
+expressed in the IASB’s framework are frequently referred to in IFRSs and during the process of their 
+development. Unfortunately, there is also evidence of the IASB issuing standards that contravene its own 
+conceptual framework. For example, IAS 38 Intangible Assets requires the capitalisation of goodwill as an 
+asset, despite the fact that goodwill does not meet the definition of an asset in the IASB’s framework. 
+Similarly, IAS 12 Income Taxes requires recognition of deferred tax assets and liabilities that arguably do 
+not meet the definitions of asset and liability under the framework. 
+2 
+Development of the IASB’s Conceptual Framework and 
+effective date 
+The IASB published Conceptual Framework for Financial Reporting 2010 in September 2010. This was 
+effectively work-in-progress, comprising two chapters developed in the first phase of the then joint 
+project of the IASB and FASB to develop an agreed framework (see section 1 above), together with 
+material carried forward from the former IASC’s 1989 Framework (which was adopted in 2001 by the 
+then newly-constituted IASB). 
+Following the completion of the first phase in 2010, the joint project with the FASB stalled somewhat 
+until, in 2012, the IASB indicated that it no longer saw convergence between IFRS and US GAAP in the 
+area of the conceptual framework as a primary objective and, moreover, that active work on the 
+conceptual framework would resume shortly. This resulted in the publication by the IASB in July 2013 of 
+a discussion paper DP/2013/1 - A Review of the Conceptual Framework for Financial Reporting. The 
+discussion paper noted this was no longer a joint project with the FASB, but the IASB’s own project.5 The 
+IASB followed the discussion paper with an exposure draft of an updated framework in May 2015 
+(Exposure Draft ED/2015/3: Conceptual Framework for Financial Reporting). 
+In March 2018 the IASB published Conceptual Framework for Financial Reporting (the Framework). This 
+fully revised document replaced the sections of the 2010 version previously carried-forward from the 1989 
+Framework and also made amendments to the sections produced in 2010. 
+This chapter discusses the Framework as published in 2018. Readers interested in predecessor versions 
+should refer to earlier editions of International GAAP. 
+The Framework itself has no explicit effective date. However: 
+The Board and the IFRS Interpretations Committee (IFRS IC) commenced using the 2018 Framework 
+immediately it was issued. If, when developing a draft Interpretation, the IFRS IC is faced with an 
+inconsistency between a standard (including any standard developed on the basis of the 1989 Framework 
+or the 2010 Framework) and the concepts in the 2018 Framework, it will refer the issue to the Board, as 
+required by the IFRS Foundation Due Process Handbook. [CF BC0.27]. 
+Preparers of financial statements could be affected by the changes to the Framework if they need to use it 
+to develop an accounting policy when no standard applies to a particular transaction or other event or when 
+a standard allows a choice of accounting policy (see Chapter 3 at section 4.3). To achieve transition to the 
+Framework for such entities, the Board issued Amendments to References to the Conceptual Framework in 
+IFRS Standards in March 2018 (CF References). Where appropriate, that document updated references in 
+standards to refer to the new Framework and updated related quotations. [CF BC0.28]. These changes 
+became effective for periods beginning on or after 1 January 2020.6 
+Relevant chapters in this publication discuss, as appropriate, references to the Framework in the standards 
+with which they deal. At a more general level, it should be noted that not all such references have been 
+changed to refer to the new Framework; some continue to refer to previous versions as discussed below. 
+ 
+ 
+ 
+5 
+Discussion Paper DP/2013/1: A Review of the Conceptual Framework for Financial Reporting, IASB, July 2013, para. 1.5. 
+6 
+Conceptual Framework, References: Introduction and other sections. 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+54 
+The following continue to refer to the version of the framework in effect when they were developed: 
+• 
+IFRIC 12 Service Concession Arrangements and IFRIC 19 Extinguishing Financial Liabilities with Equity 
+Instruments continue to refer to the 1989 Framework. [IFRIC 12 references, IFRIC 12.BC20, IFRIC 19 references, 
+IFRIC 19.BC16]. 
+• 
+IFRS 14 Regulatory Deferral Accounts, IFRIC 20 Stripping Costs in the Production Phase of a Surface 
+Mine and IFRIC 22 Foreign Currency Transactions and Advance Consideration continue to refer to the 
+2010 Framework. [IFRS 14.13, IFRS 14.BC10, IFRIC 20 references, IFRIC 20.BC7, IFRIC 22 references, IFRIC 22.BC17]. 
+And 
+• 
+IFRS 3 Business Combinations continues to refer to the 2010 Framework until, at the latest, periods 
+beginning on or after 1 January 2022.7 For subsequent periods, references in IFRS 3 are to the new 
+Framework (see Chapter 10 at section 1.1). [IFRS 3.11, IFRS 14.13]. There remains an exception to this 
+requirement whereby IFRS 3 requires reference to IAS 37 Provisions, Contingent Liabilities and 
+Contingent Assets rather than the Framework in certain circumstances. The Board added this exception 
+to avoid an unintended consequence of updating the reference. Without the exception, an entity would 
+have recognised some liabilities on the acquisition of a business that it would not recognise in other 
+circumstances. Immediately after the acquisition, the entity would have had to derecognise such 
+liabilities and recognise a gain that the Board did not consider to depict an economic gain. The Board 
+expects this exception to remain in IFRS 3 for as long as the definition of a liability in IAS 37 differs 
+from the definition in the latest version of the Conceptual Framework. 
+ 
+7 
+Reference to the Conceptual Framework, Amendments to IFRS 3, paragraph 64Q, IASB, May 2020. 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+55 
+3 
+Contents, purpose and scope of the IASB’s Conceptual 
+Framework 
+3.1 
+Contents of the Conceptual Framework 
+The Framework comprises an introductory section dealing with its status and purpose (discussed in 
+section 3.2 below), followed by eight chapters and an appendix of defined terms. The appendix is an 
+editorial device which extracts (or derives) definitions from the Framework itself. As these are dealt with in 
+this chapter in the relevant sections the appendix is not reproduced. 
+The chapters are as follows: 
+• 
+Chapter 1 - The objective of general purpose financial reporting (discussed in section 4 below) 
+• 
+Chapter 2 - Qualitative characteristics of useful financial information (discussed in section 5 below) 
+• 
+Chapter 3 - Financial statements and the reporting entity (discussed in section 6 below) 
+• 
+Chapter 4 - The elements of financial statements (discussed in section 7 below) 
+• 
+Chapter 5 - Recognition and derecognition (discussed in section 8 below) 
+• 
+Chapter 6 - Measurement (discussed in section 9 below) 
+• 
+Chapter 7 - Presentation and disclosure (discussed in section 10 below) 
+And 
+• 
+Chapter 8 - Concepts of capital and capital maintenance (discussed in section 11 below) 
+3.2 
+Status and purpose of the Conceptual Framework 
+The purpose of the Framework is to assist: 
+• 
+The Board to develop IFRSs that are based on consistent concepts. However, the Board notes that to 
+meet the objective of general purpose financial reporting, it may sometimes specify requirements that 
+depart from aspects of the Framework. If it does so, it will explain the departure in the basis for 
+conclusions on that standard. [SP 1.3]. 
+• 
+Preparers of financial statements to develop consistent accounting policies when no standard applies 
+to a particular transaction or other event, or when a standard allows a choice of accounting policy (see 
+Chapter 3 at section 4.3). 
+And 
+• 
+All parties to understand and interpret IFRS. 
+The Framework describes the objective of, and the concepts for, general purpose financial reporting. [SP  1.1]. 
+It is not a standard, and nothing in it overrides any specific standard or any requirement of one. [SP 1.2]. 
+The Framework may be revised from time to time in light of the IASB’s experience of working with it. 
+Revisions to it will not automatically lead to changes to the standards; any decision to amend a standard 
+would require the Board to go through its normal due process. [SP 1.4]. 
+The Board states that its work serves the public interest by fostering trust, growth and long-term financial 
+stability in the global economy and that the Framework contributes to the development of standards that 
+bring transparency, accountability and efficiency to financial markets. The IASB describes its Framework as 
+providing the foundation for standards that: 
+• 
+Contribute to transparency by enhancing the international comparability and quality of financial 
+information, enabling investors and other market participants to make informed economic decisions; 
+strengthen accountability by reducing the information gap between the providers of capital and the 
+people to whom they have entrusted their money. Standards based on the Framework provide 
+information needed to hold management to account. As a source of globally comparable information, 
+those standards are also of vital importance to regulators around the world; and contribute to 
+economic efficiency by helping investors to identify opportunities and risks across the world, thus 
+improving capital allocation. For businesses, the use of a single, trusted accounting language derived 
+from standards based on the Framework lowers the cost of capital and reduces international reporting 
+costs. [SP 1.5]. 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+56 
+4 
+Chapter 1: The objective of general purpose financial reporting 
+Chapter 1 of the Framework discusses the objective of general purpose financial reporting: [CF 1.1] 
+Extract from the Conceptual Framework 
+Introduction 
+1.1 
+The objective of general purpose financial reporting forms the foundation of the Conceptual 
+Framework. Other aspects of the Conceptual Framework-the qualitative characteristics of, and 
+the cost constraint on, useful financial information, a reporting entity concept, elements of 
+financial statements, recognition and derecognition, measurement, presentation and disclosure 
+- flow logically from the objective. 
+The Chapter is divided into three main sections dealing with: 
+• 
+The objective, usefulness and limitations of general purpose financial reporting 
+• 
+Information about a reporting entity’s economic resources, claims, and changes in resources and 
+claims 
+And 
+• 
+Information about an entity’s use of such resources 
+The first of these is discussed in section 4.1 below; section 4.2 below deals with the other two items. 
+4.1 
+Objective, usefulness and limitations of general purpose financial 
+reporting 
+4.1.1 
+Objective and usefulness 
+The Framework defines the objective of general purpose financial reporting as being: to provide financial 
+information about the reporting entity that is useful to existing and potential investors, lenders and other 
+creditors in making decisions relating to providing resources to the entity. Those decisions involve decisions 
+about: buying, selling or holding equity and debt instruments; providing or settling loans and other forms of 
+credit; or exercising rights to vote on, or otherwise influence, management’s actions that affect the use of 
+the entity’s economic resources. [CF 1.2]. 
+Existing and potential investors, lenders and other creditors (collectively, ‘users’ or ‘primary users’) cannot 
+generally require reporting entities to provide information directly to them and must rely on general 
+purpose financial reports for much of the financial information they need. Consequently, they are the 
+primary users to whom general purpose financial reports are directed. [CF 1.5]. Moreover, financial reports 
+are prepared for users with a reasonable knowledge of business and economic activities who can review 
+and analyse the information diligently. [CF 2.36]. 
+Other parties, such as regulators and members of the public, may also find general purpose financial 
+reports useful. However, those reports are not primarily directed to these other groups. [CF 1.10]. This 
+draws out an interesting facet of the Board’s objective for financial reporting being restricted to the 
+information needs of those providing resources to a reporting entity. It excludes other common uses of 
+financial information, notably the levying of corporation taxes and restrictions on distribution to members. 
+These two very important areas of corporate activity will typically take as a starting point a measure of 
+profit as reported in the entity’s financial reports. Self-evidently, if these uses are not considered in the 
+development of accounting requirements, there is a risk that financial statements will be less suitable for 
+these purposes. 
+The decisions described in the objective depend on the returns that existing and potential investors, lenders 
+and other creditors expect, for example, dividends, principal and interest payments or market price 
+increases. Investors’, lenders’ and other creditors’ expectations about returns depend on their assessment 
+of the amount, timing and uncertainty of (the prospects for) future net cash inflows to the entity and on 
+their assessment of management’s stewardship of the entity’s economic resources. Existing and potential 
+investors, lenders and other creditors need information to help them make those assessments. [CF 1.3]. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+57 
+In doing so, users need information about: [CF 1.4] 
+• 
+The economic resources of the entity, claims against the entity and changes in those resources and 
+claims (see section 4.2 below) 
+And 
+• 
+How efficiently and effectively the entity’s management and governing board have discharged their 
+responsibilities to use the entity’s economic resources (see section 4.2.3 below) 
+4.1.2 
+Limitations 
+The Framework acknowledges that general purpose financial reports do not, and cannot, provide all of the 
+information needed by providers of capital. Users of financial reports need to consider other pertinent 
+information, such as general economic and political conditions, and industry and company outlooks. 
+Moreover, general purpose financial reports are not designed to show the value of a reporting entity, but to 
+provide information to allow users to estimate it for themselves. [CF 1.6, CF 1.7]. 
+General purpose financial reports are focused on meeting the needs of the maximum number of primary 
+users, who may have different, and possibly conflicting, needs for information. However, this does not 
+preclude a reporting entity from including additional information that is most useful to a particular subset of 
+primary users. [CF 1.8]. It should be noted, however, that IAS 1 Presentation of Financial Statements contains 
+the requirement that the understandability of financial statements must not be reduced by obscuring material 
+information with immaterial information. [IAS 1.30A]. Similar requirements have been carried over to IFRS 18 
+Presentation and Disclosure in Financial Statements, which replaces IAS 1 from 1 January 2027 at the latest. 
+[IFRS 18.41(e), IFRS 18.B3. IAS 8(2027).27E]. IAS 1 and IAS 8 Accounting Policies, Changes in Accounting Estimates 
+and Errors are discussed in Chapter 3; IFRS 18 is discussed in Chapter 4. Management of an entity need not 
+rely on general purpose financial reports, since the relevant information can be obtained internally. [CF 1.9]. 
+The IASB notes that, to a large extent, financial reports are based on estimates, judgements and models 
+rather than exact depictions. The Framework establishes the concepts that underlie those estimates, 
+judgements and models. The concepts should be seen as a goal which the IASB and preparers should 
+strive towards, but are unlikely to achieve in full, at least in the short term, because it takes time to 
+understand, accept and implement new ways of analysing transactions and other events. Nevertheless, 
+the IASB believes that setting such a goal is essential if financial reporting is to evolve so as to improve 
+its usefulness. [CF 1.11]. 
+4.2 
+Information about the economic resources of an entity and the use 
+made of them, claims against the entity, and changes in resources 
+and claims 
+General purpose financial reports provide information about: 
+• 
+The financial position of a reporting entity (the economic resources of, and claims against, the entity) - 
+see section 4.2.1 below 
+And 
+• 
+The effects of transactions and other events that change the economic resources of, and claims 
+against, the entity - see section 4.2.2 below 
+Both types of information provide useful input for decisions about providing resources to an entity. [CF 1.12]. 
+4.2.1 
+Economic resources and claims 
+Information about the nature and amounts of a reporting entity’s economic resources and claims can help 
+users to: 
+• 
+Identify the entity’s financial strengths and weaknesses 
+• 
+Assess the entity’s liquidity and solvency, its needs for additional financing and how successful it is 
+likely to be in obtaining that financing 
+And 
+• 
+Assess management’s stewardship of the entity’s economic resources 
+Information about the priorities and payment requirements of existing claims helps users to predict how 
+future cash flows will be distributed among lenders and creditors. [CF 1.13]. 
+ 
+ 
+
+
+International GAAP® 2025 
+Chapter 02 
+The IASB’s Conceptual Framework 
+58 
+Different types of economic resources affect a user’s assessment of the entity’s prospects for future cash 
+flows in different ways. Some future cash flows result directly from existing economic resources, such as 
+accounts receivable. Other cash flows result from the entity using several resources in combination to 
+produce and market goods or services to customers. Although those cash flows cannot be identified with 
+individual economic resources (or claims), users need to know the nature and amount of the resources 
+available for use in an entity’s operations. [CF 1.14]. 
+4.2.2 
+Changes in economic resources and claims 
+Changes in a reporting entity’s economic resources and claims result from that entity’s financial 
+performance and from other events or transactions such as issuing debt or equity instruments. In order to 
+assess properly the prospects for future cash flows of the entity and management’s stewardship of 
+resources, users need to know the extent to which the reporting entity has increased its available economic 
+resources, and thus its capacity for generating net cash inflows through its operations rather than by 
+obtaining additional resources directly from providers of capital. [CF 1.15, CF 1.18, CF 1.21]. 
+Information about a reporting entity’s financial performance helps users to understand the return that 
+the entity has produced on its economic resources. Information about the return can help users to 
+assess management’s stewardship of the entity’s economic resources. Information about the variability 
+and components of that return is also important, especially in assessing the uncertainty of future cash 
+flows. Information about a reporting entity’s past financial performance and how its management 
+discharged its stewardship responsibilities is usually helpful in predicting the entity’s future returns on 
+its economic resources. [CF 1.16]. 
+Financial performance is reflected by changes in the entity’s economic resources and claims other than by 
+obtaining additional resources directly from providers of capital. [CF 1.15, CF 1.18]. This is sometimes 
+described as a ‘balance sheet approach’ to recording financial performance, whereby financial performance 
+for a period is essentially derived as part of the overall movement in the entity’s financial position during 
+that period. This is discussed more explicitly in the section of the Framework dealing with the elements of 
+financial statements (see section 7 below). 
+Consistent with this ‘balance sheet approach’, financial performance is based on accrual accounting, which 
+depicts the effects of transactions and other events and circumstances on a reporting entity’s economic 
+resources and claims in the periods in which those effects occur, even if the resulting cash receipts and 
+payments occur in a different period. This provides a better basis for assessing the entity’s past and future 
+performance than information based solely on cash flows. [CF 1.17]. 
+Information about an entity’s financial performance may also indicate the extent to which events such as 
+changes in market prices or interest rates have changed the entity’s economic resources and claims, 
+thereby affecting the entity’s ability to generate net cash inflows. [CF 1.19]. Nevertheless, information 
+about an entity’s cash flows during a period also helps users to assess the entity’s ability to generate 
+future net cash inflows, understand the entity’s operations, evaluate its financing and investing activities, 
+assess its liquidity or solvency, assess management stewardship and interpret other information about 
+financial performance. [CF 1.20]. 
+4.2.3 
+Information about the use of economic resources (stewardship) 
+Management is responsible for the use of an entity’s economic resources - for example, by protecting those 
+resources from unfavourable effects of economic factors, such as price and technological changes, and 
+ensuring that the entity complies with applicable laws, regulations and contractual provisions. [CF 1.23]. 
+Information about how efficiently and effectively the reporting entity’s management has discharged its 
+responsibilities to use the entity’s economic resources helps users to assess management’s stewardship of 
+those resources. Such information is also useful for predicting how efficiently and effectively management 
+will use the entity’s economic resources in future periods. Hence, it can be useful for assessing the entity’s 
+prospects for future net cash inflows. [CF 1.22]. 
